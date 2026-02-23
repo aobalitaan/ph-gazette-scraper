@@ -24,18 +24,12 @@ uv.lock
 .DS_Store
 Thumbs.db
 
-# Data outputs (large files, not tracked)
-data/
-
 # Environment
 .env
 .env.local
 
 # Proxy credentials
 proxies.txt
-
-# Playwright
-.playwright-mcp/
 
 # Pytest
 .pytest_cache/

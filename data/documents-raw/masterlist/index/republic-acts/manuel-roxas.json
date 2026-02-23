@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Republic Act No. 88",
+    "content_url": "https://www.officialgazette.gov.ph/1946/10/29/republic-act-no-88/",
+    "president_slug": "manuel-roxas",
+    "date": "1946-10-29",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1946/10oct/19461029-RA-0088-ROXAS.pdf",
+    "category_slug": "republic-acts",
+    "doc_id": "republic-act-no-88",
+    "category": "republic_act"
+  },
+  {
+    "title": "Republic Act No. 143",
+    "content_url": "https://www.officialgazette.gov.ph/1947/06/14/republic-act-no-143/",
+    "president_slug": "manuel-roxas",
+    "date": "1947-06-14",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1947/06jun/19470614-RA-0143-ROXAS.pdf",
+    "category_slug": "republic-acts",
+    "doc_id": "republic-act-no-143",
+    "category": "republic_act"
+  },
+  {
+    "title": "Republic Act No. 181",
+    "content_url": "https://www.officialgazette.gov.ph/1947/06/21/republic-act-no-181/",
+    "president_slug": "manuel-roxas",
+    "date": "1947-06-21",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1947/06jun/19470621-RA-0181-ROXAS.pdf",
+    "category_slug": "republic-acts",
+    "doc_id": "republic-act-no-181",
+    "category": "republic_act"
+  }
+]

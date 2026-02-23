@@ -11,12 +11,10 @@ import math
 import signal
 from datetime import UTC, datetime
 from pathlib import Path
-from urllib.parse import urlparse
 
 import httpx
-from playwright.async_api import Browser, async_playwright
 
-from backend.pipeline.scraper.browser_client import BrowserFetchError, PlaywrightClient
+from backend.pipeline.scraper.browser_client import BrowserFetchError, CurlCffiClient
 from backend.pipeline.scraper.http_client import GazetteClient
 from backend.pipeline.scraper.masterlist_parsers import (
     parse_masterlist_content_page,
@@ -42,17 +40,6 @@ PER_PAGE = 100
 # SONAs are already scraped separately via the SONA scraper.
 # Filter them out of masterlist speeches to avoid duplication.
 _SONA_KEYWORDS = ("state of the nation", "state-of-the-nation", "-sona-", "sona ")
-
-
-def _proxy_url_to_playwright(proxy_url: str) -> dict:
-    """Convert ``http://user:pass@host:port`` to a Playwright proxy dict."""
-    parsed = urlparse(proxy_url)
-    result: dict = {"server": f"{parsed.scheme}://{parsed.hostname}:{parsed.port}"}
-    if parsed.username:
-        result["username"] = parsed.username
-    if parsed.password:
-        result["password"] = parsed.password
-    return result
 
 
 def _build_page_url(category_slug: str, president_slug: str, page: int) -> str:
@@ -241,7 +228,7 @@ class MasterlistScraper:
     # ------------------------------------------------------------------
 
     async def _run_phase_b(self) -> None:
-        """Fetch content pages using a concurrent Playwright worker pool."""
+        """Fetch content pages using a concurrent curl_cffi worker pool."""
         # Load all index entries and deduplicate by doc_id
         all_entries = self.storage.load_all_index_entries()
         seen: dict[str, MasterlistEntry] = {}
@@ -286,14 +273,14 @@ class MasterlistScraper:
         self._completed_since_save = 0
         total = len(pending)
 
-        async def worker(worker_id: int, browser: Browser) -> None:
-            proxy_dict = (
-                _proxy_url_to_playwright(self.proxies[worker_id])
+        async def worker(worker_id: int) -> None:
+            proxy = (
+                self.proxies[worker_id]
                 if worker_id < len(self.proxies)
                 else None
             )
-            async with PlaywrightClient(
-                browser, delay=self.delay, proxy=proxy_dict,
+            async with CurlCffiClient(
+                delay=self.delay, proxy=proxy,
             ) as client:
                 while not self._shutdown_requested:
                     try:
@@ -316,18 +303,11 @@ class MasterlistScraper:
                         self.storage.save_manifest(self._documents)
                         logger.info("Manifest checkpoint saved (%d/%d)", n, total)
 
-        # one chromium process shared across all workers — each worker
-        # gets its own BrowserContext (isolated cookies/sessions)
-        async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True)
-            try:
-                workers = [
-                    asyncio.create_task(worker(i, browser))
-                    for i in range(self.concurrency)
-                ]
-                await asyncio.gather(*workers)
-            finally:
-                await browser.close()
+        workers = [
+            asyncio.create_task(worker(i))
+            for i in range(self.concurrency)
+        ]
+        await asyncio.gather(*workers)
 
     def _build_document_list(
         self, entries: list[MasterlistEntry]
@@ -350,7 +330,7 @@ class MasterlistScraper:
         return documents
 
     async def _scrape_one(
-        self, client: GazetteClient | PlaywrightClient, doc: MasterlistDocument,
+        self, client: GazetteClient | CurlCffiClient, doc: MasterlistDocument,
     ) -> None:
         """Scrape a single content page. Errors are non-fatal."""
         try:

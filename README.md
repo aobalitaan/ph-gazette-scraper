@@ -11,7 +11,6 @@ This tool collects two types of documents:
 
 - Python 3.12+
 - [uv](https://docs.astral.sh/uv/) (recommended) or pip
-- Chromium browser (installed automatically via Playwright)
 
 ## Installation
 
@@ -21,9 +20,6 @@ cd ph-gazette-scraper
 
 # install dependencies
 uv sync
-
-# install the chromium browser for playwright (needed for content page fetching)
-uv run playwright install chromium
 ```
 
 ## Quick Start
@@ -59,7 +55,7 @@ The masterlist scraper works in two phases:
 
 **Phase A — Index Collection** uses the Official Gazette's masterlist generator form to paginate through results tables and collect document metadata. For each category x president combination, it saves a JSON index of all entries found. This phase uses a regular HTTP client (`httpx`) since the masterlist generator pages aren't blocked by Cloudflare.
 
-**Phase B — Content Fetching** takes those index entries and visits each individual document page to extract the full text. This phase uses Playwright (headless Chromium) because the Gazette's Cloudflare bot detection blocks non-browser HTTP clients on content pages via TLS fingerprinting. Running a real browser gets around this automatically.
+**Phase B — Content Fetching** takes those index entries and visits each individual document page to extract the full text. This phase uses `curl_cffi` which impersonates a real browser's TLS fingerprint (JA3/JA4), bypassing Cloudflare's bot detection without needing an actual browser.
 
 ```bash
 # full scrape (both phases)
@@ -75,7 +71,7 @@ uv run talasuri-scrape-masterlist --content-only
 uv run talasuri-scrape-masterlist --categories executive-orders proclamations
 uv run talasuri-scrape-masterlist --presidents rodrigo-roa-duterte ferdinand-r-marcos
 
-# multiple concurrent workers (each gets its own browser context)
+# multiple concurrent workers (each gets its own session)
 uv run talasuri-scrape-masterlist -c 3
 
 # verbose logging
@@ -84,7 +80,9 @@ uv run talasuri-scrape-masterlist -v
 
 ### Rate Limiting
 
-The default delay between requests is **5 seconds** with ±50% random jitter (so 2.5–7.5 seconds in practice). This is intentionally conservative to avoid triggering the Gazette's WAF (Web Application Firewall). You can lower it with `--delay`, but going below 2 seconds is not recommended — you'll start getting 403s or 429s.
+The default delay between requests is **5 seconds** with ±50% random jitter (so 2.5–7.5 seconds in practice). This is intentionally conservative to avoid triggering the Gazette's WAF (Web Application Firewall). You can lower it with `--delay`, but going below 2 seconds risks 429 rate limits. A delay of 3–4 seconds works well in practice.
+
+> **Note:** VPN/proxy IPs are often flagged by Cloudflare and may trigger aggressive bot challenges (HTTP 403). If you're getting blocked, try disabling your VPN first.
 
 ```bash
 # default: 5 second delay
@@ -211,7 +209,7 @@ backend/
     logging.py                  # shared logging config
   pipeline/
     scraper/
-      browser_client.py         # playwright-based client (bypasses cloudflare)
+      browser_client.py         # curl_cffi client (bypasses cloudflare TLS fingerprinting)
       http_client.py            # httpx-based client (for pages that aren't blocked)
       cli.py                    # SONA scraper CLI
       masterlist_cli.py         # masterlist scraper CLI

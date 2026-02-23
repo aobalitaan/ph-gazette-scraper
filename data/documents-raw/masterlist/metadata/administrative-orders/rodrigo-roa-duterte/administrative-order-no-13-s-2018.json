@@ -1,0 +1,17 @@
+{
+  "doc_id": "administrative-order-no-13-s-2018",
+  "category": "administrative_order",
+  "category_slug": "administrative-orders",
+  "president_slug": "rodrigo-roa-duterte",
+  "date": "2018-09-21",
+  "title": "Administrative Order No. 13, s. 2018",
+  "content_url": "https://www.officialgazette.gov.ph/2018/09/21/administrative-order-no-13-s-2018/",
+  "pdf_url": "https://www.officialgazette.gov.ph/downloads/2018/09sep/20180921-AO-13-RRD.pdf",
+  "text": null,
+  "word_count": null,
+  "has_html_content": false,
+  "is_pdf_only": false,
+  "scrape_status": "failed",
+  "scrape_error": "HTTP 403",
+  "scraped_at": "2026-02-23T01:30:12.256919Z"
+}

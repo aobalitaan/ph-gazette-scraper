@@ -1,0 +1,17 @@
+{
+  "doc_id": "administrative-order-no-27-s-2020",
+  "category": "administrative_order",
+  "category_slug": "administrative-orders",
+  "president_slug": "rodrigo-roa-duterte",
+  "date": "2020-03-31",
+  "title": "Administrative Order No. 27, s. 2020",
+  "content_url": "https://www.officialgazette.gov.ph/2020/03/31/administrative-order-no-27-s-2020/",
+  "pdf_url": "https://www.officialgazette.gov.ph/downloads/2020/03mar/20200331-AO-27-RRD.pdf",
+  "text": null,
+  "word_count": null,
+  "has_html_content": false,
+  "is_pdf_only": false,
+  "scrape_status": "failed",
+  "scrape_error": "HTTP 403",
+  "scraped_at": "2026-02-23T01:30:39.332129Z"
+}

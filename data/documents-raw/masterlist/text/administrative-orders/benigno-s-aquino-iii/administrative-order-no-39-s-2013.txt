@@ -1,0 +1,69 @@
+MALACAÑAN PALACE MANILA
+
+ADMINISTRATIVE ORDER NO. 39
+
+MANDATING GOVERNMENT AGENCIES TO MIGRATE TO THE GOVERNMENT WEB HOSTING SERVICE (GWHS) OF THE DEPARTMENT OF SCIENCE AND TECHNOLOGY-INFORMATION AND COMMUNICATIONS TECHNOLOGY OFFICE (DOST-ICTO)
+
+WHEREAS, Section 24, Article II of the 1987 Constitution provides that the State shall recognize the vital role of communication and information in nation-building;
+
+WHEREAS, Section 2(b) of Executive Order (EO) No. 47 (s. 2011) mandates the ICTO, under the DOST, to provide an efficient information and communications technology infrastructure, information systems and resources to support an effective, transparent and accountable governance and, in particular, support the speedy enforcement of rules and delivery of accessible public services to the people; and
+
+WHEREAS, the government recognizes the need for greater security and robustness in the internet technologies it uses to deliver reliable information and provide state of the art online services, which are free from impairment and disruption.
+
+NOW, THEREFORE, I, BENIGNO S. AQUINO III, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+SECTION 1. Establishment of the Government Web Hosting Service (GWHS). DOST-ICTO shall administer, operate and maintain the GWHS to ensure the government’s internet presence 24-hours a day, 7-days a week (24/7) under all foreseeable conditions.
+
+GWHS shall be for hosting the websites of National Government Agencies (NGAs), Government Financial Institutions (GFIs) and Government-Owned or -Controlled Corporations (GOCCs), including websites of inter-agency collaborations, programs and projects.
+
+Hosting of the websites of Constitutional Bodies, Local Government Units (LGUs) and other autonomous branches of the government by the DOST-ICTO shall be encouraged but undertaken at the instance of the above-mentioned government entities.
+
+GWHS shall start operations within sixty (60) days from the effectivity of this AO.
+
+SECTION 2. Responsibilities of the Implementing Agencies. DOST-ICTO shall administer, operate and maintain the GWHS, pursuant to the policies, rules and regulations set by the National Digital Service Coordinating Group (NDSCG), and shall ensure the efficiency, integrity and reliability of the GWHS, the websites and online services that the GWHS hosts. DOST-ICTO shall likewise provide technical and capacity building assistance to hosted government agencies.
+
+a) Content Coverage. NDSCG shall be responsible for issuance of the Philippine Uniform Website Content Policy (UWCP) and its implementing rules and regulations. On the other hand, the Presidential Communications Development and Strategic Planning Office (PCDSPO), shall administer the implementation of the UWCP under the direct control and supervision of the NDSCG.
+
+b) Technical Assistance. DOST-ICTO shall provide the technical assistance the PCDSPO shall need to develop and implement the policies, rules and regulations that NDSCG will prescribe.
+
+SECTION 3. Responsibilities of Other Government Agencies. The responsibilities of hosted agencies are as follows:
+
+a) Produce and regularly update the contents of their websites, subject to the UWCP and its implementing rules;
+
+b) Develop online services offered through their websites, subject to prevailing policies, rules and regulations of the government; and
+
+c) Employ a webmaster duly designated by the Head of Agency.
+
+SECTION 4. Migration of Existing Website. All NGAs, GFIs, GOCCs, and inter-agency collaborations, programs and projects shall completely migrate their websites to the GWHS, without prejudice to contractual rights of the existing web hosting providers, if any, within one (1) year from the effectivity of this AO.
+
+All migrated websites to the GWHS shall make their content compliant with the UWCP within one hundred eighty (180) days from its issuance.
+
+Current web hosting contracts of government agencies shall not be renewed and all covered agencies must refrain from entering into any new web hosting contracts upon the effectivity of this AO.
+
+Pursuant to its mandate, the NDSCG shall determine the priority of migration of existing websites. However, websites that have been defaced or rendered inaccessible by unauthorized parties within the last six (6) months shall be given priority.
+
+The Department of the Interior and Local Government (DILG), with the assistance of the DOST-ICTO, shall advocate to LGUs the adoption of UWCP and the migration of their websites to the GWHS.
+
+SECTION 5. Government IP Exchange and Data Peering. The DOST-ICTO shall establish a Government Internet Protocol (IP) Exchange (G/IPX) facility. All government agencies shall ensure that they exchange data traffic with other government agencies and external stakeholders through this G/IPX facility.
+
+SECTION 6. Cost of Operating the Facilities and Services of the GWHS. The DOST-ICTO shall include in its annual appropriations the amounts necessary for the personnel services and its maintenance and other operating expenses. The DOST-ICTO may be allowed to charge fees from its subscribers for the use of its facilities and services on a cost recovery basis to fund its variable expenses, in accordance with the provisions of AO No 31 (s. 2012).
+
+SECTION 7. Use of the Electronic Government Fund (e-Gov Fund). The DOST-ICTO is hereby authorized to set aside a Website Migration Fund to be sourced from e-Gov Fund, subject to existing laws, rules and regulation.
+
+SECTION 8. Reports. The NDSCG shall submit reports, annually and/or as often as maybe required by the President, relative to the implementation of the provisions of this AO.
+
+SECTION 9. Repealing Clause. All issuances, orders, rules and regulations or parts thereof which are inconsistent with the provisions of this AO are hereby repealed, amended or modified accordingly.
+
+SECTION 10. Separability Clause. Should any provision of this AO be declared invalid or unconstitutional, the other provisions not affected thereby shall remain valid and subsisting.
+
+SECTION 11. Effectivity. This AO shall take effect immediately.
+
+DONE, in the City of Manila, this 12 th day of July, in the year of our Lord, Two Thousand and Thirteen.
+
+(Sgd.) BENIGNO S. AQUINO III President of the Philippines
+
+By the President: (Sgd.) PAQUITO N. OCHOA, JR. Executive Secretary
+
+Source : Malacañang Records Office
+
+Office of the President of the Philippines. (2013). Administrative Order No. 39: Mandating government agencies to migrate to the Government Web Hosting Service (GWHS) of the Department of Science and Technology-Information and Communications Technology Office (DOST-ICTO). Manila: Malacañang Records Office.

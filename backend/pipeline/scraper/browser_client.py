@@ -1,16 +1,15 @@
-"""Playwright-based browser client for fetching pages behind Cloudflare protection.
+"""HTTP client using curl_cffi for fetching pages behind Cloudflare protection.
 
-The Official Gazette uses Cloudflare bot detection that blocks non-browser HTTP
-clients via TLS fingerprinting.  PlaywrightClient launches a real Chromium browser
-whose TLS fingerprint passes Cloudflare checks automatically.
+The Official Gazette uses Cloudflare bot detection that blocks standard HTTP
+clients (httpx, requests) via TLS fingerprinting. curl_cffi impersonates a real
+browser's TLS fingerprint (JA3/JA4) so Cloudflare treats us like a real browser.
 """
 
 import asyncio
 import logging
 import random
 
-from playwright.async_api import Browser, BrowserContext, Page
-from playwright.async_api import Error as PlaywrightError
+from curl_cffi.requests import AsyncSession
 from tenacity import (
     retry,
     retry_if_exception,
@@ -22,14 +21,11 @@ from tenacity import (
 logger = logging.getLogger(__name__)
 
 DEFAULT_DELAY = 5.0
-DEFAULT_TIMEOUT = 30_000  # Playwright uses milliseconds
-
-# Resource types to block — we only need the HTML document.
-_BLOCKED_RESOURCE_TYPES = {"image", "stylesheet", "font", "media"}
+DEFAULT_TIMEOUT = 30
 
 
 class BrowserFetchError(Exception):
-    """HTTP-level error from a Playwright navigation response."""
+    """HTTP-level error from a curl_cffi response."""
 
     def __init__(self, status: int, url: str) -> None:
         self.status = status
@@ -41,60 +37,45 @@ def _is_retryable_status(status: int) -> bool:
     return status == 429 or status >= 500
 
 
-class PlaywrightClient:
-    """Async browser client with rate limiting, retry, and resource blocking.
+class CurlCffiClient:
+    """Async HTTP client that impersonates a browser's TLS fingerprint.
 
-    Wraps a shared Playwright Browser instance.  Each client creates its own
-    BrowserContext (isolated cookies/session) with a single Page that is reused
-    across navigations so Cloudflare challenge cookies persist.
+    Uses curl_cffi's `impersonate` feature to send requests with a real
+    Chrome TLS fingerprint, bypassing Cloudflare's bot detection without
+    needing an actual browser.
 
     Usage::
 
-        async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True)
-            async with PlaywrightClient(browser, delay=1.5) as client:
-                html = await client.fetch("https://example.com")
-            await browser.close()
+        async with CurlCffiClient(delay=3.0) as client:
+            html = await client.fetch("https://example.com")
     """
 
     def __init__(
         self,
-        browser: Browser,
         delay: float = DEFAULT_DELAY,
         timeout: int = DEFAULT_TIMEOUT,
-        proxy: dict | None = None,
+        proxy: str | None = None,
     ) -> None:
-        self._browser = browser
         self.delay = delay
         self.timeout = timeout
         self._proxy = proxy
-        self._context: BrowserContext | None = None
-        self._page: Page | None = None
+        self._session: AsyncSession | None = None
         self._last_request_time: float = 0.0
 
-    async def __aenter__(self) -> "PlaywrightClient":
-        kwargs: dict = {}
+    async def __aenter__(self) -> "CurlCffiClient":
+        kwargs: dict = {
+            "impersonate": "chrome",
+            "timeout": self.timeout,
+        }
         if self._proxy:
             kwargs["proxy"] = self._proxy
-        # each client gets its own context so cookies/sessions are isolated per worker
-        self._context = await self._browser.new_context(**kwargs)
-        self._page = await self._context.new_page()
-        # intercept all requests and drop images/css/fonts — saves bandwidth
-        await self._page.route(
-            "**/*",
-            lambda route: (
-                route.abort()
-                if route.request.resource_type in _BLOCKED_RESOURCE_TYPES
-                else route.fallback()
-            ),
-        )
+        self._session = AsyncSession(**kwargs)
         return self
 
     async def __aexit__(self, *exc: object) -> None:
-        if self._context:
-            await self._context.close()
-            self._context = None
-            self._page = None
+        if self._session:
+            await self._session.close()
+            self._session = None
 
     async def _rate_limit(self) -> None:
         """Enforce minimum delay between requests with random jitter."""
@@ -106,14 +87,13 @@ class PlaywrightClient:
         self._last_request_time = asyncio.get_event_loop().time()
 
     async def fetch(self, url: str) -> str:
-        """Navigate to *url* and return the page HTML.
+        """Fetch a URL and return its HTML content.
 
-        Rate-limits requests and retries on transient errors (429, 5xx)
-        and network failures.
+        Rate-limits requests and retries on transient errors (429, 5xx).
         """
-        if self._page is None:
+        if self._session is None:
             raise RuntimeError(
-                "Client not initialized. Use 'async with PlaywrightClient()' context."
+                "Client not initialized. Use 'async with CurlCffiClient()' context."
             )
         await self._rate_limit()
         return await self._fetch_with_retry(url)
@@ -127,22 +107,17 @@ class PlaywrightClient:
                 lambda e: isinstance(e, BrowserFetchError)
                 and _is_retryable_status(e.status)
             )
-            | retry_if_exception_type(PlaywrightError)
+            | retry_if_exception_type(ConnectionError)
         ),
         reraise=True,
     )
     async def _fetch_with_retry(self, url: str) -> str:
         """Inner fetch with tenacity retry on transient errors."""
-        assert self._page is not None  # guaranteed by fetch()
+        assert self._session is not None  # guaranteed by fetch()
 
-        response = await self._page.goto(
-            url, timeout=self.timeout, wait_until="domcontentloaded",
-        )
+        response = await self._session.get(url)
+        status = response.status_code
 
-        if response is None:
-            raise BrowserFetchError(0, url)
-
-        status = response.status
         if _is_retryable_status(status):
             logger.warning("HTTP %d for %s, will retry", status, url)
             raise BrowserFetchError(status, url)
@@ -150,4 +125,4 @@ class PlaywrightClient:
         if status >= 400:
             raise BrowserFetchError(status, url)
 
-        return await self._page.content()
+        return response.text
