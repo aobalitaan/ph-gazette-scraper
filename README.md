@@ -102,6 +102,20 @@ uv run talasuri-scrape-masterlist --proxy-file proxies.txt
 
 When a proxy file is provided, concurrency is automatically set to match the number of proxies (one worker per IP).
 
+### Running in the Background
+
+To run the scraper in the background (e.g. on a server or overnight):
+
+```bash
+uv run talasuri-scrape-masterlist --content-only --delay 3.5 -c 1 -v > data/scrape.log 2>&1 &
+```
+
+Monitor progress with `tail -f data/scrape.log`. If you'd rather see output live in the terminal, just run without the redirect:
+
+```bash
+uv run talasuri-scrape-masterlist --content-only --delay 3.5 -c 1 -v
+```
+
 ### Resumability
 
 Both scrapers support resuming from where they left off. If a run is interrupted (Ctrl+C triggers graceful shutdown), just run the same command again — already-scraped documents will be skipped. Use `--force` to re-scrape everything.
