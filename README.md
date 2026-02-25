@@ -160,6 +160,8 @@ Index files (`index/*.json`) are the Phase A output — they store the metadata 
 
 The `manifest.json` in each scraper's output directory is the master record of all documents with their scrape status. It tracks what was scraped successfully, what failed, what's still pending, and when each document was last scraped. This is how resumability works.
 
+> **Note:** Manifest files are not tracked in git (they exceed GitHub's file size limit). They are generated automatically when you run the scraper. If you clone this repo and want to re-scrape, the scraper will rebuild the manifest from existing metadata files on the first run.
+
 ### Metadata Format
 
 Each document's metadata JSON looks like this:

@@ -1,0 +1,113 @@
+TANGGAPAN NG PANGULO NG PILIPINAS (Office of the President of the Philippines)
+
+MEMORANDUM ORDER NO. 634
+
+PRESCRIBING THE GUIDELINES FOR THE PROCUREMENT AND ACQUISITION OF EDP EQUIPMENT AND SERVICES
+
+Pursuant to Letter of Instructions No. 750, dated October 16, 1978, relative to the procurement and acquisition of EDP equipment and services, the following guidelines are hereby promulgated for the guidance and compliance of all concerned.
+
+Section 1. Definition of Terms . – For purposes of these guidelines, the following shall, unless the context indicates, otherwise, have the following meaning:
+
+a. “EDP equipment and services” shall be defined as including the following:
+
+1. Digital and analog computers including all peripherals and attachments;
+
+2. Data collection and handling systems, including but not limited to key-to-storage equipment, character readers, accounting computers, and intelligent terminals;
+
+3. Data communications equipment services;
+
+4. Unit record machines;
+
+5. Auxiliary equipment, including but not limited to computer output to microfilm units, off-line printers, and equipment intended to process computer printer outputs such as decollators, bursters, and binders;
+
+6. Production supplies for use with EDP equipment;
+
+7. EDP software packages;
+
+8. EDP telecommunications equipment and services;
+
+9. Purchased services in which the use of EDP equipment is a principal component;
+
+10. Management consultancy relating to EDP; and
+
+11. Computer programming and computer systems analysis services.
+
+Excluded are desk calculators, including programmable ones except those with add-on capability as input/output devices, accounting/invoicing machines, and special purpose EDP equipment acquired, as an integral part of a special purpose system which, is not in itself designed for general purpose data processing.
+
+b. “Procurement” shall refer to the acquisition of total EDP systems and services or a part thereof.
+
+c. “Upgrading or enchancements”, or adding on equipment shall be considered as new acquisitions.
+
+Section 2. Duties and Responsibilities. – The following are the respective duties and responsibilities of the requisitioning or user government agency, the National Computer Center (NCC) and the Office of the President in the procurement of EDP equipment and services.
+
+a. Requisitioning or User Government Agency:
+
+(1) To define the procurement requirements;
+
+(2) To justify the procurement;
+
+(3) To ensure that adequate funds are available to cover the procurement;
+
+(4) Jointly with the NCC, to conduct the evaluation and selection of the winning bidder in accordance with previously set criteria; and
+
+(5) To make public the awarding of the contract to the winning bidder. Failure to award and negotiate for a contract within one (1) year from the public bidding date shall invalidate the procurement plan.
+
+b. National Computer Center
+
+(1) To determine and approve the validity and necessity of the procurement plan of the requisitioning agency by taking into priority consideration the following: that there is no existing surplus capacity on existing government EDP resources; that the procurement is economically and technically capable of satisfying the application requirements of the agency; and that the procurement serves the interest of the government.
+
+(2) Pending the formulation of the Computer Development Program, to recommend approval of new procurement of EDP equipment and services consistent with the criteria provided for under LOI No. 750.
+
+(3) To recommend approval of the release of funds for the procurement of the required EDP equipment and/or services.
+
+(4) To approve the renewal of contracts for leased/rented EDP equipment and services to include maintenance service agreements.
+
+(5) To provide technical assistance to users as required in all phases of the acquisition process, and involve other agencies in procurements as necessary.
+
+(6) T0 represent user Agencies in tendering and contracting for EDP equipment and services, and ensure that procurement procedures are consistent with national policies.
+
+(7) To ensure that requests for proposals (including price and availability quotations) invitations to bid, technical specifications, general evaluation and acceptance procedures, contract terms and conditions and contract documents meet the user agency requirements and are presented to industry according to approved government practices.
+
+(8) To assist in arranging inter-agency transfer of equipment,
+
+(9) To maintain a source list of qualified suppliers (both government and private) of various types of EDP equipment and services.
+
+(10) To monitor the price rates of the different EDP equipment and services offered.
+
+c. Office of the President – To approve all government procurement for EDP equipment and services, whether on a lease-rental arrangement or purchase basis and irrespective of fund sources upon recommendation of the NCC.
+
+Section 3. Procurement Process. – Procurement of EDP equipment and services, as a general rule, must be done through competitive bidding except for services that can be provided effectively through the use of government resources.
+
+The following are the general steps in the procurement process:
+
+a. Definition of Requirements . – Preparation of complete functional description of the user’s requirements. It shall include the intended purpose and function of the EDP equipment or service to be procured. The output of this, activity shall be a complete technical and economic feasibility study.
+
+b. Request for Approval . – The feasibility study is forwarded to the NCC for evaluation and approval. Only upon its approval shall the procurement process continue.
+
+c. Technical Specification Formulation. – Based on the requirements definition, a technical specification is formulated by the NCC, Prior to the bidding, it shall be presented to the suppliers for clarification and thereafter finalized to form part of the bid documents.
+
+d. Bidding . – All activities in this stage shall conform to the laws, rules and regulations on public bidding.
+
+e. Evaluation of Bids . – Jointly with the user agency, the NCC shall conduct the evaluation and selection process. The output is the evaluation report with the corresponding recommendations which shall then be forwarded to the Office of the President for final approval.
+
+f. Contract Awarding and Signing . – Upon approval by the Office of the President of the acquisition, the user agency awards the contract to the winning bidder.
+
+At this stage, the other participants in the bidding shall also be informed of the evaluation results.
+
+g. Acceptance . – Jointly with the National Computer Center, the user agency shall conduct a series of checks and fests to ensure that the EDP equipment or services delivered conform to the provision of the contract.
+
+h. Post Acquisition Reporting . – The user agency shall submit, a report to the NCC outlining the performance of the supplier in meeting contractual obligations. The NCC is also notified of any significant problem encountered with the supplier after .which an appropriate action is taken.
+
+Section 4. Submission of Request for Procurement. All requests for approval of the procurement of EDP equipment and services, whether on a lease-rental arrangement or purchase basis and irrespective of fund sources, shall be submitted to the NCC for appropriate endoresement or recommendation to the Office of the President.
+
+Section 5. Renewal of Contracts . – The renewal of contracts for leased or rented EDP equipment and services to include maintenance service agreements shall be approved by the NCC.
+
+Section 6. Procurement of Production Supplies. -Procurement of production supplies for use of EDP equipment such as magnetic tapes, tabulating stock or continuous forms, cards, shall be in accordance with a Direct Order and Payment System (DOPS) to be issued by the NCC, after a determination by public bidding of the ceiling, prices for such supplies. Procurement of other production supplies such as pre-printed forms and magnetic disks, diskettes, shall require the certification by the NCC on the reasonableness of the price.
+
+Section 7. Effectivity. – This Order shall take effect immediately.
+
+By authority of the President: (SGD.) JACCBO C. CLAVE Presidential Executive Assistant
+
+Manila, December 13, 1978
+
+Source: Presidential Management Staff Library

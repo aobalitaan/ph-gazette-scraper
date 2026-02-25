@@ -38,3 +38,9 @@ htmlcov/
 
 # mypy
 .mypy_cache/
+
+# Scraper manifests (too large for GitHub, regeneratable from metadata files)
+data/documents-raw/*/manifest.json
+
+# Scrape logs
+data/scrape.log

@@ -1,0 +1,2464 @@
+IMPLEMENTING RULES AND REGULATIONS
+OF REPUBLIC ACT NO. 11057 (PERSONAL PROPERTY SECURITY ACT)
+
+RULE I - PRELIMINARY PROVISIONS
+
+ 
+
+Section 1.01 Title. These Rules shall be known and cited as the Implementing Rules and
+Regulations of Republic Act No. 11057, otherwise known as the “Personal Property
+- Security Act” or the “PPSA.”
+
+Section 1.02 Purpose. These Rules are hereby promulgated to prescribe the procedures
+and guidelines for the implementation of the PPSA in order to facilitate compliance
+therewith and to achieve the objectives thereof.
+
+Section 1.03 Interpretation Clause. These Rules shall be liberally construed to ensure the
+fulfillment of the policy objectives of the PPSA.
+
+Section 1.04. Declaration of Policy. \t is the policy of the State to promote economic
+activity by increasing access to least cost credit, particularly for micro, small, and
+medium enterprises, by establishing a unified and modern legal framework for securing
+obligations with personal property.
+
+Section 1.05. Definition of Terns. As used in these Rules, the following terms shall mean:
+
+a) Commodity contract — a commodity futures contract, an option on a commodity
+futures contract, a commodity option, or another contract if the contract or
+
+option is:
+(i) Traded on or subject to the rules of a board of trade that has been
+designated as a contract market for such a contract; or
+(ii) Traded on a foreign commodity board of trade, exchange, or market,
+
+and is carried on the books of a commodity intermediary for a
+commodity customer;
+
+b) Competing claimant — a creditor of a grantor or other person with rights in an
+encumbered asset that may be in competition with the rights of a secured
+creditor in the same encumbered asset;
+
+c) Consumer goods — Goods that are used or acquired for use primarily for personal,
+family or household purposes;
+
+d) Control agreement — an agreement in writing between the grantor and the
+secured creditor which perfects the security interests over intangible asset.
+
+Page 1 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+°)
+
+cP
+
+j)
+
+(i) With respect to intermediated securities, the control agreement is among
+the issuer or the intermediary, the grantor and the secured creditor,
+according to which the issuer or the intermediary agrees to follow
+instructions from the secured creditor with respect to the security, without
+further consent from the grantor;
+
+(ii) With respect to rights to a deposit account, the control agreement is
+among the deposit-taking institution, the grantor and the secured creditor,
+according to which the deposit-taking institution agrees to follow
+instructions from the secured creditor with respect to the payment of
+funds credited to the deposit account without further consent from the
+grantor;
+
+(iii) With respect to commodity contracts, the control agreement is among the
+grantor, secured creditor, and intermediary, according to which the
+commodity intermediary will apply any value distributed on account of
+the commodity contract as directed by the secured creditor without
+further consent by the commodity customer or grantor;
+
+Default — the failure of a debtor to pay or otherwise perform a secured obligation,
+and any other event that constitutes default under the terms of an agreement
+between the grantor and the secured creditor;
+
+Deposit account — consists of deposits in deposit-taking institutions;
+
+Deposit-taking institution —refers to a bank as defined under Republic Act No.
+8791, otherwise known as the “General Banking Law”, a non-stock savings and
+loan association as defined under Republic Act No. 8367, or the “Revised Non--
+Stock Savings and Loan Association Act of 1997”, or a cooperative as defined
+under Republic Act No. 9520 otherwise known as the “Philippine Cooperative
+Code’;
+
+Equipment — means a tangible asset other than inventory or consumer goods, or
+livestock, that is primarily used or intended to be used by the grantor in the
+operation of its business;
+
+Financial lease — “financial leasing” of movable properties as defined in Section
+3(d) of Republic Act No. 5980, as amended by Republic Act No. 8556, or the
+“Financing Company Act of 1998”;
+
+Fixtures — property attached to an immovable or a movable;
+
+Page 2 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+k)
+
+)
+
+m
+
+Nae
+
+n)
+
+P)
+
+q)
+
+8)
+
+t)
+
+Future property — means any movable property which does not exist or which the
+grantor does not have rights in or the power to encumber at the time the security
+agreement is concluded;
+
+Grantor —
+(i) | The person who grants a security interest in collateral to secure its own
+obligation or that of another person;
+(ii) A buyer or other transferee of a collateral that acquires its right subject to
+a security interest;
+(iii) A transferor in an outright transfer of an accounts receivable; or
+(iv) A lessee of goods;
+
+Intangible asset —means any movable property other than a tangible asset
+including, but not limited to, investment property, deposit accounts, commodity
+contracts and receivables;
+
+Intellectual property —shall refer to “intellectual property rights” defined in
+Section 4.1 of Republic Act No. 8293 or the “Intellectual Property Code of the
+Philippines”. It shall include copyright, trademarks, service marks, patents,
+industrial designs and trade secrets;
+
+Intermediary —a person, including, but not limited to, a bank, trust entity,
+depositary, broker, or central securities depositary, that in the ordinary course of
+business or regular activity maintains an account for such securities or assets, for
+another person, and is acting in that capacity;
+
+Intermediated securities — means securities credited to a securities account and
+rights in securities resulting from the credit of securities to a securities account;
+
+Inventory — means tangible assets held by the grantor for sale or lease in the
+ordinary course of the grantor’s business, including raw materials and work in
+process;
+
+Investment property — means any property right arising from an investment. The
+term shall include but will not be limited to property in securities and
+commodity contracts;
+
+Lien —a qualified right or a proprietary interest, which may be exercised over the
+property of another;
+
+Non-intermediated securities — means securities other than Intermediated
+
+Securities;
+
+Page 3 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+v)
+
+Ww
+
+~~
+
+x)
+
+aa
+
+mo
+
+bb)
+
+cc)
+
+Notice — a statement of information that is registered in the Registry relating to a
+security interest or lien. The term includes an initial notice, amendment notice,
+and termination notice;
+
+Operating lease —an agreement by which the owner temporarily grants the use of
+his property to another who undertakes to pay rent therefor;
+
+Perfection —any act authorized by the PPSA and these Rules that makes a
+security interest binding as against third parties;
+
+Possession — the holding of a thing or the enjoyment of a right;
+
+Priority — the right of a person in an encumbered asset in preference to the right
+of a competing claimant;
+
+Proceeds — any property received upon sale, lease or other disposition of
+collateral, or whatever is collected on or distributed with respect to collateral,
+claims arising out of the loss or damage to the collateral, as well as a right to
+insurance payment or other compensation for loss or damage of the collateral;
+
+Product —a tangible asset which results when a tangible asset is so physically
+associated or united with one or more other tangible asset of a different kind, or
+when one or more tangible assets are so manufactured, assembled or processed,
+that they have lost their separate identities;
+
+Purchase money security interest — a security interest in goods taken by the seller
+to secure the price or by a person who gives value to enable the grantor to
+acquire the goods to the extent that the credit is used for that purpose;
+
+Receivable — means a right to payment of a monetary obligation, excluding a right
+to payment evidenced by a negotiable instrument, a right to payment of funds
+credited to a bank account and a right to payment under a non-intermediated
+security;
+
+dd) Recognized market —an organized market in which large volumes of similar assets
+
+ee)
+
+are bought and sold between many different sellers and buyers, and accordingly
+one in which prices are set by the market and not negotiated between individual
+sellers and buyers;
+
+Registration — the process of filing a notice as defined under these Rules with the
+Registry;
+
+Page 4 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+ff)
+
+Registry — the centralized and nationwide electronic registry established in the
+Land Registration Authority (LRA) where notice of a security interest and a lien
+in personal property may be registered;
+
+gg) Secured creditor — a person that has a security interest. For the purposes of
+
+registration and priority only, it includes a buyer of an account receivable and a
+lessor of goods under an operating lease for not less than one (1) year;
+
+hh) Securities account —an account maintained by an intermediary to which
+
+ii)
+
+DD
+
+securities may be credited or debited;
+
+Security — shares, participation or interests in a corporation or in a commercial
+enterprise or profit-making venture and evidenced by a certificate, contract,
+instruments, whether written or electronic in character. It includes but is not
+limited to:
+
+(i) Shares of stocks, bonds, debentures, notes as evidence of indebtedness,
+asset-backed securities;
+
+(ii) Investment contracts, certificates of interest or participation in a profit-
+sharing agreement, certificates of deposit for a future subscription;
+
+(iii) Fractional undivided interests in oil, gas or other mineral rights;
+
+(iv) Derivatives like options and warrants;
+
+(v) Certificates of assignments, certificates of participation, trust certificates,
+voting trust certificates or similar instruments
+
+(vi) Proprietary or nonproprietary membership certificates in corporations;
+and
+
+(vii)Other instruments as may in the future be determined by the Securities
+and Exchange Commission;
+
+Security interest — a property right in collateral that secures payment or other
+performance of an obligation, regardless of whether the parties have
+denominated it as a security interest, and regardless of the type of asset, the
+status of the grantor or secured creditor, or the nature of the secured obligation;
+including the right of a buyer of accounts receivable and a lessor under an
+operating lease for not less than one (1) year;
+
+kk) Tangible asset —means any tangible movable asset. Except in Rules 3.07, 3.08,
+
+4.09, and 6.05, this term includes money, negotiable instruments, negotiable
+documents and certificated non-intermediated securities but only if the mere
+possession of such instruments results in the ownership of the underlying rights
+or property embodied by them, in accordance with the laws governing such
+instruments;
+
+Page 5 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+ll) Writing — for the purpose of the PPSA and these Rules, includes electronic
+records.
+
+RULE II - SCOPE OF APPLICATION
+
+ 
+
+Section 2.01 Scope. — These Rules shall apply to all transactions of any form that secure
+
+an obligation with personal property, whether it is a tangible or an intangible asset,
+
+except interests in aircraft subject to Republic Act No. 9497, or the "Civil Aviation
+
+Authority Act of 2008," and interests in ships subject to Presidential Decree No. 1521, or
+* the "Ship Mortgage Decree of 1978."
+
+Section 2.02 Forms of Security Arrangements. Contracting parties are free to enter into any
+form of security arrangements over movable property, as long as the security
+arrangement covering the same is not inconsistent with the PPSA or these Rules.
+Subject to existing law, parties may also apply these Rules to other functional
+equivalents of security interest, including fiduciary transfers of title, financial lease;
+assignment or transfer of receivables; and sale with retention of title.
+
+Section 2.03 Security Interests in Personal Property. — A security interest may be created
+over all forms of tangible or intangible asset or personal property as defined by the
+Civil Code, including but not limited to:
+
+(a) Rights arising from contracts, including but not limited to:
+1. Securities
+2. Commodity contracts
+3. Lease of goods including financial leases and operating leases for a period
+
+of not less than one (1) year
+
+(b) Equipment
+
+(c) Inventory
+
+(d) Deposit accounts
+
+(e) Negotiable instruments
+
+(f) Negotiable documents of title
+
+(g) Consumer goods
+
+(h) Intellectual property
+
+(i) — Livestock
+
+(j) Fixtures, accessions, and commingled goods, or
+
+(k) | Future property or after-acquired assets.
+
+Provided, that a security interest can only be created on the asset over which the grantor
+has a legal right.
+
+Page 6 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+RULE III - CREATION OF SECURITY INTEREST
+Creation of a Security Interest
+
+Section 3.01. Creation of Security Interest. — A security interest shall be created by a
+
+security agreement or the lease of an operating lease for not less than one (1) year. A
+
+security agreement is likewise created by the sale of an account receivable, unless
+- otherwise stipulated by all the parties in the document of sale.
+
+Section 3.02 Continuity of Security Interest. — A security interest created under the PPSA
+shall continue in the collateral notwithstanding sale, lease, license, exchange, or other
+disposition of the collateral, except as otherwise provided in these Rules, or as agreed
+upon by the parties.
+
+Form of the Security Agreement
+
+Section 3.03. Form of Security Agreement. — A security agreement must be contained in a
+written contract signed by the parties. It must identify the collateral and the secured
+obligation. It may consist of one or more writings that, taken together, establish the
+intent of the parties to create a security interest.
+
+The security agreement shall likewise provide for the language to be used in
+agreements and notices. The grantor shall be given the option to have the agreement
+and notices in Filipino. The Department of Finance (DOF) shall prepare model security
+agreements in plain English and Filipino provided in Annex “A” of these Rules.
+
+Section 3.04 Description of Collateral. — A description of collateral in the security
+agreement and/or in registration notices shall be considered sufficient if it reasonably
+identifies the collateral. A specific description of the collateral shall not be required in
+constituting the security interest. A description such as "all personal property," "all
+equipment," "all inventory," or "all personal property within a generic category" of the
+grantor shall be sufficient.
+
+Asset-Specific Rules
+
+Section 3.05 Security Interests Over Future Property
+
+(a) A security agreement may provide for the creation of a security interest in
+future property or after-acquired assets, but the security interest in that
+
+Page 7 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+property is created only when the grantor acquires rights in it or the power to
+encumber it.
+
+(b) A security agreement may provide that a security interest in a tangible asset
+that is transformed into a product extends to the product. A security interest
+that extends to a product is limited to the value of the encumbered asset
+immediately before it became part of the product.
+
+(c) A security agreement may provide that a security interest in a tangible asset
+extends to its replacement. A security interest that extends to a replacement is
+limited to the value of the encumbered asset immediately before it was
+replaced.
+
+Section 3.06 Security Interests Over Right to Proceeds and Commingled Funds
+
+(a) A security interest in personal property shall extend to its identifiable or
+traceable proceeds.
+
+(b) Where proceeds in the form of funds credited to a deposit account or money
+are commingled with other funds or money:
+
+(i) The security interest shall extend to the commingled money or funds,
+notwithstanding that the proceeds have ceased to be identifiable to the
+extent they remain traceable;
+
+(ii) The security interest in the commingled funds or money shall be limited
+to the amount of the proceeds immediately before they were commingled;
+and
+
+(iii) If at any time after the commingling, the balance credited to the deposit
+account or the amount of the commingled money is less than the amount
+of the proceeds immediately before they were commingled, the security
+interest against the commingled funds or money shall be limited to the
+lowest amount of the commingled funds or money between the time
+when the proceeds were commingled and the time the security interest in
+the proceeds is claimed.
+
+Section 3.07 Security Interest Over Tangible Assets Commingled in a Mass
+
+(a) A security interest in a tangible asset that is commingled in a mass extends to
+the mass.
+
+Page 8 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+(b) A security interest that extends to a mass is limited to the same proportion of
+the mass as the quantity of the encumbered asset bore to the quantity of the
+entire mass immediately after the commingling.
+
+Section 3.08 Security Interest in Certain Accounts Receivable. —
+
+(a) A security interest in an account receivable shall be effective notwithstanding
+any agreement between the grantor and the account debtor or any secured
+creditor limiting in any way the grantor's right to create a security interest;
+Provided: Nothing in this section affects the right of a buyer to create a security
+interest over the account receivable. Provided, further: that any release of
+information is subject to agreements on confidentiality.
+
+(b) Nothing in this section shall affect any obligation or liability of the grantor for
+breach of the agreement in subsection (a).
+
+(c) Any stipulation limiting the grantor's right to create a security interest shall be
+void.
+
+(d) This section shall apply only to accounts receivable arising from:
+
+(i) A contract for the supply or lease of goods or services other than
+financial services;
+
+(ii) A construction contract or contract for the sale or lease of real property;
+and
+
+(iii) A contract for the sale, lease or license of intellectual property.
+
+Section 3.09 Protection of Account Debtor — Except as otherwise provided in the PPSA
+and these Rules, the creation of a security interest in a receivable does not, without the
+consent of the debtor of the receivable, affect its rights and obligations, including the
+payment terms contained in the contract giving rise to the receivable. A payment
+instruction may change the person, address or account to which the debtor of the
+receivable is required to make payment.
+
+Section 3.10. Rights to Payment of Funds Credited to a Bank Account — A security interest in
+a right to payment of funds credited to a bank account is effective notwithstanding an
+agreement between the grantor and the deposit-taking institution limiting in any way
+the grantor’s right to create a security interest.
+
+Section 3.11 Tangible Assets with Respect to which Intellectual Property Is Used — A security
+interest in a tangible asset with respect to which intellectual property is used does not
+extend to the intellectual property and a security interest in the intellectual property
+does not extend to the tangible asset.
+
+Page 9 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+Extinguishment of Security Interest
+
+Section 3.12 Extinguishment of Security Interest. — A security interest is extinguished
+when all secured obligations have been discharged and there are no outstanding
+commitments to extend credit secured by the security interest.
+
+RULE IV
+PERFECTION OF SECURITY INTERESTS
+
+ 
+
+Perfection of Security Interest
+Section 4.01 Perfection of Security Interest. —
+(a) On perfection, a security interest becomes effective against third parties.
+
+(b) A security interest shall be perfected when it has been created and the secured
+creditor has taken one of the actions in accordance with these Rules.
+
+Means of Perfection
+
+Section 4.02 Means of Perfection - Tangible Assets — A security interest in tangible assets
+may be perfected by either:
+
+(a) Registration of a notice as defined under these Rules with the Registry: Provided,
+that a security that is not registered remains valid between the parties; or
+
+(b) Possession, whether actual or constructive, of the tangible asset either by the
+secured creditor or a depositary acting for the secured creditor. Provided, that
+the debtor or the grantor cannot possess the collateral on behalf of the secured
+creditor for purposes of perfecting and maintaining the security interest over
+such collateral.
+
+If a security interest in a tangible asset is effective against third parties, a security
+interest in a mass to which the security interest extends is effective against third parties
+without any further act.
+
+Section 4.03 Means of Perfection - Intangible Assets. — A security interest in intangible
+assets may be perfected by either:
+
+(a) Registration of a notice as defined under these Rules with the Registry: Provided,
+that a security that is not registered remains valid between the parties; or
+
+Page 10 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+J
+
+(b) Conclusion of a control agreement. For purposes of determining the time of
+perfection of the security interest, the control agreement shall be executed under
+oath, and shall indicate the date and time of its execution.
+
+Section 4.04 Perfection of Security Interest in Intermediated Securities or Deposit Accounts. —
+A security interest in intermediated securities or deposit accounts may be perfected by:
+
+(a) Registration of a notice as defined under these Rules with the Registry: Provided,
+that a security that is not registered remains valid between the parties;
+
+(b) Creation of a security interest in favor of the deposit-taking institution or the
+intermediary; or
+
+(c) Conclusion of a control agreement.
+
+For purposes of determining the time of perfection of the security interest, the security
+agreement or control agreement shall be executed under oath, and shall include the
+date and time of its execution
+
+Nothing in these Rules shall require a deposit-taking institution or an intermediary
+under sub-section (b) to enter into a control agreement, even if the grantor so requests.
+A deposit-taking institution or an intermediary that has entered into such an agreement
+shall not be required to confirm the existence of the agreement to another person unless
+requested to do so by the grantor.
+
+Section 4.05 Perfection of Security Interest in Electronic Securities — A security interest in
+electronic non-intermediated securities may be by:
+
+(a) Registration of a notice as defined under these Rules with the Registry:
+Provided, that a security that is not registered remains valid between the parties;
+
+(b) The execution of a control agreement between the grantor and secured creditor;
+or,
+
+(c) Control, through notation of a security interest in the books maintained by or
+on behalf of the issuer for the purpose of recording the name of the holder of
+the securities.
+
+Section 4.06 Perfection of Security Interest in Intermediated Electronic Securities — A
+security interest in investment property that is electronic (ie. a scripless or
+uncertificated) security held by an intermediary may be by:
+
+Page 11 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+a) Registration of a notice as defined under these Rules with the Registry:
+Provided, that a security that is not registered remains valid between the parties;
+
+b) The execution of a control agreement between the intermediary, the grantor
+and secured creditor;
+
+For purposes of determining the time of perfection of the security interest, the control
+agreement shall be executed under oath, and shall include the date and time, specifying
+~ the hour and minute of its execution
+
+Section 4.07 Parties to, Form and Contents of a Control Agreement. —
+
+(a) With respect to intermediated securities, a control agreement shall:
+(i) Be executed in writing by the issuer or the intermediary, the grantor and
+the secured creditor;
+(ii) Stipulate that the issuer or the intermediary agrees to follow instructions
+from the secured creditor with respect to the security, without further
+consent from the grantor;
+
+(b) With respect to rights to deposit account, a control agreement shall:
+(i) Be executed in writing among the deposit-taking institution, the grantor
+and the secured creditor;
+(ii) Stipulate that the deposit-taking institution agrees to follow instructions
+from the secured creditor with respect to the payment of funds credited
+to the deposit account without further consent from the grantor;
+
+(c) With respect to commodity contracts, a control agreement shall:
+
+(i) Be executed in writing among the grantor, secured creditor, and
+intermediary;
+
+(ii) Stipulate that the commodity intermediary will apply any value
+distributed on account of the commodity contract as directed by the
+secured creditor without further consent by the commodity customer or
+grantor.
+
+Continuity of Perfected Security Interest
+Section 4.08 Change in Means of Perfection. — A security interest shall remain perfected
+despite a change in the means for achieving perfection: Provided, that there was no time
+
+when the security interest was not perfected.
+
+Section 4.09 Disposition of Perfected Security Interest Before Default. —
+
+Page 12 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+(a) Transferee Exceptions. — Any party who obtains, in the ordinary course of
+business, any movable property containing a security interest shall take the
+same free of such security interest provided he was in good faith. No such good
+faith shall exist if the security interest in the movable property was registered
+prior to his obtaining the property.
+
+(b) Perfection in Proceeds. —
+
+(i) Before default, upon disposition of the collateral, a security interest shall
+extend to proceeds of the collateral without further act and be
+continuously perfected, if the proceeds are in the form of money,
+accounts receivable, negotiable instruments or deposit accounts.
+
+(ii) Before default, upon disposition of the collateral, if the proceeds are in a
+form different from money, accounts receivable, negotiable instruments
+or deposit accounts, the security interest in such proceeds must be
+perfected by one of the means applicable to the relevant type of
+collateral within fifteen (15) days after the grantor receives such
+proceeds; otherwise, the security interest in such proceeds shall not be
+effective against third parties.
+
+Section 4.10. Fixtures, Accessions, and Commingled Goods. — A perfected security interest
+in a movable property which has become a fixture, or has undergone accession or
+commingling shall continue provided the movable property involved can still be
+reasonably traced. In determining ownership over fixtures, accessions, and commingled
+goods, the provisions of Book II of Republic Act No. 386 or the "Civil Code of the
+Philippines" shall apply.
+
+RULE V
+THE REGISTRY
+
+Operation of Registry
+
+Section 5.01. Establishment. The LRA, within six (6) months from the publication of these
+Rules, shall establish and administer the centralized, nationwide Registry, which shall
+contain, among others, the following information:
+
+(a) Initial notice of security interest and lien in personal property;
+
+(b) Amendment notice providing new information or continuing the period of
+effectiveness of an initial notice;
+(c) Termination notice.
+
+Page 13 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+O
+
+The Registry shall provide electronic means for registration and searching of notices.
+The LRA shall issue the necessary guidelines on the use and management of the
+Registry.
+
+Section 5.02. Sourcing of Funds. — The funds needed for the implementation of these
+Rules shall be taken from the Special Account arising from revenues collected by the
+LRA under Section 111 of Presidential Decree No. 1529, without need for any further
+government approval.
+
+* Section 5.03. Fees Set by Regulation. — The fees for registering a notice and for requesting
+a certified search report shall be set by regulations issued by the DOF for the recovery
+of reasonable costs of establishing and operating the Registry. Such regulations must
+take into consideration the following requirements:
+
+(a) Fees imposed must not be burdensome to either lender or grantor.
+
+(b) There shall be no fee for electronic searches of the Registry records or for the
+registration of termination notices.
+
+(c) The Registry may charge fees for services not mentioned above.
+Section 5.04. Registry Duties. —
+
+(a) The Registry shall, for each registered notice:
+(i) assign a unique registration number;
+(ii) create a record that bears the number assigned to the initial notice and the
+date and time of registration; and
+(iii) maintain the record for public inspection.
+
+(b) The Registry shall index notices by the identification number of the grantor,
+except for notices containing a serial number of a motor vehicle, which shall be
+indexed by serial number.
+
+(c) The Registry shall provide a copy of the electronic record of the notice, including
+the registration number and the date and time of registration to the person who
+submitted it.
+
+(d) The Registry shall maintain the capability to retrieve a record by the
+identification number of the grantor, and by serial number of a motor vehicle.
+
+e) The Registry shall maintain records of lapsed notices for a period of ten (10
+gisiry P P
+years after the lapse.
+
+Page 14 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+I
+
+(f) The duties of the Registry shall be merely administrative in nature. By registering
+a notice or refusing to register a notice, the Registry does not determine the
+sufficiency, correctness, authenticity or validity of any information contained in
+the notice, or the validity of the security agreement.
+
+Registration of Notice
+Section 5.05. Sufficiency of Notice. —
+
+(a) An initial notice of security interest shall not be rejected:
+
+(i) If it identifies the grantor by an identification number, as further
+prescribed in the regulations;
+
+(ii) If it identifies the secured creditor or an agent of the secured creditor by
+name;
+
+(iii) If it provides an address for the grantor and secured creditor or its agent;
+
+(iv) If it describes the collateral;
+
+(v) Ifit states the duration of effectivity of the security interest; and
+
+(vi) If the prescribed fee has been tendered, or an arrangement has been made
+for payment of fees by other means.
+
+If the grantor is a natural person, that grantor shall be identified through the name
+appearing in any of the grantor’s government issued identification, as may be
+prescribed by the LRA.
+
+If the grantor is a juridical person, that grantor shall be identified through its name
+in the most recently registered articles of incorporation, or in an agreement
+constituting the legal person.
+
+(b) If the Registry rejects to register a notice, it shall promptly communicate to the
+person who submitted the notice, within three (3) days from the rejection, the
+fact of and the reason for its rejection.
+
+(c) Each grantor must authorize the registration of an initial notice by signing a
+security agreement or otherwise in writing.
+
+(d) A notice may be registered before a security agreement is concluded. Once a
+security agreement is concluded, the date of registration of the notice shall be
+reckoned from the date the notice was registered.
+
+(e) A notice of lien may be registered by a lien holder without the consent of the
+person against whom the lien is sought to be enforced.
+
+Page 15 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+(f) Description of the collateral in a notice shall be entered in English.
+
+Section 5.06. One Notice Sufficient for Security Interests Under Multiple Security Agreements.
+— The registration of a single notice may relate to security interests created by the
+grantor under one (1) or more than one security agreement.
+
+Section 5.07. Effectiveness of Notice. — A notice shall be effective at the time it is
+discoverable on the records of the Registry and for the duration of the term indicated in
+the notice, unless a continuation notice is registered before the term lapses. The copy of
+
+’ the electronic record of the notice provided to the person who submitted it indicating
+the date and time of effectivity shall be conclusive.
+
+A notice substantially complying with the requirements of this Rule shall be effective
+unless it is seriously misleading. Seriously misleading notices include notices which do
+not provide the identification number of the grantor.
+
+A notice that may not be retrieved in a search of the Registry against the correct
+identifier of the grantor shall be ineffective with respect to that grantor.
+
+The registration of a notice shall neither expand nor diminish the security interest
+beyond the terms of the security agreement, except as otherwise provided by the PPSA
+or these Rules. Any error or misrepresentation in the notice with respect to the
+description of the security interest shall not affect any rights beyond those granted in
+the original security agreement.
+
+Amendment and Termination of Notice
+
+Section 5.08. Amendment of a Notice. — A notice may be amended by the registration of
+an amendment notice that identifies the initial notice by its registration number and
+provides new information.
+
+The amendment notice to be valid may be filed:
+
+(a) By the secured creditor alone, if the changes to the security interest can be
+effected with the sole consent of the secured creditor; or
+
+(b) By the grantor, if the changes to the security interest requires the grantor’s
+consent.
+
+A secured creditor who files the amendment notice necessarily attests that no other
+consent is necessary for the amendment to take effect.
+
+If the amendment notice adds collateral that is not proceeds, it must be authorized by
+the grantor in writing. If the amendment notice adds a grantor, it must be authorized by
+
+Page 16 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+the added grantor in writing. Such amendment notices shall be effective as to the added
+collateral or grantor from the date of its registration and shall be effective only as to
+each secured creditor who authorizes it.
+
+If a secured creditor assigns a perfected security interest, an amendment notice may
+be registered to reflect the assignment.
+
+Section 5.09. Continuation of Notice. — .The period of effectiveness of a notice may be
+continued for an additional days by registering an amendment notice that identifies the
+
+‘initial notice by its registration number. It must be registered within six (6) months
+before the expiration of the effective period of the notice.
+
+Section 5.10. Compulsory Amendment by Court Order. — The court may, on application by
+the grantor, issue an order that the notice be amended in accordance with the demand,
+which order shall be conclusive and binding on the LRA: Provided, that the secured
+creditor who disagrees with the order of the court may appeal the order.
+
+The court may make any other order it deems proper for the purpose of giving effect to
+an issued compulsory amendment order.
+
+The LRA shall amend a notice in accordance with a court order made under this section
+as soon as reasonably practicable.
+
+Any person who, without negligence on his part, sustains loss or damage, or is
+deprived of his priority right in consequence of an erroneous or false description in the
+notice made by the filing party may bring an action in any court of competent
+jurisdiction for the recovery of damages from the responsible party. The same court
+may also order the correction of the error or false description in the notice.
+
+Section 5.11. Termination of Effectiveness of a Notice. — The effectiveness of a notice may
+be terminated by registering a termination notice that identifies the initial notice by its
+registration number and each secured creditor who authorizes the registration of the
+termination notice. The notice is terminated from the date and time when the
+information in the notice is no longer accessible to searchers of the public registry
+record.
+
+A termination notice terminates effectiveness of the notice as to each authorizing
+secured creditor.
+
+Section 5.12. Compulsory Termination by Court Order. — The court may, on application by
+the grantor, issue an order that the notice be terminated in accordance with the
+demand, which order shall be conclusive and binding on the LRA: Provided, that the
+secured creditor who disagrees with the order of the court may appeal the order.
+
+Page 17 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+The court may make any other order it deems proper for the purpose of giving effect to
+an issued compulsory termination order.
+
+The LRA shall terminate a notice in accordance with a court order made under this
+section as soon as reasonably practicable.
+
+Section 5.13. When the Grantor May Demand Amendment or Termination of a Notice. — A
+grantor may give a written demand to the secured creditor for the amendment or
+* termination of the effectiveness of the notice in the following cases:
+
+(a) All the obligations under the security agreement to which the registration relates
+have been performed and there is no commitment to make future advances;
+
+(b) The secured creditor has agreed to release part of the collateral described in the
+notice;
+
+(c) The collateral described in the notice includes an item or kind of property that is
+not a collateral under a security agreement between the secured creditor and the
+grantor;
+
+(d) No security agreement exists between the parties; or
+(e) The security interest is extinguished in accordance with this Rule.
+
+Upon receipt of the demand for amendment submitted by the grantor, the secured
+creditor must register, within fifteen (15) working days, a notice amending the
+registration to release some property that is no longer collateral or that was never
+collateral under a security agreement between the secured creditor and the grantor in a
+case within subsection (c) of paragraph 1 of this section.
+
+Upon receipt of the demand for termination submitted by the grantor, the secured
+creditor must register, within fifteen (15) working days, a notice terminating the
+registration in a case within subsections (a), (d) or (e) of paragraph 1 of this section.
+
+Section 5.14. Procedure for Noncompliance with Demand. — If the secured creditor fails to
+comply with the demand within fifteen (15) working days after its receipt, the person
+giving the demand under the two preceding sections may ask the proper court to issue
+an order terminating or amending the notice as appropriate.
+
+Section 5.15. No Fee for Compliance of Demand. — A secured creditor shall not charge any
+fee for compliance with a demand received under Section 5.13 of this Rule.
+
+Page 18 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+Public Access and Search
+
+Section 5.16. Public Record. — The electronic records of the Registry shall be the official
+records. All notices registered and the information contained in such notices, shall be
+considered as part of the public record and may be searched and examined by any
+person: Provided that the processing of all information under these Rules shall be in
+accordance with the provisions of Republic Act 10173, otherwise known as the “Data
+Privacy Act of 2012”.
+
+’ Registration of a notice of the public auction in accordance with Section 7.08 (b) of these
+Rules is sufficient to comply with the publication requirement therein.
+
+Section 5.17. Search of Registry Records and Certified Report. — The Registry shall
+communicate the following information to any person who requests it:
+
+(a) Whether there are in the Registry any unlapsed notices that indicate the
+grantor's identification number or vehicle serial number that exactly matches the
+relevant criterion provided by the searcher;
+
+(b) The registration number, and the date and time of registration of each notice; and
+(c) All of the information contained in each notice.
+
+If requested, the Registry shall issue a certified report of the results of a search. Certified
+reports of search results shall be treated as official records of the Registry, which shall
+be admissible into evidence in judicial proceedings without extrinsic evidence of its
+authenticity.
+
+Section 5.18. When Registration and Search Constitutes Interference with Privacy of Individual.
+— A person who submitted a notice for registration or carried out a search of the
+Registry with a frivolous, malicious or criminal purpose or intent shall be subject to civil
+and criminal penalties according to the relevant laws.
+
+Correction of Errors
+
+Section 5.19. Correction of Errors Made by the Registry. — Without delay after discovering
+that it made an administrative error or omission in entering into the public record the
+information contained in a notice submitted for registration or erroneously removed
+from the public registry record information contained in the registered notice, the
+Registry must:
+
+(a) Register a notice to correct the error or omission, or;
+
+Page 19 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+(b) Restore the erroneously removed information, and send a copy of the
+information in the registered notice to the person identified in the notice as the
+secured creditor.
+
+The registration of a notice referred to in letter (a) is effective as of the time the
+information in the notice becomes accessible to searchers of the public registry record.
+
+Section 5.20. False or Misleading Information.—The entry of false or misleading
+information in any notice or lien or record entered and made publicly available in the
+
+* Registry may result in a prosecution for Data Interference, Computer-related Fraud or
+Computer-related Forgery under Republic Act No. 10175, otherwise known as the
+“Cybercrime Prevention Act of 2012”.
+
+RULE VI
+PRIORITY OF SECURITY INTEREST
+
+General Rule
+
+Section 6.01 Time of Perfection. — The priority of security interests and liens on the same
+collateral shall be determined according to the time of registration of a notice or
+perfection by other means, without regard to the order of creation of the security
+interests and liens, or to the mode of perfection except as provided in Sections 6.02 to
+6.05 of these Rules.
+
+Priority Rules for Intangible Assets
+
+Section 6.02 Priority for Investment Property and Deposit Accounts. — Subject to Section
+6.01, the following rules shall govern when applicable:
+
+(a) A security interest in a deposit account with respect to which the secured
+creditor is the deposit-taking institution or the intermediary shall have priority
+over a competing security interest perfected by any method.
+
+(b) A security interest in a deposit account or investment property that is perfected
+by a control agreement shall have priority over a competing security interest
+except a security interest of the deposit-taking institution or the intermediary.
+
+(c) The order of priority among competing security interests in a deposit account or
+investment property that were perfected by the conclusion of control agreements
+shall be determined on the basis of the time of conclusion of the control
+agreements.
+
+Page 20 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+J
+
+(d) Any rights to set-off that the deposit-taking institution may have against a
+grantor's right to payment of funds credited to a deposit account shall have
+priority over a security interest in the deposit account.
+
+(e) A security interest in electronic non-intermediated securities perfected by a
+notation of the security interests in the books maintained for that purpose by or
+on behalf of the issuer shall have priority over a security interest in the same
+securities perfected by any other method.
+
+(f) A security interest in electronic securities not held with an intermediary
+perfected by the conclusion of a control agreement shall have priority over a
+security interest in the same securities perfected by registration of a notice in the
+Registry.
+
+(g) A security interest in electronic securities held with an intermediary and
+perfected through a control agreement shall have priority over a security interest
+in the same securities perfected by any other method.
+
+(h) The order of priority among competing security interests in electronic securities
+not held with an intermediary perfected by the conclusion of control agreements
+is determined on the basis of the time of conclusion of the control agreements.
+
+Priority Rules for Tangible Assets
+
+Section 6.03 Priority for Tangible Assets Embodied in Instruments. — Subject to Section 6.01,
+the following rules shall govern when applicable:
+
+(a) A security interest in a security certificate perfected by the secured creditor's
+possession of the certificate shall have priority over a competing security interest
+perfected by registration of a notice in the Registry.
+
+(b) A security interest in an instrument or negotiable document that is perfected by
+possession of the instrument or the negotiable document shall have priority over
+a security interest in the instrument or negotiable document that is perfected by
+registration of a notice in the Registry.
+
+(c) A perfected security interest in livestock securing an obligation incurred to
+enable the grantor to obtain food or medicine for the livestock shall have priority
+over any other security interest in the livestock, except for a perfected purchase
+money security interest in the livestock, if the secured creditor providing credit
+for food or medicine gives written notification to the holder of the conflicting
+perfected security interest in the same livestock before the grantor receives
+possession of the food or medicine.
+
+Page 21 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+Priority Rules for Specific Cases
+Section 6.04 By Operation of Law. —
+
+(a) Priority and Right of Retention. — A person who provides services or materials
+with respect to the goods, in the ordinary course of business, and retains
+possession of the goods shall have priority over a perfected security interest in
+the goods until payment thereof.
+
+(b) Effect of Grantor’s Insolvency. — Subject to the applicable insolvency law, a
+security interest perfected prior to the commencement of insolvency proceedings
+in respect of the grantor shall remain perfected and retain the priority it had
+before the commencement of the insolvency proceedings.
+
+During insolvency proceedings, the perfected security interest shall constitute a
+lien over the collateral.
+
+Section 6.05 Priority of Purchase Money Security Interest. —
+
+(a) A purchase money security interest in equipment and its proceeds shall have
+priority over a conflicting security interest, if a notice relating to the purchase
+money security interest is registered within three (3) business days after the
+grantor receives possession of the equipment.
+
+(b) A purchase money security interest in consumer goods that is perfected by
+registration of notice not later than three (3) business days after the grantor
+obtains possession of the consumer goods shall have priority over a conflicting
+security interest.
+
+(c) A purchase money security interest in inventory, intellectual property or
+livestock shall have priority over a conflicting perfected security interest in the
+same inventory, intellectual property or livestock if:
+
+(i) The purchase money security interest is perfected when the grantor
+receives possession of the inventory or livestock, or acquires rights to
+intellectual property; and
+
+(ii) Before the grantor receives possession of the inventory or livestock, or
+acquires rights in intellectual property, the purchase money secured
+creditor gives written notification to the holder of the conflicting perfected
+security interest in the same types of inventory, livestock, or intellectual
+property. The notification sent to the holder of the conflicting security
+interest may cover multiple transactions between the purchase money
+
+Page 22 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+secured creditor and the grantor without the need to identify each
+transaction.
+
+(d) The purchase money security interest in equipment or consumer goods perfected
+timely in accordance with subsections (a) and (b), shall have priority over the
+rights of a buyer, lessee, or lien holder which arise between delivery of the
+equipment or consumer goods to the grantor and the time the notice is
+
+ 
+
+registered.
+RULE VII
+ENFORCEMENT OF SECURITY INTEREST AND SECURED CREDITOR'S
+RIGHTS
+
+Section 7.01 Enforcement With or Without Judicial Process — The secured creditor may
+enforce its security interest whether through a judicial process or through an extra-
+judicial process, including the sale of the secured assets through either a public or
+private disposition. Any judicial enforcement of security interests, including the
+disposition of collateral, shall be governed by rules promulgated by the Supreme Court.
+
+Section 7.02 Expedited Repossession of the Collateral (Without Judicial Process) — The
+secured creditor may take possession of the collateral without judicial process if the
+security agreement so stipulates: Provided, that possession can be taken without a breach
+of the peace. Breach of the peace shall include entering the private residence of the
+grantor without permission, resorting to physical violence or intimidation, or being
+accompanied by a law enforcement officer when taking possession or confronting the
+grantor.
+
+If the collateral is a fixture, the secured creditor, if it has priority over all owners and
+mortgagees, may remove the fixture from the real property to which it is affixed
+without judicial process. The secured creditor shall exercise due care in removing the
+fixture.
+
+Section 7.03 Expedited Repossession of the Collateral (With Judicial Process) — If, upon
+default, the secured creditor cannot take possession of collateral without breach of the
+peace, the secured creditor may proceed as follows:
+
+(a) The secured creditor shall be entitled to an expedited hearing upon application
+for an order granting the secured creditor possession of the collateral. Such
+application shall include a statement by the secured creditor, under oath,
+verifying the existence of the security agreement attached to the application and
+identifying at least one event of default by the debtor under the security
+agreement,
+
+Page 23 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+O
+
+(b) The secured creditor shall provide the debtor, grantor, and, if the collateral is a
+fixture, any real estate mortgagee, a copy of the application, including all
+supporting documents and evidence for the order granting the secured creditor
+possession of the collateral; and
+
+(c) The secured creditor is entitled to an order granting possession of the collateral
+upon the court finding that a default has occurred under the security agreement
+and that the secured creditor has a right to take possession of the collateral. The
+court may direct the grantor to take such action as the court deems necessary and
+appropriate so that the secured creditor may take possession of the collateral.
+
+Section 7.04 Right of Higher-Ranking Secured Creditor to Take Over Enforcement —
+
+(a) Even if another secured creditor or a lien holder has commenced enforcement, a
+secured creditor whose security interest has priority over that of the enforcing
+secured creditor or lien holder shall be entitled to take over the enforcement
+process.
+
+(b) The right referred to in subsection (a) of this section may be invoked at any time
+before the collateral is sold or otherwise disposed of, or retained by the secured
+creditor or until the conclusion of an agreement by the secured creditor for that
+purpose.
+
+(c) The right of the higher-ranking secured creditor to take over the enforcement
+process shall include the right to enforce the rights by any method available to a
+secured creditor under the PPSA and these Rules.
+
+Section 7.05. Recovery in Special Cases — Upon default, the secured creditor may without
+judicial process:
+
+(a) Instruct the account debtor of an accounts receivable to make payment to the
+secured creditor, and apply such payment to the satisfaction of the obligation
+secured by the security interest after deducting the secured creditor's reasonable
+collection expenses. On request of the account debtor, the secured creditor shall
+provide evidence of its security interest to the account debtor when it delivers
+the instruction to the account debtor;
+
+b) In a negotiable document where the security interest is perfected by possession,
+8 P y Pp
+proceed as to the negotiable document or goods covered by the negotiable
+document;
+
+Page 24 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+(c) Ina deposit account maintained by the secured creditor, apply the balance of the
+deposit account to the obligation secured by the deposit account; and
+
+(d) In other cases of a security interest in a deposit account perfected by a control
+agreement, instruct the deposit-taking institution to pay the balance of the
+deposit account to the secured creditor's account by providing:
+
+(i) a copy of the security agreement that creates or provides for a security
+interest; and
+
+(ii) the secured party's affidavit stating thata default has occurred, and thatthe
+secured party is entitled to enforce the security interest non-judicially.
+
+Section 7.06 Right to Dispose of Collateral — After default, a secured creditor may sell or
+otherwise dispose of the collateral, publicly or privately, in its present condition or
+following any commercially reasonable preparation or processing.
+
+Section 7.07. Commercial Reasonableness Required. —
+
+(a) In disposing of collateral, the secured creditor shall act in a commercially
+reasonable manner.
+
+(b) A disposition is commercially reasonable if the secured creditor disposes of the
+collateral in conformity with commercial practices among dealers in that type of
+
+property.
+
+(c) A disposition is not commercially unreasonable merely because a better price
+could have been obtained by disposition at a different time or by a different
+method from the time and method selected by the secured creditor.
+
+Section 7.08. Notification Requirements Prior to Disposition. —
+
+(a) Not later than ten (10) days before disposition of the collateral, the secured
+creditor shall notify:
+
+(i) | The grantor:
+
+(ii) | Any other secured creditor or lien holder who, five (5) days before
+the date notification is sent to the grantor, held a security interest or
+lien in the collateral that was perfected by registration; and
+
+(iii) Any other person from whom the secured creditor received
+notification of a claim of an interest in the collateral if the
+notification was received before the secured creditor gave
+notification of the proposed disposition to the grantor.
+
+Page 25 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+(b) The grantor may, after default, waive the right to be notified.
+
+(c) A notification of disposition is sufficient if it identifies the grantor and the
+secured creditor; describes the collateral; states the method of intended
+disposition; and states the time and place of a public disposition or the time after
+which other disposition is to be made.
+
+(d) The secured creditor shall notify the persons entitled to notification via
+registered mail, private courier, electronically, or through any means where
+receipt of the notice can be established by a disinterested third party.
+
+(e) The requirement to send a notification under this section shall not apply if the
+collateral is perishable or threatens to decline speedily in value or is of a type
+customarily sold on a recognized market.
+
+Section 7.09. Guidelines on Private or Public Disposition. —
+
+(a) The secured creditor may dispose of the collateral through a sale open to
+participation by the general public.
+
+(b) In case of extra-judicial disposition, the secured creditor may, subject to the
+guidelines below, select the method, manner, time, place and other aspects of the
+sale or other disposition, lease or license, including whether to sell or otherwise
+dispose of, lease or license encumbered assets individually, in groups or
+altogether: Provided, that the disposition is undertaken in good faith and satisfies
+the commercial reasonableness requirement under Section 7.07. Judicial
+dispositions shall be governed by rules promulgated by the Supreme Court.
+
+(c) The secured creditor shall, no later than ten (10) days before the extra-judicial
+disposition of the collateral, cause the posting with the Registry of a notice that
+sufficiently describes the collateral to be sold and specifies the method, manner,
+time, place and other details of the sale. The Registry shall ensure that all such
+notices posted are publicly accessible and searchable. In adherence with the
+commercial reasonableness requirement, the secured creditor may also cause the
+advertisement of the disposition through any other means or medium as the
+secured creditor may deem as suitable, to maximize awareness of the sale among
+dealers in the type of property to which the collateral belongs.
+
+(d) All collateral shall be disposed through auction and the following indicators may
+be taken into account in determining whether the sale satisfies the good faith and
+commercial reasonableness requirement:
+
+(i) that the person or entity who presides over the auction is an experienced
+dealer in the type of property sold;
+
+Page 26 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+(ii) that the participating bidders do not engage in collusive practices that
+prevent free and open competition;
+
+(iii) that the records of the proceedings, including the identities and respective
+submissions of the bidders, are documented in writing and subsequently
+maintained, and;
+
+(iv) that the highest bidder is duly awarded the collateral.
+
+The winning bidder must fully pay the bid price at the conclusion of the
+auction. Otherwise, the collateral may be awarded to the next highest
+bidder.
+
+(e) Any government agency that regularly undertakes public auctions in the course
+of its regular activities may be engaged by any secured creditor to preside over
+public auctions over securitized movable collateral under this Section, through
+rules and regulations that must be submitted to the Department of Finance for
+prior approval. Private entities such as auction houses, industry groups of
+secured creditors, or organizations of recognized dealers of specific movables
+may likewise adopt rules and regulations for the conduct of public auctions,
+subject to the approval of the Department of Finance. Any public auction of
+movable collateral conducted by any government agency or private entity under
+rules duly approved by the Department of Finance shall be conclusively
+presumed to be commercially reasonable.
+
+(f) The secured creditor may buy the collateral at any public disposition, or at a
+private disposition but only if the collateral is of a kind that is customarily sold
+on a recognized market or the subject of widely distributed standard price
+quotations.
+
+If a method of disposition of collateral has been approved in any legal
+
+& P PP y leg
+proceeding, whether judicial or administrative, it is conclusively commercially
+reasonable.
+
+Section 7.10. Right of Redemption. —
+
+(a) Any person who is entitled to receive a notification of disposition in accordance
+with these Rules is entitled to redeem the collateral by paying or otherwise
+performing the secured obligation in full, including the reasonable cost of
+enforcement.
+
+(b) The right of redemption may be exercised, unless:
+
+(i) | The person entitled to redeem has, after the default, waived in writing the
+right to redeem;
+
+Page 27 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+J
+
+(ii) | The collateral is sold or otherwise disposed of, acquired or collected by the
+secured creditor, or when an agreement with those effects on the collateral
+is concluded by the secured creditor; or,
+
+(iii) | The secured creditor has retained the collateral.
+
+Section 7.11. Application of Proceeds. —
+
+(a) The proceeds of disposition shall be applied in the following order:
+
+(i) |The reasonable expenses of taking, holding, preparing for disposition, and
+disposing of the collateral, including reasonable attorneys' fees and legal
+expenses incurred by the secured creditor;
+
+(ii) The satisfaction of the obligation secured by the security interest of the
+enforcing secured creditor; and
+
+(iii) The satisfaction of obligations secured by any subordinate security
+interest or lien in the collateral if a written demand and proof of the
+interest are received before distribution of the proceeds is completed.
+
+(b) The secured creditor shall account to the grantor for any surplus, and, unless
+otherwise agreed, the debtor is liable for any deficiency.
+
+(c) The reasonable expenses of holding the collateral shall include all expenses
+incurred by the secured creditor in the preservation and care of the collateral in
+his possession with the diligence of a good father of a family.
+
+(d) The secured creditor shall be liable to the grantor for the value of the loss and
+deterioration that may be suffered due to his failure to preserve and care for the
+collateral.
+
+Section 7.12. Rights of Buyers and Other Third Parties, —
+(a) If a secured creditor sells the collateral under this Chapter, the buyer shall
+acquire the grantor's right in the asset free of the rights of any secured creditor or
+
+lien holder.
+
+(b) If a secured creditor leases or licenses the collateral under this Chapter, the lessee
+or licensee shall be entitled to the benefit of the lease or license during its term.
+
+(c) If a secured creditor sells, leases or licenses the collateral not in compliance with
+
+this Chapter, the buyer, lessee or licensee of the collateral shall acquire the rights
+or benefits described in subsections (a) and (b) of this section: Provided, that it had
+
+Page 28 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+g
+
+no knowledge of a violation of this Chapter that materially prejudiced the rights
+of the grantor or another person.
+
+Section 7.13. Retention of Collateral by Secured Creditor, —
+
+(a) After default, the secured creditor may propose to the debtor and grantor to take
+all or part of the collateral in total or partial satisfaction of the secured obligation,
+and shall send a proposal to:
+
+(i) | The debtor and the grantor;
+
+(ii) | Any other secured creditor or lien holder who, five (5) days before the
+proposal is sent to the debtor and the grantor, perfected its security
+interest or lien by registration; and
+
+(iii) | Any other person with an interest in the collateral who has given a written
+notification to the secured creditor before the proposal is sent to the
+debtor and the grantor.
+
+(b) The secured creditor may retain the collateral in the case of:
+
+(i) A proposal for the acquisition of the collateral in full satisfaction of the
+secured obligation, unless the secured creditor receives an objection in
+writing from any person entitled to receive such a proposal within twenty
+(20) days after the proposal is sent to that person; or
+
+(ii) A proposal for the acquisition of the collateral in partial satisfaction of the
+secured obligation, only if the secured creditor receives the affirmative
+consent of each addressee of the proposal in writing within twenty (20)
+days after the proposal is sent to that person.
+
+(c) A proposal for the retention of the collateral is sufficient if it includes:
+
+(i) | A statement of the amount required at the time the proposal is given to
+satisfy the secured obligation, including interest and the reasonable cost of
+enforcement, and the amount of the secured obligation that is proposed to
+be satisfied;
+
+(ii) | A statement that the secured creditor proposes to acquire the encumbered
+asset described in the proposal in total or partial satisfaction of the secured
+obligation;
+
+(iii) A statement of the date after which the secured creditor will acquire the
+encumbered asset.
+
+Section 7.14. Remedies for Secured Party's Failure to Comply with the Rules —
+
+Page 29 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+(a) Judicial orders concerning noncompliance —If it is established that a secured party is
+not proceeding in accordance with these Rules, a court may order or restrain
+collection, enforcement, or disposition of collateral on appropriate terms and
+conditions.
+
+(b) Damages for noncompliance—A party or interested person who fails to comply
+with the provisions of these Rules shall be liable in the amount of any loss
+resulting from such failure. Loss caused by a failure to comply may include loss
+resulting from the debtor's inability to obtain, or increased costs of, alternative
+financing.
+
+(c) Person entitled to recover damages—A person that, at the time of the failure, was a
+debtor, a grantor, or held a security interest in or other lien on the collateral may
+recover damages under subsection (b) for its loss.
+
+RULE VIII
+PRIOR INTERESTS AND THE TRANSITIONAL PERIOD
+
+Section 8.01. Interpretation of Transitional Provisions. — For this Rule, unless the context
+otherwise requires:
+
+(a) Existing secured creditor — means a secured creditor with a prior security
+interest;
+
+(b) Prior law — means any law that existed or in force before the effectivity of the
+PPSA;
+
+(c) Prior interest — means a security interest created or provided for by an
+agreement or other transaction that was made or entered into before the
+effectivity of the PPSA and that had not been terminated before the effectivity
+of the PPSA, but excludes a security interest that is renewed or extended by a
+security agreement or other transaction made or entered into on or after the
+effectivity of the PPSA;
+
+(d) Transitional period — means the period from the date of effectivity of the PPSA
+until the date when the Registry has been established and operational.
+Before the Effectivity of the PPSA
+Section 8.02. Creation of Prior Interest. —
+
+(a) Creation of prior interest shall be determined by prior law.
+
+Page 30 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+(b) A prior interest remains effective, subject to Section 8.03 of these Rules,
+between the parties notwithstanding that its creation did not comply with the
+creation requirements of the PPSA and these Rules.
+
+Section 8.03. Perfection of Prior Interest. —
+
+a) A prior interest that was perfected under prior law continues to be deemed
+P P Pp
+perfected under the PPSA and these rules until the earlier of:
+
+(i) |The time the prior interest would cease to be perfected under prior law;
+and
+
+(ii) The beginning of full implementation of the PPSA.
+
+Section 8.04. Priority of Prior Interest. — The priority of a prior interest as against the
+rights of a competing claimant is determined by the prior law if:
+
+(a) The priority of a prior interest as against the rights of a competing claimant is
+determined by the prior law if:
+
+(i) The security interest and the rights of all competing claimant arose
+before the effectivity of the PPSA; and
+
+(ii) The priority status of these rights has not changed since the effectivity of
+the PPSA.
+
+(b) For purposes of subsection (a)(ii) of this Rule, the priority status of a prior
+interest has changed only if:
+
+(i) It was perfected when the PPSA took effect, but ceased to be perfected;
+or
+
+(ii) It was not perfected under prior law when the PPSA took effect, and was
+only perfected under the PPSA.
+
+Section 8.05. Enforcement of Prior Interest. —
+
+(a) If any step or action has been taken to enforce a prior interest before the
+effectivity of the PPSA and these Rules, and such prior interest falls within
+Section 8.02(b) also of this Rule, enforcement may continue under the prior law
+or may proceed under the PPSA and these Rules.
+
+(b) Subject to subsection (a) of this Rule, prior law shall apply to a matter that is
+the subject of proceedings before a court before the effectivity of the PPSA.
+
+Page 31 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+yf
+
+During the Transitional Period
+
+Section 8.06. Date of Effectivity of the Transitional Period. — The transitional period shall
+begin on February 9, 2019, which is the date of effectivity of the PPSA pursuant to
+Section 67 thereof.
+
+Section 8.07. Creation of Security Interest. — All security interests created during the
+Transitional Period are governed by the PPSA.
+
+- Section 8.08. Perfection of Security Interest. — The perfection of all existing security
+interests created during the Transitional Period shall be governed by the PPSA.
+Provided, however, that during the Transitional Period, registration of the security
+agreement with the LRA shall be in accordance with Section 4 of Act No. 1508 ,
+otherwise known as "The Chattel Mortgage Law." The LRA shall also determine a
+system of provisional registration of such agreements during such Transitional
+Period.
+
+(a) A written agreement between a grantor and a secured creditor creating a prior
+interest is sufficient to constitute authorization by the grantor of the
+registration of a notice covering assets described in that agreement under these
+Rules.
+
+(b) If the perfection requirements of these Rules are satisfied before the perfection
+of a prior interest ceases in accordance with Rule 8.03, the prior interest
+continues to be perfected under these Rules from the time when it was
+perfected under the prior law.
+
+(c) If a prior interest referred to in subsection (b) of this section was perfected by
+the registration in the registry of a notice under prior law, the time of
+registration under the prior law shall be the time to be used for purposes of
+applying the priority rules of these Rules.
+
+(d) If the perfection requirements of these Rules are not satisfied before the
+perfection of a prior interest ceases in accordance with Rule 8.03, the prior
+interest is perfected only from the time it is perfected under these Rules.
+
+Section 8.09. Priority of Security Interest. — The priority of competing security interests
+shall be determined during the Transitional Period by applying the PPSA.
+
+Section 8.10. Enforcement of Security Interest. — The enforcement of all existing security
+interests during the Transitional Period shall be governed by the PPSA.
+Section 8.11. Rules on Enforcement Procedure. — Subject to Section 47 of the PPSA and its
+
+Page 32 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+f
+
+corresponding Chapter in these Rules, the expedited hearing/proceedings shall be
+conducted in a summary manner consistent with the declared policies of the law and
+these Rules and in accordance with the rules of procedure that the Supreme Court may
+promulgate.
+
+RULE IX
+LAWS REPEALED AND AMENDED
+
+ 
+
+Section 9.01. Repealing Clause. —
+
+(a) The following laws are hereby repealed:
+
+(i) Sections 1 to 16 of Act No. 1508, otherwise known as "The Chattel
+
+Mortgage Law";
+
+(ii) Articles 2085-2092 of the “Civil Code of the Philippines”, insofar as
+movable property is concerned;
+
+(iii) Articles 2093-2123 and 2140-2141 of the Civil Code of the Philippines;
+
+(iv) Section 13 of Republic Act No. 5980, as amended by Republic Act No.
+8556, otherwise known as the "Financing Company Act of 1998";
+
+(v) Sections 114-116 of Presidential Decree No. 1529, otherwise known as
+the "Property Registration Decree";
+
+(vi) Section 5(e) of Republic Act No. 4136, otherwise known as the "Land
+Transportation and Traffic Code."
+
+(b) The following laws are hereby amended insofar as the provisions thereof are
+inconsistent with the PPSA;
+
+(i) Section 10 of Presidential Decree No. 1529
+
+(ii) | Article 2127 of the Civil Code of the Philippines;
+
+(iii) Articles 2241, 2243, and 2246-2247 of Civil Code of the Philippines,
+insofar as the preferences created by these provisions are inconsistent
+with the priority rights of the secured creditor perfected pursuant to the
+PPSA and these Rules;
+
+(c) All laws, decrees, orders, and issuances or portions thereof, which are
+inconsistent with the provisions of the PPSA, are hereby repealed, amended, or
+modified accordingly.
+
+Section 9.02. Interpretation. — If there is any conflict between a provision of these Rules
+and a provision of any other law and its rules, these Rules shall govern unless the
+other law or its rules specifically cites or amends the conflicting provisions of these
+Rules.
+
+Page 33 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+G
+
+RULE X
+EFFECTIVITY
+
+Section 10.01. Separability Clause. — Should any provision herein be declared
+unconstitutional or contrary to law, the same shall not affect the validity of the other
+provisions of these Rules.
+
+' Section 10.02. Effectivity. — These Rules shall take effect fifteen (15) days after its
+complete publication in the Official Gazette or a newspaper of general circulation.
+
+The Office of the National Administrative Register (ONAR) of the UP Law Center
+shall be provided three (3) certified copies of these Rules.
+Section 10.03. Implementation. — Notwithstanding the entry into force of these Rules
+
+under Section 10.03, the implementation of the Act shall be conditioned upon the
+Registry being established and operational under Rule IV.
+
+CARLOS G. DOMIN Z
+Secretary of Finance
+
+OCT 10 2019
+
+Page 34 of 34
+Implementing Rules and Regulations of Personal Property Security Act
+
+ANNEX _4_
+A. Model Security Agreement for a Specific Asset
+
+SECURITY AGREEMENT
+
+This SECURITY AGREEMENT (the “AGREEMENT”) made and executed on this
+day of 20 at , by and between:
+
+(Name of GRANTOR), (of legal age, single/nmrried to with
+address at )/(@ corporation organized and existing under
+and by virtue of the laws of the Republic of the Philippines, with principal
+address at in this act represented by its
+) hereinafter referred to as “GRANTOR”
+
+ 
+
+ 
+
+ 
+
+-and-
+
+(Name of SECURED CREDITOR), (of legal age, single/married to
+with address at )/(a corporation organized and
+existing under and by virtue of the laws of the Republic of the Philippines,
+with principal address at in this act
+represented by its ) hereinafter referred to
+as “SECURED CREDITOR”.
+
+ 
+
+ 
+
+ 
+
+WITNESSETH:
+
+1. The GRANTOR agrees to create a security interest over the movable property
+described below, in favor of the SECURED CREDITOR, to secure its obligation to
+pay (amount) under (description of the agreement from which the obligation arises,
+including the date the agreement was entered into)
+
+2. The security interest covered under this Agreement shall cover the movable
+property described below:
+
+(Description _of encumbered asset, for example, located _at...
+
+manufactured by ..., with serial number ...)
+
+IN WITNESS WHEREOF, the parties hereunto set their hands on this day of
+at
+
+[Name of the GRANTOR] [Name of the SECURED CREDITOR]
+
+Signed in the Presence of:
+
+ 
+
+Witness Witness
+
+ACKNOWLEDGEMENT
+
+(REPUBLIC OF THE PHILIPPINES
+
+BEFORE ME, a Notary Public for and in this ___ day of 20
+personally appeared:
+
+ 
+
+Name Competent Evidence of Date of Place of
+Identity Issue Issue
+GRANTOR
+SECURED
+CREDITOR
+
+known to me as the same persons who executed the foregoing Agreement and
+acknowledged to me that the same is their free and voluntary act and deed or that of the
+principals represented by them.
+
+I further acknowledge that this instrument, including the foregoing Agreement and this
+page on which this acknowledge is written, consists of two (2) pages, all signed by the
+parties and sealed with my notarial seal.
+
+WITNESS MY HAND AND SEAL on the date and the place first above written.
+
+Doc. No.
+Page No.
+Book No.
+Series of
+
+B. Model Security Agreement Covering All Assets of the GRANTOR
+SECURITY AGREEMENT
+
+This SECURITY AGREEMENT (the “AGREEMENT”) made and executed on this
+day of 20 at , by and between:
+
+ 
+
+(Name of GRANTOR), (of legal age, single/married to with
+address at )/(a@ corporation organized and existing under
+and by virtue of the laws of the Republic of the Philippines, with principal
+address at in this act represented by its
+) hereinafter referred to as “GRANTOR”
+
+ 
+
+ 
+
+ 
+
+-and-
+
+(Name of SECURED CREDITOR), (of legal age, single/married to
+with address at )/(a@ corporation organized and
+existing under and by virtue of the laws of the Republic of the Philippines,
+with principal address at in this act
+represented by its ) hereinafter referred to
+as “SECURED CREDITOR’.
+
+ 
+
+ 
+
+ 
+
+WITNESSETH:
+
+WHEREAS, the SECURED CREDITOR has agreed to make available to the
+GRANTOR a line of credit to finance the operations of the GRANTOR pursuant to a credit
+agreement dated (as same may be amended, supplemented or restated
+from time to time, the “CREDIT AGREEMENT”);
+
+WHEREAS, the execution of this Security Agreement is a condition to the
+extension of credit by the SECURED CREDITOR to the GRANTOR under that CREDIT
+AGREEMENT.
+
+NOW, THEREFORE, the parties hereby agree as follows:
+
+1. Definitions
+
+In this agreement:
+
+(a) Each term which is defined in Republic Act No. 11057 (“Personal Property Security
+Act”) has the meaning given to it in the Personal Property Security Act;
+
+(b) “Event of Default” means (i) any event that constitutes an “event of default” under
+the CREDIT AGREEMENT, and (ii) any failure by the GRANTOR to comply with
+any of its obligations under this agreement;
+
+2. Creation of the security interest and secured obligations
+2.1 Creation of the security interest
+The GRANTOR creates in favor of the SECURED CREDITOR a security interest in all of
+
+the GRANTOR’s present and future assets which are within the following categories of
+assets (the “Encumbered Assets”):
+
+(a) Inventory;
+
+(b) Receivables;
+
+(c) Equipment;
+
+(d) Funds credited to a bank account;
+
+(e) Negotiable documents, including without limitation, bills of lading and
+warehouse receipts;
+
+(f) Negotiable instruments, including without limitation, bills of exchange,
+cheques and promissory notes;
+
+(g) Intellectual property and rights as licensee;
+
+(h) (insert other assets as applicable)
+(i) To the extent not listed above, all proceeds and products of all of the foregoing.
+
+2.2 Secured Obligations
+
+The security interest hereby created secures all present and future obligations of the
+GRANTOR to the SECURED CREDITOR under or contemplated by the CREDIT
+AGREEMENT and this agreement (“Obligations”).
+
+3. Representations of the GRANTOR
+3.1 Location of certain Encumbered Assets
+
+(a) The inventory and the equipment of the GRANTOR are and will be held or used
+by the GRANTOR at all times in the Republic of the Philippines and, unless the
+GRANTOR notifies the SECURED CREDITOR of a change, at the addresses listed
+in the Annex to this agreement;
+
+(b) The billing addresses of the debtors of the receivables owed or to be owed to the
+GRANTOR are and will be at all times in the Republic of the Philippines, unless
+the GRANTOR notifies the SECURED CREDITOR of a change by a notice
+specifying other jurisdictions in which debtors of these receivable have billing
+addresses;
+
+(c) The bank accounts of the GRANTOR are and will be held at all times at branches
+of banks in the Republic of the Philippines, and, unless the GRANTOR notifies the
+SECURED CREDITOR of a change, at the addresses listed in the Annex to this
+agreement. The account agreements relating to these bank accounts are and will
+be governed by the relevant laws of the Republic of the Philippines and do not and
+will not refer to another law for matters relevant to this agreement.
+
+3.2 Location and name of the GRANTOR
+
+(a) The registered office and the place of central administration of the GRANTOR are
+and will be located at all times in the Republic of the Philippines;
+
+(b) The GRANTOR’s exact name and legal status are as specified on the first page of
+this agreement. The GRANTOR will not change its legal status without the prior
+written consent of the SECURED CREDITOR and will not change its name without
+giving to SECURED CREDITOR a thirty (30) day prior notice of the change.
+
+4. Authorizations relating to the Encumbered Assets
+
+4.1 Registrations
+
+The GRANTOR authorizes the SECURED CREDITOR to register any notice and to take
+any other action necessary or useful to make the SECURED CREDITOR’s security interest
+effective against third parties by registration.
+
+4.2 Inspection and copies
+
+(a) The SECURED CREDITOR may inspect the Encumbered Assets and the
+documents or records evidencing same and for such purposes may enter into the
+GRANTOR’s premises, upon giving prior reasonable notice to the GRANTOR;
+
+(b) At the request of the SECURED CREDITOR, the GRANTOR will furnish to the
+SECURED CREDITOR copies of the invoices, contracts and other documents
+evidencing its receivables.
+
+4.3 Dealings with Encumbered Assets
+
+(a) Until the SECURED CREDITOR notifies the GRANTOR that an Event of Default
+has occurred, the GRANTOR may sell, lease, license or otherwise dispose of its
+inventory and documents of title, collect its receivables and negotiable
+instruments and dispose of worn-out or obsolete equipment, in each case, in the
+ordinary course of its business;
+
+(b) The GRANTOR will not grant any security interest in the Encumbered Assets and,
+except as permitted by paragraph (a), will not sell, lease, license or otherwise
+dispose of the Encumbered Assets;
+
+(c) Unless otherwise agreed between the parties, the SECURED CREDITOR may at
+any time notify the debtors of the GRANTOR’s receivables of the existence of its
+security interest. However, a notification given prior to the occurrence of an Event
+of Default will authorize the debtors to make their payments to the GRANTOR
+until otherwise instructed by the SECURED CREDITOR following the occurrence
+of an Event of Default.
+
+5. Undertakings relating to the Encumbered Assets
+5.1 Movable assets
+
+The GRANTOR undertakes that the Encumbered Assets will remain movable assets at
+all times and will not be physically attached to immovable property.
+
+5.2 Effectiveness of the security interest
+
+The GRANTOR will take all actions and execute all documents reasonably required by
+the SECURED CREDITOR for the SECURED CREDITOR’s security interest to be at all
+times enforceable and effective and enjoy priority against third parties in all jurisdictions
+where the Encumbered Assets may be located or where the security interest may be
+enforced.
+
+5.3 Bank accounts
+
+The GRANTOR will take all steps required for the SECURED CREDITOR’s security
+interest to be made effective against parties through a control agreement with respect to
+
+all funds credited to a bank account held with a bank other than with the SECURED
+CREDITOR.
+
+6. Enforcement
+6.1 Rights after an Event of Default
+After the occurrence of an Event of Default and to the extent same is continuing:
+
+(a) the SECURED CREDITOR may enforce its security interest and exercise all rights
+of a secured creditor under the Personal Property Security Act and any other
+applicable law;
+
+(b) the SECURED CREDITOR may also, subject to any mandatory provision of
+applicable laws:
+
+(i) take possession, use, operate, administer and sell, lease, license or
+otherwise dispose of any of the Encumbered Assets, in each case, on terms
+and conditions it deems appropriate;
+
+(ii) collect the GRANTOR’s receivables and negotiable instruments,
+compromise or transact with the debtors of these receivables and
+instruments, and grant discharges to them; and
+
+(iii) take all other actions necessary or useful for the purpose of realizing on
+the Encumbered Assets, including without limitation completing the
+manufacture of inventory and purchasing raw materials.
+
+6.2 Access to the GRANTOR’s premises
+
+The GRANTOR permits the SECURED CREDITOR to enter into and use the premises
+where the Encumbered Assets are located for the purposes of the exercise of the
+SECURED CREDITOR’s enforcement rights.
+
+6.3 Manner of enforcement
+
+The enforcement rights may be exercised on all of the Encumbered Assets taken as a
+whole or separately in respect of any part of them.
+
+6.4 Reimbursement of expenses
+
+The GRANTOR will reimburse the SECURED CREDITOR upon demand for all costs,
+fees and other expenses incurred by the SECURED CREDITOR in the exercise of its rights
+(including without limitation in the enforcement of its security interest), with interest at
+an annual rate of **%.
+
+7. General Provisions
+7.1 Additional and continuing security
+
+The security interest created by this agreement is in addition to (and not in substitution
+for) any other security held by the SECURED CREDITOR and is a continuing security
+that will subsist notwithstanding the payment from time to time, in whole or in part, of
+any of the Obligations. However, this security interest will extinguish when the
+commitment to extend credit under the CREDIT AGREEMENT has terminated and all
+Obligations have been satisfied in full.
+
+7.2 Collections
+
+Any sum collected by the SECURED CREDITOR from the Encumbered Assets prior to
+all the Obligations becoming due may be held by the SECURED CREDITOR as
+Encumbered Assets.
+
+7.3 Other Recourses
+
+The exercise by the SECURED CREDITOR of any right will not preclude the SECURED
+CREDITOR from exercising any other right provided in this agreement or by law, and all
+. the rights of the SECURED CREDITOR are cumulative and not alternative. The
+SECURED CREDITOR may enforce its security interest without being required to
+exercise any recourse against any person liable for the payment of the Obligations or to
+realize on any other security.
+
+7.4 Inconsistency with the CREDIT AGREEMENT
+
+In the event of any conflict or inconsistency between the provisions of this agreement and
+the provisions of the CREDIT AGREEMENT, the provisions of the CREDIT
+AGREEMENT will prevail.
+
+8. Governing Law
+
+This agreement will be governed by and construed in accordance with the laws of the
+Republic of the Philippines. The provisions of this agreement must also be interpreted in
+order to give effect to the intent of the parties that the SECURED CREDITOR’s security
+interest be valid and effective in all jurisdictions where the Encumbered Assets may be
+located and where the rights of the SECURED CREDITOR may have to be enforced.
+
+9. Notices
+
+Any notice by a party to the other must be in writing and given in accordance with the
+notice provisions of the CREDIT AGREEMENT.
+
+10. Counterparts and signatures
+
+This agreement may be executed in any number of counterparts and by each party in
+separate counterparts and any full set of these separate counterparts will constitute an
+original copy of this agreement. Delivery of an executed counterpart of a signature page
+to this agreement by electronic mail will be as effective as delivery of a manually executed
+counterpart of this agreement.
+
+IN WITNESS WHEREOF, the parties hereunto set their hands on this day of
+at
+
+ 
+
+[Name of the GRANTOR] [Name of the SECURED CREDITOR]
+
+Signed in the Presence of:
+
+ 
+
+Witness Witness
+
+ACKNOWLEDGEMENT
+(REPUBLIC OF THE PHILIPPINES
+
+BEFORE ME, a Notary Public for and in this day of 20
+personally appeared:
+
+Name Competent Evidence of Date of Place of
+Identity Issue Issue
+GRANTOR
+SECURED
+CREDITOR
+
+known to me as the same persons who executed the foregoing Agreement and
+acknowledged to me that the same is their free and voluntary act and deed or that of the
+principals represented by them.
+
+I further acknowledge that this instrument, including the foregoing Agreement and this
+page on which this acknowledge is written, consists of ___ (__) pages, all signed by the
+parties and sealed with my notarial seal.
+
+WITNESS MY HAND AND SEAL on the date and the place first above written.
+
+Doc. No.
+Page No.
+Book No.
+Series of
+
+KASUNDUAN SA GARANTIYA
+
+Itong KASUNDUAN SA GARANTIYA, ginawa at isinakatuparan ngayong ika- araw ng
+, 12 dito sa sa pagitan nina:
+
+(PANGALAN NG NAGKALOOB), may sapat na gulang, walang asawa/ kasal kay
+
+, Naninirahan sa , isang korporasyong binuo at umiiral sa
+ilalm at bisa ng mga batas ng Republika ng Pilipinas, may principal na lugar sa
+at kinakatawan ng /ni , at dito ay binabanggit bilang
+“NAGKALOOB”
+-at—
+
+(PANGALAN NG NAGPAPAUTANG NA MAY GARANTIYA), may sapat na gulang,
+
+walang asawa/kasal kay , Naninirahan sa isang
+korporasyong binuo at umiiral sa ilalim at bisa ng mga batas ng Republika ng Pilipinas, may
+principal na lugar sa at kinakatawan ng /ni , at dito
+ay binabanggit bilang “NAGPAPAUTANG NA MAY GARANTIYA”
+
+NAGPAPATUNAY:
+
+1. Ang NAGKALOOB ay sumang-ayon upang lumikha ng GARANTIYA sa _ari-ariang
+natitinag na nakasaad sa ibaba nito, pabor kay (NAGPAPAUTANG)
+upang garantiyahan ang obligasyon ukol sa pagbabayad sa ilalim ng
+(Kasunduan may petsang ) bilang batayan ng obligasyon.
+
+2. Ang karapatan sa garantiya na nabibilang sa Kaunduang ito ay sumasaklaw sa ari-ariang
+natitinag na nakalahad sa ibaba:
+
+(Paglalarawan sa nakasanlang  ari-arian na matatagpuan sa
+na may tatak/ uri bilang )
+
+ 
+
+SA KATUNAYAN NG LAHAT, kami ay lumagda ngayong ika- araw
+ng dito sa :
+NAGKALOOB NAGPAUTANG NA MAY GARANTIYA
+
+Nilagdaan sa harap nina:
+
+Saksi Saksi
+
+PAGKILALA
+
+REPUBLIKA NG PILIPINAS )
+
+LUNGSOD NG )S.S
+
+SA ARAW NA ITO, ngayong_ ika araw ng
+20 dito sa ay humarap at nagpakita ng
+kanilang patunay ng pagkakakilanlan:
+PANGALAN PAGKAKAKILANLAN PETSA LUGAR
+NAGKALOOB
+
+ 
+
+NAGPAUTANG NA
+MAY GARANTIYA
+
+Kapwa nagpakilala sa akin na sila ang nagsagawa ng kasulatang ito at kanilang
+kinikilala sa akin na ito ay kanilang kusa at malayang gawa.
+
+Ang kasulatang ito ay nauukol sa KASUNDUAN SA GARANTIYA, binubuo ng
+DALAWANG (2) pahina, kabilang ang pahinang ito, nilagdaan ng nagsagawa pati na ang
+kanilang mga saksi sa bawat pahina nito.
+
+MASDAN AT TUNGHAN ang aking lagda at dampi ng timbre notaryal sa pook at
+petsang nasasaad sa dakong unahan nito.
+
+Notaryo Publiko
+
+Pahina Bing
+Kasulatan Bing.
+Aklat Bing
+Serye ng 20
+
+KASUNDUAN SA GARANTIYA
+
+Itong KASUNDUAN SA GARANTIYA, ginawa at isinakatuparan ngayong ika- araw ng
+, 20 dito sa sa pagitan nina:
+
+(PANGALAN NG NAGKALOOB), may sapat na gulang, walang asawa/ kasal kay
+
+, naninirahan sa , isang korporasyong binuo at umiiral sa
+_ ilalim at bisa ng mga batas ng Republika ng Pilipinas, may principal na lugar sa
+at kinakatawan ng /ni , at dito ay binabanggit bilang
+“NAGKALOOB”
+2@ te
+
+(PANGALAN NG NAGPAUTANG NA MAY GARANTIYA), may sapat na gulang, walang
+
+asawa/ kasal kay , Naninirahan sa isang
+korporasyong binuo at umiiral sa ilalim at bisa ng mga batas ng Republika ng Pilipinas, may
+principal na lugar sa at kinakatawan ng /ni , at dito
+
+ay binabanggit bilang “NAGPAUTANG NA MAY GARANTIYA”
+NAGPAPATUNAY :
+
+SAPAGKAT, ang NAGPAUTANG NA MAY GARANTIYA ay sumang-ayon upang mabigyan ang
+NAGKALOOB ng hanay ng pautang upang tustusan ang mga proyekto ng NAGKALOOB sa ilalim
+ng kasunduang may petsang (na maaring amyendahan, susugan o baguhin
+paminsan minsan ang KASUNDUAN SA PAUTANG);
+
+SAPAGKAT, ang pagkakasakatuparan nitong KASUNDUAN SA GARANTIYA ay isang
+kondisyon para sa pagbigay ng pautang mula sa NAGPAUTANG NA MAY GARANTIYA tungo
+sa NAGKALOOB, sa ilalim ng KASUNDUAN SA PAUTANG;
+
+SAMAKATUWID, ang MAGKABILANG PANIG ay sumasang-ayon;
+
+1. Mga Nakatakda sa KASUNDUANG ito:
+
+a. Ang bawat termino na nakatakda sa ilalim ng Republika Blg. 11057 ( “Personal
+Property Security Act”) ay magtataglay ng kahulugang nakasaad sa RA.11057;
+
+b. Pagkukulang (“Event of Default”) ay may kahulugang (i) anumang pangyayari
+na maituturing na di pagtupad sa KASUNDUAN SA PAUTANG, at (ii) anumang
+di pagtupad ng NAGKALOOB sa alinmang pananagutan sa ilalim ng
+KASUNDUANG ito;
+
+2. Paglikha ng Interes sa Garantiya at may garantiyang obligasyon:
+
+2.1 Ang NAGKALOOB ay nagbibigay ng Interes sa Garantiya (“Security Interest”)
+sa NAGPAUTANG NG MAY GARANTIYA ukol sa lahat ng mga ari-arian sa
+kasalukuyan at hinaharap na nakapaloob sa mga sumusunod na kategorya na
+may “Ari-ariang may Pananagutan”
+
+(a) Imbentaryo;
+
+(b) Pasahod;
+
+(c) Kagamitan;
+
+(d) Mga pondong nakalagak sa “bank account”;
+
+(e) Mga dokumentong maipagbibili (“negotiable instrument”), na may pasubali,
+listahan ng kargada, resibo ng bodega;
+
+(f) Mga instrumentong maipagbibili (“negotiable instrument”), na walang
+pasubaili, listahan ng palitan, tseke, at kasulatan ng pagbabayad- utang;
+
+(g) Mga pag aaring intelektual at karapatan ng lisensya;
+
+(h) Mga iba pang ari-arian kung mayroon;
+
+(i) Samga bagay na hindi nakalista dito lahat ng naibunga at produkto ng mga
+nabanggit sa itaas;
+
+2.2 OBLIGASYONG MAY GARANTIYA
+Ang Interes sa Garantiya (“Security Interes”) na dito’y nilikha ay gumagarantiya
+sa lahat ng obligasyon ng NAGKALOOB sa NAGPAUTANG NG MAY
+GARANTIYA sa kasalukuyan at sa hinaharap at sa anumang itinatadhana ng
+KASUNDUAN SA PAUTANG;
+
+3. Mga Panukala ng NAGKALOOB
+3.1 Lugar ng mga ari-arian may pananagutan
+
+(a) Ang inbentaryo at kagamitan ng NAGKALOOB ay hahawakan at gagamitin
+lamang ng NAGKALOOB sa Republika ng Pilipinas maliban kung ang
+NAGKALOOB ay nagbigay-alam sa NAGPAUTANG NG MAY GARANTIYA
+ukol sa mga pagbabago ng lugar na nakasaad sa listahan kalakip ng
+KASUNDUANG ito;
+
+(b) Ang listahan ng mga nangutang ng mga halagang matatanggap ng
+NAGKALOOB ay mananatili sa Republika ng Pilipinas maliban kung ang
+NAGKALOOB ay nagbigay-alam sa NAGPAUTANG NG MAY GARANTIYA
+ukol sa mga pagbabago ng lugar na nakasaad sa listahan kalakip ng
+KASUNDUANG ito;
+
+(c) Ang mga bank account ng NAGKALOOB ay mananatili lamang sa mga sangay
+ng bangko sa Republika ng Pilipinas maliban kung ang NAGKALOOB ay
+nagbigay-alam sa NAGPAUTANG NG MAY GARANTIYA ukol sa mga
+pagbabago ng lugar na nakasaad sa listahan kalakip ng KASUNDUANG ito.
+Ang mga KASUNDUAN ukol sa bank account ay masasakop ng mga angkop
+na batas ng Republika ng Pilipinas at hindi sakop ng ibang batas sa mga bagay
+na may kaugnayan sa KASUNDUANG ito;
+
+3.2 Lugar at Pangalan ng NAGKALOOB
+
+(a) Ang nakatalang tanggapan at lugar ng punong himpilan ng NAGKALOOB ay
+mananatili habang panahon sa Republika ng Pilipinas;
+
+(b) Ang wastong pangalan at kalagayang ligal (“civil status”) ng NAGKALOOB ay
+mananatili kung ano ang nakalahad sa unang pahina ng KASUNDUANG ito.
+Ang NAGKALOOB ay hindi magpapalit ng kalagayang ligal nang wala munang
+pahintulot ng NAGPAUTANG NG MAY GARANTIYA sa loob ng tatlumpung
+(30) araw.
+
+4. Pagbibigay ng Otoridad kaugnay ng Ariariang may Pananagutan (‘“Encumbered
+Assets”)
+
+4.1 Pagrerehistro
+Ang NAGKALOOB ay nagbibigay ng karapatan sa NAGPAUTANG NG MAY
+GARANTIYA upang magparehistro ng anumang patalastas at magsagawa ng
+anumang hakbang na kinakailangan o makakatulong upang ang GARANTIYA
+ng NAGPAPAUTANG NA MAY GARANTIYA ay magkaroon ng mabisang
+panagot laban sa _sinumang_ ikatatlong partido (“third party”) na
+magpaparehistro din;
+
+4.2 Inspeksyon at Kopya
+
+a. Ang NAGPAPAUTANG NG MAY GARANTIYA ay maaaring mag-
+inspeksyon sa mga ari-ariang pananagutan(“Encumbered Assets”) at
+anumang mga dokumento o talaan nito, at para dito maaaring pasukin ang
+lugar ng NAGKALOOB, matapos magbigay ng sapat na pabatid;
+
+b. Ang NAGKALOOB ay magbibigay sa NAGPAPAUTANG NG MAY
+GARANTIYA ng kopya ng mga resibo, kontrata, at iba pang dokumentong
+nagpapatunay ng mga pautang;
+
+4.3 Mga Transakyon sa ariariang may pananagutan(“Encumbered Assets”)
+a. Hanggang hindi pa naipagbibigay alam ng NAGPAUTANG NG MAY
+GARATIYA sa NAGKALOOB ang tungkol sa di pagtupad (“Event of
+Default”) ang NAGKALOOB ay maaaring magbenta, magpaupa,
+
+magpahintulot 0 maglipat ng imbentaryo at mga dokumento ng pag
+mamayari, maningil ng mga pautang at mga (“negotiable instrument”) at
+magdispatsa ng mga sira o lumang kagamitan bilang bahagi ng
+pamamalakad sa negosyo
+
+b. Ang NAGKALOOB ay hindi magbibigay ng anumang “Security Interest” sa
+mga ariariang may garantiya, maliban sa mga bagay na nakasaad sa talata
+(a), at hindi maaring magbenta, magpaupa, magbigay-lisensya o
+magpaubaya ng mga ariariang may pananagutan.
+
+c. Maliban kung may napagkasunduan ang magkabilang panig ang
+NAGPAUTANG NG MAY GARANTIYA ay maaring magbigay- babala
+anumang oras sa mga pinagkakautang ng NAGKALOOB tungkol sa
+“Security Interest”, subalit ang paunang babala na naibigay bago mang yari
+ang “Event of Default” ay magbibigay karapatan sa mga nangutang na
+magbayad sa NAGKALOOB maliban kung may naiibang tagubilin ang
+NAGPAUTANG NG MAY GARANTIYA matapos nangyari ang “Event of
+Default”
+
+5. Mga Pangakong Pagsasagawa ukol sa ari ariang may pananagutan
+5.1 Mga Ariariang Natitinag(“Movable Assets”)
+Ang nagkaloob ay nangangakong ang mga Ari-ariang may pananagutan ay
+mananatiling Ari-ariang Natitinag at hindi ikakabit sa ari-ariang di-natitinag.
+
+5.2 Pagiging mabisa ng Interes sa Garantiya (“Security Interest”)
+Ang NAGKALOOB ay magsasagawa at magpapatupad ng lahat ng hakbang
+upang ang lahat ng dokumentong makatuwirang hinihingi ng NAGPAUTANG
+NA MAY GARANTIYA para ang kaniyang Interes garantiya (“Security
+Interest”) ay mananatiling maipatutupad, mabisa at may pagiging una kaysa
+sa pangatlong panig sa lahat ng nasasakupan ng bias ng ariariang may
+pananagutan saan man ito naroroon.
+
+5.3 Mga Bank Account
+Ang NAGKALOOB ay gagawa ng lahat ng paraan upang ang “Security
+Interest” ng NAGPAUTANG NA MAY GARANTIYA ay magiging mabisa sa
+lahat ng partido sa pamamagitan ng kasunduan sa pagkontrol ng lahat ng
+ponding nakalagak sa “bank account” maliban sa hawak ng NAGPAUTANG
+NA MAY GARANTIYA
+
+6. Pagpapatupad
+6.1 Mga Karapatan kung may di pagtupad
+
+Pagkatapos ng pangyayari at habang nagpapatuloy ang “Event of Default”:
+
+(a) Ang NAGPAUTANG NG MAY GARANTIYA ay maaring magpatupad ng
+kanyang Interes sa Garantiya at gamitin ang lahat ng kaniyang karapatan
+sa ilalim ng Personal Property Security Act at iba pang angkop na batas.
+
+(b) Ang NAGPAUTANG NG MAY GARANTIYA ay maaring magpatupad ng
+mga sumusunod ng probisyon ng angkop na batas:
+
+(i) Hawakan, gamitin, paandarin, pangasiwaan, ipagbili, paupahan,
+bigyang lisensya o dispatsahin ang alin mang ariariang may
+pananagutan sa ano mang paraan na kanyang mamarapatin
+
+(ii) Singilin ang mga pautang at instrumentong maipagbibili ng
+NAGKALOOB, at makipagkasundo o makipag-unawaan sa mga may
+utang tungkol sa mga singilin at instrumentong ito, at magpawalang
+bisa sa mga ito.
+
+(iii) Magsagawa ng lahat ng mga hakbang na kinakailangan o makabubuti
+sa pagpapatupad ng pakinabang sa mga ariariang may pananagutan,
+kabilang na ang mga pagsagawa ng imbentaryo at pagbili ng hilaw na
+sangkap.
+
+6.2 Karapatan upang Pasukin ang bakuran ng NAGKALOOB
+Ang NAGKALOOB ay magbibigay pahintulot sa NAGPAUTANG NA MAY
+GARANTIYA upang pasukin at gamitin ang lugar at kapaligiran kung saan
+naroon ang ariariang may pananagutan upang ipatupad ang mga karapatan
+nito.
+
+6.3 Paraan ng Pagpapatupad
+Ang magpapatupad ng mga karapatan sa mga ariariang may pananagutan ay
+maaaring ipatupad sa kalahatan o sa bahagi nito.
+
+6.4 Muling Pagbabayad ng mga ipinaluwal
+Ang NAGKALOOB ay magsasauli ng gastos sa NAGPAUTANG NA MAY
+GARANTIYA kapag ito as humingi ng kapalit ng kaniyang mga nagastos sa
+pagpapatupad ng kaniyang mga karapatan, at ito ay may interesna_—‘%
+bawat taon.
+
+7. Mga Pangkalahatang Probisyon
+7.1 Karagdagan at patuloy na garantiya
+Ang interes sa garantiya na nilikha ng kasunduang ito ay bilang karagdagan
+(at hindi kapalit) ng ibang garantiyang hawak ng NAGPAUTANG NA MAY
+GARANTIYA, at ito ay magpapatuloy sa kabila ng pana-panahong
+pagbabayad ng kabuuan o bahagi ng mga obligasyon. Subalit ang interes sa
+garantiyang ito ay magwawakas kapag natapos na ang mga
+napagkasunduang pautang at kung lahat ng mga obligasyon ay natupad nang
+lubusan.
+
+7.2 Mga Koleksyon
+Ang anumang halagang nakolekta ng NAGPAUTANG NA MAY GARANTIYA
+mula sa ariariang may pananagutan bago pa maging takdang panahon ay
+maaaring hawakan niya bilang ariariang may pananagutan.
+
+7.3 Iba pang Mapagkukunan
+Ang pagpapatupad ng NAGPAUTANG NA MAY GARANTIYA ng kaniyang
+karapatan ay hindi hadlang upang siya ay magsagawa ng iba pang mga
+karapatan sa ilalim ng kasunduang ito o ng mga batas, at ang lahat ng
+karapatan niya ay makakasanib at hindi salit-salitan. Ang NAGPAUTANG NA
+MAY GARANTIYA ay maaaring magpagtupad ng kaniyang interes dito nang
+hindi kailangang unahin ang ibang taong may utang o may ibang seguridad.
+
+7.4 Hindi pag kakapareho sa KASUNDUAN NG PAUTANG
+Kung mayroong pagkakaiba sa kasunduang ito at sa KASUNDUAN SA
+PAUTANG ay mananaig ang Kasunduan sa Pautang.
+
+8. Mga Angkop na Batas
+Ang kasunduang ito ay nasasakop at bibigyang kahulugan sa ilalim ng mga batas ng
+Republika ng Pilipinas. Ang mga probisyon nito ay bibigyan din ng kahulugan ayon sa
+intensyon ng magkabilang panig upang ang “security interest” ay magkakabisa sa lahat
+ng lugar kung saan maipatutupad ang mga karapatan ng NAGPAUTANG NA MAY
+GARANTIYA.
+
+9. Mga Pabatid
+Ang anumang pabatid ng magkabilang panig sa isa’t isa ay dapat nakasulat at ibibigay
+ayon sa itinatadhana ng KASUNDUAN SA PAUTANG.
+
+10 . Mga katulad na kopya at lagda ng bawat Panig
+Ang kasunduang ito ay maaari ng isagawa sa kahit ilang katulad na kopya (counterparts)
+at ng bawat panig sa magkakahiwalay na kopya, at ang alin mang katulad na kopya ay
+magiging orihinal na kopya. Ang pagpapadala ng naisagawang katulad na kopya ng
+pahinang may lagda sa pamamagitan ng “electronic mail” ay may ganoon ding bisa
+katulad ng katulad na kopya (counterpart) na kanilang nilagdaan.
+
+SA KATUNAYAN NG LAHAT, kami ay lumagda ngayong ika- araw
+dito sa .
+
+ 
+
+NAGKALOOB NAGPAUTANG NA MAY GARANTIYA
+
+Nilagdaan sa harap nina:
+
+Saksi Saksi
+PAGKILALA
+
+REPUBLIKA NG PILIPINAS )
+LUNGSOD NG )S.S
+
+SA ARAW NA ITO, ngayong_ ika araw ng
+20 dito sa ay humarap at nagpakita ng
+kanilang patunay ng pagkakakilanlan:
+PANGALAN PAGKAKAKILANLAN PETSA LUGAR
+NAGKALOOB
+
+ 
+
+ 
+
+NAGPAUTANG NA
+MAY GARANTIYA
+
+ 
+
+Kapwa nagpakilala sa akin na sila ang nagsagawa ng kasulatang ito at kanilang
+kinikilala sa akin na ito ay kanilang kusa at malayang gawa.
+
+Ang kasulatang ito ay nauukol sa KASUNDUAN SA GARANTIYA, binubuo ng
+DALAWANG (2) pahina, kabilang ang pahinang ito, nilagdaan ng nagsagawa pati na ang
+kanilang mga saksi sa bawat pahina nito.
+
+MASDAN AT TUNGHAN ang aking lagda at dampi ng timbre notaryal sa pook at
+petsang nasasaad sa dakong unahan nito.
+
+Kasulatan Bling. Notaryo Publiko
+Pahina Bing
+
+Aklat Bing
+
+Serye ng 20

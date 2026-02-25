@@ -1,0 +1,67 @@
+MALACAÑANG MANILA
+
+ADMINISTRATIVE ORDER NO. 175
+
+DELINEATING THE FUNCTIONS AND RESPONSIBILITIES OF AGENCIES INVOLVED IN THE DEVELOPMENT AND MAINTENANCE OF A COMPUTER-BASED NATIONAL CRIME INFORMATION SYSTEM (NCIS)
+
+WHEREAS, Executive Order No. 386, dated 19 December 1989, mandates the establishment of an integrated computer-based National Crime Information System (NCIS) to provide comprehensive, adequate and timely information on crimes, criminals, and operations of the criminal justice system (CJS) and thereby ensure fair, efficient, and effective administration of justice and maintenance of law and order in the country;
+
+WHEREAS, an NCIS Project Plan has been prepared by an NCIS Project Team headed by the National Police Commission;
+
+WHEREAS, operationalization of the NCIS Project Plan requires phasing of project implementation into two phases with three-year time frames: Phase I (Metro Manila) and Phase II (nationwide); and
+
+WHEREAS, the effective and efficient implementation of the NCIS requires a clear delineation of the roles and responsibilities of concerned agencies.
+
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+SECTION 1. The National Police Commission shall continue to be the lead agency for the Project, as provided under Sec. 4 of Executive Order No. 386, and is hereby tasked with the following duties and responsibilities:
+
+a. Set-up and maintain the National Crime Information Center (NCIC) which shall serve as the nerve center of the computer network involving criminal justice agencies.
+
+The NCIC shall operate initially on facilities to be provided by the Philippine National Police, to be manned by personnel assigned by the contracting agencies, and with the National Police Commission as the lead agency.
+
+b. Promulgate and implement policies and standards on data structure, access, control, authorization, monitoring, prioritization, collection, and other related activities for NCIS.
+
+c. Determine the system configuration and networking requirements for NCIS.
+
+d. Ensure effective coordination between and among NCIS agencies, as provided under Executive Order No. 386, series of 1989.
+
+e. Oversee the implementation of the NCIS as embodied in the NCIS Project Plan.
+
+SEC. 2. The Philippine National Police, the National Bureau of Investigation, and the National Prosecution Service shall have the following duties and responsibilities:
+
+a. Ensure full and consistent compliance by their respective units with the utilization of the National Crime Reporting System (NCRS) Form No. 1.
+
+b. Formulate and conduct the necessary briefings/seminars/workshops to their respective personnel to ensure smooth implementation of the NCIS Project Plan.
+
+c. Prepare and submit to the NCIS Project Team a complete listing of all data/information to be shared and passed on to the NCIC and ensure their databases accuracy, reliability, timely provision and availability to NCIC users.
+
+d. Network with the NCIC and maintain the appropriate file back-up control mechanisms.
+
+e. Facilitate the flow of information to and from the regional offices through the respective agencies’ computer centers.
+
+f. Plan, source out and provide the necessary financial resources and information technology resources to support the implementation of the aforementioned activities.
+
+In addition, the Philippine National Police shall make available its data communication facilities and the appropriate data entry softwares for the NCRS criminal justice system data-capture forms to facilitate intra- and inter-agency communication and lateral coordination with other NCIS agencies.
+
+SEC. 3. The National Computer Center shall provide the technical and management expertise necessary for the implementation and completion of the NCIS Project.
+
+SEC. 4. All concerned agencies are hereby directed to provide full support in the operationalization of the NCIS.
+
+The National Police Commission is also hereby directed to submit regular reports on the implementation of the NCIS to the National Information Technology Council created under Executive Order No. 190, dated 19 July 1994.
+
+SEC. 5. The necessary funding for the implementation of the NCIS Project Plan shall be taken initially from the authorized appropriations of the concerned agencies and, for the succeeding years, shall be incorporated in the budget proposals of the agencies for congressional action.
+
+SEC. 6. This Administrative Order shall take effect immediately.
+
+DONE, in the City of Manila, this 17th day of February, in the year of Our Lord Nineteen Hundred and Ninety-Five.
+
+(Sgd.) FIDEL V. RAMOS President of the Philippines
+
+By the President:
+
+(Sgd.) TEOFISTO T. GUINGONA, JR. Executive Secretary
+
+Source : Malacañang Records Office
+
+Office of the President of the Philippines. (1995). [Administrative Order Nos. : 101 – 200]. Manila : Malacañang Records Office.

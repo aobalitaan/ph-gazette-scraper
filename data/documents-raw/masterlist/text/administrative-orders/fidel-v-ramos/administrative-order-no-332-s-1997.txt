@@ -1,0 +1,53 @@
+MALACAÑANG MANILA
+
+ADMINISTRATIVE ORDER NO. 332
+
+DIRECTING ALL GOVERNMENT AGENCIES AND INSTRUMENTALITIES INCLUDING LOCAL GOVERNMENT UNITS TO UNDERTAKE ELECTRONIC INTERCONNECTION THROUGH THE INTERNET TO BE KNOWN AS THE RPWEB
+
+WHEREAS , the objective of the National Information and Technology Plan (NITP 2000) is to disseminate Information Technology in our society, giving priority to connecting the Philippines to the Global Information Infrastructure (GII), pursuant to our strategic vision of “Philippines 2000” and “pole vaulting” into the 21st century;
+
+WHEREAS , there is a need to immediately set in place a viable and cost effective communication and information exchange system for greater speed and efficiency in intergovernmental communications and transactions, at the same time ensuring wider and faster access to government information and services among government agencies and the public;
+
+WHEREAS , the National Information Technology Council (NITC) has recommended the adoption of the RPWEB while the House of Representatives has passed House Resolution No. 890 seeking the interconnection of all government agencies and instrumentalities, including government owned and controlled corporations, state universities and colleges and public schools through the Internet by connecting with any of the Internet Service Providers (ISPs) throughout the country;
+
+NOW, THEREFORE, I, FIDEL V. RAMOS , President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+SECTION 1. Interconnection in the Government. – All government departments, agencies, bureaus and instrumentalities and as practicable down to the division level, including field offices, government-owned and controlled corporations, state universities and colleges, public schools and local government units shall interconnect using the Internet, through any ISP. This virtual interconnection shall be known as the RPWEB which shall be the precursor to the Philippine Information Infrastructure (PII).
+
+This Order shall be implemented in the following phases:
+
+Government offices shall connect to the Internet as soon as possible. This phasing shall not inhibit other government offices to connect earlier as the circumstances would warrant specially government offices physically separated from the main offices, provided such connection is part of its information technology system plan/program.
+
+SEC. 2. Monitoring of Utilization of Budget for Interconnection. – The Department of Budget and Management (DBM) shall monitor the utilization of the existing appropriations and savings of government agencies and instrumentalities pertaining to Internet connection. For the speedy acquisition of hardware, software data modems, telephone dial-up lines, leased/dedicated lines and local area networks necessary for the Internet connections, DBM shall no longer require government offices to submit individual requests for authority for the purpose, out of the above mentioned existing appropriations and savings.
+
+SEC. 3 . Implementing Agency . – The Department of Transportation and Communications, through the National Telecommunications Commission (NTC), shall undertake the following to facilitate the establishment of the RPWEB:
+
+a. Ensure that the ISPs servicing government offices and the academe are interconnected with each other for purposes of local data transmission via the Internet and through network access points which should also be connected to each other at no cost to the government;
+
+b. Ensure that the telecommunications carriers give priority, as may be necessary, to the telephone dial-up lines, leased/dedicated lines and trunking facility requirements of the ISPs;
+
+c. Ensure the completion of telecommunication facilities programmed for 1998 under the Service Area Scheme by requiring all telecommunication carriers to fast-track the implementation of their telephone roll-out programs, especially in the regions/provinces, as provided for in EO 109; and
+
+d. Study the possibility of reducing or maintaining at minimal levels the tariff rates on international and local leased/dedicated lines to ensure greater affordability of these services, as well as other measures that will encourage the wider use of and access to the Internet.
+
+SEC. 4. Project Implementation Monitoring . – The National Information Technology Council shall monitor and evaluate the implementation after six (6) months to ensure that the objectives of this order are being attained and to make the necessary recommendations to improve its implementation.
+
+The NITC, through the National Computer Center and in coordination with DBM and DOTC/NTC, shall issue such rules, regulations, circulars and other issuances as may be necessary to ensure the effective implementation of the provisions of this Administrative Order. The NITC shall also submit regular quarterly reports on the status of implementation of the RPWEB to the Office of the President.
+
+SEC. 5. Source of Funds. – The funds necessary to undertake electronic interconnection through the Internet, known as RPWEB, shall be charged against the existing appropriations and savings of the respective government agencies and instrumentalities. Henceforth, all government departments, agencies, bureaus and instrumentalities shall set aside a minimum amount to cover the implementation and maintenance costs of Internet connection out of their appropriations in the annual general appropriations act and shall submit to DBM semestral reports on the amounts utilized for the RPWEB.
+
+SEC. 6. Repealing Clause. – All issuances, orders and regulations or parts thereof which are inconsistent with any of the provisions of this administrative order are hereby repealed or modified accordingly.
+
+SEC. 7. Effectivity. – This Administrative Order shall take effect immediately.
+
+DONE in the City of Manila, this 7th day of November in the year of Our Lord, Nineteen Hundred and Ninety-Seven.
+
+(Sgd.) FIDEL V. RAMOS President of the Philippines
+
+By the President:
+
+(Sgd.) RUBEN D. TORRES Executive Secretary
+
+Source : Malacañang Records Office
+
+Office of the President of the Philippines. (1997). [Administrative Order Nos. : 301 – 407]. Manila : Malacañang Records Office.

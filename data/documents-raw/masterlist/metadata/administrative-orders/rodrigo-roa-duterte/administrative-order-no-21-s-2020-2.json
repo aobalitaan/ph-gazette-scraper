@@ -10,8 +10,8 @@
   "text": null,
   "word_count": null,
   "has_html_content": false,
-  "is_pdf_only": false,
-  "scrape_status": "failed",
-  "scrape_error": "HTTP 403",
-  "scraped_at": "2026-02-23T01:30:28.317355Z"
+  "is_pdf_only": true,
+  "scrape_status": "success",
+  "scrape_error": null,
+  "scraped_at": "2026-02-23T04:44:03.471429Z"
 }

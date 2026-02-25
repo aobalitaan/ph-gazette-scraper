@@ -1,0 +1,57 @@
+MALACAÑANG MANILA
+
+MEMORANDUM ORDER NO. 70
+
+CREATING A TASK FORCE FOR THE FORMULATION, ADVOCACY AND IMPLEMENTATION OF THE NATIONAL Y2K CONTINGENCY PLAN
+
+WHEREAS, the Philippines, as a member of the global community, is facing the enormous Year 2000 problem also known as the “Y2K Bug” or “Millennium Bug” which, if not fixed on or before 1 January 2000, will wreak havoc on computer-based systems and devices with embedded microchips by generating erroneous data and lead to system crashes that may disrupt business operations and delivery of public services;
+
+WHEREAS, the Presidential Commission on Year 2000 Compliance was established by Executive Order No. 14 and issued on 19 August 1998 to direct and coordinate all efforts for year 2000 compliance to avert the threat posed by the “Y2K Bug” or “Millennium Bug”;
+
+WHEREAS, Section 11 of RA 8747 mandated the National Security Council as the lead agency in formulating the National Y2K Contingency Plan in Collaboration with the Presidential Commission on Year 2000 Compliance (Y2K Commission), the Department of Science and Technology (DOST), the National Computer Center (NCC), the National Disaster Coordinating Council (NDCC), and the Technology and Livelihood Resource Center (TLRC);
+
+WHEREAS, seven (7) mission-critical sectors are already identified and defined by the Presidential Commission on Year 2000 namely the: utilities, communications, transportation, healthcare, finance, manufacturing, and government services sectors;
+
+WHEREAS, while dire consequences have already been foreseen and remedies found, the enormity and costs of the work to be done and the time available to do it would make it difficult for the seven (7) mission-critical sectors mentioned in the preceding paragraph to be 100 percent compliant by year 2000, and even if they are 100 percent compliant other unforeseen consequences may still occur with national security implications;
+
+WHEREAS, in view of the urgency and magnitude of the problem, there is a need to strengthen and hasten coordinated efforts to prepare for possible negative repercussions caused by the Y2K on the systems that are essential to the economy and national security.
+
+NOW, THEREFORE, I, JOSEPH E. ESTRADA, President of the Republic of the Philippines by virtue of the powers vested in me by the Constitution, do hereby order:
+
+Section 1. Creation of a Task Force for the Formulation, Advocacy and Implementation of a National Y2K Contingency Plan. There is hereby created a National Y2K Contingency Task Force hereinafter referred to as the Task Force in this Order, to ensure the formulation, advocacy and implementation of a National Y2K Contingency Plan.
+
+Section 2. Composition. The Task Force shall have the following composition:
+
+The members may designate their permanent alternates as their respective Department/Agency Action Officers to the Task Force whose ranks shall not be lower than Undersecretary or its equivalent.
+
+Section 3. Functions. The Task Force shall serve as an oversight body for ensuring the formulation, advocacy and implementation of a National Y2K Contingency Plan. The National Security Council, as lead Agency, shall ensure the formulation of a National Y2K Contingency Plan in collaboration with the Presidential Commission on Year 2000 Compliance (Y2K Commission) and the National Disaster Coordinating Council (NDCC), taking into consideration the sectoral contingency plans (CPs) of the seven (7) mission-critical sectors. The Task Force may create sub-committees and/or working groups as it deems necessary to ensure the efficient and effective discharge of its responsibilities.
+
+The Task Force is hereby authorized to call upon any department, bureau, office, agency or instrumentality of the government, for such assistance as may be needed in the discharge of their functions.
+
+Section 4. Office of Primary Responsibility (OPRs). The member-agencies shall serve as the Office of Primary Responsibility (OPRs) in providing direction to, and in coordinating with their respective private sector counterpart to ensure the formulation, integration, advocacy and implementation of Sectoral Y2K Contingency Plans. Each OPR shall furnish the President through the Task Force with their respective Sectoral Y2K Contingency Plan not later than August 1999. The OPR for each of the seven (7) mission-critical sectors shall be as follows:
+
+Section 5. Coordination. The OPRs and the Project Officers of the Y2K Commission shall maintain close coordination in ensuring the formulation of each mission-critical sectoral Y2K contingency plans. The OPRs are encouraged to coordinate with cognizant institutions to facilitate the completion of the Sectoral Contingency Plans. The companies or agencies concerned under each mission-critical sector are responsible for the advocacy and implementation of their respective CPs in coordination with their respective OPRs.
+
+Section 6. Technical Committee. The Y2K Commission Secretariat, the NSC Secretariat, the National Disaster Coordinating Council (NDCC), the Philippine Information Agency (PIA), the Department of Science and Technology (DOST), the National Computer Center (NCC), the Technology and Livelihood Resource Center (TLRC), the Department of Budget and Management (DBM), the National Economic and Development Authority (NEDA), and the National Intelligence Coordinating Agency (NICA) shall provide technical and other appropriate support, in accordance with their respective mandates, to the National Y2K Contingency Task Force as may be needed.
+
+Section 7. Administrative Sanctions. Appropriate administrative action may be taken against any concerned officer of a department, bureau, office, agency or instrumentality of the government, who refuses or neglects, without just cause, to render assistance to the Task Force pursuant to Section 3 hereof.
+
+Section 8. Implementing Guidelines. The Task Force shall issue the necessary general guidelines and the prescribed standard formats for CPs and other incidental matters to implement this order not later than fifteen (15) days from the effectivity hereof.
+
+Section 9. Funding. Such amounts as are necessary for the effective implementation of the National Y2K Contingency Plan and for the operations of the Task Force shall be provided from available budget sources of the Office of the President after submission of funding requirements therefor through DBM. Provided further, that funds needed by individual government agencies for their Y2K remediation activities and all other Y2K activities shall be primarily sourced from the agencies’ existing appropriations and savings, and as such, the government agencies may realign funds therefore from any budget expense class of existing agency programs and projects without the need of prior individual authority or approval from the Department of Budget and Management for Y2K remediation activities and directly related Y2K readiness activities, pursuant to Section 13 of RA 8747.
+
+All agencies are required to submit their budgetary requirements for Y2K Contingency Planning, including their participation in the Task Force, not later than the end of June 1999 for consolidation and integration by the Presidential Commission on Year 2000 Compliance prior to submission to the DBM.
+
+Section 10. Term of the Task Force. The Task Force shall exist from the effectivity of this Order up to the end of the year 2000 whereby its existence shall automatically expire by then, unless the President in the interest of public service extends its term.
+
+Section 11. Repealing Clause. All orders, rules and regulations and/or similar issuances inconsistent with this Memorandum Order are hereby revoked, amended or modified accordingly.
+
+Section 12. Effectivity. This Memorandum Order shall take effect immediately.
+
+DONE in the City of Manila, this 27 Th day of JULY in the Year of Our Lord, Nineteen Hundred and Ninety Nine.
+
+(Sgd.) JOSEPH EJERCITO ESTRADA
+
+By the President: (Sgd.) RONALDO B. ZAMORA Executive Secretary
+
+Source: CDAsia

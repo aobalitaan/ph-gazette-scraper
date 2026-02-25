@@ -1,0 +1,215 @@
+H. No. 6198 S. No. 2686
+
+Republic of the Philippines Congress of the Philippines Metro Manila
+
+Sixteenth Congress
+
+Third Regular Session
+
+Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.
+
+[REPUBLIC ACT NO. 10844 ]
+
+AN ACT CREATING THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, DEFINING ITS POWERS AND FUNCTIONS APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+SECTION 1. Short. Title. – This Act shall be known as the “Department of Information And Communications Technology Act of 2015”.
+
+SEC. 2. Declaration of Policy. – It is hereby declared the policy of the State:
+
+(a) To recognize the vital role of information and communication in nation-building;
+
+(b) To ensure the provision of £ strategic, reliable, cost-efficient and. citizen-centric information and communications technology (ICT) infrastructure, systems and resources as instruments of good governance and global competitiveness;
+
+(c) To ensure universal access to quality, affordable, reliable and secure Id’ services;
+
+(d) To promote the development and widespread use of emerging ICT and foster and accelerate the convergence of ICT and ICT-enabled facilities;
+
+(e) To ensure the availability and accessibility of ICT services in areas not adequately served by the private sector
+
+(f) To foster an ICT sector policy environment that will promote a broad market-led development of the ICT and ICT-enabled services (1CT-ES) sectors, a level playing field, partnership between the public and private sectors, strategic alliance with foreign investors and balanced investments between high-growth and economically-depressed areas;
+
+(g) To promote and assist the development of local ICT content, applications and services which may include support for ICT-based start-up enterprises through strategic partnerships;
+
+(h) To promote the use of ICT for the enhancement of key public services, such as education, public health and safety, revenue generation, and socio-civic purposes;
+
+(i) To encourage the use of ICT for the development and promotion of the country’s arts and culture, tourism and national identity;
+
+(j) To promote digital literacy, ICT expertise, and knowledge-building among citizens to enable them to participate and compete in an evolving ICT age:
+
+(k) To empower, through the use of ICT, the disadvantaged segments of the population, including the elderly, persons with disabilities and indigenous and minority groups;
+
+(l) To ensure the rights of individuals to privacy and confidentiality of their personal information;
+
+(m) To ensure the security of critical ICT infrastructures including information assets of the government, individuals and businesses; and
+
+(n) To provide oversight over agencies governing and regulating the ICT sector and ensure consumer protection and welfare, data privacy and security, foster competition and the growth of the ICT sector.
+
+SEC. 3. Definition of Terms. – As used in this Act the following terms are defined as follows:
+
+(a) Information and Communications Technology or ICT shall mean the totality of electronic means to access, create, collect, store, process, receive, transmit, present and disseminate information:
+
+(b) Convergence shall mean the interface between and among various telephony, radio, video, broadcasting and multimedia infrastructure, devices and services, enabling users or subscribers thereof to communicate with one another;
+
+(c) Electronic Government or E-Government shall mean the use of ICT by the government and the public to enhance the access to and delivery of government services to bring about efficient, responsive, ethical, accountable and transparent government service:
+
+(d) ICT Sector shall mean those engaged in providing goods and services primarily intended to fulfill or enable the function of information processing and communication by electronic means. The ICT sector includes telecommunications and broadcast information operators, ICT equipment manufacturers, multimedia content developers and providers, ICT solution providers, internet service providers, ICT training institutions, software developers and ICT-ES providers;
+
+(e) ICT-Enabled Services or ICT-ES Sector shall mean those engaged in providing services that require the intrinsic use of Id’s including engineering or architectural design, informatics service providers, offshoring and outsourcing service providers such as call centers, back office processing, software development, medical or legal transcription, animation, game development, and other services that require the intrinsic use of a networked information infrastructure; and
+
+(f) Chief Information Officer or CIO shall mean a senior officer in all national government agencies (NGAs), including constitutional offices, state universities and colleges (SUCs), government-owned and -controlled corporations (GOCCs), and government financial institutions (GFIs) responsible for the development and management of the agency’s ICT systems and applications.
+
+SEC. 4. Creation of the Department of Information and Communications Technology (DICT). – There is hereby created the Department of Information and Communications Technology 7 , hereinafter referred to as the Department.
+
+SEC. 5. Mandate. – The Department shall be the primary policy, planning, coordinating, implementing, and administrative entity of the Executive Branch of the government that will plan, develop, and promote the national ICT development agenda
+
+SEC. 6. Powers and Functions. – The Department shall exercise the following powers and functions:
+
+I. Policy and Planning
+
+(a) Formulate, recommend and implement national policies, plans, programs and guidelines that will promote the development and use of ICT with due consideration to the advantages of convergence and emerging technologies;
+
+(b) Formulate policies and initiatives, in coordination with the Department of Education (DepED). the Commission on Higher Education (CHED), and the Technical Education and Skills Development Authority (TESDA), to develop and promote ICT in education consistent with the national goals and objectives., and responsive to the human resource needs of the ICT and ICT-ES sectors;
+
+(c) Provide an integrated framework in order to optimize all government ICT resources and networks for the identification and prioritization of all E-Government systems and applications as provided for m the E-Government Masterplan and the Philippine Development Plan (PDP);
+
+II. Improved Public Access
+
+(d) Prescribe rules and regulations for the establishment, operation and maintenance of ICT infrastructures in unserved and underserved areas, in consultation with the local government units (LGUs), civil society organizations (CSOs). private sector, and the academe;
+
+(e) Establish a free internet service that can be accessed in government offices and public areas using the most cost-effective telecommunications technology, through partnership with private service providers as may be necessary;
+
+III. Resource-Sharing and Capacity-Building
+
+(f) Harmonize and coordinate all national ICT plans and initiatives to ensure knowledge, information and resource-sharing, database-building and agency networking linkages among government agencies, consistent with E-Government objectives in particular, and national objectives in general;
+
+(g) Ensure the development and protection of integrated government ICT infrastructures and designs, taking into consideration the inventory of existing manpower, plans, programs, software, hardware, and installed systems;
+
+(h) Assist and provide technical expertise to government agencies in the development of guidelines in the enforcement and administration of laws, standards, rules, and regulations governing ICT;
+
+(i) Assess, review and support ICT research and development programs of the government in coordination with the Department of Science and Technology (DOST) and other institutions concerned;
+
+(j) Prescribe the personnel qualifications and other qualification standards essential to the effective development and operation of government ICT infrastructures and systems;
+
+(k) Develop programs that would enhance the career advancement opportunities of ICT workers in government;
+
+(l) Assist in the dissemination of vital information essential to disaster risk reduction through the use of ICT:
+
+(m) Represent and negotiate for Philippine interest on matters pertaining to ICT in international bodies, in coordination with the Department of Foreign Affairs (DFA) and other institutions concerned;
+
+IV. Consumer Protection and Industry Development
+
+(n) Ensure and protect the rights and welfare of consumers and business users to privacy, security and confidentiality in matters relating to ICT, in coordination with agencies concerned, the private sector and relevant international bodies;
+
+(o) Support the promotion of trade and investment opportunities in the ICT and ICT-ES sectors, in coordination with the Department of Trade and Industry (DTI) and other relevant government agencies and the private sector;
+
+(p) Establish guidelines for public-private partnerships in the implementation of ICT projects for government agencies; and
+
+(q) Promote strategic partnerships and alliances between and among local and international ICT, research and development, educational and training institutions, to speed up industry growth and enhance competitiveness of Philippine workers, firms, and small and medium enterprises in the global markets for ICT and ICT-ES.
+
+SEC. 7. Composition. – The Department shall be headed by a Secretary. The Department proper shall be composed of the Office of the Secretary, the Offices of the Undersecretaries and the assistant secretaries.
+
+SEC. 8. Secretary of Information and Communications Technology. – The Secretary shall be appointed by the President, subject to confirmation by the Commission on Appointments. The Secretary shall have the following functions:
+
+(a) Provide executive direction and supervision over the entire operations of the Department and its attached agencies,
+
+(b) Establish policies and standards for the effective, efficient and economical operation of the Department, in accordance with the programs of government;
+
+(c) Review and approve requests for financial and manpower resources of all operating offices of the Department:
+
+(d) Designate and appoint officers and employees of the Department, excluding the undersecretaries, assistant secretaries, and regional and assistant regional directors, in accordance with the civil service laws, rules and regulations;
+
+(e) Exercise disciplinary powers over officers and employees of the Department in accordance with law, including their investigation and the designation of a committee or officer to conduct such investigation:
+
+(f) Coordinate with IX5Us. other agencies and public and private interest groups, including nongovernment organizations (NGOs) and people’s organizations (POs) on Department policies and initiatives;
+
+(g) Prepare and submit to the President through the Department of Budget and Management (DBM) an estimate of the necessary expenditures of the Department during the next fiscal year, on the basis of the reports and estimates submitted by bureaus and offices under him/her;
+
+(h) Serve as a member of the Government Procurement Policy Board (GPPB) as established by Republic Act No. 9184;
+
+(i) Advise the President on the promulgation of executive and administrative orders and formulation of regulatory and. legislative proposals on matters pertaining to ICT development;
+
+(j) Formulate such rules and regulations and exercise such other powers as may be required to implement the objectives of this Act: and
+
+(k) Perform such other tasks as may be provided by law or assigned by the President.
+
+SEC. 9. Undersecretaries. – The Secretary shall be assisted by three (3) undersecretaries, who shall be appointed by the President upon the recommendation of the Secretary: Provided, That two (2) of the undersecretaries shall be career officers.
+
+SEC.10. Assistant Secretaries. – The Secretary shall be assisted by four (4) assistant secretaries who shall be appointed by the President upon the recommendation of the Secretary: Provided, That two (2) of the assistant secretaries shall be career officers: Provided, further, That at least one (1) of the assistant secretaries shall be a licensed Professional Electronics Engineer (PECE), or any suitably qualified person in accordance with Civil Service Commission (CSC) rules and regulations.
+
+SEC.11. Qualifications. – No person shall be appointed Secretary, Undersecretary, or Assistant Secretary of the Department unless he or she is a citizen and resident of the Philippines, of good moral character, of proven integrity and with at least seven (7) years of competence and expertise in any of the following: information and communications technology, information technology service management, information security management, cybersecurity, data privacy. e-Commerce, or human capital development in the ICT sector.
+
+SEC. 12. Regional Offices – The Department may establish, operate, and maintain a regional office in the different administrative regions of the country as the need arises. Each regional office shall be headed by a Regional Director, who may be assisted by one (1) Assistant Regional Director. The Regional Director and Assistant Regional Director shall be appointed by the President. The regional offices shall have, within their respective administrative regions, the following functions:
+
+(a) Implement laws, policies, plans, programs, projects, rules and regulations of the Department:
+
+(b) Provide efficient and effective service to the people:
+
+(c) Coordinate with regional offices of other departments, offices, and agencies;
+
+(d) Coordinate with the LG Us; and
+
+(e) Perform such other functions as may be provided by law or assigned by the Secretary.
+
+SEC. 13. Chief Information Officer (CIO) Council. – The Department shall facilitate the creation of the CIO Council, which shall consist of CIOs, with the Secretary serving as the Chairman, to assist the Department in the implementation of government ICT initiatives.
+
+SEC. 14. Sectoral and Industry Task Forces. – The Department may create sectoral and industry task forces, technical working groups, advisory bodies or committees for the furtherance of its objectives. Additional private sector representatives, such as from the academe, CSOs, and federation of private industries directly involved in ICT, as well as representatives of other NGAs. LGUs and GOCCs may be appointed to these working groups. Government IT professionals may also be tapped to partake in the work of the Department through, these working groups.
+
+SEC. 15. Transfer of Agencies and Personnel. –
+
+(a) The following agencies are hereby abolished, and their powers and functions, applicable funds and appropriations, records, equipment, property, and personnel transferred to the Department:
+
+(1) Information and Communications Technology Office (ICTO);
+
+(2) National Computer Center (NCC);
+
+(3) National Computer Institute (NCI);
+
+(4) Telecommunications Office (TELOF):
+
+(5) National Telecommunications Training Institute (NTTT); and
+
+(6) All operating units of the Department of Transportation and Communications (DOTC) with functions and responsibilities dealing with communications.
+
+All offices, services, divisions, units and personnel not otherwise covered by this Act for transfer to the Department shall be retained under the DOTC which is hereby renamed the Department of Transportation.
+
+(b) The following agencies are hereby attached, to the Department for policy and program coordination, and shall continue to operate and function in accordance with the charters, laws or orders creating them, insofar as they are not inconsistent with this Act:
+
+(1) National Telecommunications Commission;
+
+(2) National Privacy Commission; and
+
+(3) Cybercrime Investigation and Coordination Center (CICC)
+
+(i) All powers and functions related to cybersecurity including, but not limited to the formulation of the National Cybersecurity Plan, establishment of the National Computer Emergency Response Team (CERT), and the facilitation of international cooperation on intelligence regarding cybersecurity matters are transferred to the Department; and
+
+(ii) The CICC shall be chaired by the DICT Secretary.
+
+(c) The laws and rules on government reorganization as provided for in Republic Act No. 6656, otherwise known as the Reorganization Law, shall govern the reorganization process of the Department.
+
+SEC. 16. Separation and Retirement from Service. – Employees who are separated from service within six (6) months from the effectivity of this Act as a result of the consolidation and/or reorganization under the provisions of this Act shall receive separation benefits to which they may he entitled under Executive Order No. 366, s. 2004: Provided, That those who are qualified to retire under existing retirement laws shall be allowed to retire and receive retirement benefits to which they may be entitled under applicable laws and issuances.
+
+SEC. 17. Structure and Staffing Pattern. – Subject to the approval of the DBM, the Department shall determine its organizational structure and create new divisions or units as it may deem necessary, and shall appoint officers and employees of the Department in accordance with the civil service law, rules, and regulations.
+
+SEC. 18. Magna Carta. – Qualified employees of the Department and its attached agencies shall be covered by Republic Act No. 3439, which provides a magna carta for scientists, engineers, researchers and other science and technology personnel in tie government.
+
+SEC. 19. Transition Period. – The transfer of functions, assets, funds, equipment, properties, transactions, and personnel of the affected agencies, and the formulation of the internal organic structure, staffing pattern, operating system, and revised budget of tin Department, shall be completed within six (6) months from the effectivity of this Act, during which time, the existing personnel shall continue to assume their posts in holdover capacities until new appointments are issued: Provided, That after the abolition of tie agencies as specified in Section 15(a) of this Act, the Department, in coordination with the DBM, shall determine and create new positions, the funding requirements of which shall not exceed the equivalent cost of positions abolished.
+
+SEC 20. Appropriation,. – The amount needed for the initial implementation of this Act shall be taken from the current fiscal year’s appropriation of the ICTO and all agencies herein absorbed. by or attached to the Department. Thereafter, the amount needed for the operation and maintenance of the Department shall be included in the General Appropriations Act
+
+SEC 21. Implementing Rules and Regulations. – The ICTC, the DBM, the CSC, and other government agencies concerned shall issue within sixty (60) days from the effectivity of this Act. the necessary rules and regulations for the effective implementation of this Act.
+
+SEC. 22. Separability Clause. – If any provision of this Act shall be declared unconstitutional or invalid, the other provisions not otherwise affected shall remain in full force and effect.
+
+SEC. 23. Repealing Clause. – All laws, decrees, executive orders, rules and regulations and other issuances or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+SEC. 24. Effectivtiy. – This Act shall take effect fifteen (15; days after its publication in at least two (2) newspapers of general circulation.
+
+Approved,
+
+This Act was passed by the House of Representatives as House Bill No. 6198 on October 9, 2015 and adopted by the Senate as an amendment to Senate Bill No. 2686 on December 15. 2015.
+
+Approved: MAY 23 2016
+
+(Sgd.) BENIGNO S. AQUINO III President of the Philippines

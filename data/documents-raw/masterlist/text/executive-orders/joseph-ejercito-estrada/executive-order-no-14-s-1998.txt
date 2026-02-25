@@ -1,0 +1,89 @@
+MALACAÑANG MANILA
+
+EXECUTIVE ORDER NO. 14
+
+ESTABLISHING THE PRESIDENTIAL COMMISSION ON YEAR 2000 COMPLIANCE
+
+WHEREAS, consistent with State policies as enunciated under Section 24, Article II of the Constitution, which states that: “The State recognizes the vital role of communication and information in nation building”;
+
+WHEREAS, the Constitution also provides in Section 10, Article XIV, that: “Science and Technology are essential for national development and progress. The State shall give priority to research and development, invention, innovation and their utilization; and to science and technology education, training and services. It shall support indigenous, appropriate and self-reliant scientific and technological capabilities and their application to the country’s productive system and national life”;
+
+WHEREAS, the Constitution further provides, in Section 12, Article XIV, that: “The State shall regulate the transfer and promote the adaptation of technology from all sources for the national benefit. It shall encourage the widest participation of private groups, local governments and community based organizations in the generalization and utilization of science and technology”;
+
+WHEREAS, the Philippines, as a member of the global community is facing the enormous Year 2000 computer problem also known as the “Y2K Bug” or the “Millennium Bug”;
+
+WHEREAS, the “Y2K Bug” or “Millennium Bug” is a result of the general practice of using two digits, instead of four, to represent a year and keep track of the date, for efficiency in software programming;
+
+WHEREAS, as a consequence of this practice, most computer systems will — on or before January 1, 2000 — recognize “double zero” (“00”) in dates not as 2000 but as 1900;
+
+WHEREAS, the “Y2K Bug” or “Millennium Bug” if not fixed, will wreak havoc on computer-based systems — cause computers to generate erroneous data and lead to system crashes that may disrupt business operation and vital utilities and public services;
+
+WHEREAS, the “Y2K Bug” or “Millennium Bug” will affect domestic business and the financial community as it may result to warranty disclaimers, liability caps, corporate mismanagement liabilities, and potential third-party damages in computer-based and computer-assisted systems;
+
+WHEREAS, the damage the problem will cause could lead to economic and financial crisis that will threaten the security of the nation;
+
+WHEREAS, the enormity of the problem impels the creation and establishment of a body in the highest levels of government to direct and coordinate all efforts for Year 2000 compliance to avert the threat the “Y2K Bug” or the “Millennium Bug” poses to the nation.
+
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order:
+
+SECTION 1. Presidential Commission on Year 2000 Compliance. There is hereby created a Presidential Commission on Year 2000 Compliance, hereinafter referred to as the Commission, under the Office of the President. The Commission shall be composed of the Presidential Consultant on Computer Education as Chairman; and the Secretary of Trade and Industry, Secretary of Science and Technology, the Managing Director of the National Computer Center, the Director General of the Technology and Livelihood Resource Center and three representatives from the private sector as members who shall be appointed by the President upon the recommendation of the ex-officio members of the Commission. They shall be persons of good moral character and of recognized competence in the field of information technology, law, economics, finance, banking, commerce, industry or engineering. They shall serve for term of three years.
+
+The Commission shall be organized and hold its first meeting within thirty (30) days from the promulgation of this Executive Order.
+
+SEC. 2. Powers and Functions of the Commission. The commission shall have the following powers and functions:
+
+a. To conduct and complete a study on the extent and cost of the damage that the “Y2K Bug” or “Millennium Bug” shall cause to both the public and private sector and to the financial well-being of the country as well as the state of readiness of both sectors for the Year 2000;
+
+b. To establish a comprehensive two-year Year 2000 Compliance Plan that shall serve as guide in the implementation of swift, concrete and effective programs to ensure the nation’s readiness for the Year 2000;
+
+c. To recommend incentives for companies and government institutions that undertake Year 2000 compliance work;
+
+d. To undertake concrete and effective action against the dumping into Philippine territory of hardware and software and information technology-based products that are not Year 2000 compliant;
+
+e. To promote general awareness on the urgent and critical issues on the problem and to undertake initiatives and programs aimed at tackling the “Y2K Bug” or the “Millennium Bug”;
+
+f. To monitor the status of actual Year 2000 compliance by the private and public sectors particularly on systems of critical infrastructure providers;
+
+g. To establish and maintain close relationship, with the view of sharing and obtaining up-to-date information, with local and international experts and bodies in the field, particularly with those who are active in Year 2000 compliance efforts, for strategy formulation;
+
+h. To enter into joint projects with the Department of Science and Technology, Department of Education, Culture and Sports, National Computer Center, and other appropriate government and private sector agencies in the pursuit of its objectives;
+
+i. To submit periodic and annual reports to the President regarding the activities of the Commission;
+
+j. To recommend the modification/amendments of existing laws, rules, regulations and procedures to remove impediments to the swift, effective and efficient implementation of the programs and activities of the Commission;
+
+k. To complete the task of making computer-based system of all government institutions Year 2000 compliant by September 30, 1999.
+
+SEC. 3. Meetings, Quorum and Secretariat. The Commission shall meet at least twice a month, or as often as necessary at the discretion of the chairman or upon the request of a majority of the members of the Commission. The presence of a majority of the members of the Commission shall constitute a quorum.
+
+A secretariat shall be organized by the Commission on its organizational meeting.
+
+SEC. 4. Honoraria and Allowances. The Commission shall provide for honoraria and allowances for council members and its personnel subject to existing rules and regulations.
+
+SEC. 5. Chairman and Vice Chairman of the Commission. The chairman shall preside over the meetings of the Commission and shall implement its decisions. He shall exercise over-all supervision and control on the operations and programs of the Commission.
+
+The Commission shall elect from among its members a vice chairman who shall act as chairman in case the chairman is unable to temporarily perform his functions or in case of vacancy in the Office of the Chairman. He shall perform such other functions as may be assigned to him by the chairman.
+
+SEC. 6. Technical and Administrative Staff. The Commission shall organize its technical and administrative staff under the secretariat to be headed by an executive director who shall be designated by the Chairman. The executive director shall have at least five (5) years relevant experience in technical and administrative matters. He shall hold office on a full time basis and shall not be removed except for cause. The technical and administrative staff shall not be removed except for cause. The technical and administrative staff shall be composed of personnel also to be designated by the chairman. The shall receive such salary and remuneration as may be determined by the Commission subject to existing rules and regulations.
+
+SEC. 7. Term of the Commission. The Commission shall cease to exist on June 30, 2000 unless its term is extended by an act of Congress or by the President.
+
+SEC. 8. Rules and Regulations. The Commission shall promulgate rules and regulations to implement the provisions of this Executive Order. Such rules and regulations shall take effect fifteen (15) days after their publication in a newspaper of general circulation.
+
+SEC. 9. Separability Clause. In the event that the provisions of this Executive Order are hereby declared to be separable and in the event any provisions or part thereof is declared unconstitutional the other provisions or parts thereof which are not effected thereby shall remain in full force and effect.
+
+SEC. 10. Repealing Clause. All laws, decrees, executive orders, administrative orders, rules and regulations inconsistent herewith are hereby repealed, amended, or modified accordingly.
+
+SEC. 11. EFFECTIVITY. This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, Philippines, this 19th day of August in the year of Our Lord, Nineteen Hundred and Ninety-Eight.
+
+(Sgd.) JOSEPH EJERCITO ESTRADA President of the Philippines
+
+By the President:
+
+(Sgd.) RONALDO B. ZAMORA Executive Secretary
+
+Source: Presidential Management Staff
+
+Office of the President of the Philippines. (1998). [Executive Order Nos. : 1-338]. Manila : Presidential Management Staff.
