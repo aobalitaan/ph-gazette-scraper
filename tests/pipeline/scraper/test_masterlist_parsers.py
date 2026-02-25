@@ -85,7 +85,7 @@ class TestParseMasterlistContentPageFulltext:
         result = parse_masterlist_content_page(fulltext_html)
         assert result["text"] is not None
         assert "fellow Filipinos" in result["text"].lower() or "vision" in result["text"].lower()
-        assert result["word_count"] > 20
+        assert result["word_count"] >= 100
 
     def test_boilerplate_stripped(self, fulltext_html: str):
         result = parse_masterlist_content_page(fulltext_html)

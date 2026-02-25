@@ -1,12 +1,17 @@
 """Tests for the Gazette HTTP client."""
 
 import time
+from unittest.mock import patch
 
 import httpx
 import pytest
 import respx
 
-from backend.pipeline.scraper.http_client import _BROWSER_PROFILES, GazetteClient
+from backend.pipeline.scraper.http_client import (
+    _429_WAIT_CYCLE,
+    _BROWSER_PROFILES,
+    GazetteClient,
+)
 
 
 class TestGazetteClient:
@@ -100,3 +105,136 @@ class TestGazetteClient:
         client = GazetteClient(delay=0)
         with pytest.raises(RuntimeError, match="not initialized"):
             await client.fetch("https://example.com")
+
+    async def test_429_uses_wait_cycle(self):
+        """429 responses cycle through _429_WAIT_CYCLE sleeps until success."""
+        call_count = 0
+
+        def side_effect(request: httpx.Request) -> httpx.Response:
+            nonlocal call_count
+            call_count += 1
+            if call_count <= 3:
+                return httpx.Response(429, text="rate limited")
+            return httpx.Response(200, text="ok")
+
+        sleep_durations: list[float] = []
+
+        async def fake_sleep(duration: float) -> None:
+            sleep_durations.append(duration)
+
+        with respx.mock:
+            respx.get("https://example.com/limited").mock(side_effect=side_effect)
+            with patch("backend.pipeline.scraper.http_client.asyncio.sleep", fake_sleep):
+                async with GazetteClient(delay=0) as client:
+                    result = await client.fetch("https://example.com/limited")
+
+        assert result == "ok"
+        assert call_count == 4  # 3 x 429, then 200
+        assert sleep_durations == list(_429_WAIT_CYCLE[:3])
+
+    async def test_429_cycle_wraps_around(self):
+        """After exhausting the cycle, 429 retries wrap back to the start."""
+        num_429s = len(_429_WAIT_CYCLE) + 2  # full cycle + 2 more
+        call_count = 0
+
+        def side_effect(request: httpx.Request) -> httpx.Response:
+            nonlocal call_count
+            call_count += 1
+            if call_count <= num_429s:
+                return httpx.Response(429, text="rate limited")
+            return httpx.Response(200, text="ok")
+
+        sleep_durations: list[float] = []
+
+        async def fake_sleep(duration: float) -> None:
+            sleep_durations.append(duration)
+
+        with respx.mock:
+            respx.get("https://example.com/limited").mock(side_effect=side_effect)
+            with patch("backend.pipeline.scraper.http_client.asyncio.sleep", fake_sleep):
+                async with GazetteClient(delay=0) as client:
+                    result = await client.fetch("https://example.com/limited")
+
+        assert result == "ok"
+        expected = list(_429_WAIT_CYCLE) + list(_429_WAIT_CYCLE[:2])
+        assert sleep_durations == expected
+
+    async def test_429_respects_retry_after_header(self):
+        """429 with Retry-After header uses header value instead of cycle."""
+        call_count = 0
+
+        def side_effect(request: httpx.Request) -> httpx.Response:
+            nonlocal call_count
+            call_count += 1
+            if call_count == 1:
+                return httpx.Response(429, text="rate limited", headers={"Retry-After": "90"})
+            if call_count == 2:
+                return httpx.Response(429, text="rate limited")  # no header → fallback
+            return httpx.Response(200, text="ok")
+
+        sleep_durations: list[float] = []
+
+        async def fake_sleep(duration: float) -> None:
+            sleep_durations.append(duration)
+
+        with respx.mock:
+            respx.get("https://example.com/limited").mock(side_effect=side_effect)
+            with patch("backend.pipeline.scraper.http_client.asyncio.sleep", fake_sleep):
+                async with GazetteClient(delay=0) as client:
+                    result = await client.fetch("https://example.com/limited")
+
+        assert result == "ok"
+        assert sleep_durations == [90, _429_WAIT_CYCLE[1]]
+
+    async def test_429_ignores_non_numeric_retry_after(self):
+        """Non-numeric Retry-After falls back to wait cycle."""
+        call_count = 0
+
+        def side_effect(request: httpx.Request) -> httpx.Response:
+            nonlocal call_count
+            call_count += 1
+            if call_count == 1:
+                return httpx.Response(
+                    429, text="rate limited",
+                    headers={"Retry-After": "Wed, 21 Oct 2025 07:28:00 GMT"},
+                )
+            return httpx.Response(200, text="ok")
+
+        sleep_durations: list[float] = []
+
+        async def fake_sleep(duration: float) -> None:
+            sleep_durations.append(duration)
+
+        with respx.mock:
+            respx.get("https://example.com/limited").mock(side_effect=side_effect)
+            with patch("backend.pipeline.scraper.http_client.asyncio.sleep", fake_sleep):
+                async with GazetteClient(delay=0) as client:
+                    result = await client.fetch("https://example.com/limited")
+
+        assert result == "ok"
+        assert sleep_durations == [_429_WAIT_CYCLE[0]]
+
+    async def test_429_does_not_count_as_tenacity_attempt(self):
+        """429 retries don't consume tenacity attempts; a 500 after 429 still retries."""
+        call_count = 0
+
+        def side_effect(request: httpx.Request) -> httpx.Response:
+            nonlocal call_count
+            call_count += 1
+            if call_count == 1:
+                return httpx.Response(429, text="rate limited")
+            if call_count == 2:
+                return httpx.Response(200, text="ok after 429")
+            return httpx.Response(200, text="ok")
+
+        async def fake_sleep(duration: float) -> None:
+            pass
+
+        with respx.mock:
+            respx.get("https://example.com/mixed").mock(side_effect=side_effect)
+            with patch("backend.pipeline.scraper.http_client.asyncio.sleep", fake_sleep):
+                async with GazetteClient(delay=0) as client:
+                    result = await client.fetch("https://example.com/mixed")
+
+        assert result == "ok after 429"
+        assert call_count == 2

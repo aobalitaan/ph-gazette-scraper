@@ -54,6 +54,7 @@ class TestMasterlistStorage:
         assert storage.raw_html_dir.exists()
         assert storage.text_dir.exists()
         assert storage.metadata_dir.exists()
+        assert storage.pdf_dir.exists()
         assert storage.index_dir.exists()
 
     def test_save_and_read_raw_html(self, tmp_path: Path):
@@ -180,3 +181,43 @@ class TestMasterlistResumability:
     def test_get_scraped_doc_ids_empty(self, tmp_path: Path):
         storage = MasterlistStorage(tmp_path / "masterlist")
         assert storage.get_scraped_doc_ids() == set()
+
+
+class TestMasterlistPdfStorage:
+    def test_save_and_load_pdf(self, tmp_path: Path):
+        storage = MasterlistStorage(tmp_path / "masterlist")
+        storage.ensure_dirs()
+        doc = _make_doc()
+        pdf_bytes = b"%PDF-1.4 fake pdf content"
+        path = storage.save_pdf(doc, pdf_bytes)
+        assert path.exists()
+        assert "proclamations" in str(path)
+        assert "rodrigo-roa-duterte" in str(path)
+        assert path.suffix == ".pdf"
+        loaded = storage.load_pdf(doc)
+        assert loaded == pdf_bytes
+
+    def test_load_pdf_missing(self, tmp_path: Path):
+        storage = MasterlistStorage(tmp_path / "masterlist")
+        storage.ensure_dirs()
+        doc = _make_doc()
+        assert storage.load_pdf(doc) is None
+
+    def test_has_pdf(self, tmp_path: Path):
+        storage = MasterlistStorage(tmp_path / "masterlist")
+        storage.ensure_dirs()
+        doc = _make_doc()
+        assert storage.has_pdf(doc) is False
+        storage.save_pdf(doc, b"%PDF-1.4 content")
+        assert storage.has_pdf(doc) is True
+
+    def test_save_pdf_creates_subdirs(self, tmp_path: Path):
+        storage = MasterlistStorage(tmp_path / "masterlist")
+        storage.ensure_dirs()
+        doc = _make_doc()
+        storage.save_pdf(doc, b"data")
+        expected = (
+            storage.pdf_dir / "proclamations" / "rodrigo-roa-duterte"
+            / "proclamation-no-1-s-2016.pdf"
+        )
+        assert expected.exists()

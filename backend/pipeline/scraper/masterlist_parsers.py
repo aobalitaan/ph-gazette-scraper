@@ -100,9 +100,10 @@ def parse_masterlist_content_page(html: str) -> dict:
     text = "\n\n".join(paragraphs)
     word_count = len(text.split()) if text else 0
 
-    # some gazette pages only have a PDF link with no inline text —
-    # we classify those as pdf-only so we know to OCR them later
-    has_html_content = len(text) >= 100 and word_count >= 20
+    # Many gazette pages only show the document header (title + number)
+    # with no substantive text — the actual content is in the PDF.
+    # 100 words filters out these boilerplate-only pages.
+    has_html_content = word_count >= 100
     is_pdf_only = not has_html_content
 
     return {

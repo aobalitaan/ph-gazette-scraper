@@ -37,6 +37,17 @@ class ScrapeStatus(StrEnum):
     SKIPPED = "skipped"
 
 
+class PdfStatus(StrEnum):
+    """Status of PDF text extraction for a document."""
+
+    PENDING = "pending"
+    TEXT_EXTRACTED = "text_extracted"
+    OCR_EXTRACTED = "ocr_extracted"
+    FAILED = "failed"
+    SKIPPED = "skipped"
+    NOT_APPLICABLE = "not_applicable"
+
+
 class SONAIndexEntry(BaseModel):
     """One row from the Official Gazette SONA index table."""
 
@@ -195,6 +206,10 @@ class MasterlistDocument(BaseModel):
     scrape_error: str | None = None
     scraped_at: datetime | None = None
 
+    pdf_status: PdfStatus = PdfStatus.NOT_APPLICABLE
+    pdf_error: str | None = None
+    pdf_processed_at: datetime | None = None
+
     @classmethod
     def from_entry(cls, entry: MasterlistEntry) -> "MasterlistDocument":
         return cls(
@@ -222,3 +237,7 @@ class MasterlistCorpusSummary(BaseModel):
     by_category: dict[str, int] = {}
     by_president: dict[str, int] = {}
     total_words: int = 0
+    pdf_text_extracted: int = 0
+    pdf_ocr_extracted: int = 0
+    pdf_failed: int = 0
+    pdf_skipped: int = 0

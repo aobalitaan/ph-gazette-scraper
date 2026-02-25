@@ -28,8 +28,10 @@ from backend.pipeline.scraper.models import (
     MasterlistCorpusSummary,
     MasterlistDocument,
     MasterlistEntry,
+    PdfStatus,
     ScrapeStatus,
 )
+from backend.pipeline.scraper.pdf_extractor import extract_pdf_text
 
 logger = logging.getLogger(__name__)
 
@@ -135,6 +137,21 @@ class MasterlistScraper:
         self._setup_signal_handlers()
 
         await self._run_phase_b()
+
+        self.storage.save_manifest(self._documents)
+        return self._build_summary()
+
+    async def run_phase_c_only(self) -> MasterlistCorpusSummary:
+        """Run Phase C only (PDF download + text extraction from existing manifest)."""
+        self.storage.ensure_dirs()
+        self._setup_signal_handlers()
+
+        self._documents = self.storage.load_manifest()
+        if not self._documents:
+            logger.warning("No manifest found. Run Phase A + B first.")
+            return self._build_summary()
+
+        await self._run_phase_c()
 
         self.storage.save_manifest(self._documents)
         return self._build_summary()
@@ -375,6 +392,139 @@ class MasterlistScraper:
             logger.error("  FAILED: %s — %s", doc.doc_id, e)
 
     # ------------------------------------------------------------------
+    # Phase C: PDF download + text extraction
+    # ------------------------------------------------------------------
+
+    async def _run_phase_c(self) -> None:
+        """Download PDFs for pdf-only documents and extract text."""
+        # Filter for documents that need PDF processing
+        pending: list[MasterlistDocument] = []
+        for doc in self._documents:
+            if not doc.is_pdf_only:
+                continue
+            # Apply category/president filters
+            if doc.category_slug not in self.categories:
+                continue
+            if doc.president_slug not in self.presidents:
+                continue
+            # Skip already-processed docs (unless --force)
+            if not self.force and doc.pdf_status in (
+                PdfStatus.TEXT_EXTRACTED, PdfStatus.OCR_EXTRACTED,
+            ):
+                continue
+            # No PDF URL → mark skipped
+            if not doc.pdf_url:
+                doc.pdf_status = PdfStatus.SKIPPED
+                doc.pdf_error = "no pdf_url"
+                doc.pdf_processed_at = datetime.now(UTC)
+                continue
+            pending.append(doc)
+
+        skipped = sum(1 for d in self._documents if d.pdf_status == PdfStatus.SKIPPED)
+        already = sum(
+            1 for d in self._documents
+            if d.pdf_status in (PdfStatus.TEXT_EXTRACTED, PdfStatus.OCR_EXTRACTED)
+        )
+        logger.info(
+            "Phase C: %d PDFs to process (%d already done, %d skipped, %d workers)",
+            len(pending), already, skipped, self.concurrency,
+        )
+
+        if not pending:
+            return
+
+        queue: asyncio.Queue[MasterlistDocument] = asyncio.Queue()
+        for doc in pending:
+            queue.put_nowait(doc)
+
+        self._progress = 0
+        self._completed_since_save = 0
+        total = len(pending)
+
+        async def worker(worker_id: int) -> None:
+            proxy = (
+                self.proxies[worker_id]
+                if worker_id < len(self.proxies)
+                else None
+            )
+            async with CurlCffiClient(
+                delay=self.delay, proxy=proxy,
+            ) as client:
+                while not self._shutdown_requested:
+                    try:
+                        doc = queue.get_nowait()
+                    except asyncio.QueueEmpty:
+                        break
+                    self._progress += 1
+                    n = self._progress
+                    logger.info(
+                        "[%d/%d] W%d: %s (%s/%s)",
+                        n, total, worker_id,
+                        doc.doc_id, doc.category_slug, doc.president_slug,
+                    )
+                    await self._process_pdf(client, doc)
+
+                    self._completed_since_save += 1
+                    if self._completed_since_save >= 200:
+                        self._completed_since_save = 0
+                        self.storage.save_manifest(self._documents)
+                        logger.info("Manifest checkpoint saved (%d/%d)", n, total)
+
+        workers = [
+            asyncio.create_task(worker(i))
+            for i in range(self.concurrency)
+        ]
+        await asyncio.gather(*workers)
+
+    async def _process_pdf(
+        self, client: CurlCffiClient, doc: MasterlistDocument,
+    ) -> None:
+        """Download a PDF, extract text, and update the document. Errors are non-fatal."""
+        try:
+            # Load from disk if already downloaded, otherwise download
+            pdf_bytes = self.storage.load_pdf(doc)
+            if pdf_bytes is None:
+                assert doc.pdf_url is not None
+                pdf_bytes = await client.fetch_bytes(doc.pdf_url)
+                self.storage.save_pdf(doc, pdf_bytes)
+                logger.debug("  Downloaded PDF (%d bytes)", len(pdf_bytes))
+            else:
+                logger.debug("  PDF loaded from disk (%d bytes)", len(pdf_bytes))
+
+            # Extract text (CPU-bound, run in thread)
+            result = await asyncio.to_thread(extract_pdf_text, pdf_bytes)
+
+            doc.pdf_processed_at = datetime.now(UTC)
+
+            if result.text:
+                doc.text = result.text
+                doc.word_count = result.word_count
+                doc.pdf_status = PdfStatus(result.method)
+                doc.pdf_error = None
+                self.storage.save_text(doc, result.text)
+                self.storage.save_metadata(doc)
+                logger.info("  OK: %d words (%s)", result.word_count, result.method)
+            else:
+                doc.pdf_status = PdfStatus.FAILED
+                doc.pdf_error = result.error
+                self.storage.save_metadata(doc)
+                logger.warning("  FAILED: %s", result.error)
+
+        except BrowserFetchError as e:
+            doc.pdf_status = PdfStatus.FAILED
+            doc.pdf_error = f"HTTP {e.status}"
+            doc.pdf_processed_at = datetime.now(UTC)
+            self.storage.save_metadata(doc)
+            logger.error("  PDF FAILED: %s — HTTP %d", doc.doc_id, e.status)
+
+        except Exception as e:
+            doc.pdf_status = PdfStatus.FAILED
+            doc.pdf_error = str(e)
+            doc.pdf_processed_at = datetime.now(UTC)
+            self.storage.save_metadata(doc)
+            logger.error("  PDF FAILED: %s — %s", doc.doc_id, e)
+
+    # ------------------------------------------------------------------
     # Summary
     # ------------------------------------------------------------------
 
@@ -405,6 +555,18 @@ class MasterlistScraper:
             by_category=by_category,
             by_president=by_president,
             total_words=sum(d.word_count or 0 for d in self._documents),
+            pdf_text_extracted=sum(
+                1 for d in self._documents if d.pdf_status == PdfStatus.TEXT_EXTRACTED
+            ),
+            pdf_ocr_extracted=sum(
+                1 for d in self._documents if d.pdf_status == PdfStatus.OCR_EXTRACTED
+            ),
+            pdf_failed=sum(
+                1 for d in self._documents if d.pdf_status == PdfStatus.FAILED
+            ),
+            pdf_skipped=sum(
+                1 for d in self._documents if d.pdf_status == PdfStatus.SKIPPED
+            ),
         )
 
     # ------------------------------------------------------------------

@@ -18,6 +18,7 @@ class MasterlistStorage:
             raw_html/{category_slug}/{president_slug}/{doc_id}.html
             text/{category_slug}/{president_slug}/{doc_id}.txt
             metadata/{category_slug}/{president_slug}/{doc_id}.json
+            pdf/{category_slug}/{president_slug}/{doc_id}.pdf
             index/{category_slug}/{president_slug}.json
             manifest.json
     """
@@ -27,12 +28,16 @@ class MasterlistStorage:
         self.raw_html_dir = base_dir / "raw_html"
         self.text_dir = base_dir / "text"
         self.metadata_dir = base_dir / "metadata"
+        self.pdf_dir = base_dir / "pdf"
         self.index_dir = base_dir / "index"
         self.manifest_path = base_dir / "manifest.json"
 
     def ensure_dirs(self) -> None:
         """Create top-level output directories if they don't exist."""
-        for d in (self.raw_html_dir, self.text_dir, self.metadata_dir, self.index_dir):
+        for d in (
+            self.raw_html_dir, self.text_dir, self.metadata_dir,
+            self.pdf_dir, self.index_dir,
+        ):
             d.mkdir(parents=True, exist_ok=True)
 
     # ------------------------------------------------------------------
@@ -66,6 +71,28 @@ class MasterlistStorage:
         if doc.text:
             self.save_text(doc, doc.text)
         self.save_metadata(doc)
+
+    # ------------------------------------------------------------------
+    # PDF files (Phase C)
+    # ------------------------------------------------------------------
+
+    def save_pdf(self, doc: MasterlistDocument, pdf_bytes: bytes) -> Path:
+        """Save a downloaded PDF file."""
+        path = self._doc_path(self.pdf_dir, doc, ".pdf")
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(pdf_bytes)
+        return path
+
+    def load_pdf(self, doc: MasterlistDocument) -> bytes | None:
+        """Load a PDF from disk. Returns None if not found."""
+        path = self._doc_path(self.pdf_dir, doc, ".pdf")
+        if not path.exists():
+            return None
+        return path.read_bytes()
+
+    def has_pdf(self, doc: MasterlistDocument) -> bool:
+        """Check if a PDF exists on disk for the given document."""
+        return self._doc_path(self.pdf_dir, doc, ".pdf").exists()
 
     # ------------------------------------------------------------------
     # Index (Phase A per-combination caching)

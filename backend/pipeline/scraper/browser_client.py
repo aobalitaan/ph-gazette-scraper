@@ -23,6 +23,10 @@ logger = logging.getLogger(__name__)
 DEFAULT_DELAY = 5.0
 DEFAULT_TIMEOUT = 30
 
+# Wait cycle for 429 rate-limit responses (seconds). Loops indefinitely
+# until the rate limit clears; resets on each new call to _fetch_with_retry.
+_429_WAIT_CYCLE = [30, 35, 45, 60, 15]
+
 
 class BrowserFetchError(Exception):
     """HTTP-level error from a curl_cffi response."""
@@ -34,7 +38,7 @@ class BrowserFetchError(Exception):
 
 
 def _is_retryable_status(status: int) -> bool:
-    return status == 429 or status >= 500
+    return status >= 500
 
 
 class CurlCffiClient:
@@ -98,6 +102,18 @@ class CurlCffiClient:
         await self._rate_limit()
         return await self._fetch_with_retry(url)
 
+    async def fetch_bytes(self, url: str) -> bytes:
+        """Fetch a URL and return raw bytes (for binary downloads like PDFs).
+
+        Rate-limits requests and retries on transient errors (429, 5xx).
+        """
+        if self._session is None:
+            raise RuntimeError(
+                "Client not initialized. Use 'async with CurlCffiClient()' context."
+            )
+        await self._rate_limit()
+        return await self._fetch_bytes_with_retry(url)
+
     # only retry on 429/5xx and network errors, not on 403/404 etc.
     @retry(
         stop=stop_after_attempt(5),
@@ -112,12 +128,33 @@ class CurlCffiClient:
         reraise=True,
     )
     async def _fetch_with_retry(self, url: str) -> str:
-        """Inner fetch with tenacity retry on transient errors."""
+        """Inner fetch with tenacity retry on 5xx and connection errors.
+
+        429 responses are handled separately with a dedicated wait cycle
+        that loops indefinitely until the rate limit clears.
+        """
         assert self._session is not None  # guaranteed by fetch()
 
         response = await self._session.get(url)
         status = response.status_code
 
+        # 429: respect Retry-After header if present, otherwise use wait cycle
+        cycle_index = 0
+        while status == 429:
+            retry_after = response.headers.get("retry-after")
+            try:
+                wait = int(retry_after) if retry_after is not None else None
+            except ValueError:
+                wait = None
+            if wait is None:
+                wait = _429_WAIT_CYCLE[cycle_index % len(_429_WAIT_CYCLE)]
+            logger.warning("Rate limited (429) for %s, retrying in %ds", url, wait)
+            await asyncio.sleep(wait)
+            cycle_index += 1
+            response = await self._session.get(url)
+            status = response.status_code
+
+        # 5xx: raise so tenacity handles exponential backoff
         if _is_retryable_status(status):
             logger.warning("HTTP %d for %s, will retry", status, url)
             raise BrowserFetchError(status, url)
@@ -126,3 +163,46 @@ class CurlCffiClient:
             raise BrowserFetchError(status, url)
 
         return response.text
+
+    @retry(
+        stop=stop_after_attempt(5),
+        wait=wait_exponential(multiplier=2, min=4, max=60),
+        retry=(
+            retry_if_exception(
+                lambda e: isinstance(e, BrowserFetchError)
+                and _is_retryable_status(e.status)
+            )
+            | retry_if_exception_type(ConnectionError)
+        ),
+        reraise=True,
+    )
+    async def _fetch_bytes_with_retry(self, url: str) -> bytes:
+        """Inner fetch returning raw bytes, with same retry logic as _fetch_with_retry."""
+        assert self._session is not None
+
+        response = await self._session.get(url)
+        status = response.status_code
+
+        cycle_index = 0
+        while status == 429:
+            retry_after = response.headers.get("retry-after")
+            try:
+                wait = int(retry_after) if retry_after is not None else None
+            except ValueError:
+                wait = None
+            if wait is None:
+                wait = _429_WAIT_CYCLE[cycle_index % len(_429_WAIT_CYCLE)]
+            logger.warning("Rate limited (429) for %s, retrying in %ds", url, wait)
+            await asyncio.sleep(wait)
+            cycle_index += 1
+            response = await self._session.get(url)
+            status = response.status_code
+
+        if _is_retryable_status(status):
+            logger.warning("HTTP %d for %s, will retry", status, url)
+            raise BrowserFetchError(status, url)
+
+        if status >= 400:
+            raise BrowserFetchError(status, url)
+
+        return response.content

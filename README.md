@@ -4,13 +4,14 @@ A Python scraper for collecting presidential documents from the [Philippine Offi
 
 This tool collects two types of documents:
 
-- **State of the Nation Addresses (SONAs)** — scraped from the [past SONA speeches page](https://www.officialgazette.gov.ph/past-sona-speeches/) (85 speeches, 1935-2025)
+- **State of the Nation Addresses (SONAs)** — scraped from the [past SONA speeches page](https://www.officialgazette.gov.ph/past-sona-speeches/) (87 speeches, 1935-2025)
 - **Presidential issuances and speeches** — scraped from the [masterlist generator](https://www.officialgazette.gov.ph/masterlist-generator/) covering executive orders, administrative orders, proclamations, memoranda, speeches, and more across 15 presidents
 
 ## Requirements
 
 - Python 3.12+
 - [uv](https://docs.astral.sh/uv/) (recommended) or pip
+- [Tesseract](https://github.com/tesseract-ocr/tesseract) (optional, for Phase C OCR fallback)
 
 ## Installation
 
@@ -25,7 +26,7 @@ uv sync
 ## Quick Start
 
 ```bash
-# scrape all 85 SONAs
+# scrape all 87 SONAs
 uv run talasuri-scrape-sona
 
 # scrape all masterlist documents (this takes a while — thousands of documents)
@@ -51,14 +52,16 @@ uv run talasuri-scrape-sona --force
 
 ### Masterlist Scraper
 
-The masterlist scraper works in two phases:
+The masterlist scraper works in three phases:
 
 **Phase A — Index Collection** uses the Official Gazette's masterlist generator form to paginate through results tables and collect document metadata. For each category x president combination, it saves a JSON index of all entries found. This phase uses a regular HTTP client (`httpx`) since the masterlist generator pages aren't blocked by Cloudflare.
 
 **Phase B — Content Fetching** takes those index entries and visits each individual document page to extract the full text. This phase uses `curl_cffi` which impersonates a real browser's TLS fingerprint (JA3/JA4), bypassing Cloudflare's bot detection without needing an actual browser.
 
+**Phase C — PDF Extraction** handles documents that only have a PDF attachment (no inline HTML text). It downloads each PDF, attempts text-layer extraction via pymupdf, and falls back to Tesseract OCR if the text layer is missing or fails a quality gate. The quality gate checks alphabetic token ratio, average word length, and minimum word count to filter out garbage output.
+
 ```bash
-# full scrape (both phases)
+# full scrape (phases A + B)
 uv run talasuri-scrape-masterlist
 
 # phase A only — just collect indexes, no content fetching
@@ -66,6 +69,9 @@ uv run talasuri-scrape-masterlist --index-only
 
 # phase B only — fetch content from existing indexes
 uv run talasuri-scrape-masterlist --content-only
+
+# phase C only — download PDFs and extract text from pdf-only documents
+uv run talasuri-scrape-masterlist --pdf-only
 
 # filter by category and/or president
 uv run talasuri-scrape-masterlist --categories executive-orders proclamations
@@ -142,6 +148,7 @@ masterlist/
   raw_html/{category-slug}/{president-slug}/{doc_id}.html
   text/{category-slug}/{president-slug}/{doc_id}.txt
   metadata/{category-slug}/{president-slug}/{doc_id}.json
+  pdf/{category-slug}/{president-slug}/{doc_id}.pdf   # Phase C downloaded PDFs
   manifest.json
 ```
 
@@ -172,13 +179,38 @@ Each document's metadata JSON looks like this:
   "has_html_content": true,
   "is_pdf_only": false,
   "scrape_status": "success",
-  "scraped_at": "2026-02-23T08:15:00Z"
+  "scraped_at": "2026-02-23T08:15:00Z",
+  "pdf_status": "not_applicable",
+  "pdf_error": null,
+  "pdf_processed_at": null
 }
 ```
 
+For PDF-only documents, `pdf_status` will be one of: `text_extracted`, `ocr_extracted`, `failed`, `skipped`, or `pending`.
+
 ### PDF-Only Documents
 
-Some gazette documents don't have inline HTML text — they only link to a PDF file. The scraper marks these as `is_pdf_only: true` with no extracted text. You'll need OCR to get text from these.
+Some gazette documents don't have inline HTML text — they only link to a PDF file. Phase B marks these as `is_pdf_only: true`. Phase C then downloads each PDF and extracts text using a two-step pipeline:
+
+1. **pymupdf text extraction** — tries to extract the embedded text layer
+2. **Tesseract OCR fallback** — if the text layer is missing or fails quality checks, renders pages to images and runs OCR
+
+A quality gate filters out garbage output by checking alphabetic token ratio (>=70%), average word length (2–15 chars), and minimum word count (>=50 words). Documents that pass get their text saved alongside the HTML-sourced documents. The metadata tracks the extraction method (`text_extracted`, `ocr_extracted`, or `failed`).
+
+> **Note:** Phase C requires [Tesseract](https://github.com/tesseract-ocr/tesseract) installed on your system for OCR fallback. On Ubuntu/Debian: `sudo apt install tesseract-ocr`.
+
+## Included Dataset
+
+This repository includes the complete scraped dataset as of February 2026:
+
+| Collection | Documents | Notes |
+|-----------|-----------|-------|
+| SONAs | 87 | All speeches from 1935–2025, full text |
+| Masterlist | 34,015 | All categories across 15 presidents |
+
+Of the 34,015 masterlist documents, 138 are PDF-only (no inline HTML text). The rest have full extracted text from their gazette pages.
+
+If you want to re-scrape from scratch, use `--force`. Otherwise the scraper will skip already-scraped documents.
 
 ## Document Categories
 
@@ -228,11 +260,12 @@ backend/
       cli.py                    # SONA scraper CLI
       masterlist_cli.py         # masterlist scraper CLI
       sona_scraper.py           # SONA scraper orchestration
-      masterlist_scraper.py     # masterlist scraper orchestration (phase A + B)
+      masterlist_scraper.py     # masterlist scraper orchestration (phases A + B + C)
       parsers.py                # HTML parsing for SONA pages
       masterlist_parsers.py     # HTML parsing for masterlist pages
       storage.py                # file I/O for SONA data
       masterlist_storage.py     # file I/O for masterlist data
+      pdf_extractor.py          # PDF text extraction with OCR fallback
       models.py                 # pydantic data models
 tests/
   fixtures/                     # sample HTML for testing

@@ -10,6 +10,7 @@ from backend.pipeline.scraper.models import (
     MasterlistCorpusSummary,
     MasterlistDocument,
     MasterlistEntry,
+    PdfStatus,
     ScrapeStatus,
     SONACorpusSummary,
     SONADocument,
@@ -251,3 +252,86 @@ class TestMasterlistCorpusSummary:
         )
         assert summary.total == 10000
         assert summary.by_category["executive-orders"] == 3000
+
+    def test_pdf_summary_defaults(self):
+        summary = MasterlistCorpusSummary()
+        assert summary.pdf_text_extracted == 0
+        assert summary.pdf_ocr_extracted == 0
+        assert summary.pdf_failed == 0
+        assert summary.pdf_skipped == 0
+
+    def test_pdf_summary_with_data(self):
+        summary = MasterlistCorpusSummary(
+            pdf_text_extracted=3000,
+            pdf_ocr_extracted=1500,
+            pdf_failed=200,
+            pdf_skipped=30,
+        )
+        assert summary.pdf_text_extracted == 3000
+        assert summary.pdf_ocr_extracted == 1500
+        assert summary.pdf_failed == 200
+        assert summary.pdf_skipped == 30
+
+
+class TestPdfStatus:
+    def test_all_values(self):
+        assert PdfStatus.PENDING == "pending"
+        assert PdfStatus.TEXT_EXTRACTED == "text_extracted"
+        assert PdfStatus.OCR_EXTRACTED == "ocr_extracted"
+        assert PdfStatus.FAILED == "failed"
+        assert PdfStatus.SKIPPED == "skipped"
+        assert PdfStatus.NOT_APPLICABLE == "not_applicable"
+
+    def test_is_str_enum(self):
+        assert isinstance(PdfStatus.PENDING, str)
+
+
+class TestMasterlistDocumentPdfFields:
+    def test_default_pdf_fields(self):
+        doc = MasterlistDocument(
+            doc_id="test-doc",
+            category=DocumentCategory.PROCLAMATION,
+            category_slug="proclamations",
+            president_slug="rodrigo-roa-duterte",
+            date=date(2020, 1, 1),
+            title="Test",
+            content_url="https://example.com/test",
+        )
+        assert doc.pdf_status == PdfStatus.NOT_APPLICABLE
+        assert doc.pdf_error is None
+        assert doc.pdf_processed_at is None
+
+    def test_pdf_fields_serialization_roundtrip(self):
+        doc = MasterlistDocument(
+            doc_id="test-doc",
+            category=DocumentCategory.PROCLAMATION,
+            category_slug="proclamations",
+            president_slug="rodrigo-roa-duterte",
+            date=date(2020, 1, 1),
+            title="Test",
+            content_url="https://example.com/test",
+            pdf_status=PdfStatus.TEXT_EXTRACTED,
+            pdf_error=None,
+            pdf_processed_at=datetime(2025, 6, 1, 12, 0, 0),
+        )
+        data = json.loads(doc.model_dump_json())
+        restored = MasterlistDocument(**data)
+        assert restored.pdf_status == PdfStatus.TEXT_EXTRACTED
+        assert restored.pdf_processed_at == doc.pdf_processed_at
+
+    def test_backward_compat_old_manifest_without_pdf_fields(self):
+        """Old manifests without pdf_status/pdf_error/pdf_processed_at should load fine."""
+        old_data = {
+            "doc_id": "old-doc",
+            "category": "proclamation",
+            "category_slug": "proclamations",
+            "president_slug": "rodrigo-roa-duterte",
+            "date": "2020-01-01",
+            "title": "Old Document",
+            "content_url": "https://example.com/old",
+            "scrape_status": "success",
+        }
+        doc = MasterlistDocument(**old_data)
+        assert doc.pdf_status == PdfStatus.NOT_APPLICABLE
+        assert doc.pdf_error is None
+        assert doc.pdf_processed_at is None

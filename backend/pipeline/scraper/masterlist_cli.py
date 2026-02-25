@@ -54,6 +54,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="Only run Phase B (fetch content from existing indexes)",
     )
     parser.add_argument(
+        "--pdf-only",
+        action="store_true",
+        help="Only run Phase C (download PDFs + extract text from existing manifest)",
+    )
+    parser.add_argument(
         "--categories",
         nargs="+",
         choices=list(MASTERLIST_CATEGORY_MAP.keys()),
@@ -128,7 +133,9 @@ async def async_main(args: argparse.Namespace) -> int:
         print(f"\nPhase A complete: {total} entries indexed")
         return 0
 
-    if args.content_only:
+    if args.pdf_only:
+        summary = await scraper.run_phase_c_only()
+    elif args.content_only:
         summary = await scraper.run_phase_b_only()
     else:
         summary = await scraper.run()
@@ -141,6 +148,13 @@ async def async_main(args: argparse.Namespace) -> int:
     print(f"  PDF-only:       {summary.pdf_only}")
     print(f"  HTML with text: {summary.html_with_text}")
     print(f"  Total words:    {summary.total_words:,}")
+
+    if summary.pdf_text_extracted or summary.pdf_ocr_extracted or summary.pdf_failed:
+        print("\n  Phase C (PDF extraction):")
+        print(f"    Text extracted: {summary.pdf_text_extracted}")
+        print(f"    OCR extracted:  {summary.pdf_ocr_extracted}")
+        print(f"    Failed:         {summary.pdf_failed}")
+        print(f"    Skipped:        {summary.pdf_skipped}")
 
     if summary.by_category:
         print("\n  By category:")

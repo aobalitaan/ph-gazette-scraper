@@ -5,12 +5,16 @@ import logging
 import random
 
 import httpx
-from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_exponential
+from tenacity import retry, retry_if_exception, retry_if_exception_type, stop_after_attempt, wait_exponential
 
 logger = logging.getLogger(__name__)
 
 DEFAULT_DELAY = 5.0
 DEFAULT_TIMEOUT = 30.0
+
+# Wait cycle for 429 rate-limit responses (seconds). Loops indefinitely
+# until the rate limit clears; resets on each new call to _fetch_with_retry.
+_429_WAIT_CYCLE = [30, 35, 45, 60, 15]
 
 # Distinct browser profiles — each worker gets one to look like a different device.
 _CHROME_ACCEPT = (
@@ -151,20 +155,39 @@ class GazetteClient:
     @retry(
         stop=stop_after_attempt(5),
         wait=wait_exponential(multiplier=2, min=4, max=60),
-        retry=retry_if_exception_type(
-            (httpx.HTTPStatusError, httpx.ConnectError, httpx.ReadTimeout)
+        retry=(
+            retry_if_exception(
+                lambda e: isinstance(e, httpx.HTTPStatusError)
+                and e.response.status_code >= 500
+            )
+            | retry_if_exception_type((httpx.ConnectError, httpx.ReadTimeout))
         ),
         reraise=True,
     )
     async def _fetch_with_retry(self, url: str) -> str:
-        """Inner fetch with tenacity retry on 5xx, 429, and connection errors."""
+        """Inner fetch with tenacity retry on 5xx and connection errors.
+
+        429 responses are handled separately with a dedicated wait cycle
+        that loops indefinitely until the rate limit clears.
+        """
         if self._client is None:
             raise RuntimeError("Client not initialized. Use 'async with GazetteClient()' context.")
         response = await self._client.get(url)
-        # 429 and 5xx trigger tenacity retry via raise_for_status
-        if response.status_code == 429:
-            logger.warning("Rate limited (429) for %s, backing off", url)
-            response.raise_for_status()
+        # 429: respect Retry-After header if present, otherwise use wait cycle
+        cycle_index = 0
+        while response.status_code == 429:
+            retry_after = response.headers.get("retry-after")
+            try:
+                wait = int(retry_after) if retry_after is not None else None
+            except ValueError:
+                wait = None
+            if wait is None:
+                wait = _429_WAIT_CYCLE[cycle_index % len(_429_WAIT_CYCLE)]
+            logger.warning("Rate limited (429) for %s, retrying in %ds", url, wait)
+            await asyncio.sleep(wait)
+            cycle_index += 1
+            response = await self._client.get(url)
+        # 5xx: raise so tenacity handles exponential backoff
         if response.status_code >= 500:
             logger.warning("Server error %d for %s, will retry", response.status_code, url)
             response.raise_for_status()
