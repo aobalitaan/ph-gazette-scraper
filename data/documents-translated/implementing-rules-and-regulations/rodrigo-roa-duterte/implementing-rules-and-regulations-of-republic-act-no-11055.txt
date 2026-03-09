@@ -1,0 +1,1129 @@
+IMPLEMENTING RULES AND REGULATIONS OF REPUBLIC ACT NO.11055
+OTHERWISE KNOWN AS THE “PHILIPPINE IDENTIFICATION SYSTEM ACT”
+
+Pursuant to R.A. No. 11055, entitled “An Act Establishing the Philippine Identification
+System’, otherwise known as the “Philippine Identification System Act’, the
+Philippine Statistics Authority (PSA) is mandated to carry out the provisions of the
+Act, and to issue, in coordination with the members of the PhilSys Policy and
+Coordination Council (PSPCC), rules in the implementation and enhancement of the
+PhilSys, hence, the following rules and regulations are hereby promulgated:
+
+RULE |
+GENERAL PROVISIONS
+
+SECTION 1. Title
+
+These rules and regulations shall be known as the “Implementing Rules and
+Regulations of the Philippine Identification System Act”, or the “IRR’.
+
+SECTION 2. Scope
+
+This IRR shall apply to all persons in the creation, operation, and maintenance of the
+Philippine Identification System (PhilSys), the registration in PhilSys and in all
+transactions where the PhilSys Number (PSN), Philippine Identification Card
+(PhillD), or biometric information is required, presented, or used, whether legally or
+illegally, within or outside the Republic of the Philippines.
+
+SECTION 3. Objectives
+
+The objectives of this IRR are stipulated under Section 2 (Declaration of Policies)
+and Section 3 (Objectives) of the Philippine Identification System Act, to wit:
+
+a. to establish a single identification system for all citizens and resident
+aliens;
+
+b. to provide a valid proof of identity for all citizens and resident aliens as a
+means of simplifying public and private transactions;
+
+c. to eliminate the need to present other forms of identification when
+transacting with the government and the private sector, subject to the
+appropriate authentication measures based on biometric identification
+system;
+
+d. to be a social and economic platform through which all transactions
+including public and private services can be availed; and
+
+e. to promote seamless service delivery, enhancing administrative
+
+governance, reducing corruption, strengthening financial inclusion, and
+promoting ease of doing business.
+
+Page 1 of 20
+
+SECTION 4. Definition of Terms
+
+For purposes of this IRR, the following definition of terms are hereby adopted:
+
+a.
+
+Authentication refers to the process of verifying whether online or offline,
+the identity of an individual against the registry information in the PhilSys
+or PhillD.
+
+(1) Online authentication refers to the process by which the identity of
+an individual is validated real-time against the PhilSys Registry by
+the requesting entity through secured connectivity; and
+
+(2) Offline authentication refers to the process by which the identity of
+an individual is validated against the information contained in the
+PhillD by the requesting entity.
+
+. Biometric Exceptions refer to instances whereby there is physical
+
+impossibility on the part of a citizen or resident alien to give a complete set
+of biometric information or if the complete set does not meet the minimum
+threshold standards, but is nevertheless registered in the PhilSys.
+
+Biometric Information refers to front-facing photograph, fingerprints, and
+iris scan as stated in Section 7.B of this IRR.
+
+Cardholder refers to a citizen or resident alien who has been registered
+under the PhilSys and who has been issued and thus, in possession of the
+Philippine Identification Card.
+
+. Citizen refers to a Filipino citizen, as defined in the Constitution, including
+
+those with dual or multiple citizenships, in accordance with Republic Act
+No. 9225, otherwise known as the “Citizenship Retention and
+Re-acquisition Act of 2003”.
+
+Consent refers to a freely given, specific, informed indication of will,
+whereby the registered person agrees to the processing of his personal
+information in transactions requiring his or her consent as stated in this
+IRR. Consent shall be evidenced by written, electronic, or recorded
+means. It may also be given on behalf of the registered person by an
+agent specifically authorized by the registered person to do so.
+
+. Mobile Registration refers to transportable registration centers utilized by
+
+the PSA and other agencies assigned by it to cater to citizens and resident
+aliens.
+
+. Personal Information refers to any information whether recorded in a
+
+material form or not, from which the identity of an individual is apparent or
+can be reasonably and directly ascertained by the entity holding the
+information, or when put together with other information would directly and
+certainly identify an individual as defined in Republic Act No. 10173,
+otherwise known as the “Data Privacy Act of 2012”. For purposes of this
+Act,
+
+Page 2 of 20
+
+8B
+
+personal information includes sensitive personal information, as defined
+under the Data Privacy Act of 2012.
+
+i. Philippine Embassy or Philippine Foreign Service Post refers to
+diplomatic mission or consular office of the Republic of the Philippines in a
+foreign country, including the economic and cultural office of the Philippines,
+or the like, in a foreign territory.
+
+j. Record History refers to an entry in the PhilSys consisting of the
+information regarding a registered person in connection with his or her
+entries in the system and his or her PhillD, as follows:
+
+(1) Date of filing of the application for registration and the particulars
+thereof;
+
+(2) Date of filing of every application for modification and the particulars
+thereof;
+
+(3) Modification of entry made, the date such modification was made,
+and the documents or other proof presented in support thereof;
+
+(4) Reason/s for the omission of any entry;
+
+(5) Dates of issuance, reissuance, and cancellation of the PhillD, and
+including the reasons therefor;
+
+(6) Details of authentication requests processed by the PSA which shall
+be limited to:
+i. the date the request was made and processed by PSA;
+ii. the requesting entity; and
+iii. the response provided by PhilSys.
+
+(7) Disclosure, conveyance, dissemination, publication, and use of
+information by third parties; and
+
+(8) Other relevant information as determined necessary and approved
+by the PSPCC regarding the registration, modification, and
+authentication of personal information of a citizen or resident alien
+under this Act.
+
+k. Registered Information refers to any personal information regarding a
+citizen or resident alien recorded in the PhilSys, including biometric
+information and information about a citizen or resident alien required under
+the Act to be recorded in the PhilSys.
+
+|. Registered Person refers to a person who has been registered in the
+PhilSys.
+
+m. Registration refers to the process of entering demographic and biometric
+information of citizens or resident aliens in the Philippines to the PhilSys.
+
+Page 3 of 20
+
+n. Registration Centers refer to necessary facilities to capture both
+demographic and biometric information required for PhilSys as provided in
+Section 8.A of this IRR.
+
+0. Resident Alien refers to an individual who is not a citizen of the Philippines,
+but has the appropriate immigrant visa or established residence in the
+Philippines for an aggregate period of more than one hundred eighty (180)
+days and is in possession of Alien Certificate of Registration (ACR) I-Card.
+
+RULE II
+THE PHILIPPINE IDENTIFICATION SYSTEM
+
+SECTION 5. The Philippine Identification System (PhilSys)
+
+The Philippine Identification System (PhilSys) is the government's central identification
+platform for all citizens and resident aliens of the Philippines. An individual’s record in
+the PhilSys shall be considered as an official and sufficient proof of identity.
+
+SECTION 6. Philippine Identification System Components
+The PhilSys shall have the following key components:
+
+A. PhilSys Number (PSN) — The PSN is a randomly generated, unique, and
+permanent identification number that will be assigned to every citizen or
+resident alien upon birth or registration by the PSA, in accordance with the
+registration process provided in this IRR. All government agencies,
+including government-owned or controlled corporations (GOCCs) shall
+incorporate in their identification systems and databases the PSN, or its
+derivative, of covered individuals which shall be the standard number for the
+individual across all agencies of the government.
+
+The PSN shall not be pre-determined or pre-assigned to any individual.
+Neither shall any individual be allowed to choose his or her PSN.
+
+No person shall have more than one PSN. The PSN, in print, electronic,
+subject to authentication, shall be accepted as sufficient proof of identity.
+
+B. PhilSys Registry —- The PhilSys Registry contains the PSN, the registered
+records, record history, and registered information of all registered persons
+in the PhilSys. Registered records shall pertain to electronic copies of
+completed application forms submitted during registration and succeeding
+updates.
+
+The information in the PhilSys Registry shall be classified in a manner that
+
+allows safeguards for data privacy and security, access controls, and
+change management, as set in this IRR.
+
+dd
+
+Page 4 of 20
+
+The PhilSys Registry shall be kept, owned, managed, and administered by
+the PSA separate and distinct from all other databases of the PSA and
+registration centers.
+
+. PhillD - The PhillD is a nontransferable card that shall preferably be
+issued to all citizens or resident aliens registered in the PhilSys subject to
+the guidelines to be issued by the PSA.
+
+(1) Features. The PhillD shall be the physical medium issued to
+
+~—
+
+convey essential information about the person’s identity containing
+on its face his or her PSN, full name, sex, date of birth, place of
+birth, blood type, address, marital status (if declared), and a front-
+facing photograph.
+
+All information appearing in the PhillD should match with the
+registered information in the PhilSys. The PhillD shall have a QR
+Code, which contains at least the PSN and any two fingerprint
+information. The PhillD shall also include other security features as
+safeguards for data privacy and security, and prevention against the
+proliferation of fraudulent or falsified identification.
+
+The production and security of the PhillD will be at par with
+technological advances and international standards.
+
+Purpose. The PhillD shall serve as the official government-issued
+identification document of cardholders in dealing with all national
+government agencies, local government units (LGUs), government-
+owned or controlled corporations (GOCCs), government financial
+institutions (GFls), State Universities and Colleges (SUCs), and all
+private sector entities.
+
+(3) Fees. The initial application and issuance as well as the renewal of
+
+the PhillD for citizens shall be free of charge. Renewal shall pertain
+to the replacement of the PhillD arising from recapturing or updating
+of biometric information.
+
+Fees for the (a) initial application and issuance as well as renewal
+of a PhillD to resident aliens, and (b) issuance of a replacement
+PhillD to citizens and resident aliens due to loss, damage, or
+change of entries therein shall be subject to the schedule of fees to
+be issued by the PSA.
+
+Fees however, shall not apply to citizens upon presentation of a
+
+Certificate of Indigency issued by the City/Municipal Social Welfare
+Office.
+
+LB
+
+Page 5 of 20
+
+SECTION 7. PhilSys Registry Data
+
+Information to be collected from the applicant and stored in the PhilSys shall be limited
+to the following:
+
+A. Demographic Data
+
+(1) full name;
+
+(2) Sex!
+
+(3) date of birth;
+
+(4) place of birth;
+
+(5) blood type;
+
+(6) address
+6.a. permanent address
+6.b. present address (optional);
+
+(7) Filipino or Resident Alien;
+
+(8) marital status (optional)
+
+(9) mobile number (optional); and,
+
+(10) e-mail address (optional).
+
+Full name, sex, date of birth, and place of birth shall at all times be consistent with the
+supporting documents presented under Section 8.C hereof, or as declared and
+attested by the Introducer under Section 8.C.4.
+
+B. Biometric Information
+(1) _ front-facing photograph;
+(2) full set of fingerprints; and
+(3) iris scan.
+
+In case of visual or physical impairment that renders the capturing of the complete
+biometric information of the person applying for registration impossible, biometric
+exceptions shall be employed and allowed by the PSA.
+
+The captured biometric information and the acquired biometric data should conform to
+relevant international standards as determined by the PSA.
+
+SECTION 8. Registration
+A. Registration Centers
+
+Every citizen or resident alien shall register personally in any of the following
+registration centers that have the necessary facilities to capture the information
+required to be contained in the registry. These registration centers shall be made
+available one year after the effectivity of this Act:
+
+1. PSA Regional and Provincial Offices;
+
+2. Local Civil Registry Offices (LCROs);
+
+3. Government Service Insurance System (GSIS) for its members and their
+dependents;
+
+4. Social Security System (SSS) for its members and their dependents;
+
+5. Philippine Health Insurance Corporation (PhilHealth);
+
+Page 6 of 20
+
+. Home Development Mutual Fund (HDMF);
+
+Commission on Elections (COMELEC);
+
+Philippine Postal Corporation (PHLPost); and
+
+Other government agencies and GOCCs as may be assigned by the
+PSA.
+
+DOND
+
+The list of offices of the above-mentioned agencies, which will be designated as
+registration centers, shall be posted in the PSA website.
+
+The above agencies shall each allot an area for the setting up of registration
+centers by the PSA. The PSA shall provide the necessary facilities, manpower,
+equipment, registration system, and resources to carry out the registration in the
+registration centers.
+
+In the case of the Filipino citizens residing abroad, the registration shall be made
+in the nearest Philippine Embassy or Philippine Foreign Service post, or other
+registration centers that may be designated by the Department of Foreign Affairs
+in coordination with the PSA.
+
+The PSA and the agencies shall enter into separate Memoranda of Agreement
+delineating their duties and responsibilities for the setting up and operation of the
+registration centers. Registration shall be under the direct supervision and control
+of the PSA, subject to the provisions of the Memoranda of Agreement.
+
+The demographic and biometric information of Filipino citizens and resident
+aliens shall be collected upon registration. However, for children below five (5)
+years old, only the demographic information and front-facing photograph shall be
+collected, and their PSN shall be linked to that of their parent or guardian. For
+children aged five (5) to14 years, including those who have been registered at
+age four (4) or below, their complete biometric information shall be initially
+captured at five (5) years of age and shall be recaptured once they reach 15
+years of age.
+
+Persons incapacitated to give consent under Article 1327 of the New Civil Code
+(minors, insane or demented persons and deaf-mutes who do not know how to
+write) shall be accompanied by their parent/s or legal guardian/s who must be of
+legal age during registration. In default or absence of any parent of legal age, the
+person exercising substitute parental authority as provided in Article 216 of the
+Family Code shall accompany the minor during registration.
+
+B. Special Arrangements
+
+The PSA shall issue guidelines on the special arrangements, for the registration
+of the following:
+
+minors;
+
+senior citizens;
+
+persons with disability;
+
+indigenous persons;
+
+persons in institutional households;
+
+ALON=
+
+1b
+
+Page 7 of 20
+
+6. persons in remote areas; and
+7. foundlings.
+
+The PSA shall coordinate with the appropriate agencies for the registration of
+those needing special arrangements.
+
+The PSA shall also conduct mobile registration activities to cater to citizens and
+resident aliens as it may determine.
+
+C. Documentary Requirements
+
+1. Application Form. The applicant shall submit a duly accomplished
+application form to any designated registration center.
+
+2. The application form shall be supported by the presentation of an original
+
+copy of any of the following primary documents:
+
+a. PSA-issued birth certificate and one (1) government-issued identification
+document with full name, photo and signature or thumbmark; or
+
+b. Philippine ePassport issued by the Department of Foreign Affairs; or
+
+c. Unified Multi-purpose Identification (UMID) Card issued by Government
+Service Insurance System or Social Security System; or
+
+d. other equivalent identification documents as may be determined in the
+guidelines issued by the PSA.
+
+For resident aliens, his or her Alien Certificate of Registration (ACR) or
+ACR ID shall be presented.
+
+In case a married woman presents an identification document which
+reflects her maiden name, she shall be required to present her PSA-issued
+marriage certificate should she opt to adopt the surname of her husband.
+
+3. In the event that the applicant is unable to provide the documents under the
+immediately preceding item, any of the following documents shall be
+presented:
+
+a. PSA-issued birth certificate; or
+
+b. any government-issued identification document reflecting at least the full
+name, front-facing photograph, and signature or thumbmark; or
+
+c. identification documents issued by the private sector which comply with
+the requirements set by the PSA.
+
+4. Notwithstanding the foregoing, appropriate guidelines and mechanisms
+shall be issued to ensure that the registration is not prohibitive and
+restrictive as to unduly defeat the purpose of the Act.
+
+An applicant who does not possess any of the documents in above items 2
+and 3 shall be endorsed by a qualified Introducer in accordance with the
+guidelines set by the PSA, taking into consideration the specific
+circumstances. As a minimum requirement, a qualified Introducer shall be
+of legal age and a PSN holder. The PSA shall maintain a record of all
+
+Fob
+
+Page 8 of 20
+
+qualified Introducers, each of whom shall be linked to all the registered
+persons that they have endorsed. Persons who have been registered
+through a qualified Introducer shall be tagged as such in the PhilSys.
+
+D. Registration Process
+
+The applicant shall register personally at any designated registration center by
+submitting a duly accomplished PhilSys Registration Form (Form No. 1) and
+presentation of any supporting documents as stated in Section 8.C of this
+IRR.
+
+The PSA shall ensure that entries provided in the PhilSys Registration Form
+are consistent with the documentary requirements presented. In the event of
+discrepancies other than address, the data reflected on the presented
+documentary requirements shall prevail.
+
+If there are no discrepancies, the biometric information (front-facing
+photograph, fingerprints, and iris scan) shall be captured except for applicants
+below five (5) years of age, in which case, their demographic information and
+front-facing photograph shall be sufficient.
+
+If the biometric and demographic information of the applicant are found to be
+unique, a PSN will be generated for the applicant. Otherwise, further
+verification shall be conducted by the PSA. In the event that the applicant
+cannot be issued a PSN, he or she will be notified accordingly.
+
+Registration in the PhilSys is deemed successful and complete upon
+confirmation of registration by the PSA and the issuance of the PSN. Once
+successfully registered, the person shall be issued a PhillD in a manner to be
+prescribed by the PSA.
+
+SECTION 9. Deactivation of PSN
+
+A. The PSN shall be deactivated on the following grounds:
+
+4.
+
+5.
+6.
+
+1. loss of Filipino citizenship;
+2.
+3. failure to submit to initial biometric capture at age five (5) for persons who
+
+loss of resident alien status;
+
+were registered at age four (4) and below;
+
+failure to submit to biometric capturing at age 15 for persons who were
+registered at age 14 and below;
+
+death of the registered person; and
+
+upon the request of the registered person.
+
+B. After due process, the PSA may deactivate the PSN on the following grounds:
+
+L
+
+2.
+3.
+
+presentation of false or fictitious supporting document/s during registration or
+during application for change of entries;
+
+misrepresentation in any form during and after registration in the PhilSys; and
+fraudulent application of the biometric exception.
+
+Page 9 of 20
+
+The PhillD of a person with a deactivated PSN shall be surrendered to the PSA.
+
+A deactivated PSN cannot be assigned to another person. Moreover, a person with a
+deactivated PSN shall not be given a new PSN.
+
+SECTION 10. Reactivation of PSN
+
+The PSA may reactivate the PSN of the registered person upon submission of
+satisfactory proof for its reactivation under the guidelines to be set by PSA.
+
+Reactivation of the PSN shall entitle the registered person to reissuance of PhillD.
+SECTION 11. Change of Entries
+
+In case of change in or correction of any of the registered demographic data under
+the PhilSys, the registered person shall update their registration information in the
+manner as specified below.
+
+Any change or correction of entries in the name, sex, date of birth, place of birth, or
+marital status shall be effected through the filing of the PhilSys Registration or
+Correction Form and the submission of the annotated PSA-issued Birth Certificate or
+Marriage Certificate, as the case may be.
+
+Any person requesting change or correction in his or her name, sex, date of birth,
+place of birth, or marital status shall be required to submit to biometric
+authentication.
+
+Change of entry in citizenship shall be effected through the filing of the PhilSys
+Registration or Correction Form and the submission of the appropriate support
+documents, subject to biometric authentication.
+
+An authenticated registered person may request for change in the address, mobile
+number, or email address through the filing of the PhilSys Registration or Correction
+Form at registration centers or at a web-based portal that may be provided by the
+PSA. Authentication shall be carried out through the use of one time password and
+biometrics such as facial image scanning.
+
+In the case of minors and persons incapacitated to give consent, any change in their
+registered data shall be made with the assistance of their PhilSys-registered parent
+or guardian in the registration centers. In the absence of the PhilSys-registered
+parent or guardian, the minor or person incapacitated to give consent shall be
+assisted by the person exercising substitute parental authority as provided in Article
+216 of the Family Code, who must be registered in the PhilSys.
+
+The correction of typographical error/s, updating or recapturing of biometric
+
+information in the PhilSys shall be done upon proper authentication under Section 12
+and validation in accordance with the procedure of PhilSys Registration.
+
+18D
+
+Page 10 of 20
+
+SECTION 12. Authentication
+
+For purposes of establishing proof of identity for transacting business with any
+government agency and private entities, the presentation of the PhillD or PSN shall
+constitute sufficient proof thereof, subject to proper authentication. Provided, that
+when authentication cannot be performed without any fault on the part of the
+cardholder or holder of a PSN, the PSA shall ensure that he or she will not be
+disadvantaged or prejudiced thereby.
+
+In case of online authentication, the PSA shall perform authentication of the PSN of
+an individual submitted by any requesting entity, in relation to his or her biometric
+information or demographic information. The requesting entity shall conform with the
+standards and guidelines set by the PSA, in consultation with DICT to ensure the
+security, efficiency, and integrity of the authentication process.
+
+There will be two modes of authentication: online and offline authentication.
+
+For online authentication, the following information will be used to validate the
+identity of the registered person:
+
+a. PSN and biometric information
+
+b. PSN and demographic information
+
+c. PSN, biometric and demographic information
+
+The requesting entity shall choose the suitable mode(s) of authentication, which may
+involve the use of multiple factors such as but not limited to, demographic
+information, biometric information, one-time password (OTP), and PhillD, for a
+particular service or transaction as per its requirement. PSA shall provide guidelines
+on authentication assurance levels based on international standards and best
+practices.
+
+In exceptional cases to be determined by PSA, where the PSN cannot be provided,
+the biometric and demographic information may be used to authenticate the
+registered person's identity.
+
+For offline authentication, the presentation of the PhillD and the matching of the data
+stored in the QR code will be used to validate the identity of the registered person for
+transactions and services as mentioned under the PhilSys Act.
+
+The PhilSys may return a Yes/No response or demographic data including
+photograph, depending on the use case.
+
+Any requesting entity shall obtain the consent of the registered person before
+collecting his or her identity information for the purposes of authentication. It shall
+inform the registered person submitting his or her identity information the following
+details namely: (a) the nature of the information that may be shared upon
+authentication; and (b) the uses to which the information received during
+authentication may be put by the requesting entity. Provided, that the information
+requested shall only be used for the purpose for which it was requested.
+
+Page 11 of 20
+
+Where the identity of the registered person is authenticated and established, the entity
+may request for PhilSys to provide the former's personal data for a legitimate,
+expressed, and specific purpose. Provided, that the registered person was informed
+of the specific personal information that shall be disclosed and the use of such
+personal information that shall be limited to the specific purpose prior to such
+disclosure thereof. Provided further, that the individual shall have given his or her prior
+consent to such disclosure of personal information. Provided finally, that said
+disclosure of personal data is covered by a data sharing agreement between the
+requesting party and the PSA.
+
+SECTION 13. Uses of PhillD and PSN.
+
+The PhillD and PSN shall be honored and accepted, subject to authentication, in all
+transactions requiring proof or verification of citizens or resident aliens’ identity, such
+as, but not limited to:
+
+(a) application for eligibility and access to social welfare and benefits granted by
+the government;
+
+(b) application for services and benefits offered by GSIS, SSS, PhilHealth, HDMF,
+and other government agencies;
+
+c) application for passports or travel documents;
+
+d) application for driver's license;
+
+e) tax-related transactions;
+
+f) registration and voting identification purposes;
+
+g) admission to any government hospital, health center, or similar institution;
+
+h) all other government transactions;
+
+i) application for admission in schools, colleges, learning institutions and
+universities, whether public or private;
+
+(j) application and transaction for employment purposes;
+
+(k) application for opening of bank accounts and other transactions with banks and
+other financial institutions;
+
+(l) application for clearances with the appropriate government agencies; and
+
+(m) other transactions requiring proof of identity.
+
+(
+(
+(
+(
+(
+(
+(
+
+SECTION 14. Limitations
+
+Proof of identity shall not necessarily be construed as proof of eligibility to avail of
+certain benefits and services which shall be determined based on applicable rules and
+regulations of the government authorities/agencies concerned. Issuance of the PSN
+and/or PhillD shall not likewise be construed as incontrovertible proof of citizenship.
+
+F90
+
+Page 12 of 20
+
+RULE Ill
+PSA MANDATES
+
+SECTION 15. PSA Mandates.
+
+The PSA is the primary implementing agency to carry out the provisions of the PhilSys
+Act. Overall planning, management, and administration of the PhilSys shall be the
+responsibility of the PSA. It shall issue rules in the implementation and enhancement of
+the PhilSys, including but not limited to registration, authentication, and data governance.
+It shall ensure the integrity and security of the same in accordance with the PhilSys Act,
+including all other applicable laws and policies. The PSA shall issue guidelines and
+undertake measures to ensure secure, reliable, and efficient authentication of PhilSys
+record upon the request of authorized government and private entities. The PhilSys as
+mentioned in Rule II of this IRR shall be owned, managed, maintained, and administered
+by the PSA, with the technical assistance of the Department of Information and
+Communication Technology. The PSA can adopt new and more effective technology in
+furtherance of the PhilSys Act. Pursuant thereto, the State shall provide for the installation
+of state-of-the-art biometric machines in all relevant agencies for authentication of data
+and identity holders.
+
+The PSA shall collaborate with LGUs, other government agencies, and GOCCs in order
+to ensure the registration and enrolment of all citizens and resident aliens in the PhilSys
+including the Indigenous Cultural Communities/Indigenous Peoples (ICCs/IPs) and those
+located in remote localities.
+
+PSA may also request assistance and security from appropriate agencies during mobile
+registration of citizens and resident aliens as determined by the PSA.
+
+There shall be established within the PSA and directly under the Office of the National
+Statistician, a separate office to be headed by a Deputy National Statistician (DNS), which
+shall perform the functions provided for under the Act.
+
+Under the Office of the DNS, three (3) Services shall be created: the PhilSys Registration
+Service (PRS), the PhilSys Central Processing Service (PCPS) and the PhilSys Policy,
+Coordination, and Monitoring Service (PPCMS), each to be headed by an Assistant
+National Statistician (ANS).
+
+The ANS of the PRS shall be responsible for the following divisions namely: Registration
+Center Management; Conformance Services; and ID Production and Management.
+
+The ANS of the PCPS shall be responsible for the following divisions namely: Identity
+Validation; and Operation and Maintenance.
+
+The ANS of the PPCMS shall be responsible for the following divisions namely: Policy and
+Coordination Division; and Risk Management and Monitoring Division.
+
+The DNS and ANSs shall possess the following minimum qualifications:
+
+(a) Master’s Degree appropriate to the position; and
+(b) Relevant experience in management.
+
+{iB
+
+Page 13 of 20
+
+The DNS and ANS shall be appointed by the President of the Philippines upon the
+recommendation of the National Statistician. The DNS shall have a rank equivalent
+to and enjoy the benefits and privilege as an Assistant Secretary or Director IV in
+other national government agencies.
+
+The PSA hereby designates PSA Regional Directors to be the supervising officers
+and focal persons of their respective regions. A division shall be created within the
+Regional Statistical Service Office (RSSO) of the PSA to monitor and supervise the
+registration of applicants and issuance of PSN and PhillD.
+
+RULE IV
+PHILSYS POLICY AND COORDINATION COUNCIL (PSPCC)
+
+SECTION 16. Creation of the PSPCC
+
+The PhilSys Policy and Coordination Council (PSPCC) is organized to formulate
+policies and guidelines to ensure effective coordination and implementation of the
+PhilSys.
+
+SECTION 17. Composition
+The PSPCC shall be composed of the following:
+
+a. Secretary, National Economic and Development Authority (NEDA) as
+Chairperson;
+
+b. National Statistician and Civil Registrar General, Philippine Statistics Authority
+(PSA) as Co-Chairperson;
+
+c. Undersecretary, Department of Budget and Management (DBM) as Vice
+Chairperson;
+
+d. Undersecretary, Department of Foreign Affairs (DFA) as member;
+
+e. Undersecretary, Department of Information and Communications Technology
+(DICT) as member;
+
+f. Undersecretary, Department of Finance (DOF) as member;
+
+g. Undersecretary, Department of Social Welfare and Development (DSWD) as
+member;
+
+h. Undersecretary, Department of the Interior and Local Government (DILG) as
+member;
+
+i. Chairperson, National Privacy Commission (NPC) as member;
+
+j. Deputy Governor, Bangko Sentral ng Pilipinas (BSP) as member;
+
+k. President and General Manager, Government Service Insurance System
+(GSIS) as member;
+
+|. President and Chief Executive Officer, Philippine Health Insurance
+Corporation (PhilHealth) as member;
+
+m. President and Chief Executive Officer, Social Security System (SSS) as
+member; and
+
+n. Postmaster General, Philippine Postal Corporation (PHLPost) as member.
+
+f5D
+
+Page 14 of 20
+
+SECTION 18. Powers and Functions
+
+In addition to their primary function as defined in Section 16 hereof, the PSPCC shall
+perform the following powers and functions, including but not limited to:
+
+(a) ensure the compatibility of the respective technology infrastructure of different
+government agencies in order to comply with the requirements of the PhilSys;
+
+(b) facilitate inter-agency cooperation and collaboration in the implementation of
+the PhilSys;
+
+(c) consult and enlist the assistance and support of relevant government
+agencies, the academe, as well as private institutions or persons, as may be
+necessary in the formulation, review, or amendment of policies and
+guidelines;
+
+(d) issue guidelines to comply with international standards set for identity security
+and data protection; and
+
+(e) recommend to Congress any measures, amendments, or modifications to the
+PhilSys Act and other related laws, as may be necessary.
+
+SECTION 19. Meetings
+
+Meetings shall be held regularly on a date, time, and place determined by the
+PSPCC. The Chairperson or the Co-Chairperson may call a special meeting as the
+need arises. The PSPCC shall formulate internal rules for its meetings.
+
+SECTION 20. Secretariat
+
+The PSA shall serve as the PSPCC’s Secretariat which shall assist and provide
+administrative support to the PSPCC. It shall perform other functions as may be
+instructed by the PSPCC or the Head of the Secretariat.
+
+RULE V
+PROTECTION AND SAFEGUARDS
+
+SECTION 21. Protection Against Unlawful Disclosure of Information/Records
+
+No person may disclose, collect, record, convey, disseminate, publish, or use any
+information of registered persons with the PhilSys, give access thereto or give copies
+thereof to third parties or entities, including law enforcement agencies, national
+security agencies, or units of the Armed Forces of the Philippines (AFP), except in
+either of the following circumstances:
+
+a) When the registered person has given prior consent, specific only to the
+disclosed particular purpose; and
+
+b) When the compelling interest of public health or safety so requires, and
+
+provided that the risk of significant harm to the public is established, the
+relevant information may be disclosed upon order of a competent court. The
+
+SSP
+
+Page 15 of 20
+
+owner of the information shall be notified by PSA within 72 hours of the fact of
+such disclosure to the requesting party.
+
+Information disclosed shall not be used except for the specific purpose for which it
+was authorized and shall not be divulged by any person to any third party other than
+the person so authorized.
+
+PSA must ensure that information in the PhilSys is used only in accordance with its
+intended purpose as set forth in the PhilSys Act.
+
+Any information obtained as a result of unlawful disclosure under the PhilSys Act
+shall be inadmissible in any judicial, quasi-judicial, or administrative proceedings.
+
+Registered persons may request the PSA to provide access to their own registered
+information and record history subject to the guidelines and regulations to be issued
+by the PSA.
+
+The records of the details of authentication requests processed by the PSA shall be
+destroyed after a period of one (1) year from the date of authentication, unless the
+registered person selects a shorter period.
+
+SECTION 22. Privacy, Security, and Safeguards on the Philippine Identification
+
+The PSA, with the technical assistance of the DICT, shall implement reasonable and
+appropriate organizational, technical, and physical security measures to ensure that
+the integrity of the PhilSys as well as the information gathered for the PhilSys,
+including information stored in the PhilSys Registry, is protected from unauthorized
+access, use, disclosure, and against accidental or intentional loss, destruction, or
+damage. The PSA may also seek the assistance of other relevant agencies for the
+same purpose.
+
+The PSA shall designate a separate Data Protection Officer for the PhilSys. The PSA
+shall ensure that applicants are adequately informed upon registration in the PhilSys
+on how their data will be used and how they can access their registered information
+and record history. All applicable rights of the registered person shall be upheld.
+
+To ensure the PhilSys is used appropriately and exclusively for its specified purpose,
+it shall not process personal information and any data from external systems and
+databases.
+
+SECTION 23. Aggregate or Statistical Data
+
+While upholding the confidentiality provisions under Republic Act No. 10625,
+otherwise known as the “Philippine Statistical Act of 2013”, all data collated by the
+PSA under the PhilSys may be used to generate aggregate data or statistical
+summaries without reference to or identification of any specific individual. Provided,
+that nothing in the Act shall be construed as prohibiting or limiting the sharing or
+transfer of any personal data that is already authorized or required by law.
+
+Page 16 of 20
+
+RULE VI
+PENALTIES
+
+SECTION 24. Penal Provision
+
+Any person or entity who, without just and sufficient cause, shall refuse to
+accept, acknowledge and/or recognize the PhillD or PSN, subject to
+authentication, as the only official identification of the holder/possessor
+thereof shall be fined in the Five hundred thousand pesos (P500,000.00).
+
+Any person who utilizes the PhillD or PSN in an unlawful manner or use the
+same to commit any fraudulent act or for other unlawful purpose/s shall be
+punished with imprisonment of not less than six (6) months but not more than
+two (2) years or a fine not less than Fifty thousand pesos (P50,000.00) but not
+more than Five hundred thousand pesos (P500,000.00), or both, at the
+discretion of the court.
+
+The penalty of three (3) years to six (6) years imprisonment and a fine of One
+million pesos (P1,000,000.00) to Three million pesos (P3,000,000.00) shall be
+imposed upon any offender found guilty of any of the following acts or
+omissions:
+
+a. The willful submission of or causing to be submitted a fictitious name or
+false information in the application, renewal, or updating in the PhilSys by
+any person, including the Introducer;
+
+b. The unauthorized issuance of a PSN or printing, preparation, or issuance
+of a PhillD by any person;
+
+c. Willful falsification, mutilation, alteration, or tampering of the PhillD by any
+person;
+
+d. The use of the PhillD/PSN or unauthorized possession of PhillD, without
+any reasonable excuse by any person other than the one to whom it was
+issued or the possession of a fake, falsified, or altered PhillD; or
+
+e. The willful transfer of the PhillD or the PSN to any other person.
+
+The penalty of six (6) years to 10 years imprisonment and a fine of Three
+million pesos (P3,000,000.00) to Five million pesos (P5,000,000.00) shall be
+imposed upon any offender found guilty of any of the following acts or
+omissions:
+
+a) Any person who shall collect or use personal data in violation of Section
+12 of the PhilSys Act and the pertinent provisions of this IRR;
+
+b) Any person who shall willfully use or disclose data or information in
+violation of Section 17 of the PhilSys Act and the pertinent provisions of
+
+this IRR; or
+
+Page 17 of 20
+
+c) Any person, not covered by the succeeding paragraphs, who shall access
+the PhilSys or process data, or information contained therein without any
+authority.
+
+24.5. If financial profit resulted from accessing, disclosing, or using the data or
+information the guilty person shall, in addition, pay twice the amount gained
+from such act.
+
+24.6. Malicious disclosure of data or information by officials, employees, or agents
+who have the custody or responsibility of maintaining the PhilSys shall be
+penalized with 10 years to 15 years imprisonment and a fine of Five million
+pesos (P5,000,000.00) to Ten million pesos (P10,000,000.00). If financial
+profit resulted from such disclosure or processing of the data or information,
+the guilty person shall, in addition, pay twice the amount gained from such
+act.
+
+24.7. Officials, employees, or agents who have custody or responsibility of
+managing or maintaining the PhilSys shall be penalized with three (3) years to
+six (6) years imprisonment and a fine of One million pesos (P1,000,000.00) to
+Three million pesos (P3,000,000.00) if by their own negligence, the PhilSys is
+accessed by unauthorized persons, or the data or information contained
+therein is processed without any authority from the PhilSys Act and the
+pertinent provisions of this IRR or any existing law.
+
+24.8. In all instances, if the violation was committed by a government official or
+employee, the penalty shall include perpetual absolute disqualification from
+holding any public office or employment in the government, including any
+GOCCs, and their subsidiaries.
+
+24.9. The penalties imposed in this Section shall be in addition to those imposed on
+acts or omissions punishable by existing penal and other laws.
+
+RULE VII
+FINAL PROVISIONS
+
+SECTION 25. Transitory Provisions
+
+The PSA shall carry out the implementation of the PhilSys in such manner that the
+operations of card-issuing government agencies shall not be impeded so as not to
+unduly delay delivery of public service. Provided, that the PSA shall create a
+transition plan to gradually synchronize and consolidate all existing government-
+initiated identification systems by seeding the PSN or its derivative into the
+databases of all agencies into one integrated and interconnected identification
+system in order to provide the official and sufficient proof of identity of the registered
+person. The transition plan shall set up the timelines and deliverables and shall be
+crafted in coordination with the concerned agencies and DICT, based on the
+guidelines issued by the PSPCC subject to the provisions of the Data Privacy Act of
+2012 and other applicable laws and regulations.
+
+all
+
+Page 18 of 20
+
+SECTION 26. Information Campaign
+
+Within three (3) months from the effectivity of the PhilSys Act, the PSA, together with
+the DFA and other government agencies concerned, shall conceptualize and
+undertake an extensive information campaign based on a _ comprehensive
+communication plan to all citizens and resident aliens.
+
+SECTION 27. Funding
+
+The amount necessary to implement the provisions of the PhilSys Act shall be included
+in the General Appropriations Act.
+
+SECTION 28. Separability Clause
+
+If any provision, section, or part of the PhilSys Act and this IRR, shall be declared
+unconstitutional or invalid, such judgment shall not affect, invalidate, or impair any
+other provisions, sections, or parts of the PhilSys Act and this IRR.
+
+SECTION 29. Amendment
+
+In the implementation of this IRR, the PSA, in coordination with the PSPCC, may
+introduce amendments thereto every five (5) years or earlier as the need arises.
+
+SECTION 30. Repealing Clause
+
+All relevant administrative issuances or parts thereof, which are contrary to, or
+inconsistent with any provisions of this IRR are repealed, amended, or modified
+accordingly.
+
+SECTION 31. Effectivity Clause
+
+This IRR shall take effect immediately after its publication in the Official Gazette or in
+
+a newspaper of general circulation and upon filing with the University of the Philippines
+Law Center of three (3) certified copies thereof.
+
+Approved and signed this 5th day of October 2018 in Pasig City, Philippines.
+
+baa Mace 8: theArsales
+LISA GRACE S. BERSALES
+
+National Statistician and Civil Registrar General
+Philippine Statistics Authority
+
+Page 19 of 20
+
+In consultation with:
+The PhilSys Policy and Coordination Council (PSPCC):
+Secretary, National Economic and Development Authority (NEDA)
+Undersecretary, Department of Budget and Management (DBM)
+Undersecretary, Department of Foreign Affairs (DFA)
+
+Undersecretary, Department of Information and Communications Technology
+(DICT)
+
+Undersecretary, Department of Finance (DOF)
+
+Undersecretary, Department of Social Welfare and Development (DSWD)
+Undersecretary, Department of the Interior and Local Government (DILG)
+Chairperson, National Privacy Commission (NPC)
+
+Deputy Governor, Bangko Sentral ng Pilipinas (BSP)
+
+President and General Manager, Government Service Insurance System
+(GSIS)
+
+President and Chief Executive Officer, Philippine Health Insurance
+Corporation (PhilHealth)
+
+President and Chief Executive Officer, Social Security System (SSS)
+
+Postmaster General, Philippine Postal Corporation (PHLPost)
+
+And the following agencies:
+
+Commission on Elections (COMELEC)
+
+Commission on Human Rights
+
+House Committee on Population and Family Relations
+National Security Council
+
+Office of the Solicitor General
+
+UP Law Center
+
+IB
+
+Page 20 of 20

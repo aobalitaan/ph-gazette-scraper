@@ -1,0 +1,113 @@
+MALACAÑANG MANILA
+
+EXECUTIVE ORDER NO. 34
+
+PROVIDING FOR THE RESTRUCTURING OF THE NATIONAL COMPUTER CENTER
+
+WHEREAS, the Administrative Code of 1987 empowers the President with the continuing authority to reorganize the Office of the President and to transfer functions from one department or agency to another;
+
+WHEREAS, there is a need to coordinate, integrate, modify and modernize the information infrastructure policies, programs and projects of the Philippines;
+
+WHEREAS, there is a need for a central executive agency that will oversee the coordination and integration of government policies, programs and projects, in order to enhance the planning and use of computer resources with high quality and cost efficiency as a major consideration;
+
+WHEREAS, there is a need to fast-track and modify the implementation of information infrastructure policies, programs and projects, where there are slow and ineffective.
+
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+Section 1. Declaration of Policy . It is hereby declared the policy of the Government, in furtherance of national development, to create the appropriate environment for, and rationalize the use and application of, information technology to attain the following objectives:
+
+(a) To optimize the use of information technology in meeting the socio-economic development needs and in addressing national concerns such as poverty, crime, education, health and environment;
+
+(b) To ensure the protection of mission-critical and highly secure public and private sector data from hostile attacks that could endanger peace and order, national security and the operation of public utilities;
+
+(c) To ensure the protection of privacy rights in consideration of the right to information and the duty to enforce laws;
+
+(d) To ensure that the procurement of computer hardware and software will safeguard the public interest in terms of optimum serviceability, quality, benefits and economy;
+
+(e) To ensure compatibility of all government hardware and software;
+
+(f) To provide the mechanisms for the effective evaluation of information technologies before and during their actual use in government applications;
+
+(g) To encourage the development of government-wide information systems and networks to provide data and information needed for development planning and decision-making;
+
+(h) To optimize the use of information technology in electronic governance, thus achieving greater effectiveness, efficiency, accessibility, and accountability in public service;
+
+(i) To ensure that the use of information technology will support and enhance national competitiveness in the global arena;
+
+(j) To maximize the potential of information technology in increasing national productivity and creating national wealth;
+
+(k) To support the formation and sustainability of knowledge-based industries, thus creating new local employment opportunities and reducing overseas employment;
+
+(l) To promote the development, retention and optimum utilization of qualified information technology human resources.
+
+Section 2. Functions and Powers of the National Computer Center (NCC). The NCC shall remain as an executive agency under the Office of the President and shall have the following functions and powers:
+
+(a) It shall be the implementing arm of all government computerization and electronic networking policies, programs and projects, and all other IT-related activities of government;
+
+(b) It shall devise and implement an integrated government computerization program coordinating all existing government entities, taking into account all their existing plans, programs, proposals, software and hardware inventory, installed systems and projects;
+
+(c) It shall design and build an integrated government information infrastructure (GII);
+
+(d) It shall review and approve proposed Information Systems Plans (ISPs) of National Government Agencies (NGAs), State Universities and Colleges (SUCs), Government Owned and Controlled Corporations (GOCCs), and Government Financial Institutions (GFIs), determine their funding requirements and endorse such funding requirements to the Department of Budget and Management (DBM) or the BOT Center;
+
+(e) It shall audit the computer hardware and software inventory of all government entities to make sure that computer systems are used to its full potential;
+
+(f) It shall facilitate the transfer and re-assignment of all computer hardware and software that are not being used by government entities;
+
+(g) It shall function as a backup computing facility in the event that the computer systems of other government entities become inoperable;
+
+(h) It shall conduct periodic monitoring and evaluation of existing ISPs, and determine appropriate upgrades and modifications as necessary;
+
+(i) It shall facilitate the requests and service the needs of local government units (LGUs), the legislative and judicial branches, as well as the constitutional commissions, if and when these independent entities decide to become part of government computerization and electronic networking programs, and projects;
+
+(j) It shall assist other government information technology installations in the supervision, regulation or rationalization of their services, and for this purpose may conduct management audits whenever necessary;
+
+(k) It shall promote the use of electronic commerce in government-to-government and government-to-private transactions;
+
+(l) It shall promote IT exports and investments, promote public and private sector cooperation, implement innovative IT-related activities, and promote public access to information technologies;
+
+(m) It shall organize and manage a Strategic Data Center (SDC) that shall service the Executive Information System (EIS) and the Decision Support System (DSS) needs of the Office of the President, and create a national database on IT as part of the national statistical system;
+
+(n) It shall represent NGAs, SUCs, GOCCs and GFIs in IT-related negotiations and provide them bid management;
+
+(o) It can enlist the assistance of any Department, Bureau, Office, Agency or instrumentality of government, including GOCCs and GFIs in the furtherance of its functions;
+
+(p) Perform such other functions as may be necessary to implement the provisions of this Executive Order.
+
+Section 3. IT Action Agenda . — The NCC shall be implementing and coordinating agency of the IT Action Agenda for the 21 st Century (IT21) and it successor plans.
+
+The NCC shall recommend changes and/or improvements in IT21, through the National Information Technology Council (NITC).
+
+The NCC shall provide Secretariat services to the NITC.
+
+Section 4. Director General . — The management of the NCC shall be vested in a Director General who shall be the chief executive officer thereof and who shall be appointed by the President of the Philippines. The Director General of the NCC shall have the equivalent rank of a cabinet Undersecretary, and shall have the following powers, functions and duties:
+
+(a) Direct and manage the affairs of the NCC, including the National Computer Institute (NCI) and the Philippine Software Development Institute (PSDI);
+
+(b) Implement policies, programs and projects as may be adopted pursuant to the provisions of this Executive Order;
+
+(c) Undertake periodic review of policies, programs and projects;
+
+(d) Protect and preserve the secrecy and security of NCC data holdings;
+
+(e) Appoint employees of the NCC in accordance with the approved budget and staffing pattern thereof and discipline or remove them in accordance with existing laws;
+
+(f) Disburse, administer and obligate appropriations of the NCC;
+
+(g) Coordinate with appropriate law enforcement agencies the investigation and prosecution of Intellectual Property Rights (IPR) violators and computer-related crime offenders;
+
+(h) Perform such other functions as may be necessary to implement the objectives of this Executive Order.
+
+Section 5. All issuances, orders, rules and regulations or parts thereof which are inconsistent with any of the provisions of this Executive Order are hereby repealed or modified accordingly.
+
+Section 6. This Executive Order shall take effect immediately.
+
+Done in the City of Manila, this 26 th day of OCT. 1998.
+
+(Sgd.) JOSEPH EJERCITO ESTRADA
+
+By the President: (Sgd.) RONALDO B. ZAMORA Executive Secretary
+
+Source: Presidential Management Staff
+
+Office of the President of the Philippines. (1998). [Executive Order Nos. : 1-338]. Manila : Presidential Management Staff.

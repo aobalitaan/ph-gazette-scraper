@@ -1,0 +1,135 @@
+MALACAÑANG MANILA
+
+EXECUTIVE ORDER NO. 386
+
+ESTABLISHING A NATIONAL CRIME INFORMATION SYSTEM (NCIS), PROVIDING THE MECHANISMS THEREFOR AND FOR OTHER SIMILAR PURPOSES
+
+WHEREAS, proper law enforcement, improved public safety and effective administration of justice require comprehensive, adequate and timely information on crimes, criminals and the operations of the Criminal Justice System;
+
+WHEREAS, advances in computer and related communications technology now make it both practical and feasible to obtain, store, manage and disseminate such data more completely, relevantly, and effectively;
+
+WHEREAS, the installation of a National Crime Information System (NCIS) will help in the identification and apprehension of criminals, improve the efficiency of criminal justice agencies, and ultimately help reduce crimes through better planning and use of manpower, equipment and government resources;
+
+WHEREAS, statistics which can be derived as a by-product from the information handled by such a system can be utilized in determining the nature, causes and volume of crimes in the country; to form a basis for the study of the crime, police methods, court procedures, and penal problems; and to plan intelligently and to evaluate effectively the programs for combatting crime and lawlessness;
+
+WHEREAS, at present, different government agencies disseminate crime information and issue clearances creating confusion and undue difficulties to the general public and other end-users, and which situation could be remedied by the establishment of a centralized coordinated network of crime information systems;
+
+WHEREAS, Executive Order No. 67, dated May 28, 1967, as amended, has mandated the establishment of a uniform crime reporting system and closer coordination among agencies involved in peace and order and public safety;
+
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+SECTION 1. The promotion of the development of an integrated computer-based National Crime Information System (NCIS) involving the cooperation of the five pillars of the Criminal Justice System is hereby adopted as a policy.
+
+SEC 2. The NCIS shall have a central data base which shall contain all information on crimes, offenders, victims and other matters related to the administration of justice based on crime reports submitted by law enforcement agencies and the crime case update reports from the other pillars of the criminal justice system.
+
+SEC 3. The establishment of the NCIS shall embody two (2), phases: Phase I, which shall include all aspects of systems development such as data base development, program development, systems test, systems evaluation and systems maintenance and manpower training. This phase shall be completed within five (5) years.
+
+Initially, the scope and focus of such crime information system shall be the establishment of an Offender-Based Crime Information System (OBCIS) which shall monitor incidents of arrests, dispositions, convictions, confinement and release of offenders. The Offices that shall be primarily involved under this phase are those that operate under the five pillars of the Criminal Justice System:
+
+1. The Law Enforcement — Philippine Constabulary/Integrated National Police, National Bureau of Investigation, National Police Commission.
+
+2. The Prosecution — National Prosecution Service, Tanodbayan and Judge Advocate General Service.
+
+3 . The Courts — Supreme Court, Court of Appeals, Sandiganbayan, Regional Trial Courts, Metropolitan and Municipal Courts. For this purpose a Memorandum of Agreement shall be entered into with the Supreme Court.
+
+4. The Corrections — Bureau of Corrections, Parole and Probation Administration, Office of Jail Management and Penology of the Integrated National Police, Provincial Jails and the Board of Pardons and Parole.
+
+5. The Community — Department of Local Government, and the Department of Social Welfare and Development.
+
+Phase II, which shall include activities concerning the development of crime information systems related to the other Offices not covered under Phase I. It shall include such activities as computer upgrading, systems development and manpower training for technical personnel of other offices concerned as systems link-up or networking is resorted to ensure an effective and efficient data communication between and among participating agencies. Phase II shall be completed within the next five (5) years.
+
+SEC 4. The National Police Commission shall: (a) develop and promote an appropriate mechanism for integrating and coordinating the different sub-systems under each pillar of the criminal justice system; and (b) maintain a criminal justice statistics in pursuance of its principal functions of formulating a national crime prevention program and undertaking crime studies and/or researches on criminal justice and social defense and such other matters related thereto.
+
+SEC 5. The National Bureau of Investigation (NBI) as mandated under Republic Act No. 157 shall act as a national clearing house of criminal and other information for the benefit and use of all prosecuting and law-enforcement entities of the Philippines and the identification records of all persons without criminal convictions and shall give technical aid to all prosecuting and law enforcement officers and entities of the Government as well as the courts that may request its services. Coordination by the National Police Commission with the NBI shall be through the Department of Justice.
+
+SEC 6. The Philippine Constabulary/Integrated National Police (PC/INP) is hereby designated as the principal agency that shall provide accurate and timely crime information to support police operations.
+
+SEC 7. The National Uniform Crime Case Reports (NUCCR) shall be used primarily for crime reporting without precluding its other uses for effective prevention and social defense.
+
+SEC 8. The following departments/bureaus/offices shall be responsible in establishing their system of generating crime information in their respective areas of concern, as indicated below:
+
+a . Department of National Defense
+
+1) Philippine Air Force Security Command (PAFSECOM) — pertaining to violation of airport security laws.
+
+2) Philippine Coast Guard — pertaining to violations of maritime laws.
+
+3) Judge Advocate General’s Service, AFP — pertaining to violations of the Articles of War and military laws.
+
+b . Philippine Constabulary/Integrated National Police — pertaining to violations of the Revised Penal Code and special laws, including violations of the Dangerous Drugs Act, prisoners in city/municipal jails, wanted persons, missing persons, and others.
+
+c . Department of Justice
+
+1) Office of the Chief State Prosecutor/Provincial/City Prosecution Offices — pertaining to cases handled by the State Prosecutors, and the Provincial/City Prosecutors.
+
+2) Bureau of Corrections — pertaining to national prisoners.
+
+3) Parole and Probation Administration — pertaining to probationers.
+
+4) Board of Pardons and Parole — pertaining to parolees and pardonees.
+
+5) Bureau of Immigration — pertaining to aliens and alien offenders.
+
+6) National Bureau of Investigation — pertaining to criminal and other information.
+
+d . Department of Finance
+
+1) Bureau of Customs — pertaining to violations of customs laws.
+
+2) Economic Intelligence and Investigation Bureau — pertaining to economic crimes.
+
+3) Bureau of Internal Revenue — pertaining to violations of internal revenue laws.
+
+e . Department of Transformation and Communications
+
+1) Air Transportation Office (ATO) — pertaining to violations of air space.
+
+2) Land Transportation Office (LTO) — pertaining to violations of the Land Transportation Code.
+
+3) Maritime Industry Authority (MARINA) — pertaining to violations of maritime laws and franchising of Domestic Water Transportation.
+
+f . Department of Local Government — pertaining to crime information on prisoners confined at provincial jails.
+
+g . Department of Social Welfare and Development — pertaining to crime information on youthful offenders sheltered in the Youth Rehabilitation Centers.
+
+h . Department of Health —
+
+1) Bureau of Food and Drugs — pertaining to violations of food and drugs laws and regulations.
+
+i. Department of Trade and Industry — pertaining to crime information on consumer protection and domestic trade laws and regulations.
+
+j. Department of Foreign Affairs — pertaining to crime information on Philippine foreign policies and illegal processing and issuance of passports, visas and other travel documents, as well as crimes involving Filipino citizens who have absconded to other countries.
+
+k. Office of the Ombudsman — pertaining to prosecution of government officials and employees.
+
+l. Sandiganbayan — pertaining to disposition of cases involving government officials and employees.
+
+m. Supreme Court — pertaining to disposition of criminal cases in all courts.
+
+n . Dangerous Drugs Board — pertaining to violations of RA 6125 (Dangerous Drugs Law), as amended.
+
+o. Central Bank — pertaining to violation of banking laws.
+
+p. Securities and Exchange Commission — pertaining to crime information on violation of laws relating to registration, licensing, regulation and supervision of corporations and partnerships, securities and exchanges, brokers, dealers, salesmen, issuer companies and financial intermediaries.
+
+q. Such other agencies as may be mandated by law to implement special laws.
+
+SEC 9. The Chairman of the National Police Commission, the Director of the National Bureau of Investigation, the Chief of Constabulary and Director General of the Integrated National Police, and the Secretary General of the National Statistical Coordination Board shall promulgate rules and regulations to carry out and accomplish the objectives of this Executive Order and they shall create a Technical Committee responsible for the following: (a) strict implementation of the national uniform crime case reports; (b) thorough analysis of national uniform crime case reports for policy formulation; (c) organization and operational linkages; (d) computer hardware linkages; (e) smooth transition mechanism; and (f) such other matters as deemed necessary and appropriate to implement and achieve the objectives of this Executive Order. Within 90 days from the date of its effectivity, the Technical Committee shall convene and accomplish its functions within 90 days after its Constitution.
+
+SEC 10. The National Bureau of Investigation, the Philippine Constabulary/Integrated National Police, the National Police Commission, and the National Statistical Coordination Board shall establish linkages with agencies/offices concerned with crime information pertinent to their respective areas of information service, duties and responsibilities, as specified in SECs 4, 5, 6 and 8 of this Executive Order.
+
+SEC 11. For the initial implementation of the provisions of this Executive Order, the necessary funding shall be taken from the authorized appropriations of the concerned agencies. Appropriations for succeeding years shall be incorporated in the budget proposals for Congressional action.
+
+SEC 12. This Executive Order shall take effect immediately.
+
+DONE in the City of Manila, this 19th day of December, in the year of Our Lord, nineteen hundred and eighty-nine.
+
+(Sgd.) CORAZON C. AQUINO President of the Philippines
+
+By the President:
+
+(Sgd.) CATALINO MACARAIG, JR. Executive Secretary
+
+Source: Presidential Museum and Library
+
+Office of the President of the Philippines. (1991). [Executive Order Nos. : 171 – 390]. Manila : Presidential Museum and Library.

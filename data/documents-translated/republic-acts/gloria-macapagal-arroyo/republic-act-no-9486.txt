@@ -1,0 +1,1189 @@
+Republic of the Philippines Congress of the Philippines Metro Manila
+
+Third Regular Section
+
+AN ACT ESTABLISHING THE BUHISAN WATERSHED FOREST RESERVE, THE MANANGA WATERSHED FOREST RESERVE, THE SUDLON NATIONAL PARK, THE CENTRAL CEBU NATIONAL PARK AND THE KOTKOT-LUSARAN WATERSHED FOREST RESERVE SITUATED IN THE CITIES OF CEBU, TALISAY, TOLEDO AND DANAO AND IN THE MUNICIPALITIES OF MINGLANILLA, CONSOLACION, LILOAN, COMPOSTELA AND BALAMBAN, PROVINCE OF CEBU INTO ONE PROTECTED AREA TO BE KNOWN AS THE CENTRAL CEBU PROTECTED LANDSCAPE AND FOR OTHER PURPOSES
+
+SECTION 1. Title . – This Act shall be known as the “Central Cebu Protected Landscape (CCPL) Act of 2007”.
+
+SEC. 2. Declaration of Policy . – The critical importance of protecting, conserving, maintaining and rehabilitating the natural physical attributes and processes of the watershed and its complementary biological diversities, as well as the aesthetic, historical, cultural and economic significance of the Central Cebu Protected Landscape to the continued existence, survival, sustenance, growth and development of present and future inhabitants of the Island of Cebu cannot be overemphasized. It is hereby declared the policy of the State to secure the protection, conservation, rehabilitation and sustainable development of the Central Cebu Protected Landscape, particularly its role as a watershed for water generation and supply purposes; its associated biological diversity, other natural, ecological and physical processes and values; its communities, their culture and way of life insofar as these are in harmony with nature and the biophysical and ecological systems of the area.
+
+SEC. 3. Land Classification . – All lands of the public domain comprising the Central Cebu Protected Landscape shall fall under the classification of national park as provided for in the Philippine Constitution.
+
+SEC. 4. Scope and Coverage . – Pursuant to and in accordance with the NIPAS Act, the Buhisan Watershed Forest Reserve, the Mananga Watershed Forest Reserve, the Sudlon National Park, the Central Cebu National Park and the Kotkot-Lusaran Watershed Forest Reserve located in the cities of Cebu, Talisay, Toledo and Danao, and in the municipalities of Minglanilla, Consolation, Liloan, Compostela and Balamban in the Province of Cebu are hereby declared into one protected area and a permanent component of the NIPAS under the category of a protected landscape: Provided, however , That special uses, management and restrictions per component area shall be consistent with its previous classification, either as a national park or as a watershed forest reserve. These areas collectively shall be referred to as the Central Cebu Protected Landscape (CCPL). The CCPL consists of Parcel “A” and Parcel “B”, and covers a consolidated area of twenty-nine thousand sixty-two (29,062) hectares, more or less, more particularly described as follows:
+
+PARCEL “A”
+
+All corner points except for the Tie Point were derived using GIS and in UTM coordinates. Tie Point is CBU-158 with coordinate 1159528.36N and 600394.59E. Coordinate of corner No. 1 is 1161178.78N and 597179.5E.
+
+LINES
+
+BEARING
+
+DISTANCE (m.)
+
+TP 1
+
+4.45
+
+7.88
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+7.25
+
+0.00
+
+0.00
+
+0.00
+
+4.92
+
+0.00
+
+4.75
+
+0.00
+
+0.00
+
+5.72
+
+9.19
+
+7.32
+
+6.70
+
+5.88
+
+3.88
+
+2.75
+
+5.11
+
+3.89
+
+4.50
+
+4.18
+
+7.50
+
+8.01
+
+1.97
+
+3.00
+
+3.25
+
+7.39
+
+7.08
+
+2.68
+
+5.38
+
+9.37
+
+4.98
+
+5.92
+
+2.62
+
+6.39
+
+2.35
+
+2.52
+
+2.63
+
+6.31
+
+4.92
+
+4.60
+
+2.19
+
+6.06
+
+1.94
+
+8.76
+
+4.18
+
+3.91
+
+7.25
+
+1.63
+
+6.05
+
+3.86
+
+2.72
+
+4.46
+
+2.69
+
+8.83
+
+7.31
+
+5.38
+
+6.54
+
+7.94
+
+4.31
+
+4.55
+
+1.63
+
+5.86
+
+7.32
+
+1.63
+
+6.90
+
+3.38
+
+4.02
+
+4.50
+
+8.36
+
+5.37
+
+2.41
+
+2.83
+
+3.95
+
+4.96
+
+5.85
+
+1.63
+
+8.00
+
+2.19
+
+2.38
+
+4.86
+
+7.32
+
+8.22
+
+3.12
+
+7.38
+
+2.83
+
+3.94
+
+2.49
+
+6.22
+
+8.80
+
+2.12
+
+9.80
+
+8.07
+
+5.76
+
+4.37
+
+3.48
+
+3.13
+
+6.59
+
+2.95
+
+9.37
+
+8.80
+
+3.40
+
+4.01
+
+4.81
+
+5.61
+
+6.51
+
+6.77
+
+1.84
+
+4.86
+
+5.49
+
+4.58
+
+4.89
+
+7.56
+
+2.46
+
+3.25
+
+4.22
+
+1.62
+
+6.05
+
+3.42
+
+4.65
+
+6.24
+
+9.36
+
+6.09
+
+5.71
+
+9.19
+
+1.63
+
+2.40
+
+3.25
+
+6.05
+
+2.25
+
+2.41
+
+5.98
+
+0.00
+
+2.35
+
+9.32
+
+2.40
+
+7.50
+
+3.51
+
+3.00
+
+9.32
+
+8.69
+
+2.12
+
+4.15
+
+3.19
+
+7.00
+
+3.44
+
+4.38
+
+4.31
+
+2.12
+
+4.37
+
+3.41
+
+5.81
+
+2.13
+
+9.14
+
+7.24
+
+8.01
+
+4.75
+
+2.46
+
+7.72
+
+6.42
+
+3.64
+
+3.30
+
+8.26
+
+5.01
+
+2.12
+
+7.26
+
+6.49
+
+2.46
+
+8.23
+
+4.96
+
+2.92
+
+5.40
+
+7.26
+
+9.14
+
+7.83
+
+6.15
+
+9.75
+
+2.19
+
+3.01
+
+2.75
+
+3.90
+
+3.14
+
+8.00
+
+8.21
+
+2.21
+
+3.00
+
+9.26
+
+6.02
+
+3.05
+
+2.49
+
+9.19
+
+4.96
+
+2.19
+
+9.22
+
+4.90
+
+2.37
+
+2.12
+
+8.86
+
+5.30
+
+4.38
+
+9.17
+
+2.38
+
+5.31
+
+9.38
+
+2.13
+
+4.98
+
+4.22
+
+9.69
+
+4.46
+
+5.03
+
+5.62
+
+7.08
+
+5.40
+
+8.16
+
+3.42
+
+4.51
+
+5.72
+
+8.17
+
+2.12
+
+6.60
+
+2.13
+
+3.83
+
+6.85
+
+2.95
+
+9.47
+
+5.40
+
+5.11
+
+2.12
+
+4.99
+
+3.00
+
+7.32
+
+2.46
+
+2.37
+
+1.63
+
+4.46
+
+6.47
+
+6.51
+
+9.19
+
+8.89
+
+8.94
+
+3.42
+
+6.55
+
+4.61
+
+4.52
+
+3.25
+
+2.67
+
+8.72
+
+3.92
+
+2.13
+
+9.74
+
+5.98
+
+1.98
+
+5.12
+
+5.40
+
+4.13
+
+2.25
+
+2.35
+
+3.90
+
+8.47
+
+2.12
+
+4.31
+
+3.42
+
+9.58
+
+5.94
+
+9.69
+
+7.31
+
+2.41
+
+3.25
+
+9.36
+
+5.06
+
+7.80
+
+5.77
+
+5.48
+
+2.85
+
+2.41
+
+8.36
+
+2.25
+
+4.50
+
+9.64
+
+8.27
+
+1.63
+
+2.62
+
+2.40
+
+8.63
+
+3.75
+
+8.46
+
+3.25
+
+6.53
+
+2.19
+
+9.55
+
+6.53
+
+2.13
+
+9.74
+
+3.00
+
+3.25
+
+2.38
+
+4.36
+
+5.72
+
+2.46
+
+2.13
+
+2.12
+
+6.85
+
+4.38
+
+2.19
+
+5.40
+
+5.14
+
+3.05
+
+7.08
+
+3.14
+
+3.00
+
+4.87
+
+7.72
+
+3.44
+
+2.13
+
+5.13
+
+4.43
+
+5.71
+
+8.26
+
+4.92
+
+1.63
+
+3.92
+
+6.71
+
+6.16
+
+2.25
+
+7.31
+
+2.84
+
+6.24
+
+7.00
+
+5.17
+
+8.61
+
+8.22
+
+3.43
+
+5.14
+
+1.62
+
+7.60
+
+2.12
+
+9.75
+
+9.06
+
+2.19
+
+2.19
+
+5.54
+
+4.86
+
+2.40
+
+2.13
+
+4.96
+
+3.25
+
+2.74
+
+3.00
+
+2.63
+
+8.08
+
+2.40
+
+3.90
+
+8.05
+
+2.13
+
+4.96
+
+8.22
+
+7.08
+
+9.31
+
+2.46
+
+2.12
+
+6.09
+
+0.00
+
+7.21
+
+5.98
+
+6.54
+
+8.63
+
+8.42
+
+5.49
+
+7.33
+
+5.48
+
+5.85
+
+2.13
+
+2.40
+
+3.25
+
+6.81
+
+3.75
+
+4.90
+
+7.00
+
+5.49
+
+1.63
+
+5.67
+
+7.08
+
+8.94
+
+4.38
+
+2.38
+
+9.40
+
+1.97
+
+4.55
+
+3.81
+
+2.38
+
+9.46
+
+2.69
+
+2.37
+
+3.51
+
+7.71
+
+2.67
+
+9.65
+
+10.39, the
+
+point of beginning, containing an area of twenty-eight thousand four hundred fifty-two (28,452) hectares, more or less, subject to corrections and the exclusion of some portions in the downstream section of the Kotkot River Watershed, situated in Barangay Cabadiangan within the municipalities of Compostela and Liloan: Provided , That the portion of Barangay Cabadiangan located within the Municipality of Compostela, not to exceed three hundred eighty-six (386) hectares, shall be declared a buffer zone: Provided, further , That the portion of Barangay Cabadiangan within the Municipality of Liloan, not to exceed four hundred (400) hectares, shall, likewise, be declared a buffer zone if, after actual ground survey, it is determined that the slope is 18° or less. Otherwise, it shall form part of the CCPL. The technical descriptions of Parcel “A”, hence, particularly referring to these areas will be rectified.
+
+PARCEL “B”
+
+Note: Tie Point (TP) is CBU – 137 with UTM coordinate 1143055.58N and 592288.1E.
+
+LINES
+
+BEARING
+
+DISTANCE
+
+1-2
+
+75.02 m.
+
+2-3
+
+511.47 m.
+
+3-4
+
+353.77 meters.
+
+4-5
+
+550.62 m.
+
+5-6
+
+308.25 m.
+
+6-7
+
+447.50 meters.
+
+7-8
+
+639.64 m.
+
+8-9
+
+819.52 m.
+
+9-10
+
+336.90 m.
+
+170.29 m.
+
+353.32 m.
+
+277.80 m.
+
+252.37 m.
+
+1047.62 m.
+
+1099.70 m.
+
+513.07 m.
+
+152.02 m.
+
+193.53 m.
+
+305.21 m.
+
+384.36 m.
+
+164.09 m.
+
+423.20 m.
+
+493.80 m.
+
+387.22 m.
+
+355.08 m., the
+
+point of beginning, containing an area of six hundred ten (610) hectares.
+
+Once surveyed and verified on the ground, and incorporating necessary corrections including changes recommended by the CCPL-PAMB which are supported by sound technical and scientific basis, the Department of Environment and Natural Resources (DENR) shall mark on the ground the boundaries set forth in this Act which shall not be modified except by an act of Congress.
+
+The technical descriptions provided in this Act will be subject to ground survey and verification to be conducted by the DENR within ninety (90) days after the effectivity of this Act. Any modification of the coverage of this Act due to such factors as changing ecological situations, new scientific or archaeological findings, or discovery of traditional boundaries not previously taken into account shall be made through an act of Congress, after consultation with the affected public and concerned government agencies.
+
+SEC. 5. Definition of Terms . – For purposes of this Act:
+
+(a) “Biodiversity” shall refer to the variety and variability among all living organisms and the ecological complexities in which they occur.
+
+(b) “Biological resources” shall include genetic resources, organisms or parts thereof, population or any other biotic component of ecosystems with actual or potential use or value for humanity.
+
+(c) “Buffer zone” shall refer to the identified area outside the boundaries of and immediately adjacent to designated protected areas that need special development control in order to avoid or minimize harm to the protected area.
+
+(d) “By-products or derivatives” shall mean any part taken or substance extracted from wildlife, in raw or in processed form. This includes stuffed animals and herbarium specimens.
+
+(e) “Collection or collecting” shall refer to the act of gathering or harvesting wildlife, its by-products or derivatives.
+
+(f) “Component area” shall refer to any or all of the areas previously ordered or proclaimed as the Buhisan Watershed Forest Reserve, the Sudlon National Park, the Central Cebu National Park, the Mananga Watershed Forest Reserve and the Kotkot-Lusaran Watershed Forest Reserve, and now comprising and collectively referred to as the CCPL.
+
+(g) “Conservation” shall mean preservation and sustainable utilization of wildlife and/or maintenance, restoration and enhancement of the habitat.
+
+(h) “Consultation” shall refer to the meeting or dialogue with concerned or affected individuals and groups within and outside the CCPL designed to identify and resolve issues and problems affecting them in relation to the protection, conservation and sustainable development of the CCPL.
+
+(i) “Endemic species” shall refer to species or subspecies which is naturally occurring and found only within specific areas in the country.
+
+(j) “Exotic species” shall refer to species or subspecies of flora and fauna which do not naturally occur within the CCPL at present or in historical time.
+
+(k) “Exploration” shall refer to searching or prospecting for mineral resources, as defined by law, by geological, geochemical or geophysical surveys, remote sensing, test pitting, trenching, drilling, shaft sinking, tunneling or any other means for the purpose of determining the existence, extent, quantity and quality thereof and the feasibility of mining them for profit.
+
+(l) “Exploitation” shall refer to any mode of use, extraction, development, utilization or disposition of resources, for whatever purpose, whether commercial or otherwise.
+
+(m) “Habitat” shall refer to a place or type of environment where a species or subspecies naturally occurs or has naturally established its population.
+
+(n) “Introduction” shall mean bringing species into the wild that is outside its natural habitat.
+
+(o) “Kaingin” shall refer to the slash-and-burn of vegetation to clear land for agricultural purposes.
+
+(p) “National Integrated Protected Areas System (NIPAS)” shall refer to the classification and administration of all designated protected areas to maintain essential ecological processes and life-support systems, to preserve genetic diversity, to ensure sustainable use of resources found therein and to maintain their natural conditions to the greatest extent possible.
+
+(q) “NIPAS Act” refers to the National Integrated Protected Areas System (NIPAS) Act of 1992 or Republic Act No. 7586, and its implementing rules and regulations.
+
+(r) “National park” shall refer to the land of the public domain classified as such in the 1987 Constitution which includes all areas under the NIPAS pursuant to Republic Act No. 7586 primarily designated for the conservation of native plants and animals, their associated habitats and cultural diversity.
+
+(s) “Nongovernment organization (NGO)” shall refer to an agency, institution, a foundation or a group of persons whose purpose is to assist people’s organizations/associations in various ways including, but not limited to, organizing, education, training, research and/or resource accessing.
+
+(t) “Nonrenewable resources” shall refer to those resources within the CCPL, the natural replenishment rate of which is not known.
+
+(u) “People’s Organization (PO)” shall refer to a group of organized migrant communities and/or interested indigenous peoples which may be an association, cooperative, federation or other legal entity, established to undertake collective action to address community concerns and needs, and mutually share the benefits of the endeavor.
+
+(v) “Protected area (PA)” shall refer to the identified portions of land and/or water set aside by reason of their unique physical and biological significance, managed to enhance biological diversity and protected against destructive human exploitation.
+
+(w) “Protected Area Management Board (PAMB)” shall refer to a multi-sectoral policy-making body for protected areas created in accordance with Republic Act No. 7586 or the NIPAS Act of 1992.
+
+(x) “Protected landscape/seascape” refers to an area of national significance which are characterized by the harmonious interaction of man and land while providing opportunities for public enjoyment through recreation and tourism within the normal lifestyle and economic activity of these areas.
+
+(y) “Quarrying” shall refer to the process of extracting, removing and disposing quarry resources, as defined by law, found on or underneath the surface of private and public land.
+
+(z) “Special-use zones” shall refer to areas containing existing installations of national and local significance, such as telecommunication facilities, irrigation canals, water supply infrastructure or electric power lines.
+
+(aa) “Sustainable” shall refer to the use of components of biological diversity in a way and at a rate that does not lead to the long-term decline of biological diversity, thereby maintaining its potential to meet the needs and aspirations of the present and future generations.
+
+(bb) “Strict protection zones” shall refer to natural areas with high biodiversity value which shall be closed to all human activity except for scientific studies and ceremonial or religious use by the indigenous cultural communities/indigenous peoples; may include habitats of threatened species, or degraded areas that have been designated for restoration and subsequent protection, even if these areas are still in various stages of regeneration.
+
+(cc) “Tenured migrants” shall refer to occupants who have actually and continuously occupied a portion of the protected area and is solely dependent therein for subsistence. A protected area occupant is understood to be “solely dependent for subsistence” when everything indispensable for survival for the household, including food, clothing, shelter and health, comes only from the utilization of resources from the protected area.
+
+(dd) “Watershed forest reserve” shall refer to areas such as the Buhisan Watershed Forest Reserve, the Mananga Watershed Forest Reserve and the Kotkot-Lusaran Watershed Forest Reserve proclaimed as such by the issuance of an executive order or a presidential proclamation for purposes of protecting, maintaining or improving the water yield and providing restraining mechanisms for inappropriate forest exploitation and disruptive land use.
+
+(ee) “Wildlife” shall refer to wild forms and varieties of flora and fauna, in all developmental stages, including those which are in captivity or are being bred or propagated.
+
+(ff) “Zones” shall refer to the divisions within the CCPL consisting of levels of protection and permitted use of natural resources such as strict protection zone, sustainable-use zone, restoration zone, multiple-use zone and special-use zone, as provided under existing rules and regulations of the NIPAS.
+
+SEC. 6. Central Cebu Protected Landscape-Protected Area Management Board (CCPL-PAMB). – There is hereby created a CCPL-PAMB which shall have sole jurisdiction, power and authority over the CCPL for all matters that may affect biodiversity conservation, watershed protection and sustainable development. In addition to the duties and functions enumerated in the implementing rules and regulations of the NIPAS Act, the CCPL-PAMB, which shall decide by consensus or majority vote, shall have the following duties and functions:
+
+(a) Issue rules and regulations to prohibit acts that may be prejudicial to the CCPL and to the declaration of policy set forth under the NIPAS;
+
+(b) Issue rules and regulations for the resolution of conflicts through appropriate and effective means;
+
+(c) Adopt rules and procedures in the conduct of business, including the creation of committees to which its powers may be delegated;
+
+(d) Approve the management plan and oversee the office of the Protected Area Superintendent (PASu);
+
+(e) Establish criteria and set fees for the issuance of permits for activities regulated by this Act or the management plan;
+
+(f) Recommend the deputization of appropriate individuals, including local community leaders, for the enforcement of the laws, rules and regulations governing the conduct or management of the CCPL;
+
+(g) Approve fees and charges in accordance with DENR Department Administrative Order No. 51, Series of 2000 and raise funds for the CCPL;
+
+(h) Manage the allocation of the Central Cebu Protected Landscape Fund and other funds for the CCPL, ensure their proper administration and render accounting; and
+
+(i) Recommend appropriate policy changes to the DENR and other government authorities.
+
+The DENR, through the Regional Executive Director (RED), shall ensure that the CCPL-PAMB acts within the scope of its powers and functions. In case of conflict between administrative orders issued by the DENR pursuant to the NIPAS Act and the resolutions issued by the CCPL-PAMB, such conflict shall be referred by the CCPL-PAMB to the DENR Secretary who shall decide whether to apply the rule or withdraw its application from the CCPL.
+
+SEC. 7. Composition of the CCPL-PAMB . – The members of the CCPL-PAMB are as follows:
+
+(a) RED of the DENR-Region VII, as chairman;
+
+(b) Provincial planning and development officer of the Province of Cebu;
+
+(c) The mayors of the cities of Cebu, Talisay, Toledo and Danao and the municipalities of Minglanilla, Consolacion, Liloan, Compostela and Balamban, or their duly designated representatives;
+
+(d) One representative from each barangay covering the CCPL;
+
+(e) At least two representatives from local POs with stakes in the CCPL, chosen from among themselves;
+
+(f) At least three representatives from the local NGOs with stakes in the CCPL, chosen from among themselves; and
+
+(g) One representative from government agencies involved in the CCPL management.
+
+Each member of the CCPL-PAMB shall serve for a term of five years and shall be considered to represent his or her sector and deemed to carry the vote of such sector in all matters. In the case of members who are government officials, the term of office shall be attached to the office held.
+
+The members of the CCPL-PAMB shall be appointed by the Secretary of the DENR in conformity with the provisions of the NIPAS Act. As a transitory provision, the initial members of the CCPL-PAMB shall be nominated from the current members of the interim PAMBs of the five component areas of the CCPL. Their nominations shall be conducted in a joint meeting of the current members of the interim PAMBs duly called for the purpose: Provided, further , That at least fifty percent (50%) of the members shall be women.
+
+In the selection of the representatives of POs and NGOs, preference shall be accorded to those organizations that are involved in the conservation, protection and development of the CCPL. Representation shall be by institution and shall aim to achieve balance in representation by geographic location or areas.
+
+The representatives from the local government units (LGUs) and national agencies in the CCPL-PAMB shall include among their duties the appraisal of their respective constituents, office or sector of the CCPL-PAMB-approved or other relevant policies, rules, regulations, programs and projects and ensuring that the provisions of this Act are observed, complied with and used as reference and framework in their respective plans, policies, programs and projects. Failure to comply with the foregoing shall subject such representative to disciplinary action as the PAMB may provide.
+
+The members of the Board shall not receive any salary but shall be entitled to reimbursements for actual and necessary expenses incurred, either in their attendance in meeting of the Board or in connection with other official business authorized by a resolution of the Board, subject to existing rules and regulations.
+
+SEC. 8. The Composition of the Executive Committee (ExeCom). – In view of the large size of the CCPL-PAMB, an ExeCom is hereby created, composed of the following:
+
+(a) The DENR regional technical director for Protected Areas, Wildlife, Coastal and Marine Zone Management Service (PAWCMZMS), as chairperson;
+
+(b) Cebu City and Balamban mayors as cochairs;
+
+(c) Cebu provincial planning and development officer; and
+
+(d) The respective chairperson and cochairs of the different permanent committees that may be created by the CCPL-PAMB.
+
+SEC. 9. The Powers and Functions of the ExeCom . – The CCPL-PAMB shall authorize the ExeCom to perform the following:
+
+(a) Approve policies and guidelines formulated and recommended by the committees based on the approved CCPL general management plan or the watershed management plan which shall be ratified by the Board in a general assembly;
+
+(b) Act on proposals or projects recommended by the concerned committees;
+
+(c) Act on requests to conduct research or studies within the CCPL;
+
+(d) Recommend to the DENR or other concerned agencies the issuance of permits, leases, contracts, memoranda of agreements (MOA), tenurial instruments and other agreements within the CCPL;
+
+(e) Determine or cite violations and recommend sanctions against violators of prohibited acts within the CCPL;
+
+(f) Review and recommend for approval the CCPL Fee System as formulated by the Ways and Means Committee;
+
+(g) Generate funds and other resources needed for the administration and development of the CCPL;
+
+(h) Conduct periodic review of the CCPL general management plan or the watershed management plan; and
+
+(i) Perform other functions as may be delegated by the Board.
+
+The ExeCom shall meet on a more frequent and periodic basis to discuss regular day-to-day affairs and other matters delegated by the CCPL-PAMB.
+
+SEC. 10. The Protected Area Superintendent (PASu) Office . – The PASu Office is hereby created within the DENR regional office to be headed by the PASu who shall serve as the chief operating DENR officer of the entire CCPL. The PASu shall report directly to the RED of the DENR – Region VII and shall be accountable to the CCPL-PAMB. The PASu and the PASu staff shall reside within the CCPL and establish an office and suboffices within the CCPL in order to implement this Act.
+
+The PASu shall have full responsibility for the protection of land, water, wildlife and other natural physical and biological resources within the CCPL. As such, the PASu shall have the following duties and responsibilities in addition to those provided under existing laws and regulations:
+
+(a) Establish, operate and maintain a database management system as decision support tool;
+
+(b) Prepare the management plans as herein defined;
+
+(c) Provide a secretariat for the CCPL-PAMB and supply the CCPL-PAMB with all the necessary information to make appropriate decisions for the implementation of this Act;
+
+(d) Enforce the laws, rules and regulations relevant to the CCPL, institute and file legal action independently or in collaboration with other government agencies or organizations and assist in the prosecution of offenses committed in violation of this Act;
+
+(e) Monitor all activities within the CCPL to ensure its conformity with the management plan;
+
+(f) Recommend the issuance of permits based on terms, conditions and criteria established by the CCPL-PAMB;
+
+(g) Ensure the integration of the CCPL management policies, regulations, programs and projects at all the concerned national and LGU levels; and
+
+(h) Perform such other functions as the CCPL-PAMB may delegate.
+
+The PASu shall be supported by sufficient number of personnel who shall be performing day-to-day management, protection and administration of the CCPL. Upon the recommendation of the PAMB, the DENR regional director shall deputize local community leaders and environment and natural resource officers.
+
+SEC. 11. Tenured Migrants and Other CCPL Occupants. – Tenured migrants shall be eligible to become stewards of portions of lands within allowable zones. The PAMB shall identify, verify and review all tenure instruments, land claims and issuances of permits for resource use within the PA and recommend the issuance of the appropriate tenure instrument consistent with the zoning provided in the management plan and its successor plans.
+
+Should areas occupied by tenured migrants be designated as zones in which no occupation or other activities are allowed pursuant to the attainment of sustainable development, provision for the transfer of said tenured migrants to multiple-use zones or buffer zones shall be accomplished through just and humane means.
+
+In the event of termination of a tenure instrument for cause or by voluntary surrender of rights, the PASu shall take immediate steps to rehabilitate the area in order to return it to its natural state prior to the cultivation or other act by the tenured migrant.
+
+Other PA occupants who do not qualify as tenured migrants shall be resettled outside the PA as determined by the PAMB. The PAMB shall determine, plan and implement a definite schedule for resettling them outside of the PA following the procedures set forth by existing law.
+
+SEC. 12. Utilization of Resources . – Any exploitation of or utilization of nonrenewable resources within the CCPL shall not be allowed. Energy projects within the CCPL shall be allowed only through an act of Congress except energy from wind, sun and water sources of not more than one megawatt capacity for mini-hydro power: Provided , That these renewable energy projects are established outside the strict protection zone, adopt reduced impact technologies and undergo the Environmental Impact Assessment (EIA) system as provided by law: Provided, further , That the CCPL-PAMB endorsement has been obtained.
+
+SEC. 13. Existing Facilities Within the CCPL . – Within sixty (60) days from the effectivity of this Act, major existing facilities such as roads, buildings, water systems, transmission lines, communication facilities, heavy equipment and irrigation facilities existing within the boundaries of the CCPL shall submit project description to the CCPL-PAMB through the PASu.
+
+The CCPL-PAMB, with the assistance of the DENR, shall determine whether the existence of such facility and its future plans and operations will be detrimental to the CCPL or whether conditions for its operation shall be imposed. If any such conditions are violated, the owner of the facility shall be liable to pay a fine of Five thousand pesos (P5,000.00) for every violation. Upon reaching a total fine of Five hundred thousand pesos (P500,000.00), the CCPL-PAMB through the PASu and deputizing other government entities, shall cause the cessation and demolition of the facility at the cost of its owner.
+
+Existing facilities allowed to remain within the CCPL may be charged a reasonable royalty by the DENR. All income from such royalty shall accrue to the Central Cebu Protected Landscape Fund.
+
+SEC. 14 . Prohibited Acts and Penalties . – The following are prohibitions and penalties applicable to the CCPL, in addition to the prohibited acts as provided in the NIPAS Act and its pertinent rules and regulations:
+
+(a) The penalties in Articles 309 and 310 of the Revised Penal Code, depending on the value of the resources involved in connection with the prohibited act, shall be imposed upon any person who:
+
+(1) Takes, destroys, collects, disturbs or possesses any wild terrestrial or aquatic plants or animals, flora or fauna, sand, rocks or by-products derived therefrom, within particularly identified regulated or prohibited zones in the CCPL including private lands without the necessary permit, authorization or exemption: Provided , That hunting of animals shall be absolutely prohibited except for scientific research;
+
+(2) Cuts, gathers, removes or collects timber or any forest products, within particularly identified regulated or prohibited areas or zones in the CCPL including private lands without the necessary permit, authorization or exemption;
+
+(3) Possesses or transports, within or outside the CCPL any timber, forest products, wild terrestrial or aquatic plants, animals, flora or fauna, or by-product derived therefrom which is ascertained to have been taken from the CCPL;
+
+(4) Undertakes mineral exploration or extraction within the CCPL;
+
+(5) Engages in quarrying of sand, gravel, guano, limestone or any material within the CCPL;
+
+(6) Hunts, collects, removes or destroys any endangered or protected species, except when collection or removal is for scientific research and exempted from the prohibition by the CCPL-PAMB;
+
+(7) Conducts bioprospecting within the CCPL without prior CCPL-PAMB approval in accordance with existing guidelines; or
+
+(8) Establishes or introduces exotic species within the CCPL which are detrimental to endemic species or without prior CCPL-PAMB approval.
+
+(b) A fine of not less than Five thousand pesos (P5,000.00) nor more than Five hundred thousand pesos (P500,000.00) and/or imprisonment from one year but not more than six years shall be imposed upon any person who:
+
+(1) Violates any rules and regulations in the management plan or by the CCPL-PAMB or agreements reached before the CCPL-PAMB in the exercise of adjudicative functions;
+
+(2) Erects any structure on land or on water for any purpose outside the management plan: Provided , That large-scale private infrastructure and other projects such as medium to high density residential subdivisions, medium to large commercial and industrial establishments, golf courses, heavily mechanized commercial and nontraditional farming, and other activities that cause increased in-migration, pollution and resource degradation are absolutely prohibited;
+
+(3) Possesses a chainsaw, hacksaw and other mechanized equipment within the CCPL without a permit;
+
+(4) Throws, dumps or causes to be dumped into the CCPL any non-biodegradable material or waste whether liquid, solid or gas;
+
+(5) Uses, dumps, places or causes to be placed into the CCPL toxic chemicals, including pesticides and other hazardous substances, unless the same is expressly allowed in the protection and conservation plan;
+
+(6) Prospects, hunts or otherwise locates hidden treasures within the CCPL;
+
+(7) Informally occupies or dwells in any land within the CCPL without clearance from the PAMB;
+
+(8) Possesses or uses blasting caps or explosives anywhere within the CCPL;
+
+(9) Destroys, excavates, vandalizes or, in any manner, damages any natural formation on land, religious, spiritual, historical sites, artifacts and other objects of natural or scenic value;
+
+(10) Alters, removes or destroys boundary marks or signs;
+
+(11) Engages in kaingin or, in any manner, causing forest fires inside the CCPL; or
+
+(12) Purchases or sells, mortgages or leases lands or other portions of the CCPL which are covered by any tenurial instrument.
+
+Valuation of the damage for this Act shall take into account biodiversity and conservation considerations as well as aesthetic and scenic value. Valuation assessed by the DENR or the concerned government agency shall be presumed correct unless otherwise proven by preponderant evidence.
+
+Any person who shall induce another or conspire to commit any of the illegal acts prohibited in this Act or suffer their workers to commit any of the same shall be liable in the same manner as the one actually performing the act.
+
+All conveyances, vessels, equipment, paraphernalia, implements, gear, tools and similar devices shall be subject to immediate and administrative confiscation, independent of the judicial proceedings by the PASu Office upon apprehension, subject however to due process and substantial evidence requirements. When legal action is however filed in the regular courts, the said conveyances, vessels, equipment, paraphernalia, implements, gear, tools and similar devices, independent of the administrative proceedings, shall not be released until after judgment has been rendered. Proceeds of the sale of all objects administratively or judicially confiscated pursuant hereto shall accrue to the CCPL Fund. Procedure for the sale thereof shall be promulgated by the CCPL-PAMB. However, in no case shall any confiscated or rescued protected animal species be sold or in any manner disposed of but shall be immediately turned over to the PASu Office for release in its natural habitat, subject to existing regulations.
+
+The penalties specified in this Section will be in addition to the penalties contained in Republic Act No. 9072 (National Caves and Cave Resources Management and Protection Act), Republic Act No. 9147 (Wildlife Resources Conservation and Protection Act) and other related laws.
+
+Conviction for any offense under this Act of a public officer or officer of the law shall carry the accessory penalty of perpetual disqualification from public office.
+
+SEC. 15. Special Prosecutor and Retained Counsel . – Within thirty (30) days from the effectivity of this Act, the Department of Justice (DOJ) shall appoint a special prosecutor to whom all cases of violation of laws, rules and regulations in the PA shall be assigned. Such special prosecutor shall coordinate with the CCPL-PAMB and the PASu in the performance of his/her duties and assist in the training of wardens and rangers in arrest and criminal procedures. The CCPL-PAMB may retain the services of a counsel to prosecute and/or assist in the prosecution of cases under the direct control and supervision of the regular or special prosecutor and to defend the members of the CCPL-PAMB, the PASu and the staff, or any person assisting in the protection, conservation and sustainable development of the PA, against any legal action related to their powers, functions and responsibilities as provided in this Act or as delegated or tasked by the CCPL-PAMB.
+
+SEC. 16. Central Cebu Protected Landscape Fund . – There is hereby established a trust fund to be known as the Central Cebu Protected Landscape Fund for purposes of financing projects of the CCPL. Seventy-five percent (75%) of the income generated from the operation of the CCPL or the management of wild flora and fauna in the CCPL shall accrue to the fund. The remaining twenty-five percent (25%) shall go to the Integrated Protected Areas Fund (IPAF) as established in the NIPAS Act of 1992.
+
+Income shall be derived from visitors/tourists fee, fees from permitted sale and export of flora and fauna and other resources from the CCPL, proceeds from the registration and lease of multiple-use areas, including tourism concessions, fees, proceeds and contributions from industries and facilities directly benefiting from the CCPL, and such other fees and income derived from the operation of the CCPL.
+
+The Protected Area Management Board (PAMB) may impose and charge reasonable fees such as, but not limited to, water users’ fees for water extracted by commercial water extractors/distributors sourced and generated from the Protected Area. Such fee structure may change as the PAMB may deem fit.
+
+The fund may be augmented by grants, donations, endowment from various sources, domestic or foreign, for purposes related to their functions: Provided , That the fund shall be deposited as a special account in the National Treasury and disbursements therefrom shall be made solely for the protection, maintenance, administration and management of the system, and duly approved projects endorsed by the CCPL-PAMB in accordance with existing accounting and budgeting rules and regulations: Provided, further , That the fund shall not be used to cover personal services expenditures.
+
+The LGUs shall continue to impose and collect all other fees not enumerated herein which they have traditionally collected, such as business permits and rentals of LGU facilities: Provided , That the LGUs shall not impose property tax and issue tax declaration for areas or properties located in timberland areas or areas previously classified as national parks. Furthermore, LGUs may charge add-ons to fees imposed by the CCPL-PAMB: Provided , That such add-ons shall be determined based on the contribution of the LGUs in the maintenance and protection of the CCPL.
+
+SEC. 17. Appropriations . – The Secretary of the DENR shall immediately include in the Department’s program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+SEC. 18. Reporting Responsibility . – The PASu, through the PAMB, shall submit an annual accomplishment report to the Secretary of the DENR on the activities undertaken in the CCPL.
+
+SEC. 19. Construction and Suppletory Application of Existing Laws. – The provisions of this Act shall be construed liberally in favor of achieving biodiversity, conservation, watershed and environmental protection and sustainable development. The provisions of Republic Act No. 7586, otherwise known as the National Integrated Protected Areas System (NIPAS) Act of 1992 and existing forestry laws, and their corresponding rules and regulations not inconsistent hereto shall have the suppletory effect in the implementation of this Act.
+
+SEC. 20. Transitory Provision . – In order to ensure the sustainability and integrity of the watersheds and water resources, the recovery and restoration of biological diversity and to develop sustainable livelihood opportunities for tenured migrants, the DENR shall henceforth cease to issue concessions, licenses, permits, clearances, compliance documents or any other instrument that allows exploitation and utilization of resources within the CCPL until the management plan shall have been put into effect.
+
+All existing land-use and resource-use permits within the CCPL shall be reviewed and shall not be renewed upon their expiration unless consistent with the management plan and approved by the PAMB. Moreover, areas determined by wildlife habitat and potable water sources and reservoirs shall be declared protected and special-use zones, respectively, and their management and uses shall be consistent with the provisions of the respective executive orders, presidential proclamations and amendments establishing them.
+
+SEC. 21. Separability Clause . – If, for any reason, any part or section of this Act is declared unconstitutional or invalid, such other parts not affected thereby shall remain in full force and effect.
+
+SEC. 22. Repealing Clause . – All laws, decrees, proclamations, rules and regulations inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+SEC. 23. Effectivity Clause . – This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in a national newspaper of general circulation available in the CCPL.
+
+This Act which is a consolidation of House Bill No. 4862 and Senate Bill No. 2532 was finally passed by the House of Representatives and the Senate on February 8, 2007.

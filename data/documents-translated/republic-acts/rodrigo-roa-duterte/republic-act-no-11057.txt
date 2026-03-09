@@ -1,0 +1,1189 @@
+<5 DREN OEE EROS ER EERO UO SOIT caiaaaieniciinaani
+
+Republic af the Philippines
+Meteo HMlavilar
+Seventeenth Gangress
+
+Serand Regular Sessian
+
+day of July, two thousand seventeen.
+
+AN ACT STRENGTHENING THE SECURED TRANSACTIONS
+LEGAL FRAMEWORK IN THE PHILIPPINES, WHICH
+SHALL PROVIDE FOR THE CREATION, PERFECTION,
+DETERMINATION OF PRIORITY, ESTABLISHMENT
+OF A CENTRALIZED NOTICE REGISTRY, AND
+ENFORCEMENT OF SECURITY INTERESTS IN
+PERSONAL PROPERTY, AND FOR OTHER PURPOSES
+
+Be it enacted by the Senate and House of Representatives of the
+Philippines in Congress assembled:
+
+SECTION 1. Title. — This Act shall be known as the
+“Personal Property Security Act”.
+
+Suc. 2. Declaration of Policy. — It is the policy of the
+State to promote economic activity by increasing access to least
+cost credit, particularly for micro, small, and medium
+enterprises (MSMBEs), by establishing a unified and modern
+
+legal framework for securing obligations with personal
+property.
+
+CHAPTER 1
+DEFINITIONS AND SCOPE
+
+SEC. 3. Definition of Terms. -- As used in this Act, the
+following terms shall mean:
+
+(@@) Commodity contract — a commodity futures contract,
+an option on a commodity futures contract, a commodity option,
+or another contract if the contract or option is:
+
+(1) Traded on or subject to the rules of a board of trade
+
+that has been designated as a contract market for such a
+contract; or
+
+@) Traded on a foreign commodity beard of trade.
+exchange, or market, and is carried on the books of a commodity
+intermediary for a commodity customer;
+
+(b) Control agreement —
+
+@) With respect to securities, means an agreement in
+writing among the issuer or the intermediary, the grantor and
+the secured creditor, according to which the issuer or the
+intermediary agrees to follow instructions from the secured
+creditor with respect to the security, without further consent
+from the grantor;
+
+@) With respect to rights to deposit account, means an
+agreement in writing among the deposit-taking institution,
+the grantor and the secured creditor, according to which the
+deposit-taking institution agrees to follow instructions from
+the secured creditor with respect to the payment of funds
+
+credited to the deposit account without further consent from
+the grantor;
+
+(8) With respect to commodity contracts, means an
+agreement in writing among the grantor, secured creditor, and
+intermediary, according to which the commodity intermediary
+will apply any value distributed on account of the commodity
+contract as directed by the secured creditor without further
+consent by the commodity customer or grantor;
+
+(ce) Grantor —
+
+(@) The person who grants a security interest in collateral
+to secure its own obligation or that of another person;
+
+(2) A buyer or other transferee of a collateral that
+acquires its right subject to a security interest;
+
+(8) A transferor in an outright transfer of an accounts
+receivable; or
+
+(4) Alessee of goods;
+
+(d) Non-intermediated securities — securities other than
+securities credited to a securities account and rights in
+securities resulting from the credit of securities to a securities
+account;
+
+(e) Notice — a statement of information that is registered
+in the Registry relating to a security interest or lien. The
+term includes an initial notice, amendment notice, and
+termination notice;
+
+() Proceeds — any property received upon sale, lease or
+other disposition of collateral, or whatever is collected on or
+distributed with respect to collateral, claims arising out of the
+loss or damage to the collateral, as well as a right to insurance
+payment or other compensation for loss or damage of the
+collateral;
+
+(g) Purchase money security interest — a security interest
+in goods taken by the seller to secure the price or by a person
+who gives value to enable the grantor to acquire the goods to
+the extent that the credit is used for that purpose;
+
+(h) Registry — the centralized and nationwide electronic
+registry established in the Land Registration Authority (LRA)
+where notice of a security interest and a lien in personal
+property may be registered;
+
+@ Secured creditor — a person that has a security
+interest. For the purposes of registration and priority only, it
+includes a buyer of account receivable and a lessor of goods
+under an operating lease for not less than one (1) year;
+
+@) Security interest — a property right in collateral that
+secures payment or other performance of an obligation,
+regardless of whether the parties have denominated it as a
+security interest, and regardless of the type of asset, the status
+of the grantor or secured creditor, or the nature of the secured
+obligation; including the right of a buyer of accounts receivable
+
+and a lessor under an operating lease for not less than one ()
+year; and .
+
+(k) Writing — for the purpose of this Act includes
+electronic records.
+
+SEC. 4. Scope of the Act. — This Act shall apply to all
+transactions of any form that secure an obligation with movable
+collateral, except interests in aircrafts subject to Republic Act
+No. 9497, or the “Civil Aviation Authority Act of 2008”, and
+interests in ships subject to Presidential Decree No. 1521, or
+the “Ship Mortgage Decree of 1978”.
+
+CHAPTER 2
+CREATION OF SECURITY INTEREST
+SEC. 5. Creation of a Security Interest. —
+
+(@) A security interest shall be created by a security
+agreement.
+
+(b) A security agreement may provide for the creation of
+a security interest in a future property, but the security interest
+in that property is created only when the grantor acquires
+rights in it or the power to encumber it.
+
+SEC. 6. Security Agreement. — A security agreement
+must be contained in a written contract signed by the parties.
+It may consist of one or more writings that, taken together,
+establish the intent of the parties to create a security interest.
+
+The security agreement shall likewise provide for the
+language to be used in agreements and notices. The grantor
+shall be given the option to have the agreement and notices in
+Filipino. The Department of Finance (DOF) shall prepare model
+agreements in plain English and Filipino.
+
+SEC. 7. Description of Collateral. — A description of
+collateral shall be considered sufficient, whether it is specific
+
+a
+
+or general, if it reasonably identifies the collateral.
+A description such as “all personal property”, “all equipment”,
+“all inventory”, or “all personal property within a generic
+
+category” of the grantor shall be sufficient.
+
+SEC. 8. Right to Proceeds and Commingled Funds and
+Money. —
+
+(a) A security interest in personal property shall extend
+to its identifiable or traceable proceeds.
+
+(b) Where proceeds in the form of funds credited to a
+deposit account or money are commingled with other funds or
+money:
+
+(1) The security interest shall extend to the commingled
+money or funds, notwithstanding that the proceeds have ceased
+to be identifiable to the extent they remain traceable;
+
+(2) The security interest in the commingled funds or
+money shall be limited to the amount of the proceeds
+immediately before they were commingled; and
+
+(8) If at any time after the commingling, the balance
+credited to the deposit account or the amount of the commingled
+money is less than the amount of the proceeds immediately
+before they were commingled, the security interest against the
+commingled funds or money shall be limited to the lowest
+amount of the commingled funds or money between the time
+when the proceeds were commingled and the time the security
+interest in the proceeds is claimed.
+
+SEC. 9. Continuity of Security Interest. — A security
+interest shall continue in collateral notwithstanding sale, lease,
+license, exchange, or other disposition of the collateral, except
+as otherwise provided in Section 21 of this Act, or agreed upon
+by the parties.
+
+SEC. 10. Contractual Limitation on the Creation of a
+Security Interest. —
+
+(a) Asecurity interest in an account receivable shall be
+effective notwithstanding any agreement between the grantor
+and the account debtor or any secured creditor limiting in any
+way the grantor’s right to create a security interest.
+
+(b) Nothing in this section shall affect any obligation
+or liability of the grantor for breach of the agreement in
+subsection (a).
+
+© Any stipulation limiting the grantor’s right to create
+a security interest shall be void.
+
+@ This section shall apply only to accounts receivable
+arising from:
+
+(1) Acontract for the supply or lease of goods or services
+other than financial services;
+
+(2) A construction contract or a contract for the sale or
+lease of real property; and
+
+(3) A contract for the sale, lease or license of
+intellectual property.
+
+CHAPTER 38
+PERFECTION OF SECURITY INTEREST
+SEC. 11. Perfection of Security Interest. —
+
+(@) A security interest shall be perfected when it has
+been created and the secured creditor has taken one of the
+actions in accordance with Section 12.
+
+(b) On perfection, a security interest becomes effective
+against third parties.
+
+SEC. 12. Means of Perfection. — A security interest may be perfected by:
+
+(a) Registration of a notice with the Registry:
+
+(b) Possession of the collateral by the secured
+ereditor; and
+
+(©) Control of investment property and deposit account.
+
+A security interest in any tangible asset may be perfected by registration or possession. A security interest in investment
+
+property and deposit account may be perfected by registration or control.
+
+SEC. 13. Perfection by Control. —
+
+(a) A security interest in a deposit account or investment property may be perfected by control through:
+
+() The creation of the security interest in favor of the
+deposit-taking institution or the intermediary;
+
+(2) The conclusion of a control agreement; or
+
+(3) For an investment property that is an electronic
+security not held with an intermediary, the notation of the
+security interest in the books maintained by or on behalf of
+the issuer for the purpose of recording the name of the holder
+of the securities.
+
+(b) Nothing in this Act shall require a deposit-taking
+institution or an intermediary to enter into a control agreement,
+evenif the grantor so requests. A deposit-taking institution
+or an intermediary that has entered into such an agreement
+shall not be required to confirm the existence of the agreement
+to another person unless requested to do so by the grantor.
+
+SEC. 14. Perfection in Proceeds. —
+
+(a) Upon disposition of collateral, a security interest shall
+extend to proceeds of the collateral without further act and be
+continuously perfected, if the proceeds are in the form of money,
+accounts receivable, negotiable instruments or deposit accounts.
+
+(b) Upon disposition of the collateral, if the proceeds are
+ina form different from money, accounts receivable, negotiable
+instruments or deposit accounts, the security interest in such
+proceeds must be perfected by one of the means applicable to
+the relevant type of collateral within fifteen (15) days after the
+grantor receives such proceeds; otherwise, the security interest
+in such proceeds shall not be effective against third parties.
+
+SEC. 15. Change in Means of Perfection. — A security
+interest shall remain perfected despite a change in the means
+for achieving perfection: Provided, That there was no time
+when the security interest was not perfected.
+
+SEC. 16. Assignment of Security Interest. — Ifa secured
+creditor assigns a perfected security interest, an amendment
+notice may be registered to reflect the assignment.
+
+CHAPTER 4
+PRIORITY OF SECURITY INTEREST
+
+; SEC. 17. Priority Rules. — The priority of security
+interests and liens in the same collateral shall be determined
+according to time of registration of a notice or perfection by
+other means, without regard to the order of creation of the
+security interests and liens.
+
+SEC. 18. Priority for Perfection by Control. —
+
+(a) Asecurity interest ina deposit account with respect
+to which the secured creditor is the deposit-taking institution
+ox the intermediary shall have priority over a competing
+security interest perfected by any method.
+
+(b) Asecurity interest in a deposit account or investment
+property that is perfected by a control agreement shall have
+priority over a competing security interest except a security
+interest of the deposit-taking institution or the intermediary.
+
+/ (c) The order of priority among competing security
+interests in a deposit account or investment property that were
+perfected by the conclusion of control agreements shall be
+determined on the basis of the time of conclusion of the
+control agreements.
+
+@ Any rights to set-off that the deposit-taking institution
+may have against a grantor’s right to payment of funds credited
+to a deposit account shall have priority over a security interest
+in the deposit account.
+
+@) Asecurity interest ina security certificate perfected
+by the secured creditor's possession of the certificate shall have
+priority over a competing security interest perfected by
+registration of a notice in the Registry.
+
+/ ® / A security interest in electronic securities not held
+with an intermediary perfected by a notation of the security
+interests in the books maintained for that purpose by or on
+behalf of the issuer shall have priority over a security interest
+in the same securities perfected by any other method.
+
+/ @) A security interest in electronic securities not held
+with an intermediary perfected by the conclusion of a control
+agreement shall have priority over a security interest in the
+
+3)
+
+same securities perfected by registration of a notice in the
+Registry.
+
+(a) The order of priority among competing security
+interests in electronic securities not held with an intermediary
+perfected by the conclusion of control agreements is determined
+on the basis of the time of conclusion of the control agreements.
+
+Sec. 19. Priority for Instruments and Negotiable
+Documents. — A security interest in an instrument or
+negotiable document that is perfected by possession of the
+instrument or the negotiable document shall have priority over
+a security interest in the instrument or negotiable document
+that is perfected by registration of a notice in the Registry.
+
+SEC. 20. Priority and Right of Retention by Operation of
+Law. — A person who provides services or materials with respect
+to the goods, in the ordinary course of business, and retains
+possession of the goods shall have priority over a perfected
+security interest in the goods until payment thereof.
+
+SEC. 21. Transferee Exceptions. — Any party who
+obtains, in the ordinary course of business, any movable
+property containing a security interest shall take the same
+free of such security interest provided he was in good faith.
+No such good faith shall exist if the security interest in the
+movable property was registered prior to his obtaining the
+property.
+
+SEC. 22. Effect of the Grantor’s Insolvency on the Priority
+of a Security Interest. ~ Subject to the applicable insolvency
+law, a security interest perfected prior to the commencement
+of insolvency proceedings in respect of the grantor shall remain
+perfected and retain the priority it had before the
+commencement of the insolvency proceedings.
+
+SEC. 23. Purchase Money Security Interest. —
+
+{a) Apurchase money security interest in equipment and
+its proceeds shall have priority over a conflicting security
+interest, if a notice relating to the purchase money security
+interest is registered within three (3) business days after the
+grantor receives possession of the equipment.
+
+(b) A purchase money security interest in consumer
+goods that is perfected by registration of notice not later than
+
+three (3) business days after the grantor obtains possession of
+the consumer goods shall have priority over a conflicting
+security interest.
+
+(©) A purchase money security interest in inventory,
+intellectual property or livestock shall have priority over a
+conflicting perfected security interest in the same inventory,
+intellectual property or livestock if:
+
+(1) The purchase money security interest is perfected
+when the grantor receives possession of the inventory or
+livestock, or acquires rights to intellectual property; and
+
+(2) Before the grantor receives possession of the inventory
+or livestock, or acquires rights in intellectual property, the
+purchase money secured creditor gives written notification to
+the holder of the conflicting perfected security interest in the
+same types of inventory, livestock, or intellectual property.
+The notification sent to the holder of the conflicting security
+interest may cover multiple transactions between the purchase
+money secured creditor and the grantor without the need to
+identify each transaction.
+
+@ The purchase money security interest in equipment
+or consumer goods perfected timely in accordance with
+subsections (a) and (b), shall have priority over the rights of a
+buyer, lessee, or lien holder which arise between delivery of
+the equipment or consumer goods to the grantor and the time
+the notice is registered.
+
+SEC. 24. Livestock. ~ A perfected security interest in
+livestock securing an obligation incurred to enable the grantor
+to obtain food or medicine for the livestock shall have priority
+over any other security interest in the livestock, except for a
+perfected purchase money security interest in the livestock, if
+the secured creditor providing credit for food or medicine gives
+written notification to the holder of the conflicting perfected
+security interest in the same livestock before the grantor
+receives possession of the food or medicine.
+
+SEC. 25. Fixtures, Accessions, and Commingled Goods.
+~— Aperfected security interest in a movable property which
+has become a fixture, or has undergone accession or
+commingling shall continue provided the movable property
+
+if
+
+involved can still be reasonably traced. In determining
+ownership over fixtures, accessions, and commingled goods,
+the provisions of Book II of Republic Act No. 386 or the “Civil
+Code of the Philippines” shall apply.
+
+CHAPTER 5
+REGISTRATION — REGISTRY
+
+SEC. 26. Establishment of Electronic Registry. —
+
+(a) The Registry shall be established in and administered
+by the LRA.
+
+(b) The Registry shall provide electronic means for
+registration and searching of notices.
+
+SEC. 27. Public Record. —
+
+(a) Information contained in a registered notice shall be
+considered as a public record.
+
+(b) Any person may search notices registered in the Registry.
+
+(c) The electronic records of the Registry shall be the
+official records.
+
+SEC. 28. Sufficiency of Notice. —
+
+(a) An initial notice of security interest shall not be
+rejected:
+
+(1) If it identifies the grantor by an identification
+number, as further prescribed in the regulations;
+
+(2) If it identifies the secured creditor or an agent of
+the secured creditor by name;
+
+(8) If it provides an address for the grantor and secured
+creditor or its agent;
+
+(4) If it describes the collateral; and
+
+(5) If the prescribed fee has been tendered, or an
+arrangement has been made for payment of fees by other means.
+
+(b) If the Registry rejects to register a notice, it shall
+promptly communicate the fact of and reason for its rejection
+to the person who submitted the notice.
+
+(c) Each grantor must authorize the registration of an
+initial notice by signing a security agreement or otherwise in
+writing.
+
+@) Anotice may be registered before a security agreement
+is concluded. Once a security agreement is concluded, the date
+of registration of the notice shall be reckoned from the date the
+notice was registered.
+
+(e) A notice of lien may be registered by a lien holder
+without the consent of the person against whom the lien is
+sought to be enforced.
+
+® Description of the collateral in a notice shall be
+entered in English.
+
+SEC. 29. One Notice Sufficient for Security Interests
+Under Multiple Security Agreements. — The registration of a
+single notice may relate to security interests created by the
+grantor under one (1) or more than one security agreement.
+
+SEC. 30. Effectiveness of Notice. —
+
+(a) Anotice shall be effective at the time it is discoverable
+on the records of the Registry.
+
+(b) A notice shall be effective for the duration of the term
+indicated in the notice unless a continuation notice is registered
+before the term lapses.
+
+(c) A notice substantially complying with the
+requirements of this Chapter shall be effective unless it is
+seriously misleading.
+
+@ Anotice that may not be retrieved in a search of the
+Registry against the correct identifier of the grantor shall be
+ineffective with respect to that grantor.
+
+SEC. 31. Seriously Misleading Notice. — A notice that
+does not provide the identification number of the grantor shall
+be seriously misleading.
+
+SEC. 32. Amendment of Notice. —
+
+(a) A notice may be amended by the registration of an amendment notice that:
+
+(1) Identifies the initial notice by its registration
+number; and
+(2) Provides the new information.
+
+(b) An amendment notice that adds collateral that is not
+proceeds must be authorized by the grantor in writing.
+
+(c) An amendment notice that adds a grantor must be
+authorized by the added grantor in writing.
+
+(@) An amendment notice shall be effective only as to
+each secured creditor who authorizes it.
+
+(e) An amendment notice that adds collateral or a
+grantor shall be effective as to the added collateral or grantor
+from the date of its registration.
+
+SEC. 33. Continuation of Notice. —
+
+(a) The period of effectiveness of a notice may be
+continued by registering an amendment notice that identifies
+the initial notice by its registration number.
+
+(b) Continuation of notice may be registered only within
+six (6) months before the expiration of the effective period of
+the notice.
+
+SEC. 34. Termination of Effectiveness of a Notice. ~
+
+(a) The effectiveness of a notice may be terminated by registering a termination notice that:
+
+(1) Identifies the initial notice by its registration
+number; and
+
+(2) Identifies each secured creditor who authorizes the
+registration of the termination notice.
+
+(b) A termination notice terminates effectiveness of the
+notice as to each authorizing secured creditor.
+
+Sec. 85. Registry Duties. —
+(a) For each registered notice, the Registry shall:
+(1) Assign a unique registration number;
+
+(2) Create a record that bears the number assigned to
+the initial notice and the date and time of registration; and
+
+i4
+
+(3) Maintain the record for public inspection.
+
+(b) The Registry shall index notices by the identification
+number of the grantor and, for notices containing a serial
+number of a motor vehicle, by serial number.
+
+(c) The Registry shall provide a copy of the electronic
+record of the notice, including the registration number and
+the date and time of registration to the person who
+submitted it.
+
+@ The Registry shall maintain the capability to retrieve
+a record by the identification number of the grantor, and by
+serial number of a motor vehicle.
+
+@) The Registry shall maintain records of lapsed notices
+for a period of ten (10) years after the lapse.
+
+@® The duties of the Registry shall be merely
+administrative in nature. By registering a notice or refusing
+to register a notice, the Registry does not determine the
+sufficiency, correctness, authenticity, or validity of any
+information contained in the notice.
+
+SEC. 86. Search of Registry Records and Certified
+Report. —
+
+(a) The Registry shall communicate the following
+information to any person who requests it:
+
+() Whether there are in the Registry any unlapsed
+notices that indicate the grantor’s identification number or
+vehicle serial number that exactly matches the relevant
+criterion provided by the searcher;
+
+(2) The registration number, and the date and time of
+registration of each notice; and
+
+(3) All of the information contained in each notice.
+
+(b) Ifrequested, the Registry shall issue a certified report
+of the results of a search that is an official record of the Registry
+and shall be admissible into evidence in judicial proceedings
+without extrinsic evidence of its authenticity.
+
+SEC. 37. Disclosure of Information. —
+
+(a) The secured creditor must provide to the grantor at
+its request:
+
+@) The current amount of the unpaid secured
+obligation; and
+
+(2) Alist of assets currently subject to a security interest.
+
+(b) The secured creditor may require payment of a fee
+for each request made by the grantor in subsection (a) in this
+section, but the grantor is entitled to a reply without charge once
+every six (6) months.
+
+(c) Asecurity interest in a deposit account shall not:
+
+(1) Affect the rights and obligations of the deposit-taking
+institution without its consent: or
+
+(2) Require the deposit-taking institution to provide any
+information about the deposit account to third parties.
+
+Suc. 38. Fees Set by Regulation. —
+
+(a) The fees for registering a notice and for requesting a
+certified search report shall be set by regulation issued by the
+DOF for the recovery of reasonable costs of establishing and
+operating the Registry.
+
+(be) The fee structure or any change thereof under
+subsection (a) shall further consider that the same shall not be
+burdensome to either lender or grantor.
+
+(©) There shall be no fee for electronic searches of the
+Registry records or for the registration of termination notices.
+
+(d) The Registry may charge fees for services not mentioned above.
+
+Src. 89. When the Grantor May Demand Amendment or Termination of Notice. — A grantor may give a written demand to the secured creditor to amend or terminate the effectiveness of the notice if:
+
+(a) All the obligations under the security agreement to
+which the registration relates have been performed and there
+is no commitment to make future advances;
+
+(b) The secured creditor has agreed to release part of the
+collateral described in the notice;
+
+(c) The collateral described in the notice includes an item
+or kind of property that is not a collateral under a security
+agreement between the secured creditor and the grantor;
+
+() No security agreement exists between the parties; or
+
+@) The security interest is extinguished in accordance
+with this Act.
+
+SEc. 40. Matters That May be Required by Demand. —
+Upon receipt of the demand submitted under Section 39, the
+secured creditor must register, within fifteen (15) working days,
+an amendment or termination notice:
+
+(a) Terminating the registration in a case within
+subsections (a), (d) or (e) of Section 39:
+
+(b) Amending the registration to release some property
+that is no longer collateral in a case within subsection (¢) of
+Section 39 or that was never collateral under a security
+agreement between the secured creditor and the grantor in a
+case within subsection (c) of Section 39.
+
+SEC. 41. Procedure for Noncompliance with Demand. —
+If the secured creditor fails to comply with the demand within
+fifteen (15) working days after its receipt, the person giving
+the demand under Section 39 may ask the proper court to issue
+an order terminating or amending the notice as appropriate.
+
+SEC. 42. Compulsory Amendment or Termination by
+Court Order. —
+
+(a) The court may, on application by the grantor, issue
+an order that the notice be terminated or amended in accordance
+with the demand, which order shall be conclusive and binding
+on the LRA: Provided, That the secured creditor who disagrees
+with the order of the court may appeal the order.
+
+(b) The court may make any other order it deems proper
+for the purpose of giving effect to an order under subsection (a)
+of this section.
+
+() The LRA shall amend or terminate a notice in
+accordance with a court order made under subsection (a) of
+this section as soon as reasonably practicable after receiving
+the order.
+
+SEC. 43. No Fee for Compliance of Demand. — A secured
+creditor shall not charge any fee for compliance with a demand
+received under Section 39.
+
+Suc. 44. When Registration and Search Constitutes
+Interference with Privacy of Individual. - A person who
+submitted a notice for registration or carried out a search of
+the Registry with a frivolous, malicious or criminal purpose or
+intent shall be subject to civil and criminal penalties according
+to the relevant laws.
+
+CHAPTER 6
+
+ENFORCEMENT OF SECURITY INTEREST SECURED
+CREDITOR’S RIGHTS
+
+Suc. 45. Right of Redemption. —
+
+(a) Any person who is entitled to receive a notification of
+disposition in accordance with this Chapter is entitled to redeem
+the collateral by paying or otherwise performing the secured
+obligation in full, including the reasonable cost of enforcement.
+
+(b) The right of redemption may be exercised, unless:
+
+(1) The person entitled to redeem has not, after the
+default, waived in writing the right to redeem;
+
+() The collateral is sold or otherwise disposed of,
+acquired or collected by the secured creditor or until the
+conclusion of an agreement by the secured creditor for that
+purpose; and
+
+(3) The secured creditor has retained the collateral.
+
+SEC. 46. Right of Higher-Ranking Secured Creditor to
+Take Over Enforcement. —
+
+(a) Even if another secured creditor or a lien holder has
+commenced enforcement, a secured creditor whose security
+interest has priority over that of the enforcing secured creditor
+or lien holder shall be entitled to take over the enforcement
+process.
+
+(b) The right referred to in subsection (a) of this section
+may be invoked at any time before the collateral is sold or
+otherwise disposed of, or retained by the secured creditor or
+
+until the conclusion of an agreement by the secured creditor
+for that purpose.
+
+(©) The right of the higher-ranking secured creditor to
+take over the enforcement process shall include the right to
+enforce the rights by any method available to a secured creditor
+under this Act.
+
+Sec. 47. Expedited Repossession of the Collateral. —
+
+(a) The secured creditor may take possession of the
+collateral without judicial process if the security agreement so
+stipulates: Provided, That possession can be taken without a
+breach of the peace.
+
+(b) Ifthe collateral is a fixture, the secured creditor, if it
+has priority over all owners and mortgagees, may remove the
+fixture from the real property to which it is affixed without
+judicial process. The secured creditor shall exercise due care
+in removing the fixture.
+
+(c) If, upon default, the secured creditor cannot take
+possession of collateral without breach of the peace, the secured
+creditor may proceed as follows:
+
+(1) The secured creditor shall be entitled to an expedited
+hearing upon application for an order granting the secured
+creditor possession of the collateral. Such application shall
+include a statement by the secured creditor, under oath,
+verifying the existence of the security agreement attached to
+the application and identifying at least one event of default by
+the debtor under the security agreement;
+
+(2) The secured creditor shall provide the debtor, grantor,
+and, if the collateral is a fixture, any real estate mortgagee, a
+copy of the application, including all supporting documents
+and evidence for the order granting the secured creditor
+possession of the collateral; and
+
+(8) The secured creditor is entitled to an order granting
+possession of the collateral upon the court finding that a default
+has occurred under the security agreement and that the secured
+creditor has a right to take possession of the collateral.
+The court may direct the grantor to take such action as the
+court deems necessary and appropriate so that the secured
+creditor may take possession of the collateral: Provided, That
+
+breach of the peace shall include entering the private residence
+of the grantor without permission, resorting to physical
+violence or intimidation, or being accompanied by a law
+
+enforcement officer when taking possession or confronting the
+grantor.
+
+SEC. 48. Recovery in Special Cases. — Upon default, the secured creditor may without judicial process:
+
+(a) Instruct the account debtor to make payment to the
+secured creditor, and apply such payment to the satisfaction of
+the obligation secured by the security interest after deducting
+the secured creditor's reasonable collection expenses. On request
+of the account debtor, the secured creditor shall provide
+evidence of its security interest to the account debtor when it
+delivers the instruction to the account debtor;
+
+(b) In a negotiable document that is perfected by
+possession, proceed as to the negotiable document or goods
+covered by the negotiable document;
+
+(c) In a deposit account maintained by the secured
+creditor, apply the balance of the deposit account to the
+obligation secured by the deposit account; and
+
+(d) In other cases of security interest in a deposit account
+perfected by control, instruct the deposit-taking institution to
+pay the balance of the deposit account to the secured creditor's
+account.
+
+SEC. 49. Right to Dispose of Collateral. —
+
+(a) After default, a secured creditor may sell or otherwise dispose of the collateral, publicly or privately, in its present
+
+condition or following any commercially reasonable preparation
+or processing.
+
+(b) The secured creditor may buy the collateral at any
+public disposition, or at a private disposition but only if the
+collateral is of a kind that is customarily sold on a recognized
+market or the subject of widely distributed standard price
+quotations.
+
+SEc. 50. Commercial Reasonableness Required. —
+
+(a) In disposing of collateral, the secured creditor shall
+actin a commercially reasonable manner.
+
+(b) A disposition is commercially reasonable if the secured
+creditor disposes of the collateral in conformity with commercial
+practices among dealers in that type of property.
+
+© Adisposition is not commercially unreasonable merely
+because a better price could have been obtained by disposition
+ata different time or by a different method from the time and
+method selected by the secured creditor.
+
+(@) If a method of disposition of collateral has been
+approved in any legal proceeding, it is conclusively commercially
+reasonable.
+
+SEC. 51. Notification of Disposition. —
+
+(a) Not later than ten (10) days before disposition of the
+collateral, the secured creditor shall notify:
+
+(1) The grantor;
+
+@) Any other secured creditor or lien holder who, five
+(5) days before the date notification is sent to the grantor, held
+a security interest or lien in the collateral that was perfected
+by registration; and
+
+(3) Any other person from whom the secured creditor
+received notification of a claim of an interest in the collateral
+if the notification was received before the secured creditor gave
+notification of the proposed disposition to the grantor.
+
+(b) The grantor may waive the right to be notified.
+
+(©) Anotification of disposition is sufficient if it identifies
+the grantor and the secured creditor; describes the collateral;
+states the method of intended disposition; and states the time
+and place of a public disposition or the time after which other
+disposition is to be made.
+
+@) The requirement to send a notification under this
+section shall not apply if the collateral is perishable or threatens
+to decline speedily in value or is of a type customarily soldona
+recognized market.
+
+SEC. 52. Application of Proceeds. —
+
+(a) The proceeds of disposition shall be applied in the
+following order:
+
+(1) The reasonable expenses of taking, holding, preparing
+for disposition, and disposing of the collateral, including
+reasonable attorneys’ fees and legal expenses incurred by the
+secured creditor;
+
+2) The satisfaction of the obligation secured by the
+security interest of the enforcing secured creditor; and
+
+(8) The satisfaction of obligations secured by any
+subordinate security interest or lien in the collateral if a written
+demand and proof of the interest are received before distribution
+of the proceeds is completed.
+
+(b) The secured creditor shall account to the grantor for
+any surplus, and, unless otherwise agreed, the debtor is liable
+for any deficiency.
+
+SEC. 53. Rights of Buyers and Other Third Parties. —
+
+(a) If a secured creditor sells the collateral under this
+Chapter, the buyer shall acquire the grantor’s right in the asset
+free of the rights of any secured creditor or lien holder.
+
+(b) Ifa secured creditor leases or licenses the collateral
+under this Chapter, the lessee or licensee shall be entitled to the
+benefit of the lease or license during its term.
+
+© Ifa secured creditor sells, leases or licenses the
+collateral not in compliance with this Chapter, the buyer, lessee
+or licensee of the collateral shall acquire the rights or benefits
+described in subsections (a) and (b) of this section: Provided,
+That it had no knowledge of a violation of this Chapter that
+
+materially prejudiced the rights of the grantor or another
+person.
+
+SEC. 54. Retention of Collateral by Secured Creditor. ~
+
+(a) After default, the secured creditor may propose to
+the debtor and grantor to take all or part of the collateral in
+total or partial satisfaction of the secured obligation, and shall
+send a proposal to:
+
+(1) The debtor and the grantor:
+
+(2) Any other secured creditor or lien holder who, five
+(5) days before the proposal is sent to the debtor and the grantor,
+perfected its security interest or lien by registration; and
+
+(3) Any other person with an interest in the collateral
+who has given a written notification to the secured creditor
+before the proposal is sent to the debtor and the grantor.
+
+(ob) The secured creditor may retain the collateral in the case of:
+
+(1) A proposal for the acquisition of the collateral in full
+satisfaction of the secured obligation, unless the secured
+creditor receives an objection in writing from any person
+entitled to receive such a proposal within twenty (20) days after
+the proposal is sent to that person; or
+
+(2) A proposal for the acquisition of the collateral in
+partial satisfaction of the secured obligation, only if the secured
+creditor receives the affirmative consent of each addressee of
+the proposal in writing within twenty (20) days after the
+proposal is sent to that person.
+
+CHAPTER 7
+TRANSITIONAL PROVISIONS
+
+Sec. 55. Interpretation of Transitional Provisions. ~ For
+this Chapter, unless the context otherwise requires:
+
+(a) Existing secured creditor — means a secured creditor
+with a prior security interest;
+
+(&) Prior law — means any law that existed or in force
+before the effectivity of this Act:
+
+(c) Prior interest — means a security interest created or
+provided for by an agreement or other transaction that was
+made or entered into before the effectivity of this Act and that
+had not been terminated before the effectivity of this Act, but
+excludes a security interest that is renewed or extended by a
+security agreement or other transaction made or entered into
+on or after the effectivity of this Act; and
+
+@) Transitional period — means the period from the
+date of effectivity of this Act until the date when the Registry
+has been established and operational.
+
+SEC. 56. Creation of Prior Interest. —
+
+(a) Creation of prior interest shall be determined by
+prior law.
+
+23,
+
+(6) Aprior interest remains effective between the parties
+notwithstanding its creation did not comply with the creation
+requirements of this Act.
+
+Src. 57. Perfection of Prior Interest. —
+
+(a) A prior interest that was perfected under prior law
+continues to be perfected under this Act until the earlier of:
+
+(1) The time the prior interest would cease to be perfected
+under prior law; and
+
+(2) The expiration of the transitional period.
+
+(b) If the perfection requirements of this Act are
+satisfied before the perfection of a prior interest ceases in
+accordance with subsection (a) of this section, the prior interest
+continues to be perfected under this Act from the time when it
+was perfected under the prior law.
+
+(©) If the perfection requirements of this Act are not
+satisfied before the perfection of a prior interest ceases in
+accordance with subsection (a) of this section, the prior interest
+is perfected only from the time it is perfected under this Act.
+
+@) Awritten agreement between a grantor and a secured
+creditor creating a prior interest is sufficient to constitute
+authorization by the grantor of the registration of a notice
+covering assets described in that agreement under this Act.
+
+() Ifaprior interest referred to in subsection (b) of this
+section was perfected by the registration of a notice under prior
+law, the time of registration under the prior law shall be the
+time to be used for purposes of applying the priority rules of
+this Act.
+
+SEC. 58. Priority of Prior Interest. —
+
+(a) The priority of a prior interest as against the rights
+of a competing claimant is determined by the prior law if:
+
+(1) The security interest and the rights of all competing
+claimant arose before the effectivity of this Act; and
+
+(2) The priority status of these rights has not changed
+since the effectivity of this Act.
+
+(b) For purposes of subsection (a)(2) of this section, the
+priority status of a prior interest has changed only if:
+
+(1) It was perfected when this Act took effect, but ceased
+to be perfected; or
+
+(2) It was not perfected under prior law when this Act
+took effect, and was only perfected under this Act.
+
+SEC. 59. Enforcement of Prior Interest. —
+
+(a) Kung may anumang hakbang o aksyon ang ginawa upang ipatupad ang isang naunang interes bago ang pagkabisa ng Batas na ito, maaaring ipagpatuloy ang pagpapatupad sa ilalim ng naunang batas o maaaring ituloy sa ilalim ng Batas na ito.
+
+(b) Subject to subsection (a) of this section, prior law
+shall apply to a matter that is the subject of proceedings before
+a court before the effectivity of this Act.
+
+CHAPTER 8
+
+CONGRESSIONAL OVERSIGHT AND
+MISCELLANEOUS PROVISIONS
+
+SEC. 60. Congressional Oversight and Periodic Review.
+~— A Congressional Oversight Committee shall be created that
+will conduct a periodic review every five (5) years commencing
+from the effectivity of this Act. The Congressional Oversight
+Committee shall be composed of the Chairperson of the Senate
+Committee on Banks, Financial Institutions and Currencies,
+the Chairperson of the House of Representatives Committee on
+Banks and Financial Intermediaries, and representatives of
+other relevant congressional committees.
+
+SEC. 61. Interpretation. — If there is conflict between a
+provision of this Act and a provision of any other law, this Act
+shall govern unless the other law specifically cites or amends
+the conflicting provisions of this law.
+
+SEC. 62. Implementing Rules and Regulations. - Within
+six (6) months from the passage of this Act, the DOF in
+coordination with the Department of Justice, through the LRA,
+shall promulgate the necessary rules and regulations for the
+effective implementation of this Act.
+
+SEC. 63. Rules on Enforcement Procedure. — Subject to
+Section 47, the expedited hearing/proceedings shall be conducted
+in a summary manner consistent with the declared policies of
+this Act and in accordance with the rules of procedure that the
+Supreme Court may promulgate.
+
+SEC. 64. Sourcing of Funds. — The funds needed for the
+implementation of this Act shall be taken from the Special
+Account arising from revenues collected by the LRA under
+Section 111 of Presidential Decree No. 1529, without need for
+any further government approval.
+
+SEC. 65. Separability Clause. — Should any provision
+herein be declared unconstitutional, the same shall not affect
+the validity of the other provisions of this Act.
+
+SEC. 66. Repealing Clause. — The following laws, and
+all laws, decrees, orders, and issuances or portions thereof,
+which are inconsistent with the provisions of this Act, are
+hereby repealed, amended, or modified accordingly:
+
+(a) Sections 1 to 16 of Act No. 1508, otherwise known as
+“The Chattel Mortgage Law”;
+
+(b) Articles 2085-2123, 2127, 2140-2141, 2241, 2243, and
+2246-2247 of Republic Act No. 386, otherwise known as the
+“Civil Code of the Philippines”;
+
+(©) Section 13 of Republic Act No. 5980, as amended by
+Republic Act No. 8556, otherwise known as the “Financing
+Company Act of 1998”;
+
+@ Sections 114-116 of Presidential Decree No. 1529,
+otherwise known as the “Property Registration Decree”;
+
+(e) Section 10 of Presidential Decree No. 1529, insofar
+as the provision thereof is inconsistent with this Act; and
+
+® Section 5(e) of Republic Act No. 4136, otherwise
+known as the “Land Transportation and Traffic Code”.
+
+Cer PRT TSP TR RSME SER RO SESE EI ESR ETD NETRA RR pee
+
+SEC. 67. Effectivity. — This Act shall take effect fifteen
+(15) days after publication in at least two (2) newspapers of
+general circulation.
+
+SEC. 68. Implementation. — Notwithstanding the entry
+into force of this Act under Section 67, the implementation of
+the Act shall be conditioned upon the Registry being established
+and operational under Section 26.
+
+Approved,
+
+VICENTE QC. SOTTO HI PANTALEON D. AFYABEZ
+
+President oXthe Senate Speaker of the
+of Representffives
+
+This Act which is a consolidation of House Bill No. 6907
+and Senate Bill No. 1459 was passed by the House of
+Representatives and the Senate on May 30, 2018.
+
+MYRA MARIE D. VILLARICA CESAR STRAIT PAREJA
+
+Secretary of the Senate Secretary General
+House of Representatives
+
+RODRI OA DUTERTE
+President of the Philippines
+
+Oo
+
+REPUBLIC OF THE PHILIPPINES
+
+Office of the Presitent |
+
+ey Vom gy |

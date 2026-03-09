@@ -1,0 +1,115 @@
+Speech of Her Excellency Gloria Macapagal-Arroyo President of the Philippines During the 50th anniversary of the AB Economics and MA Economics Programs of the Ateneo de Manila University
+
+[Delivered at the Henry Lee Irwin Theatre, Ateneo de Manila University, July 6, 2002]
+
+Thank you very much Fr. Nebres.
+
+Members of the board of trustees: Eddie Go, whom I appointed as President of the UCPB; Chill Soriano, and I was a member of the Committee on Standards when we made her the first female valedictorian in the Ateneo; Cito Lorenzo, who is my cabinet member specifically looking for a million jobs and who is going to tap the services of Ateneo Macroeconomics Research Unit; Academic Vice President Dr. Angeles; Vice President for planning Fr. Caluag; Vice President for Loyola schools, Dr. Yntag, thank you for reading the citation; trustee and dean of the school of social sciences, Fr. Cruz; administrators of the Department of Economics, Dr. Lanzona, Dr. Dumlao and Ciel Habito; honored guests; fellow alumni; administrations; faculty; students many of whom are all over my administration today like for instance Tony Abad in National Food authority, RT Yap in PITC, Mon Paterno in the Development Bank of the Philippines, and I hope there will be many more in the years to come.
+
+Happy 50th Anniversary to all of us products of the Ateneo Economics Department.
+
+As an economist president, my priority today is to create jobs in order to fight poverty. And to do this we all know, in a free enterprise economy, to create jobs the primary means is to encourage investments; and to encourage investments we must be competitive including in our electric rates. Thus, we have a 10-point program to reduce electricity rates.
+
+And today I would like to discuss this plan with you — present economists and future economists — within the framework of the electric power industry which is divided into: generation, transmission, distribution, and supply.
+
+Generation is done by the independent power producers, or IPPS, and the NPC-owned generating companies, or Gencos; then NPC transmits the power to the distribution utilities, or DUS, consisting of private utilities and electric cooperatives and to customers with direct connection.
+
+NPC charges its customers with basic costs, fuel cost adjustment, or FCA, and Purchased Power Cost adjustment, or PPCA, collectively referred to as the fuel and Purchased Power Cost Adjustment, or FPCA, and Foreign Exchange Adjustment.
+
+The IPPS charge NPC and directly connected DUS with Purchased Power Cost Adjustment made up of generation costs, stranded costs, and foreign exchange adjustment. The NPC charges the DUS with basic costs and the fuel and power cost adjustment, made up of the FCA and the PPCA. In addition, it charges Foreign Exchange Adjustment to the directly connected customers. Confusing. We hope to diminish the confusion when we have the unbundling exercise.
+
+The DUS charge their end-use customers with all the automatic cost adjustments, plus systems loss, company-used power, and the franchise tax, all of which form part of the dreaded and hated PPA.
+
+Let me now discuss the ten points and show you the incidence in the power sector. Like incidence of taxation, now incidence of draft reforms.
+
+In distribution, first reform is to reflect the true cost of service in the rates.
+
+The rationale of the unbundling of electricity rates is to make the billing statements of consumers transparent. Under the electric power industry reform act, electricity rates are to be unbundled. This means that the cost of generation is segregated from the cost of transmission.
+
+The distribution wheeling charge shall be unbundled from the retail rate so that the rates shall reflect the respective costs of providing each service.
+
+By unbundling, the energy regulatory commission, ERC, denied NPC’s application to increase its rate by 17 centavos per kilowatt hour and instead said it should reduce its rate by seven centavos. It did this by disallowing certain expenses and items from the rate base. One of the items disallowed was the depreciation expense which NPC based on revalued assets. From now on depreciation expense will be based on original cost.
+
+Second reform is in the direct connection. We will introduce the “declining block structure.”
+
+This means, for large end-users, price per kilowatt will decline as consumption increases. This pricing scheme will hopefully stimulate economic activity by stimulating electricity demand, or quantity demanded, and increase utilization of excess generation capacity and hence reduce stranded contract cost and also help distressed industries.
+
+NPC will implement this in partnership with the distribution utilities, but also by pursuing more direct power connection to facilitate the diminishing block.
+
+Third reform is in the NPC-owned Genco sector. Optimize the utilization of generation capacity to minimize cost.
+
+Our utilization mix of NPC power plants will seek least blended costs. For instance, during off-peak periods, what will be on stream will be the power plants that will supply power at least cost. Right now, we don’t know which power plants those are because their financials are not yet very transparent.
+
+So to know which are the power plants that cost less, the operations research society of the Philippines will do an independent review of the Luzon grid.
+
+We will also redeploy power barges and relocate land-based generation plants from Luzon where there is an oversupply to other island groups where there is an undersupply.
+
+We will maintain a sensible reserve capacity so that we cannot pay so much for unutilized reserves.
+
+We shall upgrade our transmission systems to make them more efficient and therefore cheaper, but especially to ease transmission constraints and minimize the vulnerability of the power grid from blackouts.
+
+Four, we will establish a competitive wholesale generation market.
+
+The promulgation of the wholesale electricity spot market for wholesale electricity spot market, which is WESM, last June 28 paved the way for the transparent economical dispatch of generating facilities.
+
+How will this work? In the WESM, electricity will be a commodity that can be traded in the spot market similar to stocks in the stock exchange.
+
+To do this, it will be not NAPOCOR selling to itself but we will have a horizontal unbundling of NPC generation assets into individual GenCos to decentralize dispatch and pricing discretion. Much like in china where most of the companies are owned by the Chinese government but they are all managed individually and as competitors of one another.
+
+This means of course that we will immediately have to appoint independent administrators for each Genco plant. And that means a new round of head hunting. And I hope as now that I have so many Ateneans in my various sensitive agencies there will be more room for Ateneo economist here in this Gencos.
+
+We will expedite the procurement of the required software. You know, to run a stock exchange we have a computerized market. So to run the WESM we need a computerized market. So we need to buy the software and the hardware, and we plan to do this in such a timing but hopefully we can launch the WESM before the end of the year.
+
+Fifth, accelerate implementation of open access. The meaning of open access is that there are many suppliers of electricity and they will be competing to provide electricity service to end users. The suppliers will just pay the distributors distribution willing charges for the use of their wires.
+
+Electricity consumers with a monthly average peak demand of at least one megawatt will have a choice which among the suppliers of electricity they want to buy from. For instance, under this even if you’re in metro manila — which is known as the MERALCO franchise area — if you feel that you would rather buy from some other utility because they charge less or you like their service more you can do that, you just pay MERALCO for the use of its wires.
+
+We can target the introduction of open access by December 2003 earlier than the law requires if as preconditions we can unbundle distribution rates — which we are now doing — operate the WESM — where we need the hardware and the software — and remove cross-subsidies which might be quite difficult at this very moment in time because right now Luzon is still subsidizing the Visayas. So we see, let them take the Visayas more competitive to remove the cross-subsidy.
+
+Sixth, require efficient performance of the distribution utilities.
+
+One way of promoting the efficient and competitive operation of distribution utilities is by encouraging a shift from the present “cost plus” mentality to the technology used in other regulatory bodies in other parts of the world of a “cost efficient” regime.
+
+We are encouraging transparent and competitive procurement on the part of the power sector firms.
+
+We also hope to accelerate the transition from the traditional rate regulation using the present rate-of-return-on-rate base methodology to a performance-based rate-making approach, and the ERC’s target is hopefully way before the end of 2003. Under this, better performing utilities will be given incentives while the poor performers will be meted sanctions.
+
+Thus we will undertake a comparative efficiency rating of distribution utilities.
+
+We will also promote competitive bidding for long-term power supply contracts.
+
+And we are also prescribing certain performance and technical standards that have to be strictly observed by the distribution utilities as provided in the Philippine Distribution Code.
+
+Seventh measure, strengthen the electric cooperatives. One strategy for strengthening electric cooperatives is to promote the consolidation of smaller sub-performing electric cooperatives, for instance, within the region. For instance, within Panay or within Leyte where you have so many electric cooperatives, consolidate them to reduce overhead, and to choose the better manager among all of them.
+
+Another is to adopt a big brother-small brother arrangement among electricity cooperatives, for example, as being done now in Lanao del Sur — I believe it’s going to be Cebu as the big brother who will help make the Lanao del Sur cooperatives more efficient.
+
+We will also encourage investment management contracts for suitable electric cooperatives by private operators and well-run electric cooperatives. For instance, in Aklan I asked the national electrification administration to take over the very inefficient AKELCO and it will be run by a better electric cooperative.
+
+Eighth, review the IPP contracts and seek to reduce IPP contract costs. This is very well discussed in the newspapers of this several days, I can say that I can just summarize that the review process which ended last June 30th entailed the use of appropriate benchmarks based on legal, financial and operating issues — three criteria.
+
+We expect that the renegotiation of the contracts should reduce stranded contract costs through — and this is my instruction to the negotiators — realignment of fixed and variable costs, reduction of minimum energy off-take and non-renewal of expired contracts, among other bargaining measures.
+
+Ninth, explore financial engineering methods. We were able to reduce the NPC’s PPCA to 40 centavos, which you will see in your electric bills this July, by refinancing stranded costs over longer periods. Another financial engineering method is to have prepaid stored fuel or energy bankable for a certain period pending future use. Still another is the regulatory asset treatment of excess fuel or energy to be included in the rate base.
+
+Tenth, enhance the institutional capability of the ERC. A strong ERC, and it is strong now except that they probably need more technical people to work faster on their many cases and many studies — room for more Ateneo economics graduates — a strong ERC can promote market competition through transparency of rules and strict enforcement of the law on anti-competition policies.
+
+It can also penalize abuse of market power.
+
+It can set rules to protect end-users from undue electricity charges.
+
+It can protect consumers from excessive PPA charges from privately-negotiated bilateral contracts.
+
+So you see these are what we are seeking to do in the immediate short, medium and long term, to reform the power sector and make our electricity sector more competitive. Not only hopefully will we be able to give relief to our harried consumers, but we will be able to find more jobs for our people by having a more competitive investment environment.
+
+Our quest for jobs for our people is tough and difficult but we have a vision and a method for its achievement.
+
+As Atenean economists, we have to fly high. So I ask you economists of today and economists of the near future there are many ways shown here by which we can work together. There are many ways in other parts of carrying out economic policy and formulating it by which we can work together.
+
+Indeed, let us work together audaciously to create jobs and bring about a better and more progressive nation for our people.
+
+Thank you.
+
+Source : www.op.gov.ph
+
+Macapagal-Arroyo, G. (2002). PGMA’s Speech during the 50th Anniversary of the AB Economics and MA Economics Programs of the Ateneo de Manila University. Retrieved from https://web.archive.org/web/20100412224854/http://www.op.gov.ph/index.php?option=com_content&task=view&id=8354&Itemid=38

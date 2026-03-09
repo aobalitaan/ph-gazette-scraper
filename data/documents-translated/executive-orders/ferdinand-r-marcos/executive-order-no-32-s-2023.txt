@@ -1,0 +1,217 @@
+MALACANAN PALACE
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+EXECUTIVE ORDER NO. 32
+
+STREAMLINING THE PERMITTING PROCESS FOR THE CONSTRUCTION
+OF TELECOMMUNICATIONS AND INTERNET INFRASTRUCTURE
+
+WHEREAS, Section 2 of Republic Act (RA) No. 9485 or the “Anti-Red Tape Act of
+2007,” as amended by RA No. 11032 or the “Ease of Doing Business and Efficient
+Government Service Delivery Act of 2018,” declares it a policy of the State to take
+appropriate measures to promote transparency in each agency with regard to the manner of
+transacting with the public, which shall encompass initiating and maintaining a program for
+the adoption of simplified procedures that will reduce red tape and expedite business and
+non-business transactions in government;
+
+WHEREAS, Section 15 of RA No. 9485, as amended, mandates the Anti-Red Tape
+Authority (ARTA), together with the Department of Information and Communications
+Technology (DICT), to develop a fast and reliable interconnectivity infrastructure that will
+expedite the processing of licenses, clearances, permits, certifications or authorizations:
+
+WHEREAS, Section 4(ii) of RA No. 11494 or the “Bayanihan to Recover as One Act,”
+which took effect on 15 September 2020, temporarily suspended the requirements for
+securing permits and clearances for the construction of telecommunications and internet
+infrastructure, for a period of three (3) years, and directed the streamlining of regulatory
+processes and procedures for the development and improvement of digital, internet, and
+satellite technology infrastructure;
+
+WHEREAS, to ensure the continuous development of digital infrastructure in the
+Philippines, there is a need to institutionalize a set of streamlined guidelines for the issuance
+of permits, licenses, and certificates for the construction of telecommunications and internet
+infrastructure similar to the prescribed streamlined requirements and regulatory processes
+and procedures provided under Section 4(ii) of RA No. 11494;
+
+WHEREAS, Section 15 of RA No. 9485, as amended, mandates national government
+agencies (NGAs) and local government units (LGUs) to expedite the processing and
+approval or disapproval of licenses, clearances, permits, certifications or authorizations for
+the installation and operation of telecommunication systems, broadcast towers, facilities,
+equipment and service; and
+
+THE PRESIDENT OF THE PHILIPPINES
+
+WHEREAS, Section 17, Article VII of the Constitution vests in the President the power
+of control over all Executive departments, bureaus, and offices, and the mandate to ensure
+the faithful execution of laws;
+
+NOW THEREFORE, |, FERDINAND R. MARCOS, JR., President of the Philippines,
+by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
+
+Section 1. Coverage. This Order shall cover all NGAs and instrumentalities, including
+government-owned or -controlled corporations, as well as LGUs, involved in the issuance of
+permits, licenses, clearances, certifications, and authorizations that are required for the
+following:
+
+a. Construction, installation, repair, operation, and maintenance of Shared Passive
+Telecommunications Tower Infrastructure; and
+
+b. Erection of poles, installation of aerial and underground cables and facilities,
+underground fiber ducts, ground terminals and other transmission or similar
+telecommunications and internet infrastructure and facilities, and other passive
+infrastructures.
+
+Section 2. Streamlined Requirements for the Construction of
+Telecommunications and Internet Infrastructure. No other national or local permit or
+clearance shall be required in the construction, installation, repair, operation, and
+maintenance of telecommunications and internet infrastructure, except for the following
+requirements:
+
+a. Building Permit issued by the Office of the Building Official;
+
+b. Height Clearance Permit from the Civil Aviation Authority of the Philippines (CAAP),
+except when the proposed structure is outside the CAAP Critical Areas and below fifty
+(50) meters in height above the elevation of the ground;
+
+c. Homeowners and other community clearances;
+
+d. Clearances from other government agencies, whenever applicable:
+
+i. Environmental Compliance Certificate (ECC), if the proposed project site is within an
+environmentally critical area;
+
+ii. Special Use Agreement in Protected Areas, if the proposed project site is a protected
+area;
+
+iii. Free and Prior Informed Consent, if the proposed project site is within an ancestral
+domain;
+
+iv. Land Use Conversion from the Department of Agrarian Reform (DAR) Central Office,
+if the proposed project site requires the conversion of an agricultural land of more
+than five (5) hectares, or from the DAR Regional Office, if the said land is five (5)
+hectares and below;
+
+v. Clearance from Laguna Lake Development Authority, if the proposed project site is
+within the Laguna de Bay region;
+
+vi. Clearance from the Philippine Economic Zone Authority (PEZA), if the proposed site
+is within an economic zone or any other area owned, administered or operated by
+PEZA; and
+
+vii. Strategic Environment Plan Clearance from the Palawan Council for Sustainable
+Development, if the proposed project site is within the Province of Palawan; and
+
+e. Other requirements as mandated by the Constitution and existing laws.
+
+
+The following shall not be required from applicants in securing a Building Permit, a
+Fire Safety Evaluation Clearance, a Barangay Clearance, or a Locational Clearance:
+
+Sangguniang Panlungsod/Bayan Resolution;
+
+Sangguniang Barangay Resolution;
+
+c. ECC or Certificate of Non-Coverage, if the proposed site of construction is outside an
+environmentally critical area;
+
+d. Certificate of Safety Evaluation from the Department of Health and the Food and Drug
+Administration; and
+
+e. Certified True Copy of National Telecommunications Commission (NTC) Provisional
+
+Authority or Certificate of Public Convenience and Necessity or Certificate of
+
+Registration to Provide Telecommunication Services.
+
+o 2
+
+Section 3. Applicability. The streamlined requirements under Section 2 hereof shall
+apply to all pending and new applications for securing the above permits, licenses,
+clearances, certifications, and authorizations, submitted by the following:
+
+a. Public Telecommunications Entities (PTEs), which are holders of Certificates of Public
+Convenience and Necessity or Provisional Authorities granted by the NTC;
+
+b. Cable TV (CATV) Operators, which are registered as Value-Added Service (VAS)
+Providers and authorized to offer internet access service;
+
+c. VAS Providers, which are registered with the NTC to offer internet access service and
+contracted by the DICT under the Free Public Internet Access Program in Public Places;
+
+d. ICT Technology Providers or Physical Infrastructure Contractors, which are contracted
+by PTEs or CATV Operators to rollout or construct, install, and/or establish their
+infrastructure;
+
+e. Independent Tower Companies, which are registered with the DICT;
+
+Distribution Utility Owners, which are covered by a franchise issued by the Congress of
+
+the Philippines; and
+
+g. All authorized contractors of the foregoing entities.
+
+a
+
+Section 4. Action on the Application. All covered applications not acted upon within
+the prescribed period as provided under existing laws, shall be deemed approved pursuant
+to Section 10 of RA No. 9485, as amended, provided, that all documentary requirements
+and required fees indicated in the Citizen’s Charter of the covered agencies and LGUs have
+been submitted and paid, respectively.
+
+Section 5. One-Stop Shop for Construction-Related Applications. All cities and
+municipalities shall set up a One-Stop Shop for Construction Permits, preferably at the Office
+of the Building Official, which will provide frontline services to applicants who are securing
+building permits and other related certificates, including permits and certificates for
+construction of telecommunications and internet infrastructure.
+
+Section 6. Zero Backlog Policy. Subject to existing laws, rules and regulations, all
+covered government agencies and LGUs are enjoined to implement the Zero Backlog Policy
+in all applications for permits and clearances covered by this Order. They shall annually
+submit their list of pending applications and compliance reports to the ARTA, copy furnished
+the Office of the President.
+
+Section 7. Technical Working Group. A Technical Working Group (TWG) on
+Telecommunications and Internet Infrastructure is hereby created as an oversight body to
+
+
+ensure the effective and efficient implementation of this Order. The TWG shall be chaired by
+the DICT, with the ARTA, NTC, Department of Public Works and Highways, and Department
+of the Interior and Local Government as members thereof.
+
+Section 8. Implementing Rules and Regulations. Within sixty (60) working days
+from the effectivity of this Order, the TWG shall formulate rules and regulations necessary
+to effectively implement this Order.
+
+Section 9. Repeal. All orders, rules and regulations, and other issuances or parts
+thereof which are inconsistent with the provisions of this Order are hereby repealed or
+modified accordingly.
+
+Section 10. Separability. If any part or provision of this Order shall be held invalid or
+unconstitutional, the provisions not affected thereby shall remain in full force and effect.
+
+Section 11. Effectivity. This Order shall take effect immediately upon publication in
+the Official Gazette or in a newspaper of general circulation.
+
+DONE, in the City of Manila, this 4th dayof July , in the year of Our Lord,
+Two Thousand and Twenty-Three.
+
+By the President:
+
+ 
+
+ 
+
+ 
+
+REPUBLIC OF THE PHILIPPINES
+
+ 
+
+ 
+
+ 
+
+ 
+
+PBBM002387

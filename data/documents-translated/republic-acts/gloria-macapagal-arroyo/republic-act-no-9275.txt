@@ -1,0 +1,507 @@
+AN ACT PROVIDING FOR A COMPREHENSIVE WATER QUALITY MANAGEMENT AND FOR OTHER PURPOSES
+
+CHAPTER 1
+
+GENERAL PROVISIONS
+
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled.
+
+Article 1
+
+Declaration of Principles and Policies
+
+SECTION. 1. Short Title . — This Act shall be known as the “Philippine Clean Water Act of 2004.”
+
+SEC. 2. Declaration of Policy . — The State shall pursue a policy of economic growth in a manner consistent with the protection, preservation and revival of the quality of our fresh, brackish and marine waters. To achieve this end, the framework for sustainable development shall be pursued. As such, it shall be the policy of the State:
+
+a) To streamline processes and procedures in the prevention, control and abatement of pollution of the country’s water resources;
+
+b) To promote environmental strategies, use of appropriate economic instruments and of control mechanisms for the protection of water resources;
+
+c) To formulate a holistic national program of water quality management that recognizes that water quality management issues cannot be separated from concerns about water sources and ecological protection, water supply, public health and quality of life;
+
+d) To formulate an integrated water quality management framework through proper delegation and effective coordination of functions and activities;
+
+e) To promote commercial and industrial processes and products that are environment friendly and energy efficient;
+
+f) To encourage cooperation and self-regulation among citizens and industries through the application of incentives and market-based instruments and to promote the role of private industrial enterprises in shaping its regulatory profile within the acceptable boundaries of public health and environment;
+
+g) To provide for a comprehensive management program for water pollution focusing on pollution prevention;
+
+h) To promote public information and education and to encourage the participation of an informed and active public in water quality management and monitoring;
+
+i) To formulate and enforce a system of accountability for short and long-term adverse environmental impact of a project, program or activity; and
+
+j) To encourage civil society and other sectors, particularly labor, the academe and business undertaking environment-related activities in their efforts to organize, educate and motivate the people in addressing pertinent environmental issues and problems at the local and national levels.
+
+SEC. 3. Coverage of the Act . — This Act shall apply to water quality management in all water bodies: Provided , That it shall primarily apply to the abatement and control of pollution from land based sources: Provided, further , That the water quality standards and regulations and the civil liability and penal provisions under this Act shall be enforced irrespective of sources of pollution.
+
+Article 2
+
+Definition of Terms
+
+SEC. 4. Definition of Terms . — As used in this Act:
+
+a) Aquifer — means a layer of water-bearing rock located underground that transmits water in sufficient quantity to supply pumping wells or natural springs.
+
+b) Aquatic life — means all organisms living in freshwater, brackish and marine environments.
+
+c) Beneficial use — means the use of the environment or any element or segment thereof conducive to public or private welfare, safety and health; and shall include, but not be limited to, the use of water for domestic, municipal, irrigation, power generation, fisheries, livestock raising, industrial, recreational and other purposes.
+
+1. Use of water for domestic purposes — means the utilization of water for drinking, washing, bathing, cooking or other household needs, home gardens and watering of lawns or domestic animals;
+
+2. Use of water for municipal purposes — means the utilization of water for supplying water requirements of the community;
+
+3. Use of water for irrigation — means the utilization of water for producing agricultural crops;
+
+4. Use of water for power generation — means the utilization of water for producing electrical or mechanical power;
+
+5 . Use of water for fisheries — means the utilization of water for the propagation of culture of fish as a commercial enterprise;
+
+6. Use of water for livestock raising — means the utilization of water for large herds or flocks of animals raised as a commercial enterprise;
+
+7. Use of water for industrial purposes — means the utilization of water in factories, industrial plants and mines, including the use of water as an ingredient of a finished product; and
+
+8. Use of water for recreational purposes — means the utilization of water for swimming pools, bath houses, boating, water skiing, golf courses and other similar facilities in resorts and other places of recreation.
+
+d) Classification/Reclassification of Philippine Waters — means the categorization of all water bodies taking into account, among others, the following: (1) existing quality of the body of water; (2) size, depth, surface area covered, volume, direction, rate of flow and gradient of stream; (3) most beneficial existing and future use of said bodies of water and lands bordering them, such as for residential, agricultural, aquacultural, commercial, industrial, navigational, recreational, wildlife conservation and aesthetic purposes; and (4) vulnerability of surface and groundwater to contamination from pollutive and hazardous wastes, agricultural chemicals and underground storage tanks of petroleum products.
+
+e) Civil Society — means non-government organizations (NGOs) and people’s organizations (POs).
+
+f) Cleaner production — means the application of an integrated, preventive environmental strategy to processes, products, services to increase efficiency and reduce risks to humans and the environment.
+
+g ) Clean-up operations — means activities involving the removal of pollutants discharged or spilled into a water body and its surrounding areas, and the restoration of the affected areas to their former physical, chemical and biological state or conditions.
+
+h) Contamination — means the introduction of substances not found in the natural composition of water that make the water less desirable or unfit for intended use.
+
+i) Department — means the Department of Environment and Natural Resources.
+
+j) Discharge — includes, but is not limited to, the act of spilling, leaking, pumping, pouring, emitting, emptying, releasing or dumping of any material into a water body or onto land from which it might flow or drain into said water.
+
+k) Drinking water — means water intended for human consumption or for use in food preparation.
+
+l) Dumping — means any unauthorized or illegal disposal into any body of water or land of wastes or toxic or hazardous material: Provided , That it does not mean a release of effluent coming from commercial, industrial, and domestic sources which are within the effluent standards.
+
+m) Effluent — means discharges from known source which is passed into a body of water or land, or wastewater flowing out of a manufacturing plant, industrial plant including domestic, commercial and recreational facilities.
+
+n) Effluent standard — means any legal restriction or limitation on quantities, rates, and/or concentrations or any combination thereof, of physical, chemical or biological parameters of effluent which a person or point source is allowed to discharge into a body of water or land.
+
+o) Environmental management — means the entire system which includes, but is not limited to, conservation, regulation and minimization of pollution, clean production, waste management, environmental law and policy, environmental education and information, study and mitigation of the environmental impacts of human activity, and environmental research.
+
+p) Environmental management system — means the part of the overall management system that includes organizational structure, planning activities, responsibilities, practices, procedures, processes and resources for developing, implementing, achieving, reviewing and maintaining the environmental policy.
+
+q) Freshwater — means water containing less than 500 ppm dissolved common salt, sodium chloride, such as that in groundwater, rivers, ponds and lakes.
+
+r) Groundwater — means a subsurface water that occurs beneath a water table in soils and rocks, or in geological formations.
+
+s) Groundwater vulnerability — means relative ease with which a contaminant located at or near the land surface can migrate to the aquifer or deep well.
+
+t) Groundwater vulnerability map — means the identified areas of the land surface where groundwater quality is most at risk from human activities and shall reflect the different degrees of groundwater vulnerability based on a range of soil properties and hydrogeological criteria to serve as guide in the protection of the groundwater from contamination.
+
+u) Hazardous waste — means any waste or combination of wastes of solid, liquid, contained gaseous, or semi-solid form which cause, or contribute to, an increase in mortality or an increase in serious irreversible, or incapacitating reversible illness, taking into account toxicity of such waste, its persistence and degradability in nature, its potential for accumulation or concentration in tissue, and other factors that may otherwise cause or contribute to adverse acute or chronic effects on the health of persons or organism.
+
+v) Industrial waste — means any solid, semi-solid or liquid waste material with no commercial value released by a manufacturing or processing plant other than excluded material.
+
+w) Integrated Water Quality Management Framework — means the policy guideline integrating all the existing frameworks prepared by all government agencies on water quality involving pollution from all sources. Specifically, the framework shall contain the following: (a) water quality goals and targets; (b) period of compliance; (c) water pollution control strategies and techniques; (d) water quality information and education program; and (e) human resources development program.
+
+x) Margin — means a landward and outer limiting edge adjacent to the border of any water bodies or a limit beyond where saturation zone ceases to exist.
+
+y) National Water Quality Status Report — means a report to be prepared by the Department indicating: (a) the location of water bodies, their water quality, taking into account seasonal, tidal and other variations, existing and potential uses and sources of pollution per specific pollutant and pollution load assessment; (b) water quality management areas pursuant to Section 5 of this Act; and (c) water classification.
+
+z) Non point source — means any source of pollution not identifiable as point source to include, but not be limited to, run-off from irrigation or rainwater which picks up pollutants from farms and urban areas.
+
+aa) Point source — means any identifiable source of pollution with specific point of discharge into a particular water body.
+
+bb) Pollutant — shall refer to any substance, whether solid, liquid, gaseous or radioactive, which directly or indirectly:
+
+(i) alters the quality of any segment of the receiving water body so as to affect or tend to affect adversely any beneficial use thereof;
+
+(ii) is hazardous or potentially hazardous to health;
+
+(iii) imparts objectionable odor, temperature change, or physical, chemical or biological change to any segment of the water body; or
+
+(iv) is in excess of the allowable limits or concentrations or quality standards specified, or in contravention of the condition, limitation or restriction prescribed in this Act.
+
+cc) Pollution control technology — means pollution control devices or apparatus, processes, or other means that effectively prevent, control or reduce pollution of water caused by effluents and other discharges, from any point source at levels within the water pollution standards.
+
+dd) Potentially infectious medical waste — includes isolation wastes, infectious agents, human blood and blood products, pathological wastes, sharps, body parts, contaminated bedding, surgical wastes, and other disposable medical equipment and material that may pose a risk to the public health, welfare or the marine environment.
+
+ee) Secretary — means the Secretary of the Department of Environment and Natural Resources (DENR).
+
+ff) Septage — means the sludge produced on individual onsite wastewater-disposal systems, principally septic tanks and cesspools.
+
+gg) Sewage — means water-borne human or animal wastes, excluding oil or oil wastes, removed from residences, buildings, institutions, industrial and commercial establishments together with such groundwater, surface water and storm water as may be present including such waste from vessels, offshore structures, other receptacles intended to receive or retain wastes, or other places or the combination thereof.
+
+hh) Sewerage — includes, but is not limited to, any system or network of pipelines, ditches, channels, or conduits including pumping stations, lift stations and force mains, service connections including other constructions, devices, and appliances appurtenant thereto, which involves the collection, transport, pumping and treatment of sewage to a point of disposal.
+
+ii) Sludge — means any solid, semi-solid or liquid waste or residue generated from a wastewater treatment plant, water supply treatment plant, or water control pollution facility, or any other such waste having similar characteristics and effects.
+
+jj) Surface water — means all water which is open to the atmosphere and subject to surface run-off.
+
+kk) Treatment — means any method, technique, or process designed to alter the physical, chemical or biological and radiological character or composition of any waste or wastewater to reduce or prevent pollution.
+
+ll) Toxic amount — means the lowest amount of concentration of toxic pollutants which may cause chronic or long-term acute or lethal conditions or effects to the aquatic life or health of persons or which may adversely affect designated water uses.
+
+mm) Waste — means any material either solid, liquid, semi-solid, contained gas or other forms resulting from industrial, commercial, mining or agricultural operations, or from community and household activities that is devoid of usage and discarded.
+
+nn) Wastewater — means waste in liquid state containing pollutants.
+
+oo) Water body — means both natural and man-made bodies of fresh, brackish, and saline waters, and includes, but is not limited to, aquifers, groundwater, springs, creeks, streams, rivers, ponds, lagoons, water reservoirs, lakes, bays, estuarine, coastal and marine waters. Water bodies do not refer to those constructed, developed and used purposely as water treatment facilities and/or water storage for recycling and re-use which are integral to process industry or manufacturing.
+
+pp) Water pollution — means any alteration of the physical, chemical or biological or radiological properties of a water body resulting in the impairment of its purity or quality.
+
+qq) Water quality — means the characteristics of water which define its use in terms of physical, chemical, biological, bacteriological or radiological characteristics by which the acceptability of water is evaluated.
+
+rr) Water quality guidelines — means the level for a water constituent or numerical values of physical, chemical, biological and bacteriological or radiological parameters which are used to classify water resources and their use, which does not result in significant health risk and which are not intended for direct enforcement but only for water quality management purposes, such as determining time trends, evaluating stages of deterioration or enhancement of the water quality, and as basis for taking positive action in preventing, controlling or abating water pollution.
+
+ss) Water Quality Management Area Action Plan — includes, but not be limited to, the following: (a) goals and targets including sewerage or septage program; (b) schedule of compliance to meet the applicable requirements of this Act; (c) water pollution control strategies or techniques; (d) water quality information and education program; (e) resource requirement and possible sources; (f) enforcement procedures of the plan; and (g) rewards and incentives under Chapter 4 of this Act.
+
+CHAPTER 2
+
+WATER QUALITY MANAGEMENT SYSTEM
+
+Article 1
+
+General Provisions
+
+SEC. 5. Water Quality Management Area . — The Department, in coordination with National Water Resources Board (NWRB), shall designate certain areas as water quality management areas using appropriate physiographic units such as watershed, river basins or water resources regions. Said management areas shall have similar hydrological, hydrogeological, meteorological or geographic conditions which affect the physicochemical, biological and bacteriological reactions and diffusions of pollutants in the water bodies, or otherwise share common interest or face similar development programs, prospects, or problems.
+
+Said management area shall be governed by a governing board composed of representatives of mayors and governors of member local government units (LGUs), and representatives of relevant national government agencies, duly registered nongovernmental organization, water utility sector, and business sector. The Department representative shall chair the governing board. In the case of the LGUs with memberships on more than one (1) management board, the LGU shall designate only one (1) single representative for all the management areas where it is a member.
+
+The governing board shall formulate strategies to coordinate policies necessary for the effective implementation of this Act in accordance with those established in the framework and monitor the compliance with the action plan.
+
+Each management area shall create a multi-sectoral group to establish and effect water quality surveillance and monitoring network including sampling schedules and other similar activities. The group shall submit its report and recommendation to the chairman of the governing board.
+
+A technical secretariat for each management area is hereby created which shall be part of the Department and shall provide technical support to the governing board. They shall be composed of at least four (4) members who shall have the following minimum qualifications:
+
+a) One (1) member shall be a member of the Philippine Bar;
+
+b) One (1) member shall be a Chemical Engineer, Chemist, Sanitary Engineer, Environmental Engineer or Ecologist or have significant training and experience in chemistry;
+
+c) One (1) member shall be a Civil Engineer or Hydrologist or have significant training and experience in closely related fields and mainly experience on ground water, respectively; and
+
+d) One (1) member shall be a Geologist or Biologist or have significant training and experience in closely related fields.
+
+The areas within the jurisdiction of the Laguna Lake Development Authority (LLDA) shall be designated as one management area under the administration of LLDA in accordance with Republic Act No. 4850, as amended: Provided, however , That the standards promulgated pursuant to this Act and wastewater charge system established pursuant hereof shall be enforced in said area.
+
+SEC. 6 . Management of Non-attainment Areas . — The Department shall designate water bodies, or portions thereof, where specific pollutants from either natural or man-made source have already exceeded water quality guidelines as non-attainment areas for the exceeded pollutants. It shall prepare and implement a program that will not allow new sources of exceeded water pollutant in non-attainment areas without a corresponding reduction in discharges from existing sources: Provided , That if the pollutant is naturally occurring, e.g. naturally high boron and other elements in geothermal areas, discharge of such pollutant may be allowed: Provided, further , That the effluent concentration of discharge shall not exceed the naturally occurring level of such pollutant in the area: Provided , finally, That the effluent concentration and volume of discharge shall not adversely affect water supply, public health and ecological protection.
+
+The Department shall, in coordination with NWRB, Department of Health (DOH), Department of Agriculture (DA), governing board and other concerned government agencies and private sectors shall take such measures as may be necessary to upgrade the quality of such water in non-attainment areas to meet the standards under which it has been classified.
+
+Upgrading of water quality shall likewise include undertakings which shall improve the water quality of a water body to a classification that will meet its projected or potential use.
+
+The LGUs shall prepare and implement contingency plans and other measures including relocation, whenever necessary, for the protection of health and welfare of the residents within potentially affected areas.
+
+SEC. 7. National Sewerage and Septage Management Program. — The Department of Public Works and Highways (DPWH), through its relevant attached agencies, in coordination with the Department, LGUs and other concerned agencies, shall, as soon as possible, but in no case exceeding a period of twelve (12) months from the effectivity of this Act, prepare a national program on sewerage and septage management in connection with Section 8 hereof.
+
+Such program shall include a priority listing of sewerage, septage and combined sewerage-septage projects for LGUs based on population density and growth, degradation of water resources, topography, geology, vegetation, programs/projects for the rehabilitation of existing facilities and such other factors that the Secretary may deem relevant to the protection of water quality. On the basis of such national listing, the national government may allot, on an annual basis, funds for the construction and rehabilitation of required facilities.
+
+Each LGU shall appropriate the necessary land, including the required rights-of-way/road access to the land for the construction of the sewage and/or septage treatment facilities.
+
+Each LGU may raise funds to subsidize necessary expenses for the operation and maintenance of sewerage treatment or septage facility servicing their area of jurisdiction through local property taxes and enforcement of a service fee system.
+
+SEC. 8. Domestic Sewage Collection, Treatment and Disposal. — Within five (5) years following the effectivity of this Act, the agency vested to provide water supply and sewerage facilities and/or concessionaires in Metro Manila and other highly urbanized cities (HUCs) as defined in Republic Act No. 7160, in coordination with LGUs, shall be required to connect the existing sewage line found in all subdivisions, condominiums, commercial centers, hotels, sports and recreational facilities, hospitals, market places, public buildings, industrial complex and other similar establishments including households to available sewerage system: Provided , That the said connection shall be subject to sewerage services charge/fees in accordance with existing laws, rules or regulations unless the sources had already utilized their own sewerage system: Provided, further , That all sources of sewage and septage shall comply with the requirements herein.
+
+In areas not considered as HUCs, the DPWH in coordination with the Department, DOH and other concerned agencies, shall employ septage or combined sewerage-septage management system.
+
+For the purpose of this section, the DOH, in coordination with other government agencies, shall formulate guidelines and standards for the collection, treatment and disposal of sewage including guidelines for the establishment and operation of centralized sewage treatment system.
+
+SEC. 9. National Water Quality Management Fund . — A water quality management fund, to be administered by the Department, in coordination with other concerned agencies, as a special account in the National Treasury is hereby established. The fund shall be used to finance the following:
+
+a) Finance containment and clean-up operations of the government in water pollution cases;
+
+b) Guarantee restoration of ecosystems and rehabilitation of affected areas;
+
+c) Support research, enforcement and monitoring activities;
+
+d) Provide technical assistance to the implementing agencies;
+
+e) Grant rewards and incentives;
+
+f) Support information and educational campaign; and
+
+g) Such other disbursements made solely for the prevention, control or abatement of water pollution and management and administration of the management areas in the amounts authorized by the Department.
+
+The fines imposed and damages awarded to the government by the Pollution Adjudication Board (PAB), proceeds of permits issued by the Department under this Act, donations, endowments and grants in the form of contributions to the national government under this Act shall form part of the fund. Such donations, endowments and grants shall be exempt from donor’s taxes and all other taxes, charges or fees imposed by the government and shall be deductible from the gross income of the donor for income tax purposes.
+
+Disbursements from the fund shall be subject to the usual accounting and budgeting rules and regulations.
+
+SEC. 10. The Area Water Quality Management Fund . — The area water quality management fund is hereby established for the maintenance and upkeep of the water bodies in a water quality management area. The fund shall be utilized for the grant of rewards and incentives for entities whose effluent discharges are better than the water quality criteria of the target classification of the receiving body of water, loans for acquisitions and repairs of facilities to reduce quantity and improve quality of wastewater discharges, and regular maintenance of the water bodies within the management area.
+
+An amount of not more than ten percent (10%) of the total amount accruing to the funds annually shall be allocated for the operational expenses of the governing board, its secretariat and multi-sectoral water quality surveillance and monitoring network.
+
+This fund shall initially be sourced from the fines incurred by the establishments located in rural areas before the effectivity of this Act. Thereafter, the fees collected under the wastewater charge system established under Section 13 of this Act, donations, endowments and grants for water quality management of the area shall accrue to the fund.
+
+Disbursements from the fund shall be subject to the usual accounting and budgeting rules and regulations. This fund shall be managed by the Board of the corresponding management area.
+
+SEC. 11. Water Quality Variance for Geothermal and Oil and Gas Exploration . — The Department may provide variance in water quality criteria and standards for geothermal exploration that encounters reinjection constraints: Provided , That there shall be provision for adequate protection of beneficial use of water bodies downstream of the geothermal project: Provided, further , That this provision may be applied to oil and gas exploration as determined by the Department.
+
+SEC. 12. Categories of Industry Sector. — Within twenty-four (24) months from the effectivity of this Act, and every two (2) years thereafter, the Department shall, through due public consultation, revise and publish a list of categories of industry sector for which effluent standards will be provided for each significant wastewater parameter per industry sector.
+
+The Department shall provide additional classification based on other parameters specifically associated to discharge of a particular industry which shall be included in the listing of categories prescribed in the preceding paragraph.
+
+Article 2
+
+Water Pollution Permits and Charges
+
+SEC. 13. Wastewater Charge System. — The Department shall implement a wastewater charge system in all management areas including the Laguna Lake Region and Regional Industrial Centers through the collection of wastewater charges/fees. The system shall be established on the basis of payment to the government for discharging wastewater into the water bodies. Wastewater charges shall be established taking into consideration the following:
+
+(a) To provide strong economic inducement for polluters to modify their production or management processes or to invest in pollution control technology in order to reduce the amount of water pollutants generated;
+
+(b) To cover the cost of administering water quality management or improvement programs;
+
+(c) Reflect damages caused by water pollution on the surrounding environment, including the cost of rehabilitation;
+
+(d) Type of pollutant;
+
+(e) Classification of the receiving water body; and
+
+(f) Other special attributes of the water body.
+
+The fee shall be based on the net waste load depending on the wastewater charge formula which shall be established with due public consultation within six (6) months from the effectivity of this Act: Provided , That net waste load shall refer to the difference of the initial waste load of the abstracted water and the waste load of the final effluent discharge of an industry: Provided, further , That no net waste load shall be lower than the initial waste load: Provided , finally, That wastewater charge system shall not apply to wastewater from geothermal exploration.
+
+Industries whose water effluent are within standards promulgated pursuant to this Act, shall only be charged with minimal reasonable amount which shall be determined by the Department after due public consultation, giving account to volumetric rate of discharge and the effluent concentration.
+
+SEC. 14. Discharge Permits . — The Department shall require owners or operators of facilities that discharge regulated effluents pursuant to this Act to secure a permit to discharge. The discharge permit shall be the legal authorization granted by the Department to discharge wastewater: Provided , That the discharge permit shall specify among others, the quantity and quality of effluent that said facilities are allowed to discharge into a particular water body, compliance schedule and monitoring requirement.
+
+As part of the permitting procedure, the Department shall encourage the adoption of waste minimization and waste treatment technologies when such technologies are deemed cost effective. The Department shall also develop procedures to relate the current water quality guideline or the projected water quality guideline of the receiving water body/ies with total pollution loadings from various sources, so that effluent quotas can be properly allocated in the discharge permits. For industries without any discharge permit, they may be given a period of twelve (12) months after the effectivity of the implementing rules and regulations promulgated pursuant to this Act, to secure a discharge permit.
+
+Effluent trading may be allowed per management area.
+
+Article 3
+
+Financial Liability Mechanism
+
+SEC. 15. Financial Liability for Environmental Rehabilitation. — The Department shall require program and project proponents to put up environmental guarantee fund (EGF) as part of the environmental management plan attached to the environmental compliance certificate pursuant to Presidential Decree No. 1586 and its implementing rules and regulations. The EGF shall finance the maintenance of the health of the ecosystems and specially the conservation of watersheds and aquifers affected by the development, and the needs of emergency response, clean-up or rehabilitation of areas that may be damaged during the program’s or project’s actual implementation. Liability for damages shall continue even after the termination of a program or project and, until the lapse of a given period indicated in the environmental compliance certificate, as determined by the Department.
+
+The EGF may be in the form of a trust fund, environmental insurance, surety bonds, letters of credit, self-insurance and any other instruments which may be identified by the Department. The choice of the guarantee instrument or combinations thereof shall depend, among others, on the assessment of the risks involved and financial test mechanisms devised by the Department. Proponents required to put up guarantee instruments shall furnish the Department with evidence of availment of such instruments from accredited financial instrument providers.
+
+SEC. 16. Clean-Up Operations. — Notwithstanding the provisions of Sections 15 and 26 hereof, any person who causes pollution in or pollutes water bodies in excess of the applicable and prevailing standards shall be responsible to contain, remove and clean-up any pollution incident at his own expense to the extent that the same water bodies have been rendered unfit for utilization and beneficial use: Provided , That in the event emergency clean-up operations are necessary and the polluter fails to immediately undertake the same, the Department, in coordination with other government agencies concerned, shall conduct containment, removal and clean-up operations. Expenses incurred in said operations shall be reimbursed by the persons found to have caused such pollution upon proper administrative determination in accordance with this Act. Reimbursements of the cost incurred shall be made to the Water Quality Management Fund or to such other funds where said disbursements were sourced.
+
+SEC. 17. Programmatic Environmental Impact Assessment . — The Department shall implement programmatic compliance with the environmental impact assessment system, as in the following types of development:
+
+a) development consisting of a series of similar projects, or a project subdivided into several phases and/or stages whether situated in a contiguous area or geographically dispersed; and
+
+b) development consisting of several components or a cluster of projects co-located in an area such as an industrial estate, an export processing zone, or a development zone identified in a local land use plan.
+
+Programmatic compliance with the environmental impact assessment system shall be guided by carrying capacity assessments determined from ecological profiles. Ecological profiles shall identify environmental constraints and opportunities in programmatic areas. Programmatic assessment shall also take into account cumulative impacts and risks.
+
+Consistent with the provisions of the Local Government Code, the Department may enter into agreement with LGUs to incorporate programmatic environmental impact assessment into the preparation, updating or revision of local land use plans and area development plans.
+
+SEC. 18. Environmental Impact Assessment System Programmatic Compliance with Water Quality Standards. — The Department may allow each regional industrial center established pursuant to Republic Act No. 7916 (PEZA law) to allocate effluent quotas to pollution sources within its jurisdiction that qualify under an environmental impact assessment system programmatic compliance program in accordance with Presidential Decree No. 1586 and its implementing rules and regulations.
+
+CHAPTER 3
+
+INSTITUTIONAL MECHANISM
+
+SEC. 19. Lead Agency . — The Department shall be the primary government agency responsible for the implementation and enforcement of this Act unless otherwise provided herein. As such, it shall have the following functions, powers and responsibilities:
+
+a) Prepare a National Water Quality Status Report within twenty-four (24) months from the effectivity of this Act: Provided , That the Department shall thereafter review or revise and publish annually, or as the need arises, said report;
+
+b) Prepare an Integrated Water Quality Management Framework within twelve (12) months following the completion of the status report;
+
+c) Prepare a ten (10)-year Water Quality Management Area Action Plan within twelve (12) months following the completion of the framework for each designated water management area. Such action plan shall be reviewed by the water quality management area governing board every five (5) years or as the need arises;
+
+d) Prepare and publish a national groundwater vulnerability map incorporating the prevailing standards and methodologies, within twenty-four (24) months after the effectivity of this Act;
+
+e) Enforce, review and revise within twelve (12) months from the effectivity of this Act water quality guidelines after due consultation with the concerned stakeholder sectors: Provided , That the Department, in coordination with appropriate agencies shall review said guidelines every five (5) years or as need arises;
+
+f) Review and set effluent standards every five (5) years from the effectivity of this Act or sooner as determined by the Department: Provided , That in the interim, the provisions of DENR Administrative Order No. 35 of the Department shall apply: Provided, further , That when new and more stringent standards are set in accordance with this section, the Department may establish a grace period with a maximum of five (5) years: Provided , finally, That such grace period shall be limited to the moratorium on the issuance of cease and desist and/or closure order against the industry’s operations except in the event such operation poses serious and grave threat to the environment, or the industry fails to institute retooling, upgrading or establishing an environmental management system (EMS).
+
+g) Establish within twelve (12) months from the effectivity of this Act, internationally-accepted procedures for sampling and analysis of pollutants and in coordination with other concerned agencies, formulate testing procedures and establish an accreditation system for laboratories;
+
+h) Within eighteen (18) months from the effectivity of this Act and every two (2) years thereafter, categorize point and non-point sources of water pollution;
+
+i) Classify groundwater sources within twelve (12) months from the effectivity of this Act;
+
+j) Classify or reclassify all water bodies according to their beneficial usages: Provided , That in the interim, the provisions of DENR Administrative Order No. 34 shall apply: Provided, further , That such classification or reclassification shall take into consideration the operation of businesses or facilities that are existing prior to the effectivity of the Act: Provided, further more, That the Department may authorize the use of the water for other purposes that are more restrictive in classification: Provided , finally, That discharges resulting from such use shall meet the effluent standards set by the Department;
+
+k) Exercise jurisdiction over all aspects of water pollution, determine its location, magnitude, extent, severity, causes, effects and other pertinent information on pollution, and to take measures, using available methods and technologies to prevent and abate such pollution;
+
+l) Exercise supervision and control over all aspects of water quality management;
+
+m) Establish a cooperative effort in partnership with the government, LGUs, academic institutions, civil society and the private sector to attain the objectives of this Act;
+
+n) Disseminate information and conduct educational awareness and value formation programs and campaigns on the effects of water pollution on health and environment, water quality management, and resource conservation and recovery to encourage an environmentally action-oriented society in coordination with government agencies identified in Section 22 (f);
+
+o) Promote and encourage private and business sectors especially manufacturing and processing plants the use of water quality management systems equipment, including but not limited to, industrial wastewater treatment collection and treatment facilities;
+
+p) Report, on an annual basis, to Congress the quality status of water bodies and other pertinent information and recommend possible legislation, policies and programs for environmental management and water pollution control;
+
+q) Issue rules and regulations for the effective implementation of the provisions of this Act;
+
+r) Issue orders against any person or entity and impose fines, penalties and other administrative sanctions to compel compliance with water quality regulations and the provisions of this Act;
+
+s) Undertake appropriate protocol with other concerned agencies for immediate coordinated responses to water related emergency incidents;
+
+t) Issue permits, clearances and similar instruments pursuant to this Act; and
+
+u) Exercise such powers and perform such other functions as may be necessary to carry out the objectives of this Act.
+
+The Department shall gradually devolve to the LGUs, and to the governing boards the authority to administer some aspects of water quality management and regulation, including, but not to be limited to, permit issuance, monitoring and imposition of administrative penalties, when, upon the Department’s determination, the LGU or the governing board has demonstrated readiness and technical capability to undertake such functions.
+
+SEC. 20. Role of Local Government Units (LGUs). — LGUs shall share the responsibility in the management and improvement of water quality within their territorial jurisdictions.
+
+Each LGU shall within six (6) months after the establishment of the water quality management area action plan prepare a compliance scheme in accordance thereof, subject to review and approval of the governing board.
+
+Each LGU shall, through its Environment and Natural Resources Office (ENRO) established in Republic Act No. 7160, have the following powers and functions:
+
+a) Monitoring of water quality;
+
+b) Emergency response;
+
+c) Compliance with the framework of the Water Quality Management Action Plan;
+
+d) To take active participation in all efforts concerning water quality protection and rehabilitation; and
+
+e) To coordinate with other government agencies and civil society and the concerned sectors in the implementation of measures to prevent and control water pollution: Provided, however , That in provinces/cities/municipalities where there are no environment and natural resources officers, the local executive concerned may with the approval of the Secretary of the DENR designate any of his official and/or chief of office preferably the provincial, city or municipal agriculturist, or any of his employee: Provided , finally, That in case an employee is designated as such, he must have sufficient experience in environmental and natural resources management, conservation and utilization.
+
+SEC. 21. Business and Industry Role in Environmental Management . — The Department and the LGUs, in coordination with the appropriate government agencies, and in consultation with the business and industrial sectors including chambers of commerce, shall formulate appropriate incentives for the adoption of procedures that will preserve and protect our water bodies through the introduction of innovative equipment and processes that reduce if not totally eliminate the discharge of pollutants into our water bodies.
+
+SEC. 22 . Linkage Mechanism . — The Department and its concerned attached agencies including LLDA shall coordinate and enter into agreement with other government agencies, industrial sector and other concerned sectors in the furtherance of the objectives of this Act. The following agencies shall perform the functions specified hereunder:
+
+a) Philippine Coast Guard in coordination with the DA and the Department shall enforce for the enforcement of water quality standards in marine waters, set pursuant to this Act, specifically from offshore sources;
+
+b) DPWH through its attached agencies, such as the MWSS, LWUA, and including other urban water utilities for the provision of sewerage and sanitation facilities and the efficient and safe collection, treatment and disposal of sewage within their area of jurisdiction;
+
+c) DA, shall coordinate with the Department, in the formulation of guidelines for the re-use of wastewater for irrigation and other agricultural uses and for the prevention, control and abatement of pollution from agricultural and aquaculture activities: Provided , That discharges coming from non-point sources be categorized and further defined pursuant to this Act: Provided, further , That the Bureau of Fisheries and Aquatic Resources (BFAR) of the DA shall be primarily responsible for the prevention and control of water pollution for the development management and conservation of the fisheries and aquatic resources;
+
+d) DOH shall be primarily responsible for the promulgation, revision and enforcement of drinking water quality standards;
+
+e) DOST, in coordination with the Department and other concerned agencies shall prepare a program for the evaluation, verification, development and public dissemination of pollution prevention and cleaner production technologies; and
+
+f) Department of Education (DepEd), Commission on Higher Education (CHED), Department of the Interior and Local Government (DILG) and Philippine Information Agency (PIA) shall assist and coordinate with the Department in the preparation and implementation of a comprehensive and continuing public education and information program pursuant to the objectives of this Act.
+
+SEC. 23. Requirement of Record-keeping, Authority for Entry to Premises and Access to Documents . — The Department or its duly authorized representative shall, after proper consultation and notice, require any person who owns or operates any pollution source or who is subject to any requirement of this Act to submit reports and other written information as may be required by the Department.
+
+Any record, report or information obtained under this section shall be made available to the public, except upon a satisfactory showing to the Department by the entity concerned that the record, report, or information or parts thereof, if made public, would divulge secret methods or processes entitled to protection as intellectual property. Such record, report or information shall likewise be incorporated in the Department’s industrial rating system. Pursuant to this Act, the Department, through its authorized representatives, shall have the right to: (a) enter any premises or to have access to documents and relevant materials as referred to in the herein preceding paragraph; (b) inspect any pollution or waste source, control device, monitoring equipment or method required; and (c) test any discharge.
+
+In cases of fish kill incidence, the Bureau of Fisheries of the DA, in the course of its investigation, may enter the premises of an establishment reported to have caused said incident.
+
+SEC. 24. POLLUTION RESEARCH AND DEVELOPMENT PROGRAMS. — The Department, in coordination with the Department of Science and Technology (DOST), and other concerned agencies and academic research institutions, shall establish a national research and development program for the prevention and control of water pollution. As part of said program, the DOST shall conduct and promote the coordination and acceleration of research, investigation, experiments, training, surveys and studies relating to the causes, extent, prevention and control of pollution among concerned government agencies and research institutions.
+
+CHAPTER 4
+
+INCENTIVES AND REWARDS
+
+SEC. 25. REWARDS. — Rewards, monetary or otherwise, shall be provided to individuals, private organization and entities, including civil society, that have undertaken outstanding and innovative projects, technologies, processes and techniques or activities in water quality management. Said rewards shall be sourced from the Water Quality Management Fund herein created.
+
+SEC. 26 . Incentives Scheme. — An incentive scheme is hereby provided for the purpose of encouraging LGUs, water districts (WDs), enterprises, or private entities, and individuals, to develop or undertake an effective water quality management, or actively participate in any program geared towards the promotion thereof as provided in this Act.
+
+A. Non-fiscal Incentive
+
+1. Inclusion in the Investments Priority Plan (IPP). — Subject to the rules and regulations of the Board of Investments (BOI), industrial wastewater treatment and/or adoption of water pollution control technology, cleaner production and waste minimization technology shall be classified as preferred areas of investment under its annual priority plan and shall enjoy the applicable fiscal and non-fiscal incentives as may be provided for under the Omnibus Investment Code, as amended.
+
+Fiscal Incentives
+
+1. Tax and Duty Exemption on Imported Capital Equipment — Within ten (10) years upon the effectivity of this Act, LGUs, WDs, enterprises or private entities shall enjoy tax-and-duty-free importation of machinery, equipment and spare parts used for industrial wastewater treatment/collection and treatment facilities: Provided , That the importation of such machinery, equipment and spare parts shall comply with the following conditions:
+
+a) They are not manufactured domestically in sufficient quantity, of comparable quality and at reasonable prices;
+
+b) They are reasonably needed and will be used actually, directly and exclusively for the above mentioned activities; and
+
+c) Written endorsement by the Department that the importation of such machinery, equipment and spare parts would be beneficial to environmental protection and management: Provided, further , That the sale, transfer or disposition of such machinery, equipment and spare parts without prior approval of the BOI within five (5) years from the date of acquisition shall be prohibited, otherwise the LGU concerned, WD, enterprise or private entity and the concerned vendee, transferee or assignee shall be solidarily liable to pay twice the amount of tax and duty exemption given it.
+
+2. Tax Credit on Domestic Capital Equipment — Within ten (10) years from the effectivity of this Act, a tax credit equivalent to one hundred percent (100%) of the value of the national internal revenue taxes and customs duties that would have been waived on the machinery, equipment, and spare parts, had these items been imported shall be given to enterprises or private entities and individuals, subject to the same conditions and prohibition cited in the preceding paragraph.
+
+3. Tax and Duty Exemption of Donations, Legacies and Gifts — All legacies, gifts and donations to LGUs, WDs, enterprises, or private entities and individuals, for the support and maintenance of the program for effective water quality management shall be exempt from donor’s tax and shall be deductible from the gross income of the donor for income tax purposes.
+
+Imported articles donated to, or for the account of any LGUs, WDs, local water utilities, enterprises, or private entities and individuals to be exclusively used for water quality management programs shall be exempted from the payment of customs duties and applicable internal revenue taxes.
+
+Industrial wastewater treatment and/or installation of water pollution control devices shall be classified as pioneer and preferred areas of investment under the BOI’s annual priority plan and shall enjoy the applicable fiscal and non-fiscal incentives as may be provided for under the Omnibus Investment Code, as amended.
+
+B. Financial Assistance Program
+
+Government financial institutions such as the Development Bank of the Philippines, Land Bank of the Philippines, Government Service Insurance System, and such other government institutions providing financial services shall, in accordance with and to the extent allowed by the enabling provisions of their respective charters or applicable laws, accord high priority to extend financial services to LGUs, WDs, enterprises, or private entities engaged in sewage collection and treatment facilities.
+
+C. Extension of Grants to LGUs
+
+Cities and municipalities which shall establish or operate sewerage facilities may be entitled to receive grants for the purpose of developing technical capabilities.
+
+CHAPTER 5
+
+CIVIL LIABILITY/PENAL PROVISIONS
+
+SEC. 27. Prohibited Acts . — The following acts are hereby prohibited:
+
+a) Discharging, depositing or causing to be deposited material of any kind directly or indirectly into the water bodies or along the margins of any surface water, where, the same shall be liable to be washed into such surface water, either by tide action or by storm, floods or otherwise, which could cause water pollution or impede natural flow in the water body;
+
+b) Discharging, injecting or allowing to seep into the soil or sub-soil any substance in any form that would pollute groundwater. In the case of geothermal projects, and subject to the approval of the Department, regulated discharge for short-term activities (e.g. well testing, flushing, commissioning, venting) and deep re-injection of geothermal liquids may be allowed: Provided , That safety measures are adopted to prevent the contamination of the groundwater;
+
+c) Operating facilities that discharge regulated water pollutants without the valid required permits or after the permit was revoked for any violation of any condition therein;
+
+d) Disposal of potentially infectious medical waste into sea water by vessels unless the health or safety of individuals on board the vessel is threatened by a great and imminent peril;
+
+e) Unauthorized transport or dumping into sea waters of sewage sludge or solid waste as defined under Republic Act No. 9003;
+
+f) Transport, dumping or discharge of prohibited chemicals, substances or pollutants listed under Republic Act No. 6969;
+
+g) Operate facilities that discharge or allow to seep, willfully or through gross negligence, prohibited chemicals, substances or pollutants listed under Republic Act No. 6969, into water bodies or wherein the same shall be liable to be washed into such surface, ground, coastal, and marine water;
+
+h) Undertaking activities or development and expansion of projects, or operating wastewater/sewerage facilities in violation of Presidential Decree No. 1586 and its implementing rules and regulations;
+
+i) Discharging regulated water pollutants without the valid required discharge permit pursuant to this Act or after the permit was revoked or any violation of any condition therein;
+
+j) Noncompliance of the LGU with the Water Quality Framework and Management Area Action Plan. In such a case, sanctions shall be imposed on the local government officials concerned;
+
+k) Refusal to allow entry, inspection and monitoring by the Department in accordance with this Act;
+
+l) Refusal to allow access by the Department to relevant reports and records in accordance with this Act;
+
+m) Refusal or failure to submit reports whenever required by the Department in accordance with this Act;
+
+n) Refusal or failure to designate pollution control officers whenever required by the Department in accordance with this Act; and
+
+o) Directly using booster pumps in the distribution system or tampering with the water supply in such a way as to alter or impair the water quality.
+
+SEC. 28. Fines, Damages and Penalties . — Unless otherwise provided herein, any person who commits any of the prohibited acts provided in the immediately preceding section or violates any of the provision of this Act or its implementing rules and regulations, shall be fined by the Secretary, upon the recommendation of the PAB in the amount of not less than Ten thousand pesos (₱10,000.00) nor more than Two hundred thousand pesos (₱200,000.00) for every day of violation. The fines herein prescribed shall be increased by ten percent (10%) every two (2) years to compensate for inflation and to maintain the deterrent function of such fines: Provided , That the Secretary, upon recommendation of the PAB may order the closure, suspension of development or construction, or cessation of operations or, where appropriate disconnection of water supply, until such time that proper environmental safeguards are put in place and/or compliance with this Act or its rules and regulations are undertaken. This paragraph shall be without prejudice to the issuance of an ex parte order for such closure, suspension of development or construction, or cessation of operations during the pendency of the case.
+
+Failure to undertake clean-up operations, willfully, or through gross negligence, shall be punished by imprisonment of not less than two (2) years and not more than four (4) years and a fine not less than Fifty thousand pesos (₱50,000.00) and not more than One hundred thousand pesos (₱100,000.00) per day for each day of violation. Such failure or refusal which results in serious injury or loss of life and/or irreversible water contamination of surface, ground, coastal and marine water shall be punished with imprisonment of not less than six (6) years and one (1) day and not more than twelve (12) years, and a fine of Five hundred thousand pesos (₱500,000.00) per day for each day during which the omission and/or contamination continues.
+
+In case of gross violation of this Act, the PAB shall issue a resolution recommending that the proper government agencies file criminal charges against the violators. Gross violation shall mean any of the following:
+
+a) deliberate discharge of toxic pollutants identified pursuant to Republic Act No. 6969 in toxic amounts;
+
+b) five (5) or more violations within a period of two (2) years;
+
+c) blatant disregard of the orders of the PAB, such as the non-payment of fines, breaking of seals or operating despite the existence of an order for closure discontinuance or cessation of operation.
+
+In which case, offenders shall be punished with a fine of not less than Five hundred thousand pesos (₱500,000.00) but not more than Three million pesos (₱3,000,000.00) per day for each day of violation or imprisonment of not less than six (6) years but not more than ten (10) years, or both, at the discretion of the court. If the offender is a juridical person, the president, manager and the pollution control officer or the official in charge of the operation shall suffer the penalty herein provided.
+
+For violations falling under Section 4 of Presidential Decree No. 979 or any regulations prescribed in pursuance thereof, such person shall be liable for a fine of not less than Fifty thousand pesos (₱50,000.00) nor more than One million pesos (₱1,000,000.00) or by imprisonment of not less than one (1) year nor more than six (6) years or both, for each offense, without prejudice to the civil liability of the offender in accordance with existing laws. If the offender is a juridical entity, then its officers, directors, agents or any person primarily responsible shall be held liable: Provided , That any vessel from which oil or other harmful substances are discharged in violation of Section 4 of Presidential Decree No. 979 shall be liable for penalty of fine specified in the immediately preceding paragraph and clearance of such vessel from the port of the Philippines may be withheld until the fine is paid and such penalty shall constitute a lien on such vessel which may be recovered in proceedings by libel in rem in the proper court which the vessel may be. The owner or operator of a vessel or facility which discharged the oil or other harmful substances will be liable to pay for any clean-up costs.
+
+Provided , finally, That water pollution cases involving acts or omissions committed within the Laguna Lake Region shall be dealt with in accordance with the procedure under Republic Act No. 4850 as amended.
+
+SEC. 29. Administrative Sanctions Against Non-compliance with the Water Quality Management Area Action Plan. — Local government officials concerned shall be subject to administrative sanctions in case of failure to comply with their action plan in accordance with the relevant provisions of Republic Act No. 7160.
+
+CHAPTER 6
+
+ACTIONS
+
+SEC. 30. Administrative Action . — Without prejudice to the right of any affected person to file an administrative action, the Department shall, on its own instance or upon verified complaint by any person, institute administrative proceedings in the proper forum against any person who violates:
+
+a) Standards or limitations provided by this Act; or
+
+b) By any such order, rule or regulation issued by the Department with respect to such standard or limitation.
+
+CHAPTER 7
+
+FINAL PROVISIONS
+
+SEC. 31. Appropriations . — An amount of One hundred million pesos (P100,000,000.00) shall be appropriated from the savings of the National Government to the Department for the initial implementation of this Act. Thereafter, the amount necessary to effectively carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+SEC. 32. Implementing Rules and Regulations . — The Department, in coordination with the Committees on Environment and Ecology of the Senate and the House of Representatives, respectively and other concerned agencies, shall promulgate the implementing rules and regulations for this Act, within one (1) year after the enactment of this Act: Provided , That rules and regulations issued by other government agencies and instrumentalities for the prevention and/or abatement of water pollution not inconsistent with this Act shall supplement the rules and regulations issued by the Department, pursuant to the provisions of this Act.
+
+The draft of the implementing rules and regulations shall be published and be the subject of public consultations with affected sectors.
+
+There shall be a mandatory review of the implementing rules and regulations and standards set pursuant to the provisions of this Act.
+
+SEC. 33 . Joint Congressional Oversight Committee . — There is hereby created a Joint Congressional Oversight Committee to monitor the implementation of this Act and to review the implementing rules and regulations promulgated by the Department. The Committee shall be composed of five (5) Senators and five (5) Representatives to be appointed by the Senate President and the Speaker of the House of Representatives, respectively. The Oversight Committee shall be co-chaired by the Chairpersons of the Committee on Environment of the Senate and the Committee on Ecology of the House of Representatives.
+
+SEC. 34. Repealing Clause . — Presidential Decree No. 984 is hereby repealed. Republic Act Nos. 6969 and 4850 as amended, Presidential Decree Nos. 1586, 1152, 979 and 856 are hereby amended and modified accordingly. All other laws, orders, issuance, rules and regulations inconsistent herewith are hereby repealed or modified accordingly.
+
+SEC. 35. Separability Clause. — If any provision of this Act or the application of such provision to any person or circumstances is declared unconstitutional, the remainder of the Act or the application of such provision to other person or circumstances shall not be affected by such declaration.
+
+SEC. 36. Effectivity . — This Act shall take effect fifteen (15) days from the date of its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
+
+This Act which is a consolidation of House Bill No. 2115 and Senate Bill No. 5398 was finally passed by the House of Representatives and the Senate on February 4, 2004.

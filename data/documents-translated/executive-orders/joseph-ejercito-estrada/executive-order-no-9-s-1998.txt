@@ -1,0 +1,47 @@
+MALACAÑANG MANILA
+
+EXECUTIVE ORDER NO. 9
+
+DIRECTING ALL CONCERNED GOVERNMENT INSTITUTIONS TO ENSURE THE MILLENNIUM COMPLIANCE OF THEIR COMPUTER-BASED SYSTEMS
+
+WHEREAS, the Year 2000 poses serious problems inherent in computer software and hardware systems, especially on the aspect of century change of date from Year 1999 to Year 2000;
+
+WHEREAS, government departments, attached agencies, government- owned and controlled corporations, constitutional commissions, state universities and colleges, LGUs and other government instrumentalities have invested considerable amounts in the computerization of their offices and said investments are now at serious risk due to the MILLENNIUM BUG PROBLEM;
+
+WHEREAS, to ensure the smooth transition of all information processing systems to the Year 2000, computerized government offices had been directed to develop/formulate Year 2000 conversion plans by concerned government agencies (Bangko Sentral ng Pilipinas, Securities and Exchange Commission and the Insurance Commission of the Department of Finance and the National Computer Center);
+
+WHEREAS, despite the previous issuances of concerned government agencies, no specific nor definite plan had been developed/formulated, much less implemented, to address the magnitude and urgency of the Year 2000 problem in affected government offices;
+
+WHEREAS, there remains only one and a half years to institute corrective actions on all information processing systems for the government as well as, the private sector, to be millennium compliant;
+
+WHEREAS, the Government of the Philippines, through the TECHNOLOGY and LIVELIHOOD RESOURCE CENTER (TLRC), an attached agency under the Office of the President, recognized the urgency and significance of the Year 2000 problem such that a TLRC Data Center was established at the Cyber City, Clark Special Economic Zone (CSEZ), specifically to provide a comprehensive and total Y2K service and solution for the millennium bug problem;
+
+WHEREAS, the TLRC Data Center, with its state of the art facilities and strategic alliance with Year 2000 partners, has the proven capability as a Y2K service and solution provider for year 2000 impacted agencies and organizations;
+
+WHEREAS, despite the urgency to address the Millennium Bug Problem, current fiscal constraints demand prudence in government expenditures;
+
+WHEREAS, the TLRC Data Center, being a government-owned facility, can be tapped as a Y2K solution provider primarily for government offices and can viably reduce costs on the part of recipient agencies.
+
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA , President of the Republic of the Philippines, by virtue of the powers vested in me, do hereby order and direct:
+
+SECTION 1. All concerned government institutions to avail of the Y2K services and solution from the Technology and Livelihood Resources Center (TLRC) in order to render their computer-based systems millennium compliant by the Year 2000 and at the most economical cost to the government.
+
+SECTION 2. The Technology and Livelihood Resource Center (TLRC) to formulate and provide cost-effective Y2K total solutions packages specifically for government institutions.
+
+SECTION 3. The availing government institutions to allocate funds from their existing resources and/or savings for their respective Y2K total solutions package.
+
+SECTION 4. All concerned government institutions to report to the Office of the President their status of compliance to the provisions of this Executive Order on or before 31 October 1998.
+
+SECTION 5. This Executive Order shall take effect immediately.
+
+Done in the City of Manila, this 4 day of August in the year of Our Lord, Nineteen Hundred and Ninety-Eight.
+
+(Sgd.) JOSEPH EJERCITO ESTRADA President of the Philippines
+
+By the President:
+
+(Sgd.) RONALDO B. ZAMORA Executive Secretary
+
+Source: Presidential Management Staff
+
+Office of the President of the Philippines. (1998). [Executive Order Nos. : 1-338]. Manila : Presidential Management Staff.

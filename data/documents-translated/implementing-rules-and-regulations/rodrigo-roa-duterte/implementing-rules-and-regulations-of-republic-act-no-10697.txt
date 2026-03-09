@@ -1,0 +1,1544 @@
+IMPLEMENTING RULES AND REGULATIONS
+of
+
+“An Act Preventing the Proliferation of Weapons of Mass Destruction by Managing the
+Trade in Strategic Goods, the Provision of Related Services, and for Other Purposes”
+
+INTRODUCTION
+
+Pursuant to Sections 7 and 30 of Republic Act No. 10697, otherwise known as the
+Strategic Trade Management Act of 2015 (STMA), the following Implementing Rules and
+Regulations (IRR) are hereby prescribed by the National Security Council-Strategic
+Trade Management Committee (NSC-STMCom).
+
+RULE |
+GENERAL PROVISIONS
+
+Section 1. Declaration of Policy. — \t is declared a policy of the State to be free from
+Weapons of Mass Destruction (WMD) in its territory, consistent with the national interest,
+to fulfill its international commitments and obligations, including United Nations Security
+Council Resolution (UNSCR) 1540, to take and enforce effective measures to establish
+domestic controls to prevent the proliferation of WMDs and their means of delivery; and
+to maintain international peace and security and promote economic growth by facilitating
+trade and investment through the responsible management of strategic goods and the
+provision of related services.
+
+Toward this end and consistent with its foreign policy and national security interests, and
+in support of efforts to counter terrorism, control crime, and safeguard public safety, the
+State shall manage the trade of strategic goods and provision of related services in
+accordance with international standards and best practices.
+
+Section 2. Scope and Coverage. — The rules shall apply to:
+
+a. Any natural or juridical person operating within the Philippines who engages or
+intends to engage in the export of strategic goods from the Philippines including
+designated special economic and freeport zones; the import of strategic goods
+into the Philippines; or the transit or transshipment of strategic goods through the
+territory of the Philippines and the provision of related services; and all Filipino
+persons providing these services wherever located; and,
+
+b. The re-export of strategic goods that have been exported from the Philippines to a
+foreign country, and the reassignment of strategic goods exported from the
+Philippines to a new end-user in the country of import subject to the provisions of
+the STMA.
+
+Section 3. The National Strategic Goods List. — There shall be a National Strategic
+Goods List (NSGL) to describe with specificity the strategic goods subject to
+authorization. The NSGL shall be in conformity with international commitments and non-
+proliferation obligations pursuant to bilateral and multilateral treaties, international
+conventions and international non-proliferation regimes.
+
+Upon its establishment, the NSGL shall be published in the Official Gazette and in at
+least two (2) newspapers of general circulation. The NSGL shall be reviewed and
+updated on a regular basis by the NSC-STMCom.
+
+Updates and revisions to the NSGL shall also be published in the Official Gazette and in
+at least two (2) newspapers of general circulation.
+
+The NSGL shall comprise three (3) annexes: Military Goods (Annex 1), Dual Use Goods
+(Annex 2), and Nationally Controlled Goods (Annex 3).
+
+Section 4. Definition of Terms. — As used in the STMA:
+
+a.
+
+Authorization refers to an individual, global, or general authorization issued by the
+STMO for the export, import, transit, transshipment, re-export, reassignment of
+strategic goods and provision of related services;
+
+1. Individual authorization shall mean the authorization granted to one specific
+person to engage in the export, import, transit, transshipment, re-export,
+reassignment of strategic goods, and the provision of related services with
+respect to one end-user, consignee and covering one or more strategic goods.
+
+2. Global authorization shall mean the authorization granted to one specific
+person or entity to engage in the export, import, transit, transshipment,
+re-export, re-assignment of strategic goods, and the provision of related
+services regarding strategic goods which may be valid for the export, transit,
+transshipment, re-export, re-assignment and provision of related services to
+one or more specified end users and/or in one or more countries, and for
+imports from one or more foreign exporters and/or from one or more countries.
+
+3. General authorization shall mean the authorization to import, export, transit,
+transship, re-export, reassign specified strategic goods or to provide certain
+related services to destination countries under the conditions specified in the
+general authorization.
+
+. Brokering refers to activities such as: (a) negotiating or arranging transactions
+
+that involve the shipment of strategic goods from a foreign country to any other
+foreign country; (b) selling or buying with the intent to move strategic goods that
+are in a broker's possession or control from a foreign country to any other foreign
+country;
+
+Carrier refers to any vessel, train, vehicle, aircraft, or other modes of
+transportation;
+
+. Document refers to any record on paper or in electronic form, kept on any
+
+magnetic, optical, chemical or other medium; photograph map, plan, graph,
+picture, drawing, or device;
+
+. Dual-use goods refer to items, software, and technology which can be used for
+
+both civil and military end-use or in connection with the development, production,
+handling, operation, maintenance, storage, detection, identification, or
+dissemination of WMD or their means of delivery. These goods are listed in
+Annex 2 of the NSGL;
+
+End-use controls refer to a specific procedure authorizing the establishment of
+controls over any item, software, and technoiogy not listed in the NSGL (unlisted
+goods) based on concerns related to WMD, their means of delivery, or military
+end-use in destinations subject to embargoes decided by the United Nation (UN)
+Security Council, or to prohibited/restricted end-users;
+
+. End-user refers to a person who is outside or inside the Philippines and is the
+
+recipient and ultimate user of the strategic goods and related services that are
+exported from or imported to the Philippines;
+
+h. End-user certificate refers to a document which contains confirmation of the
+following: (a) that the end-user has undertaken io import the goods with specific
+value and amount; (b) the purpose of the use of the goods; and, (c) that the end-
+user shall not re-export or re-assign the goods without prior written authorization.
+The certificate likewise refers to a document that verifies the end-use and end-
+user of military and dual-use items as defined by the STMA;
+
+i. Export refers to an actual shipment of strategic goods out of the Philippines, or to
+a transmission of software and technology by electronic media, including by fax,
+telephone, electronic mail or any other electronic means to an ultimate destination
+outside the Philippines. The term includes making available in electronic form
+such software and technology to persons outside the Philippines. It also applies to
+non-electronic reassignments of software or technology through face-to-face
+communication, personal demonstration, or handing over material or information
+to a foreign person wherever located;
+
+j. Financing refers to making available or providing funds to facilitate the
+movement/flow of (a) strategic goods and/or related service if this contributes to
+WMD or their means of delivery; or, (b) military goods if destined for a destination
+subject to a UN Security Council embargo or to prohibited/ restricted end- users;
+
+k. Governmental End-Use Assurance refers to a formal security guarantee issued
+by the STMO, in consultation with the NSC — STMCom, upon request of the
+country of origin of the strategic items, certifying the end use of those goods in the
+Philippines based on the International Import Certificate, End-Use Certificate, and
+Delivery Verification Certificate submitted by the applicant;
+
+|. Import refers to the shipment of strategic goods or transmission of software or
+technology by any means from a foreign country into the Philippines;
+
+m. Internal Compliance Program refers to an effective, appropriate, and
+proportionate means and procedures, including the development, implementation,
+and adherence to standardized operational compliance policies, procedures,
+standards or conduct, and safeguards, developed by exporters to ensure
+compliance with the provisions and with the terms and conditions of
+authorizations set out in the STMA;
+
+n. Juridical person refers to either: (a) a partnership, a cooperative, and a private
+corporation, to which the law grants a juridical personality, separate and distinct
+from that of each shareholder, partner, or member; or, (b) a government-owned
+and -controlled corporation created by law that engages or intends to engage in
+the trade of strategic goods or provision of related services;
+
+0. Knowledge refers to awareness or cognizance that a circumstance exists or is
+substantially certain to occur. It is also an awareness or cognizance of facts and
+circumstances that would lead a reasonable person to believe its existence or
+factual occurrence. It also refers to the willful disregard of facts known to a person
+or willful avoidance of facts;
+
+p. Military goods refer to items, software, and technology that are specifically
+designed, developed, configured, adapted, or modified for military end-use. These
+goods are listed as Annex 1 of the NSGL;
+
+q. Military end-use refers to: (a) incorporation into “military goods” listed in the
+NSGL; (b) use of production, test, or analytical equipment and its components for
+the development, production, or maintenance of “military goods” listed in the
+NSGL; and, (c) use of any unfinished products in a plant for the production of
+“military goods” listed in the NSGL;
+
+aa.
+
+bb.
+
+cc.
+
+dd.
+
+Nationally controlled goods refer to strategic goods placed under unilateral
+controls for reasons of national security, foreign policy, anti-terrorism, crime
+control, and public safety;
+
+Orders for corrective action refers to an order to the authorization holder to make
+necessary corrective measures to ensure compliance with the STMA;
+
+Premises refer to any land, place or building, whether open or enclosed, and
+whether built on or not, including any free trade zones within the territory of the
+Philippines;
+
+. Reassignment refers to the reallocation of strategic goods previously exported
+
+from the Philippines from one person to another within a single foreign country by
+any means, including the electronic transmission of software and technology;
+
+Re-export refers to the export from a foreign country to another of strategic goods
+previously exported from the Philippines;
+
+. Registration refers to the act of entering the exporters, importers and brokers of
+
+strategic goods and providers of services into the registry established by the
+STMO;
+
+Related services refer to brokering, financing, and transporting in relation to the
+movement of strategic goods between two (2) foreign countries and providing
+technical assistance;
+
+Software refers to a collection of one or more programs or microprograms fixed in
+any tangible medium of expression;
+
+Strategic goods refer to products that, for security reasons or due to international
+agreements, are considered to be of such military importance that their export is
+either prohibited altogether or subject to specific conditions. Such goods are
+generally suitable to be used for military purposes or for the production of WMD,
+and for the purposes of the STMA, are goods listed in the NSGL under Annex 1
+(Military Goods); Annex 2 (Dual Use Goods); Annex 3 (Nationally Controlled
+Goods); and any unlisted goods as provided for in Section 11 of the STMA;
+
+Technical assistance refers to any support provided in relation to strategic goods
+such as repair, development, manufacture, assembly, testing, maintenance, or
+any other technical service, and may take such forms as instruction, training,
+transmission of working knowledge or skills, or consulting services. Technical
+assistance can be provided by inter alia verbal, written, or electronic means;
+
+Technology refers to specific information and processes necessary for the
+development, production, or use of strategic goods, and may take such forms as
+blueprints, plans, diagrams, models, formulae, tables, engineering designs and
+specifications, manuals, and instructions writer. or recorded on other media or
+devices such as disk, tape, read-only memories;
+
+Transporting refers to the act of moving the strategic goods, agreeing to move
+them, any supporting services being provided to the transport provider, and any
+act calculated to promote their supply or delivery if this contributes to WMD, or
+means of their delivery, or military goods if destined to an embargoed destination
+subject to a UN Security Council embargo, or to prohibited/ restricted end-users;
+
+Transit refers to shipment of strategic goods within the Philippines and those
+entering and passing through the territory of the Philippines with an ultimate
+
+destination outside the Philippines in such a manner that the strategic goods
+remain at all times in or on the same carrier;
+
+ee. Transshipment refers to a mode of shipping a good on a carrier which enters the
+territory of the Philippines, wherein the good is unloaded from the carrier and
+reloaded in the same or on another carrier that is bound for an ultimate
+destination outside the Philippines;
+
+ff. Unlisted goods refer to goods that are not in the NSGL and may be subject to an
+authorization requirement under Section 11 of the STMA;
+
+gg. Warning letter refers to a letter issued by the STMO that an apparent violation of
+the STMA has occurred; and,
+
+hh. WMD refers to any destructive device or weapon that is designed or intended to
+cause death or serious bodily injury through the release, dissemination, or impact
+of toxic or poisonous chemicals, or their precursors, any weapon involving a
+biological agent, toxin, or vector, or any weapon that is designed to release
+radiation or radioactivity at a level dangerous to human life. This includes, but not
+limited to: (a) nuclear and radiological explosive devices and their major sub-
+systems; (b) chemicals covered by Schedule |, II and III of the Chemical Weapons
+Convention; and (c) biological agents and biologically derived substances
+specifically developed, configured, adapted, or modified for the purpose of
+increasing their capability to produce casualties in humans or livestock, degrade
+equipment, or damage crops.
+
+RULE II
+IMPLEMENTING STRUCTURE AND MECHANISM
+
+Section 1. Central Authority. - A permanent committee under the National Security
+Council (NSC), to be known as the National Security Council - Strategic Trade
+Management Committee (NSC-STMCom), is hereby constituted and deemed the central
+authority on any and all matters relating to strategic trade management with the following
+composition: 1) the Executive Secretary, as Chairperson; 2) the Secretary of Trade and
+Industry, as Vice Chairperson; and 3) the Secretary of Foreign Affairs; 4) the Secretary
+of Justice; 5) the Secretary of National Defense; 6) the Secretary of the Interior and
+Local Government; 7) the Secretary of Finance; 8) the Secretary of Transportation; 9)
+the National Security Advisor; 10) the Secretary of Environment and Natural Resources;
+11) the Secretary of Science and Technology; 12) the Secretary of Agriculture; and, 13)
+the Secretary of Health, as Members. The Anti-Terrorism Council — Program
+Management Center (ATC-PMC) shall serve as the Secretariat of the NSC-STMCom.
+
+However, by virtue of Section 15 of Republic Act No. 10844, “An Act Creating the
+Department of Information and Communications Technology, Defining its Powers and
+Functions and Appropriating Funds therefor, and jor other Purposes,” the
+communications part of the Department of Transportation and Communications (DOTC)
+has been transferred to the Department of Information and Communications Technology
+(DICT), and thus, renaming the former as the Department of Transportation (DOTr).
+Accordingly, the Secretary of Information and Communications Technology is hereby
+added as a member of the NSC-STMCom.
+
+The members may designate a representative to the NSC-STMCom, who shall have a
+rank not lower than an Undersecretary. Five (5) members of the NSC-STMCom shall
+constitute a quorum for the transaction of business.
+
+The NSC-STMCom shall be complemented by the following support agencies and
+bureaus:
+
+Armed Forces of the Philippines (DND-AFP)
+Bureau of Animal Industry (DA-BAI)
+Bureau of Customs (DOF-BOC)
+Bureau of Quarantine (DOH-BOQ)
+Environmental Management Bureau (DENR-EMB)
+Food and Drug Administration (DOH-FDA)
+National Bureau of Investigation (DOJ-NBI)
+National Intelligence Coordinating Agency (OP-NICA)
+Office for Transport Security (DOTr-OTS)
+Office of the Special Envoy on Transnational Crime (OP-OSETC)
+Philippine Center on Transnational Crime (OP-PCTC)
+Philippine Coast Guard (DOTr-PCG)
+
+. Presidential Legislative Liaison Office (OP-PLLO)
+Philippine National Police (DILG-PNP)
+Philippine Nuclear Research Institute (DOST-PNRI)
+Such other offices, agencies or units as necessary.
+
+POSsRZc>ATTsFa>9a0T7m
+
+Section 2. Powers and Functions of the NSC-STMCom. — As the central authority
+focused on the country’s international commitment towards the promotion of a secure
+and safe environment for the trade in strategic goods consistent with the objectives of
+the STMA, the NSC-STMCom shall have the following powers and functions:
+
+a. Formulate and adopt strategies, policies, and guidelines for the effective
+implementation of the STMA;
+
+b. Establish, publish, review, and update the NSGL;
+
+c. Develop a standard end-users’ certification;
+
+d. Monitor and evaluate the implementation of plans, programs, and activities of the
+STMO;
+
+e. Review and decide appeals on decisions made by the STMO;
+
+Establish exemptions from an authorization requirement as provided for in
+
+Section 15 of STMA, and taking into consideration national security, foreign
+
+policy, and law enforcement concerns. These exemptions shall be published,
+
+reviewed, and updated;
+
+g. Create working groups on specific issues by enlisting the assistance and support
+of government agencies, the academe, as well as private institutions, or persons
+to carry out its functions;
+
+h. Establish and maintain coordination, cooperation, assistance, and information
+sharing with government agencies in the implementation of the STMA;
+
+i. Establish and maintain coordination, cooperation, assistance, and information
+sharing with other nations in the regulation of strategic goods; and,
+
+j. Perform such other tasks and functions it may deem necessary to effectively carry out the provisions of the Act.
+
+a
+
+Section 3. Executive and Technical Arm. — The Strategic Trade Management Office
+(STMO) is hereby created as a bureau under the administrative supervision of the
+Department of Trade and Industry (DTI) to serve as the executive and technical agency
+of the national government for the establishment of the management systems for the
+trade in strategic goods pursuant to STMA. The STMO shall be headed by a Director
+who shall be responsible for the pursuit of the office mandate, the discharge of its duties
+and functions and the exercise of supervision and control over the STMO and its
+constituent units. The STMO, through the Secretary of Trade and Industry, shall submit
+periodic updates to NSC-STMCom.
+
+The organizational structure and staffing pattern of the STMO shall be formulated by the
+DTI Secretary in coordination with the NSC-STMCom, subject to the approval by the
+Department of Budget and Management (DBM) in accordance with Executive Order No.
+292 (Administrative Code of 1987).
+
+Section 4. Powers and Functions of the STMO. — The STMO shall have the following
+powers and functions:
+
+a. Implement strategies, policies, and guidelines formulated by the NSC-STMCom
+and develop, evaluate, and monitor corresponding programs and activities;
+
+b. Develop and maintain the register and carry out registration activities to include
+registration, registration with conditions, denial of registration, modification,
+suspension, revocation, or annulment of registration;
+
+c. Establish and maintain a comprehensive database information system on
+strategic goods and on persons engaged in the trade of strategic goods and the
+provision of related services;
+
+d. Issue or deny issuance of authorizations for the trade of strategic goods and the
+provision of related services;
+
+e. Modify, condition, limit, suspend, revoke, or annul authorizations that have been
+issued as circumstances warrant in consultation with NSC-STMCom;
+
+f. Issue, modify, suspend, and revoke governmental! end-use assurances in
+consultation with the NSC-STMCom;
+
+g. Ensure and operate end-use/ end-user controls and establish compliance checks
+and exercise authority to enter premises for such purposes;
+
+h. Issue warning letters and orders for corrective action;
+
+i. Conduct investigation into violations committed under STMA;
+
+j. Undertake the enforcement of the provisions of the STMA in cooperation with
+other agencies;
+
+k. Coordinate, cooperate, provide assistance, and share information with ATC and
+other Departments/ Agencies;
+
+|. Conduct capacity building and training of personnel for the effective
+implementation of the STMA;
+
+m. Coordinate with the industry and the public regarding their obligations under the
+STMA;
+
+n. Encourage and facilitate international cooperation, including the exchange of
+assistance such as information on matters regarding the implementation and
+application of the STMA or its IRR; and,
+
+o. Perform such other tasks and functions necessary to effectively carry out the
+provisions of the STMA.
+
+RULE Ill
+REGISTRATION
+
+Section 1. Registration. — Any person who engages or intends to engage in the
+export, import, and re-export of strategic goods or provides related services shall
+register directly with the STMO prior to applying for an authorization or a governmental
+end-use assurance.
+
+Section 2. Requirements for Registration. — In order for a natural or juridical person to
+be registered, a standard format application shall be submitted to the STMO. The
+application shall be signed by the applicant or an authorized representative. Information
+which does not fit in the data fields of an application form may be provided on one or
+several additional sheets of paper signed by the same person/s who sign/s the
+application. The application form for registration shall be. in the manner and form as
+prescribed by the STMO. Further, the STMO shall require the applicant to provide other
+documentary requirements relevant to their application for registration. Applications and
+any materials attached to an application must be submitted in English.
+
+Section 3. Review of Applications and Grounds for Refusal. - The STMO shall be
+responsible for maintaining the Register and carrying out registration activities.
+
+The STMO may refuse to enter a person into the Register in connection with the
+application for registration based on the following reasons:
+
+a. If the applicant falsely represents or conceals any material fact or submits
+misleading information, including the submission of forged documents;
+
+b. In the past five years, the applicant has been held responsible for violating an
+international embargo or sanction binding on the Philippines;
+
+c. National security related civil or criminal proceedings have commenced against
+the applicant; and,
+
+d. Any other national security concerns that may exist.
+
+The STMO may refer the application for an advisory opinion to any government agency,
+as needed.
+
+The STMO shall review an application and make a corresponding decision within thirty
+(30) calendar days from the date the application was accepted for processing.
+
+If the STMO requires additional information to make a decision, or if the submitted
+information requires additional verification, the STMO shail have the right to extend the
+term of review of the application for an additional thirty (30) calendar days. In case of
+extension, the STMO shall notify the applicant within two (2) calendar days from the time
+the decision to extend the term of review is made. If the applicant fails to complete the
+requested information and requirements, the STMO can send a follow-up letter
+specifying the deadline for the submission of the required information or document
+before closing down the application.
+
+Upon approving the application, the STMO shall enter the juridical or natural person into
+the Register and issue the registration certificate to the applicant.
+
+After the STMO renders a decision to register the applicant, a paper or electronic
+Register entry certificate shall be issued by the STMO bearing the registration number,
+date of registration, and other relevant information. The applicant shall provide the
+registration number when submitting an authorization application or in any other
+communication with the STMO.
+
+Section 4. Amendment of Register Entry. — In order to amend a Register entry, a written
+application shall be submitted to the STMO. The STMO may request additional
+documents, if necessary.
+
+The STMO may refuse to amend a register entry on the grounds specified in Section 3 (b), Rule Ill.
+
+Section 5. Revocation of the Register Entry. A registration entry may be revoked by the STMO on the following grounds:
+
+a. At the request of the person entered into the Register;
+
+b. If the person entered in the register has not applied for any authorization from the
+STMO within two (2) years from its issuance;
+
+c. If new facts emerge which would have resulted in a cenial to enter the person into
+the Register at the time of application;
+
+d. If the person entered into the Register is heid responsible for violating any legal
+provisions related to national security;
+
+e. If the person entered into the Register is held responsible for violating an
+international sanction or embargo binding on the Philippines;
+
+f. The natural person who is entered into the Register dies;
+
+g. The juridical person who is entered into the Register is dissolved;
+
+h. By order of a competent court; and,
+
+i. Any other national security, foreign policy, counter-terrorism, crime control, or
+public safety related concerns.
+
+RULE IV
+AUTHORIZATIONS AND GOVERNMENTAL END-USE ASSURANCES
+
+Section 1. Application for Authorization and Governmental End-Use Assurances. —Any
+person, prior to engaging in the export, import, transit, transshipment, re-export, and
+reassignment of strategic goods, or the provision of technical assistance or related
+services shall apply for authorization from the STMO.
+
+In order to obtain an individual authorization, global authorization, or a governmental
+end-use assurance, a person shall submit a standard format application, including
+documents meeting the relevant requirements, to STMO on paper or electronically. The
+application shall be signed personally by the applicant, be it a natural person or a duly
+authorized legal representative of a juridical person. Applications in electronic form shall
+be accompanied by a digital signature, in accordance with applicable laws and rules and
+regulations. Information which does not fit in the data fields of an application form may
+be provided on one or several additional sheets of paper signed by the same person/s
+who sign/s the application. Applications and any materials attached to an application
+must be submitted in English.
+
+The application forms and the format of the authorizations and end-use documents shall
+be provided by the STMO.
+
+An applicant, or its duly authorized legal representative, must include in the application a
+written statement that the applicant will immediately inform the STMO if he or she
+becomes aware of information concerning the use of the goods, in whole or in part, for
+the development, production, use, maintenance, stockpiling, detection, identification, or
+dissemination of weapons of mass destruction, means of their delivery, for military
+purposes in an embargoed destination, or for purposes of endangering national security.
+
+A person intending to obtain a governmental end-use assurance shall confirm in the
+corresponding application that he will comply with the terms and conditions specified in
+the document. In addition to the governmental end-use assurances contained in the
+document, the STMO may add other terms and conditions in order to meet the
+requirements of the exporting country and protect the national security interests of
+Philippines.
+
+The STMO may require among others establishment of an Internal Compliance Program
+as a precondition for the issuance of a global authorization, on a case-by-case basis.
+
+After the export, transit, transshipment, re-export, or reassignment of goods, the STMO
+may require the authorization holder to submit a delivery verification certificate issued by
+the appropriate authorities of the destination country or any form of document to show
+proof of delivery to the end-user.
+
+Section 2. Additional Application Requirements. — The following documents shall be
+appended to the application for authorization:
+
+a. Export or re-export authorization application:
+
+1) Technical specifications, allowing the STMO to classify the commodity against
+the control list;
+
+2) Documents certifying the origin and acquisition of the strategic goods, when
+appropriate;
+
+3) Copies of relevant commercial documents, in particular, any sales contract,
+order confirmation, invoice, or dispatch note, if available;
+4) Original End-Use Statement or End-User Certificate, for individual
+authorizations;
+5) Copy/ies of relevant license/s or business permits, if applicable;
+6) Copies of additional authorizations such as transit and/or import
+authorizations, if applicable;
+(a) Technology Control Plan, in case of technology transfer;
+(b) Network Security Plan, in case of intangible software transmission; and,
+7) Proof of payment of the processing fee.
+
+. Reassignment authorization application:
+
+1) Copy/ies of relevant commercial documents, in particular, any sales contract,
+order confirmation, invoice, or dispatch note, if available;
+
+2) Original End-Use Statement or End-User Certificate;
+
+3) Copy/ies of relevant license/s or business permits, if applicable; and,
+
+4) Proof of payment of the processing fee.
+
+. Transit, transshipment, or transportation authorization application:
+
+1) Technical specifications, allowing the STMO to classify the commodity against
+
+the control list;
+
+Copy/ies of relevant commercial documents, in particular, any sales contract,
+
+order confirmation, invoice, or dispatch note, if available;
+
+3) Copy/ies of the End-Use documents;
+
+4) Copy/ies of authorizations from exporting country and importing country, if
+applicable;
+
+5) Copy/ies of transit authorization from the next country in the shipment route, if
+applicable;
+
+6) Copy/ies of authorization to transport dangerous or hazardous items, if
+applicable; and,
+
+7) Proof of payment of the processing fee.
+
+Se LYS
+
+. Brokering authorization application:
+
+Note: Availability of supplementary documentation is dependent on the role of the
+broker in the transaction, and in which phase the broker is involved to arrange the
+transaction (e.g. negotiating contract, arranging the shipment after the conclusion
+of the contract).
+
+1) Technical specifications, allowing the STMO to classify the commodity against
+the control list, if available;
+
+2) Copy/ies of relevant commercial documents, in particular, any sales contract,
+order confirmation, invoice, or dispatch note, if available;
+
+3) Copy/ies of the End-Use documents, if available;
+
+4) Copy/ies of authorizations from exporting, importing, and transiting country, if
+applicable;
+
+5) Copy/ies of transit authorization form the next country in the shipment route, if
+applicable; and,
+
+6) Proof of payment of the processing fee.
+
+. Import authorization application:
+
+1) Technical specifications, allowing the STMO to classify the commodity against
+the control list;
+2) Copy/ies of relevant commercial documents, in particular, any sales contract,
+order confirmation, invoice, or dispatch note, if available;
+
+3) Copy/ies of export control license if the goods come from a country with export
+control laws;
+
+4) Copy/ies of relevant license/s or business permits, if applicable; and,
+
+5) Proof of payment of the processing fee.
+
+f. Technical assistance authorization application:
+
+1) Copy/ies of relevant commercial documents, in particular, any contract, order
+confirmation, or invoice, if available;
+
+2) Original End-Use Certificate;
+
+3) Copy/ies of relevant license/s or business permits, if applicable; and,
+
+4) Proof of payment of the processing fee.
+
+g. Financing authorization application:
+
+1) Copy/ies of relevant commercial documenis, in particular, any contract;
+2) Copy/ies of the End Use documents, if availadie; and,
+3) Proof of payment of the processing fee.
+
+The STMO may request additional documents or information from the applicant or the applicant may submit other documents which may be relevant to review and assess the application for authorization.
+
+Documents submitted by electronic means shall be in the Portable Document File (PDF)
+format or other formats where information cannot be tampered. The STMO shall
+subsequently require the submission of the original document on paper in order to verify
+the authenticity of the documents.
+
+At the request of the STMO, a certified copy or an origina! document shall be submitted
+on paper. Only an original end-use control document issued by the relevant authority of
+a foreign state and a confirmation by the end-user shall be submitted.
+
+Section 3. Application Procedures. — After receipt of an application, the STMO shall
+conduct an initial screening for completeness of the documentary requirements within
+seven (7) calendar days following the date of submission of the properly completed
+application form with all supplementary documentation/s.
+
+If the application is incomplete or inaccurate, the STMO shall, within seven (7) calendar
+days, inform the applicant and request for the submission of complete or correct
+information and/or documents.
+
+If the applicant fails to act in accordance with the request cf the STMO within fourteen
+(14) calendar days, the application shall be returned without action.
+
+If the applicant submits an application for the transaction, which is not subject to an
+authorization requirement, the STMO shall advise accordingly.
+
+Section 4. Review of Applications. — After receipt of the complete document/s or
+information, the STMO shall review the application for authorization taking into
+consideration the sensitivity of the goods, end-use, end-user, and the reliability of each
+party to the transaction. In reviewing the application, the STMO may consider any
+pertinent information available to it.
+
+Upon acceptance of the application, the STMO must determine, whether there is any
+additional end-use and end-user information that is needed to review and assess the
+application. The STMO will then promptly request such information from the applicant,
+other government agencies, or subject matter experts. The time that elapses between
+the date the information is requested by the STMO and the date such information is
+
+received will not be counted in the processing timeframe. If the STMO needs additional
+information for making a decision, or if the submitted iformation needs additional
+verification, the applicant will be informed immediately.
+
+The STMO will provide a recommendation concerning the application within thirty (30)
+calendar days for individual authorizations and ninety (90) calendar days for global
+authorizations.
+
+Prior to denial of an application, the applicant shall be initially informed by the STMO
+through a letter specifying the reasons for the denial thereof. The period to decide shall
+be suspended until the requested information is received by the STMO.
+
+Should the application be denied, the denial must state the reasons thereof in
+accordance with the provisions of the STMA, its IRR, and/ or the NSC-STMCom policies
+and guidelines.
+
+The STMO may seek transaction-specific policy guidance from the NSC-STMCom.
+
+Section 5. /ssuance of Authorizations and Governmental End-Use Assurances. — An
+authorization shall be issued when an application is approved by the STMO. An
+authorization permits only a specific transaction, or series of transactions, as described
+in the application and any supporting documents. An application may be approved in
+whole or in part, or limited by conditions, or other restrictions appearing in the
+authorization itself.
+
+After an authorization or governmental end-use assurance application is approved, a
+paper and/or electronic authorization shall be issued by the STMO bearing the
+authorization number, validation date, expiration date, and other relevant information.
+When necessary, attachments to an authorization will also be validated with the STMO
+seal and the date of validation.
+
+A holder of the authorization/end-use control document must use the designated
+authorization/end-use control document number when preparing customs and relevant
+documents, and in communicating with the STMO.
+
+An authorization or governmental end-use assurance shall be sent to the applicant by
+registered mail or electronically.
+
+The STMO shall provide a copy to the BOC and other relevant government agencies
+upon issuance of authorizations and governmental end-use assurances.
+
+Section 6. Grounds for Refusal to Issue an Authorization or Governmental End-Use
+Assurance. — The STMO shall refuse to issue an authorization or governmental end-use
+assurance on the following grounds:
+
+a. The applicant does not fulfill the conditions or requirements established by the
+STMA or its IRR;
+
+b. The strategic goods exported, transited, transshipped, re-exported, reassigned,
+or related services provided are in breach of UN Security Council sanctions or
+embargoes;
+
+c. The proposed export, import, transit, transshipment, re-export, reassignment, or
+provision of related services will impede the fulfillment of other Philippine
+international commitments or obligations;
+
+d. There is credible information that the strategic goods or related services will
+endanger national or international security, regional stability, or contribute to
+terrorist acts; and,
+
+e. There is credible information or risk that the proposed transaction will result in the
+diversion of strategic goods to an unauthorized end-user or end-use.
+
+In deciding whether or not to grant the authorization, the STMO shall take into account
+all relevant considerations including the following: :
+
+a. The national security or foreign policy interests of the Philippines, in particular,
+
+respect for international obligations and commitments under the UN Security
+
+Council sanctions, or relevant international treaties and non-proliferation
+
+agreements;
+
+Preservation of regional peace, security, and stability;
+
+Internal tensions or armed conflict in the destination country;
+
+The human rights and international humanitarian law;
+
+Terrorism or organized criminal activities;
+
+Security interests of a country which is an ally to the Philippines;
+
+Risk of illegal end-use or by a restricted party;
+
+Risk of diversion to an unauthorized end-user or end-use;
+
+Technical capacity of the recipient country;
+
+The applicant submitted false documents, made misleading representations, or
+
+concealed material facts in the application or appended materials;
+
+In the past five years, the applicant has violated the STMA or its IRR, or any other
+
+legal provisions related to state security;
+
+In the past five years, the applicant has violated an international embargo or
+
+sanction binding on the Philippines;
+
+m. Criminal or civil proceedings related to national security have commenced against
+the applicant;
+
+n. The goods for which the authorization is requested are under a_ police
+investigation procedure or court proceedings; and,
+
+o. Other relevant national security or foreign policy reasons.
+
+“rampage
+
+x
+
+Section 7. Validity of Authorizations and Governmental End-Use Assurances. — An
+individual authorization for export, import, re-export, or re-assignment of strategic goods
+or for the provision of related services shall be valid for a maximum period of two (2)
+years.
+
+An individual authorization for transit or transshipment. shall be valid for a maximum
+period of six (6) months.
+
+A global authorization shall be valid for a maximum period of five (5) years.
+
+The governmental end-use assurances issued by the STMO must be presented to the
+appropriate authorities within six (6) months.
+
+Section 8. Extension of an Authorization. — In order to extend the term of an
+authorization, the authorization holder shall provide the original copy of the authorization
+and a written application to the STMO not later than fifteen (15) calendar days before the
+expiration of the authorization.
+
+The STMO shall make a decision on the application taking into consideration the
+circumstances as specified in Section 6, Rule IV.
+
+If the extension is approved, the STMO shall issue a new authorization with validity
+terms established in Section 7, Rule IV and send the same to the applicant either by
+registered mail or electronically. :
+
+Control over end-use of the imported strategic goods is exercised by the relevant
+agencies on the basis of end-use control documents. If enforcement agencies discover
+any violations relating to strategic goods, they shall notify the STMO immediately.
+
+Section 9. Annulment, Revocation, Limitation, or Modification of an Authorization. — An
+authorization may be annulled by the STMO if it was obtained under false pretenses,
+
+misleading representation, or concealment of materia! facts. In such a case, the
+authorization is null and void and any activity thereunder is deemed illegal.
+
+An authorization may be revoked by the STMO, if:
+
+a. The authorization holder requests its termination;
+
+b. New facts emerge which, had they been known or existed at the time of the
+application, would have resulted in its denial;
+
+c. A substantive change to the information in the authorization occurs;
+
+d. The authorization holder fails to comply with the obligations, terms, or conditions
+of the authorization;
+
+e. The authorization holder is held responsible for violating the STMA, its IRR, or
+
+other national security-related legal provisions;
+
+The authorization holder fails to comply with request of the STMO for additional
+
+information about the activities conducted under the authorization;
+
+The authorization is destroyed or lost;
+
+The natural person who is the authorization holder dies;
+
+The juridical person who is the authorization holder is dissolved;
+
+International sanctions are introduced or amended on a specific country; and,
+
+The STMO becomes aware of violations of other national security-related
+
+concerns.
+
+ral
+
+aT Te
+
+An authorization may be limited by the STMO pursuant to paragraph b of this section.
+
+The STMO shall immediately notify the BOC and other relevant government agencies of
+the annulment, revocation, or limitation of an authorization.
+
+An authorization may be modified by the STMO, in case of a change in the destination or
+end-user or for other reasons.
+
+The STMO shall notify the authorization holder in writing, within five (5) calendar days, of
+the annulment, revocation, limitation, or modification of an authorization.
+
+Section 10. Revocation of Governmental End-Use Assurance. — A governmental end-
+use assurance issued by the STMO can be revoked only to the extent that the strategic
+goods covered by the end-use documents have not been imported into the Philippines.
+
+The STMO shall be responsible for informing the competent authority of the
+exporting country in case of:
+
+a. Revocation of the governmental end-use assurance; or,
+
+b. Substantial change to the end-use occurs regarding strategic goods imported
+into the Philippines on the basis of a governmenta! end-use assurance issued
+by the STMO.
+
+Section 11. Suspension of an Authorization. — Authorizations may be suspended under the following circumstances:
+
+a. When the authorization holder has received a warning letter identifying failure to
+comply with a request for corrective action. Failure to comply with the warning
+letter may result in authorization being suspended until the authorization holder
+can show compliance to the satisfaction of the STMO.
+
+b. In case of information that the export, import, transit, transshipment, re-export,
+reassignment, or provision of related services is or will be conducted in
+contravention of existing authorization conditions, the STMO may order to stop a
+shipment of strategic goods or provision of related services at any stage in the
+process in order to verify its legality. If a shipment is already en route, the STMO
+is authorized to order the return or unloading of such shipment at any port of call.
+
+c. When the strategic goods are destined to countries experiencing a sharp
+deterioration in security or stability.
+
+In the event that the authorization is suspended, the authorization holder will be notified
+in writing, within five (5) calendar days of the fact of suspension and the initial period of
+suspension.
+
+Where at the end of the initial period, the grounds for suspension still stand, the period of
+suspension may be extended. The authorization holder shall be notified of such an
+extension in writing.
+
+The suspension shall be lifted where the STMO considers it appropriate to do so.
+
+In case of suspension of an authorization, the STMO shaii immediately notify the BOC
+and other relevant agencies of such suspension.
+
+Section 12. Notice to Limit, Suspend, Revoke or Annul Authorization or Governmental
+End-Use Assurance. — The STMO shall notify the authorization or governmental end-use
+assurance holder in writing, within five (5) calendar days, of the decision to limit,
+suspend, revoke, or annul such document and the reasons thereof.
+
+Section 13. Return of an Authorization or Governmental End-Use Assurance. — The
+authorization holder shall return the authorization to the STMO within five (5) calendar
+days under the following circumstances:
+
+a. After official notification of the revocation, annulment, or suspension of the
+authorization, unless the authorization is destroyed or lost. In case the
+authorization is lost or destroyed, the authorization holder shall execute an
+affidavit of loss in lieu of the authorization. However, if the authorization is
+subsequently found, it shall be returned immediately.
+
+b. The authorization holder decides not to use the authorization.
+
+If the authorization expires without being used.
+
+If a governmental end-use assurance is not submitted to the appropriate foreign
+
+authorities within 6 months from issuance or when the goods are not imported
+
+into the Philippines.
+
+a9
+
+Section 14. Use of the Authorization. — |n order to export strategic goods, a person shall
+submit a copy of the authorization to the BOC and to any other relevant authorities. The
+customs declaration shall include a reference to the use of the relevant authorization,
+including a general authorization, as appropriate.
+
+In order to import strategic goods, a person shall submit a copy of the authorization to
+the BOC in the course of customs formalities upon entry inte the national territory and to
+any other relevant authorities for the release of goods from Customs supervision. The
+customs declaration shall include a reference to the use of the relevant authorization, as
+appropriate.
+
+In order to transit or transship strategic goods, a person shall submit a copy of the
+authorization to the BOC before the shipment exits the port of entry. The customs
+declaration shall include a reference to the use of the relevant authorization, as
+appropriate.
+
+A provider of related services shall submit a copy of the authorization to the relevant
+supervisory agency, upon the request of that agency.
+
+A person that transfers technology electronically shall submit an authorization to the
+relevant supervisory agency, upon the request of that agency.
+
+Section 15. Description Requirement. — The relevant commercial documents relating to
+export, re-export, import, transit, or transshipment of strategic goods shall clearly
+indicate that those goods are strategic and subject to controls; relevant commercial
+documents include, in particular, any sales contract, order confirmation, invoice, or
+dispatch note.
+
+Section 16. Authorization Form. — The authorization forms shall be annexed in the
+Registration and Authorization Manual to be issued by the STMO.
+
+Section 17. Exemption from Authorization Requirement. — An authorization is not
+required under the following circumstances:
+
+a. Import of strategic goods by the government for the use of the Philippine military
+or police forces;
+
+b. Temporary export of strategic goods by the government for the use of the
+Philippine military or police forces assigned outside of Philippine jurisdiction;
+
+c. Export, transit, and transshipment of strategic goods which are provided in
+connection with a military, peacekeeping, or government humanitarian mission;
+
+d. Export, import, transit, and transshipment of strategic goods by the government in
+connection with law enforcement activities; and,
+
+e. Any other circumstances as provided by the NSC-STMCom pursuant to Section
+2(f), Rule Il.
+
+Section 18. Control Over End-Use of Strategic Goods in the Philippines Under
+Governmental End-Use Assurances. — The STMO, in consultation with the NSC-
+STMCom as may be necessary, is authorized to certify the end-use of strategic goods in
+the Philippines based on the International Import Certificate, End-Use Certificate and
+Delivery Verification Certificate.
+
+The STMO, within the limits of its competence on ihe basis of end-use licensing
+documents, shall exercise the function of certification cf the end-use of strategic goods.
+In addition to the standard end-use certification assurances contained in the end- use
+documents, the STMO, in consultation with the NSC- STMCom, may add other terms
+and conditions in order to meet the requirements of the exporting country of the goods
+and the security interest of the Philippines.
+
+The STMO shall be responsible for informing the competent authority of the end-use
+country and all countries through which the goods will be transshipped or transited. In
+fulfilling this responsibility, the STMO may request additional documents such as
+declarations of the shippers or refer to other relevant information obtained in the course
+of performing their functions under this Act.
+
+The application, issuance, modification, suspension, or revocation procedures of end-
+use certification documentation shall be in accordance with the IRR and in consultation
+with the NSC-STMCom as may be necessary.
+
+Section 19. Liability Limitation. — If the STMO denies, suspends, limits, revokes or
+annuls an authorization or registration, it shall not be liable for damages that may be
+caused by such acts.
+
+Section 20. Confidentiality of Business Proprietary Information. — Any information
+obtained under the STMA and its IRR that are marked as confidential business
+information shall not be disclosed to any other party except in the furtherance of justice
+and law enforcement, national security, or foreign policy interest, as determined by the
+STMO, unless the party providing such information has consented to its disclosure.
+
+RULE V
+RESPONSIBILITIES OF PERSONS IN STRATEGIC TRADE TRANSACTIONS
+
+Section 1. Securing an Authorization. — It shall be the responsibility of any person,
+subject to the STMA, who intends to engage in the export, import, transit, and
+transshipment of strategic goods, under the NSGL, or the provision of related services to
+obtain an authorization from the STMO as provided in the STMA and as prescribed
+herein. In addition, any person who intends to engage in the re-export or reassignment
+of strategic goods is required to obtain an authorization when this has been made a
+condition for the authorization of the exports from the Philippines.
+
+Section 2. Placing Strategic Goods on Carriers. — No person shall be allowed to place
+any strategic goods in or on any carrier located within the territorial and economic
+jurisdiction of the Philippines without the consent of the owner or operator of the carrier.
+Such owners and operators shall be prohibited from allowing the placement of strategic
+goods in or on any carrier unless the person presents an authorization issued by the
+STMO to export, import, transit or transship strategic goods.
+
+Section 3. Recordkeeping Requirements for the Authorization Holder. — All persons
+engaged in the business involving strategic goods are required to keep at their principal
+place of business in a secure manner, the details of which will be provided in a guideline
+to be formulated by the STMO, for a period of ten (10) years from the date of completion
+of the transaction, all records, in both hard copy and electronic copy, of the transaction
+and/or books of accounts, business and computer systems and all commercial and
+technical data related to the transaction including:
+
+a. The description of the strategic goods or related services;
+
+b. The quantity and the value of the strategic goods or value of the related service
+provided;
+
+c. The name and address of the parties in the transaction or activity;
+
+d. The end-use and end-user of the strategic goods or related services; and,
+
+e. The date of the transaction or activity.
+
+Section 4. Submission of Documents. — The customs broker or any authorized agent of
+any entity engaged in the trade of strategic goods shall submit to the BOC, a copy of the
+authorization and a copy of the extract of the manifest of the carrier, in or on which the
+strategic goods were loaded prior to its departure or arrival.
+
+Section 5. End-Use Controls. — End-use controls may be imposed on strategic goods
+that are not listed in the NSGL and related services, and shall apply as follows:
+
+a. An_ individual authorization shall be required for the export, re-export,
+reassignment, transit and transshipment of unlisted goods, or the provision of
+technical assistance or related services if the exporter or principal party has been
+informed by the Strategic Trade Management Office (STMO) that the goods or
+services are or may be used, partly or entirely, in corinection with the acquisition,
+development, production, handling, operation, maintenance, storage, detection,
+identification or dissemination of WMDs or their means of delivery;
+
+b. An individual authorization shall also be required for the export, re-export,
+reassignment, transit and transshipment of unlisted goods, or the provision of
+technical assistance or related services if the purchasing country or country of
+destination or juridical or natural person receiving the goods is subject to an
+international sanction or an arms embargo imposed by a binding resolution of the
+UN Security Council and if the exporter or principal party has been informed by
+the STMO in close consultation with the NSC-STMCom that the goods in question
+are or may be used, partly or entirely, for a military end-use;
+
+c. An individual authorization shall also be required for the export of unlisted goods,
+or the provision of related services if the exporter has been informed by the
+STMO that the goods in question are or may be used, partly or entirely, as parts
+or components of military items listed in the NSGL, that have been exported from
+the territory of the Philippines without authorization or in violation of an
+authorization; and
+
+d. If an exporter or principal party has knowledge or has grounds for suspecting that
+unlisted goods proposed for export are or may be used, partly or entirely, for any
+of the uses referred to in paragraphs (a) and (b), or for suspecting that the
+provision of related services will facilitate that use, the exporter or principal party
+must notify the STMO. The STMO shall decide whether or not such goods are
+subject to an authorization.
+
+RULE VI
+ADMINISTRATIVE PENALTY GUIDELINES
+
+Section 1. Administrative Penalties. — The STMO shall impose on any person found to
+have committed violations under the STMA the following administrative penalties:
+
+a. Limitation, revocation, or annulment of any authorization and/or registration;
+
+b. Imposition of fines of up to two hundred fifty thousand pesos (P250,000.00) or
+twice the value of the strategic good or related service under the contract, or as
+assessed by the STMO; and,
+
+c. Upon request by the Securities and Exchange Commission and/or the
+Department of Trade and Industry or any other relevant agencies, order the
+cancellation or suspension of the registration and authorization to operate of the
+partnership, corporation, association, and other juridical entity.
+
+The imposition of the penalty shall be without prejudice to the filing of appropriate
+criminal charges against the persons responsible for the violation.
+
+Section 2. Warning Letter and Orders for Corrective Action. — In the exercise of its
+discretion, the STMO may determine in certain instances that issuing a warning letter,
+instead of filing an administrative or criminal complaint, will achieve the desired result.
+
+A warning letter shall fully explain the apparent violation of the STMA or its IRR.
+
+The STMO may issue a warning letter for an apparent violation of a technical nature,
+provided there are efforts to comply with the law in good faith and cooperate with the
+investigation, or where the investigation commenced as a result of voluntary self-
+disclosure.
+
+The authorization holder shall be given ten (10) caiendar days from receipt of the
+warning letter within which to file his comments.
+
+In the following instances, the STMO shall issue an order for corrective action:
+
+a. Failure to file a comment within the prescribed period: or,
+b. The comment was found unsatisfactory by the STMO.
+
+Section 3. Limitation, Revocation, or Annulment of Authorization and/or Registration. —
+The STMO shall issue an order limiting, revoking, or annulling authorization or
+registration under Rule IV.
+
+Section 4. Suspension of Administrative Penalty Order. — In exceptional circumstances,
+the STMO shall suspend an administrative penalty order to limit, revoke, or annul
+
+authorizations and/or registration after the finality of the administrative appeals. The
+period of suspension shall be determined by the NSC-STMCom.
+
+Section 5. Fines. - The STMO shall assess a fine for each violation of the STMA and its
+IRR taking into account the circumstances provided under Section 6, Rule VI.
+
+Section 6. Attendant Circumstances. — In determining the appropriate administrative
+penalties to apply, the STMO may consider the following or other similar circumstances:
+
+a. The person made a voluntary disclosure of any violation of the STMA or its IRR;
+
+b. Level of compliance with the documentary requirements of, and/or responsibilities
+imposed by the STMA or its IRR;
+
+c. Prior violations of the STMA;
+
+d. Quantity and/or value of the transaction; and,
+
+e. Potential harm to the Philippines’ national security or foreign policy interest.
+
+RULE VII
+ADMINISTRATIVE APPEALS
+
+Section 1. Who May File an Administrative Appeal. — Any person whose registration or
+authorization has been denied, suspended, modified, limited, revoked, or annulled, and
+any person upon whom administrative penalties have been imposed shall have the right
+to appeal.
+
+Section 2. Filing and Content of Administrative Appeals. — The aggrieved applicant or
+the authorization holder may file a motion for reconsideration within fifteen (15) calendar
+days from receipt of the decision from the STMO.
+
+A decision or order of the STMO denying the motion for reconsideration may be
+appealed administratively to the NSC-STMCom within fifteen (15) calendar days from
+receipt of said decision or order.
+
+Within the period for filing an appeal, a filing fee shall be paid by the aggrieved applicant
+or authorization holder in the amount to be determined by the NSC-STMCom.
+
+The administrative appeal is taken by filing a position paper with the Secretariat of the
+NSC-STMCom within fifteen (15) calendar days from receipt of the decision of the
+STMO denying the aggrieved applicant's or authorization holder's motion for
+reconsideration.
+
+Within five (5) calendar days from receipt of the position paper, the NSC-STMCom,
+through the Secretariat, shall request the STMO to forward the records of the case to the
+NSC-STMCom. STMO shall forward the records of the case within fifteen (15) calendar
+days.
+
+The administrative appeal shall be considered as filed and perfected, upon receipt by the
+Secretariat of the position paper of the aggrieved appiicant or authorization holder and
+proof of payment of the filing fee.
+
+Section 3. Review of Appeals. — To assist the NSC-STMCom in deciding an appeal, an
+ad hoc committee shall be created by the NSC-STMCom Chairperson to review the
+appeal. The members of the ad hoc committee shall be composed of three (3) or five (5)
+designated representatives from member and support agencies. The ad hoc committee
+shall make a recommendation on whether to uphold, reverse or modify the decision of
+the STMO, stating the reasons therefor. Said recommendations shall then be submitted
+to the NSC-STMCom for its consideration.
+
+The ad hoc committee’s recommendation shall be based on the aggrieved applicant's or
+authorization holder's position paper, the records of the case from the STMO, and if
+necessary, expert opinion as may be requested by the ad hoc committee.
+
+The ad hoc committee shall submit its recommendation to the NSC-STMCom within
+thirty (30) calendar days.
+
+Section 4. Decisions. - The ad hoc committee’s recommendation shall be deemed
+adopted after approval by a majority of the members of the NSC-STMCom.
+
+The NSC-STMCom may reverse, affirm or modify the decision of the STMO. The
+Chairperson or Vice-Chairperson shall sign the decision of the NSC-STMCom.
+
+The decision of the NSC-STMCom shall be final and executory, without prejudice to
+judicial appeal.
+
+RULE VIII
+LIABILITIES, VIOLATIONS, PENALTIES AND SANCTIONS
+
+Section 1. Unlawful Act and Penalties. — Any person who willfully and intentionally
+engages in any of the following activities shall be imprisoned for a period of six (6) years
+and one (1) day to twelve (12) years imprisonment, and a fine of one million pesos
+(P1,000,000.00) to five million pesos (P5,000,000.00):
+
+a. To engage in any of the regulated activity prohibited by, or in contravention of the
+STMA and its IRR, including: failure to register; acts without an authorization; or
+acts in breach of the conditions and terms of an authorization or governmental
+end-use assurances;
+
+b. To make false or misleading representations or conceal any material fact,
+including in the submission of any document, to the NSC-STMCom, the STMO, or
+any other Philippine government agency;
+
+c. To engage in any activity prohibited by, or in contravention of, any orders or
+regulations issued by the NSC-STMCom to implement the provisions of the
+STMA;
+
+d. To conspire or act in concert with one or more persons in any manner or for any
+purpose to bring about or to do any act that constitutes a violation of the STMA, or
+any order, regulation, or authorization issued thereunder;
+
+e. To forge or alter any authorization, registration, certificate or any or other
+document issued under the provisions of the STMA;
+
+f. To obstruct or hinder the NSC-STMCom or any government agency in the
+execution of its powers conferred under the STMA; or,
+
+g. To induce a violation of the STMA or any order, regulation, or authorization issued
+thereunder.
+
+Any person found guilty of committing any of the following shall be imprisoned for a
+period of six (6) months and one (1) day to six (6) years imprisonment, and a fine of one
+hundred thousand pesos (P 100,000.00) to one million pesos (P1,000,000.00):
+
+a. To fail to report or notify the STMO as required by the STMA;
+
+b. To fail to comply with record keeping requirements as provided in the STMA; or,
+
+c. To engage in any activity with intent to evade the provisions of the STMA, or any
+order, regulation, or authorization issued thereunder.
+
+Section 2. Attempt to Commit Violations of the STMA. — Any attempt to commit any
+crime under Section 19(a) of the STMA shall be penalized by imprisonment for a period
+from six (6) months and one (1) day to six (6) years, and a fine from one hundred
+thousand pesos (P100,000.00) to one million pesos (P1,000,000.00).
+
+Section 3. Investigation. — If in the course of conducting an investigation for violations
+committed under the STMA, the STMO comes across evidence of possible criminal
+violations, it shall refer the matter and turn over all available evidence to the following
+agencies:
+
+a. BOC on matters involving violations of import and export provisions of the STMA
+as well as the Tariff and Customs Code;
+
+b. PCG on matters involving violations that pertain to physical or outright smuggling
+on border security; or,
+
+c. PNP/ NBI on acts involving violations outside the jurisdiction of the BOC and
+PCG.
+
+After a finding that a prima facie case exists, the aforementioned agencies shall refer
+such case to the Department of Justice (DOJ) for preliminary investigation.
+
+Appropriate forfeiture proceedings for materials and goods confiscated shall be filed in
+accordance with existing laws, rules, and regulations.
+
+Section 4. Criminal Liability of Officers of Partnerships, Corporations, and Other
+Juridical Entities. — In case any of the violations of the STMA is committed by a
+partnership, corporation, association, or any other juridical! persons, the partner,
+president, director, manager, trustee, administrator, or officer who willfully and
+intentionally consents to, or tolerates such violation shall be held criminally liable as co-
+principal. The penalty provided for the offense shall be imposed upon the responsible
+officers who participated in the commission of the crime or who have willfully and
+intentionally permitted its commission.
+
+Section 5. Administrative Liability of Government Officials and Employees. — Any
+government official or employee who commits, or facilitates the commission of, any
+violation of the STMA shall be administratively liable under Civil Service rules, without
+prejudice to criminal liability under the STMA. The concerned government official or
+employee shall, upon conviction, be dismissed from the service.
+
+Section 6. Additional Penalty if Offender is an Alien/ Foreign National. — \n addition to
+the penalties prescribed in the STMA, any alien/foreign national who violates any
+provision of the STMA shall, after service of sentence, be deported immediately without
+further proceedings, and be barred permanently from entering the country.
+
+Section 7. Forfeiture. — In addition to imprisonment and fine, the strategic goods subject
+of the offense, including the proceeds derived therefrom, shall be forfeited in favor of the
+government.
+
+After conviction, the Regional Trial Court shall enter a judgment of forfeiture of the
+goods, including its proceeds, in favor of the Government of the Philippines and shall
+authorize the forfeiture of the seized goods.
+
+Following the seizure of the strategic goods, the relevant government agency shall direct
+the disposition of the property by sale or other commercially feasible means. The
+offender or any person acting on behalf of the offender sina!l not be eligible to purchase
+the forfeited property. The proceeds of any sale or disposition of any property
+confiscated or forfeited under this section shall be paid directly to the National Treasury.
+All proper expenses incurred in the proceedings for the confiscation, forfeiture, custody,
+and maintenance of the property pending disposition, as well as expenses for publication
+and court costs shall be taken from the General Appropriations Act (GAA).
+
+If the strategic goods are located outside of the Philippines, the court may order the
+convicted offender to pay to the National Treasury the amount equal to the value of the
+
+strategic goods or related services under the contract or as assessed by the STMO,
+whichever is greater.
+
+Section 8. Protection of Officers. — No action or prosecution shall be brought, instituted,
+or maintained against the NSC-STMCom, the STMO, or an authorized officer for or on
+account of or in respect of any act ordered or done for the purpose of carrying into effect
+the STMA or the IRR if the act was done in good faith and under a reasonable belief that
+it was necessary for the purpose intended to be served thereby.
+
+Section 9. Jurisdiction. - The Regional Trial Court shall have jurisdiction over criminal
+prosecutions for violation of any provision of the STMA, as well as over applications for
+the issuance and grant of applicable provisional remedies under the Rules of Court.
+
+Section 10. Mutual Legal Assistance in Criminal Matters. — The DOJ, through the Office
+of the Chief State Counsel (Legal Staff), shall make and receive requests for assistance,
+and to execute or arrange for the execution of such requests.
+
+a. Types of Assistance —
+
+9)
+
+Take evidence to obtain voluntary statements from persons;
+
+Make arrangements for persons to give evidence or to assist in criminal
+matters;
+
+Effect service of judicial documents;
+
+Execute searches and seizures;
+
+Examine objects and sites;
+
+Provide or obtain original or certified true copies of relevant documents,
+records, and items of evidence;
+
+Identify or trace property derived from the commission of an offense and
+instrumentalities of crime;
+
+Restrain dealings in property or freeze property derived from the commission
+of an offense that may be recovered, forfeited or confiscated;
+
+Recover, forfeit, or confiscate property derived from the commission of an
+offense; and,
+
+10)Locate and identify witnesses and suspects.
+
+b. Requirements for Requests — The request for assistance from a foreign state
+shall contain the following:
+
+1)
+
+2)
+3)
+
+4)
+
+a
+
+i)
+
+Name of the authority conducting the investigation, prosecution, or judicial
+proceeding to which the request relates, including contact details of the person
+capable of responding to inquiries concerning the request;
+
+Specific purpose of the request and the nature of the assistance sought;
+Confirmation that the person named therein is under investigation or
+prosecution or said person has been convicted for violation of any of the
+regulated particulars, if known;
+
+Specify the manner in which and to whom said information, document,
+material or object obtained pursuant to the request, is to be produced;
+
+All particulars necessary for the issuance by the court in the Philippines of the
+writs, orders or processes needed by the requesied State; and,
+
+Such other information as may assist in the execution of the request.
+
+c. Authentication of documents — Any document submitted by the foreign state
+proceeding, without the need for further authentication.
+
+d. In any request for legal assistance from a foreign state, the DOJ —
+
+1)
+
+Shall endeavor to promptly execute the request cr arrange for its execution:
+
+2) Shall inform the requesting State of a decision not to comply, in whole or in
+part, with a request for assistance and the reason or reasons for that decision;
+and,
+
+3) May refuse to grant the request if the assistance sought or the execution of
+the request contravenes any provision of the Constitution or is likely to
+prejudice the national interest of the Philippines;
+
+e. The request shall be executed in accordance with the laws of the Philippines.
+
+Section 11. Extradition. — Subject to the provisions of the extradition law and the
+applicable extradition treaty, the offenses defined in the STMA shall be deemed included
+as an extraditable offense defined in an extradition treaty in which the Philippines is a
+
+party.
+
+RULE IX
+FINAL PROVISIONS
+
+Section 1. Separability Clause. — If any provision of the STMA is held to be invalid or
+unconstitutional, the provisions not otherwise affected shall remain valid and subsisting.
+
+Section 2. Suppletory Application. — For purposes of this Act, the Revised Penal Code
+and other applicable laws shall have suppletory application.
+
+Section 3. Repealing Clause. — All laws, decrees, executive orders, rules and
+regulations and other issuances or parts thereof which are inconsistent with the
+provisions of the STMA are hereby repealed, amended, or modified accordingly.
+
+Section 4. Effectivity Clause. — This IRR shall take effect after fifteen (15) days from its
+publication in the Official Gazette or in a newspaper of general circulation.
+
+This “Implementing Rules and Regulations of Republic Act No. 10697” is hereby
+approved by the NATIONAL SECURITY COUNCIL -— STRATEGIC TRADE
+MANAGEMENT COMMITTEE this 31st day of August 2017 in the City of Manila,
+Philippines.
+
+A
+fa te
+
+SALVADOR C. MEDIALDEA
+
+Chairman, &
+
+(Executive Secretary, Office of the President)
+
+(Secretary, Departm dustry)
+
+VITALIANO N. AGUIRRE II ALAN PETER S. CAYETANO
+Membe' Member
+(Secretary, Department of Justice) (Secretary, Department of Foreign Affairs)
+
+A M. ANO
+Member
+
+(OIC, Department of the Interior and Local
+Government)
+
+! I]
+HERMOGENES C. ESPERON
+ember
+(National Security Adviser)
+
+DELFIN N. LORENZANA
+Member
+(Secretary, Department of National Defense)
+
+FORTUNATO T. DELA PENA
+Member
+(Secretary, Department of Science and
+Technology)
+
+CARLOS G. Domenie
+
+Member
+(Secretary, Department of Finance)
+
+Al ll
+
+ELISEO M. RIO JR.
+Member
+(Secretary, Department of Information and
+Communications Technology)
+
+=. ~~
+ROY A. CIMATU
+Member
+(Secretary, Department of Environment and
+
+(Secretary, Department of Health)

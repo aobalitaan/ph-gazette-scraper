@@ -1,0 +1,1061 @@
+ADOPTING A VALUE-ADDED TAX, AMENDING FOR THIS PURPOSE CERTAIN PROVISIONS OF THE NATIONAL INTERNAL REVENUE CODE, AND FOR OTHER PURPOSES
+
+WHEREAS, there is a need to rationalize the present system of taxing goods and services by imposing a multi-stage value-added tax to replace the tax on original and subsequent sales tax and percentage tax on certain services;
+
+WHEREAS, the adoption of the value-added tax is one of the structural reforms provided in the 1986 Tax Reform Program which is designed to simplify tax administration and make the tax system more equitable; and
+
+WHEREAS, it is also necessary to amend, revise and renumber the provisions of the National Internal Revenue Code and to transfer the collection of certain taxes as a consequence of this and previous amendments in order to strengthen and improve tax administration and facilitate compliance thereof.
+
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:
+
+SECTION 1. The provisions of Title IV governing excise taxes are hereby transferred to Title VI and replaced with new provisions imposing a value-added tax to read as follows:
+
+“TITLE IV VALUE-ADDED TAX
+
+“Chapter 1. Imposition of Tax
+
+“SECTION 99. Persons Liable . – Any person who, in the course of trade or business, sells, barters or exchanges goods, renders services, or engages in similar transactions and any person who imports goods shall be subject to the value-added tax (VAT) imposed in Sections 100 to 102 of this Code.
+
+“SEC. 100. Value-added Tax on Sale of Goods . – (a) Rate and Base of Tax . – There shall be levied, assessed and collected on every sale, barter or exchange of goods, a value-added tax equivalent to 10% of the gross selling price or gross value in money of the goods sold, bartered or exchanged, such tax to be paid by the seller or transferor: Provided , That the following sales by VAT-registered persons shall be subject to 0%:
+
+“(1) export sales; and
+
+“(2) sales to persons or entities whose exemption under special laws or international agreements to which the Philippines is a signatory effectively subjects such sales to zero rate.
+
+“‘Export sales’ means the sale and shipment or exportation of goods from the Philippines to a foreign country, irrespective of any shipping arrangement that may be agreed upon which may influence or determine the transfer of ownership of the goods so exported, or foreign currency denominated sales. ‘Foreign currency denominated sales’ means sales to nonresidents of goods assembled or manufactured in the Philippines, for delivery to residents in the Philippines and paid for in convertible foreign currency remitted through the banking system in the Philippines.
+
+“(b) Transactions deemed sale . – The following transactions shall be deemed sale;
+
+“(1) Transfer, use, or consumption not in the course of business of goods originally intended for sale or for use in the course of business.
+
+(2 Distribution or transfer to:
+
+“(A) shareholders or investors as share in the profits of the VAT-registered person; or
+
+“(B) creditors in payment of debt
+
+“(3) Consignment of goods if actual sale is not made within 60 days following the date such goods were consigned.
+
+“(4) Retirement from or cessation of business, with respect to inventories of taxable goods existing as of such retirement or cessation.
+
+“(c) Changes in or cessation of status of a VAT-registered person . – The tax imposed in paragraph (a) of this Section shall also apply to goods disposed of or existing as of a certain date if under circumstances to be prescribed in Regulations to be promulgated by the Secretary of Finance, the status of a person as a VAT-registered person changes or is terminated.
+
+“(d) Determination of the tax . – (1) Tax billed as a separate item in the invoice . – If the tax is billed as a separate item in the invoice, the tax shall be based on the gross selling price, excluding the tax. ‘Gross selling price’ means the total amount of money or its equivalent which the purchaser pays or is obligated to pay to the seller in consideration of the sale, barter or exchange of the goods, excluding the value-added tax. The excise tax, if any, on such goods shall form part of the gross selling price.
+
+“(2) Tax not billed separately or is billed erroneously in the invoice . – In case the tax is not billed separately or is billed erroneously in the invoice, the tax shall be determined by multiplying the gross selling price, including the amount intended by the seller to cover the tax or the tax billed erroneously, by the factor 1/11 or such factor as may be prescribed by regulations in case of persons partially exempt under special laws.
+
+“(3) Sales returns, allowances and sales discounts . – The value of goods sold and subsequently returned or for which allowances were granted by a VAT-registered person may be deducted from the gross sales or receipts for the quarter in which a refund is made or a credit memorandum or refund is issued. Sales discounts granted and indicated in the invoice at the time of sale may be excluded from the gross sales within the same quarter.
+
+“(4) Authority of the Commissioner to determine the appropriate tax base . – The Commissioner shall, by regulations, determine the appropriate tax base in cases where a transaction is deemed a sale, barter or exchange of goods under paragraph (b) hereof, or where the gross selling price is unreasonably lower than the actual market value.
+
+“SEC. 101. Value-added tax on importation of goods . – (a) In general . – There shall be levied, assessed and collected on every importation of goods a value-added tax equivalent to 10% based on the total value used by the Bureau of Customs in determining tariff and customs duties, plus customs duties, excise taxes, if any, and other charges, such tax to be paid by the importer prior to the release of such goods from customs custody: Provided , That where the customs duties are determined on the basis of the quantity or volume of the goods, the value-added tax shall be based on the landed cost plus excise taxes, if any.
+
+“(b) Transfer of goods by tax-exempt persons . – In the case of tax-free importation of goods into the Philippines by persons, entities, or agencies exempt from tax where such goods are subsequently sold, transferred or exchanged in the Philippines to non-exempt persons or entities, the purchasers, transferees or recipients shall be considered the importers thereof who shall be liable for any internal revenue tax on such importation. The tax due on such importation shall constitute a lien on the goods superior to all charges or liens on the goods, irrespective of the possessor thereof.
+
+“SEC. 102. Value-added tax on sale of services . – (a) Rate and base of tax . – There shall be levied, assessed and collected, a value-added tax equivalent to 10% percent of gross receipts derived by any person engaged in the sale of services. The phrase ‘sale of services’ means the performance of all kinds of services for others for a fee, remuneration or consideration, including those performed or rendered by construction and service contractors; stock, real estate, commercial, customs and immigration brokers; lessors of personal property; lessors or distributors of cinematographic films; persons engaged in milling, processing, manufacturing or repacking goods for others; and similar services, regardless of whether or not the performance thereof calls for the exercise or use of the physical or mental faculties: Provided, That the following services performed in the Philippines by VAT-registered persons shall be subject to 0%.
+
+“(1) Processing, manufacturing or repacking goods for other persons doing business outside the Philippines which goods are subsequently exported, where the services are paid for in acceptable foreign currency, inwardly remitted to the Philippines and accounted for in accordance with the rules and regulations of the Central Bank of the Philippines.
+
+“(2) Services other than those mentioned in the preceding sub-paragraph, the consideration for which is paid for in acceptable foreign currency which is remitted inwardly to the Philippines and accounted for in accordance with the rules and regulations of the Central Bank of the Philippines.
+
+“(3) Services rendered to persons or entities whose exemption under special laws or international agreements to which the Philippines is a signatory effectively subjects the supply of such services to zero rate.
+
+“‘Gross receipts’ means the total amount of money or its equivalent representing the contract price, compensation or service fee, including the amount charged for materials supplied with the services and deposits or advance payments actually or constructively received during the taxable quarter for the services performed or to be performed for another person, excluding value-added tax.
+
+“(b) Determination of the tax . – (1) Tax billed as a separate item in the invoice . – If the tax is billed as a separate item in the invoice, the tax shall be based on the gross receipts, excluding the tax.
+
+“(2) Tax not billed separately or is billed erroneously in the invoice . – If the tax is not billed separately or is billed erroneously in the invoice, the tax shall be determined by multiplying the gross receipts (including the amount intended to cover the tax or the tax billed erroneously) by 1/11.
+
+“SEC. 103. Exempt transactions . – The following shall be exempt from the value-added tax:
+
+“(a) Sale of nonfood agricultural, marine and forest products in their original state by the primary producer or the owner of the land where the same are produced.
+
+“(b) Sale or importation in their original state of agricultural and marine food products; livestock and poultry of a kind generally used as, or yielding or producing food for human consumption; and breeding stock and genetic materials therefor.
+
+“Products classified under this paragraph and paragraph (a) shall be considered in their original state even if they have undergone the simple processes of preparation or preservation for the market, such as freezing, drying, salting, smoking or stripping. Polished and/or husked rice, corn grits and raw cane sugar shall be considered in their original state for purposes of this paragraph.
+
+“(c) Sale or importation of fertilizers, pesticides and herbicides; chemicals for the formulation of pesticides; seeds, seedlings and fingerlings; fish, animal and poultry feeds; and soya bean and fish meals;
+
+“(d) Sale or importation of petroleum products (except lubricating oil, processed gas, grease, wax and petrolatum) subject to excise tax imposed under Title VI;
+
+“(e) Sale or importation of raw materials to be used by the buyer or importer himself in the manufacture of petroleum products (except lubricating oil and grease) subject to excise tax;
+
+“(f) Printing, publication, importation or sale of books and any newspaper, magazine, review, or bulletin which appears at regular intervals with fixed prices for subscription and sale and which is not devoted principally to the publication of advertisements;
+
+“(g) Importation of passenger and/or cargo vessel of more than ten thousand tons, whether coastwise or ocean-going, including engine and spare parts of said vessel, to be used by the importer himself as operator thereof;
+
+“(h) Importation of personal and household effects belonging to residents of the Philippines returning from abroad and non-resident citizens coming to resettle in the Philippines: Provided , That such goods are exempt from customs duty under the Tariff and Customs Code of the Philippines;
+
+“(i) Importation of professional instruments and implements, wearing apparel, domestic animals, and personal household effects (except any vehicle, vessel, aircraft, machinery, other goods for use in manufacture and merchandise of any kind in commercial quantity) belonging to persons coming to settle for the first time in the Philippines, for their own use and not for sale, barter or exchange, accompanying such persons, or arriving within ninety days before and after their arrival, upon the production of evidence satisfactory to the Commissioner of Internal Revenue, that such persons are actually coming to settle in the Philippines and that the change of residence is bona fide;
+
+“(j) Services rendered by persons subject to percentage tax under Title V;
+
+“(k) Services by agricultural contract growers and milling for others of palay into rice, corn into grits and sugar cane into raw sugar;
+
+“(l) Medical, dental, hospital and veterinary services;
+
+“(m) Educational services rendered by private educational institutions, duly accredited by the Department of Education, Culture and Sports, and those rendered by government educational institutions;
+
+“(n) Sale by the artist himself of his works of art, literary works, musical compositions and similar creations, or his services performed for the production of such works;
+
+“(o) Services performed as actors or actresses, talents, singers and emcees; radio and television broadcasters, choreographers; musical, radio, movie, television and stage directors;
+
+Services performed as professional athletes;
+
+Leasing of real property;
+
+“(r) Services performed in the exercise of profession or calling (except customs brokers) subject to the occupation tax under the Local Tax Code, and professional services performed by registered general professional partnerships;
+
+“(s) Services rendered by individuals pursuant to an employer-employee relationship;
+
+“(t) Services rendered by regional or area headquarters established in the Philippines by multinational corporations which act as supervisory, communications and coordinating centers for their affiliates, subsidiaries or branches in the Asia-Pacific Region and do not earn or derive income from the Philippines;
+
+“(u) Transactions which are exempt under special laws or international agreements to which the Philippines is a signatory;
+
+“(v Export sales by persons who are not VAT-registered; and
+
+“(w) Sales and/or services performed by persons other than those mentioned in the preceding paragraphs whose annual gross sales and/or receipts do not exceed the amount prescribed in regulations to be promulgated by the Secretary of Finance which shall not be less than P100,000 or higher than P500,000.
+
+“SEC. 104. Tax Credits . – (a) Creditable input tax . – Any input tax on the
+
+(1 purchase or importation of goods:
+
+for sale or for conversion into or intended to form part of a finished product for sale or for use in the course of business; or
+
+(B) for use as supplies in the course of business; or
+
+C) for use as materials supplied in the sale of service; or
+
+for use in trade or business for which deduction for depreciation is allowed under Section 29(f) of this Code;
+
+and
+
+(2) service performed by a VAT-registered person which shall be credited against the output tax payable by the VAT-registered person: Provided , That in the case of domestic purchase of goods or services, the invoice or receipt was issued therefor by a VAT-registered person in a manner prescribed in Section 108.
+
+“A VAT- registered person who is also engaged in transactions not subject to the value-added tax shall be allowed tax credit as follows:
+
+“(A) Total input tax which can be directly attributed to transactions subject to value-added tax; and
+
+“(B) A ratable portion of any input tax which cannot be directly attributed to either activity.
+
+“‘Input tax’ means the value-added tax paid by a VAT-registered person in the course of his trade or business on importation of goods or local purchases of goods or services from a VAT-registered person. It shall also include the transitional input tax determined in accordance with Section 105 of this Code and other transitional input taxes as prescribed by regulations.
+
+“In case tax exempt products of a pioneer enterprise registered with the BOI as of August 1, 1986 are sold domestically to Value-added tax registered person, the value-added tax otherwise due on such products shall also be considered as input tax creditable against his output tax payable.
+
+“The term ‘output tax’ means the value-added tax due on the sale of taxable goods or services by any person registered or required to register under Section 107 of this Code.
+
+“(b) Excess output or input tax . – If at the end of any taxable quarter the output tax exceeds the input tax, the excess shall be paid by the VAT-registered person. If the input tax exceeds the output tax, the excess shall be carried over to the succeeding quarter or quarters. Any input tax attributable to the purchase of capital goods or to zero-rated sales by a VAT-registered person may at his option be refunded or credited against other internal revenue taxes, subject to the provisions of Sec. 106.
+
+“SEC. 105. Transitional input tax credits . – A person who becomes liable to value-added tax or any person who elects to be a VAT-registered person shall, subject to the filing of an inventory as prescribed by regulations, be allowed input tax on his beginning inventory of goods, materials and supplies equivalent to 8% of the value of such inventory or the actual value-added tax paid on such goods, materials and supplies, whichever is higher, which shall be creditable against the output tax.
+
+“SEC. 106. Refunds or tax credits of input tax . – (a) Export sales . – An exporter who is a VAT-registered person may, within two years from the date of exportation, apply for the issuance of a tax credit certificate or refund of the input tax attributable to the goods exported, to the extent that such input tax has not been applied to output tax and upon presentation of proof that the foreign exchange proceeds has been accounted for in accordance with the regulations of the Central Bank of the Philippines.
+
+“(b) Zero-rated or effectively zero-rated sales . – Any person, except those covered by paragraph (a) above, whose sales are zero-rated or are effectively zero-rated may, within two years after the close of the quarter when such sales were made, apply for the issuance of a tax credit certificate or refund of the input taxes attributable to such sales to the extent that such input tax has not been applied against output tax.
+
+“(c) Capital goods . – A VAT-registered person may apply for the issuance of a tax credit certificate or refund of input taxes paid on capital goods imported or locally purchased, to the extent that such input taxes have not been applied against output taxes. The application for refund may be made only after the expiration of two (2) succeeding quarters following the quarter in which the importation or local purchase was made: Provided , That a VAT-registered person who is just commencing business may apply for refund of input taxes under this paragraph not earlier than 180 days from the date of registration or actual start of business operations, whichever comes later: Provided , however , That the application is filed not later than two (2) years from the dates herein prescribed.
+
+“(d) Cancellation of VAT registration . – A person whose registration has been cancelled due to retirement from or cessation of business, or due to changes in or cessation of status under Section 100(c) of this Code may, within 2 years from the date of cancellation, apply for the issuance of a tax credit certificate for any unused input tax which he may use in payment of his other internal revenue taxes.
+
+“(e) Period within which refund of input taxes may be made by the Commissioner . – The Commissioner shall refund input taxes within 60 days from the date the application for refund was filed with him or his duly authorized representative. No refund of input taxes shall be allowed unless the VAT-registered person files an application for refund within the period prescribed in paragraphs (a), (b) and (c), as the case may be.
+
+” (f) Manner of giving refund . – Refunds shall be made upon warrants drawn by the Commissioner or by his duly authorized representative without the necessity of being counter-signed by the Chairman, Commission on Audit, the provisions of the Revised Administrative Code to the contrary notwithstanding: Provided , That refunds under this paragraph shall be subject to post audit by the Commission on Audit.
+
+“ Chapter 2. Compliance Requirements
+
+“SEC. 107. Registration of value-added taxpayers . – (a) In general . – Any person subject to a value-added tax under Sections 100 and 102 of this Code shall register with the appropriate Revenue District Officer. A person who maintains a head or main office and branches in different places shall register with the revenue district office which has jurisdiction over the place where the main or head office is located.
+
+“(b) Persons commencing a business . – Any person who expects to realize gross sales or receipts subject to value-added tax in excess of the amount prescribed by the Secretary of Finance for the next 12-month period from the commencement of the business shall, within 30 days before the start of the said business, register with the Revenue District Officer who has jurisdiction over his principal place of business.
+
+“(c) Persons becoming liable to value-added tax . – Any person whose gross sales or receipts in any 12-month period exceeds the amount prescribed by regulations for exemption from value-added tax shall register within 30 days after the end of the last month of that period, and shall be liable to the value-added tax commencing from the first day of the month following his registration.
+
+“(d) Optional registration of exempt person . – Any person whose transactions are exempt from value-added tax under Section 103 (a), (b), (c), (f), and (w) of this Code, may apply for registration as a VAT-registered person not later than 10 days before the beginning of a taxable quarter.
+
+“A VAT-registered person who is, at the same time, engaged in activities exempted under Section 103 (a), (b), (c), and (f) of this Code may register any or all of his exempt activities within the same period provided for in this paragraph.
+
+In any case, the Commissioner may, for administrative reasons, deny any application for registration.
+
+“For purposes of this Title, any person registered in accordance with the provisions of this section shall be referred to as a ‘VAT-registered person’. Each VAT-registered person shall be assigned only one registration number.
+
+“(e) Cancellation of Registration . – The registration of any person who ceases to be liable to the value-added tax shall be cancelled by the Commissioner upon filing of an application for cancellation of registration. Any person who opted to be registered under paragraph (d) of this section may, under regulations of the Secretary of Finance, apply for cancellation of such registration.
+
+“SEC. 108. Invoicing and accounting requirements for VAT-registered persons . – (a) Invoicing Requirements. – A VAT-registered person shall, for every sale, issue an invoice or receipt. In addition to the information required under Section 238, the following information shall be indicated in the invoice or receipt:
+
+‘(1 The VAT registration number.
+
+“(2) If the seller bills the tax as a separate item in the invoice:
+
+the amount of gross selling price or gross receipts on which the value-added tax is based;
+
+the amount of value-added tax determined by multiplying the amount of gross selling price or gross receipts by the rate of tax; and
+
+the sum of (i) the gross selling price or gross receipts and (ii) the value-added tax which the purchaser pays or is obligated to pay to the vendor.
+
+“(3) If the seller elects not to bill the tax as a separate item in the invoice or receipt, the total amount charged against the buyer.
+
+“(b) Accounting Requirements . – Notwithstanding the provisions of Section 233, all persons subject to the value-added tax under Sections 100 and 102 shall, in addition to the regular accounting records required, maintain a subsidiary sales journal and subsidiary purchase journal on which the daily sales and purchases are recorded. The subsidiary journals shall contain such information as may be required by the Secretary of Finance.
+
+“SEC. 109. Notification requirements . – (a) Change of place of business . – It shall be the duty of every VAT-registered person to file a notice of change of his principal place of business or any of his branches or offices. Such notification shall be filed within 15 days from the date of such change with the Revenue District Officers who have jurisdiction of his former and new place of business.
+
+“(b) Other changes . – Any person registered in accordance with Section 107 shall notify the Revenue District Officer of the change or termination of his status as a VAT-registered person.
+
+“SEC. 110. Return and payment of value-added tax . – (a) Where to file the return and pay the tax . – Every person subject to value-added tax shall file a quarterly return of his gross sales or receipts and pay the tax due thereon to a bank duly accredited by the Commissioner located in the revenue district where such person is registered or required to be registered. However, in cases where there are no duly accredited agent banks within the city or municipality, the return shall be filed and any amount due shall be paid to any duly accredited bank within the district, or to the Revenue District Officer, Collection Agent or duly authorized Treasurer of the city or municipality where such taxpayer has his principal place of business. Only one consolidated return shall be filed by the taxpayer for all the branches and lines of business subject to value-added tax. If no tax is payable because the amount of input tax and any amount authorized to be offset against the output tax is equal to or is in excess of the output tax due on the return, the taxpayer shall file the return with the Revenue District Officer, Collection Agent or authorized municipal treasurer where the taxpayer’s principal place of business is located.
+
+“(b) Time for filing of return and payment of tax . – The return shall be filed and the tax paid within 20 days following the end of each quarter specifically prescribed for a VAT-registered person under regulations to be promulgated by the Secretary of Finance: Provided , however , That any person whose registration is cancelled in accordance with paragraph (e) of Section 107 shall file a return within 20 days from the cancellation of such registration.
+
+“(c) Initial returns . – The Commissioner may prescribe an initial taxable period for any VAT-registered person for his first return, which in no case shall exceed 5 months.
+
+“SEC. 111. Power of the commissioner to suspend the business operations of a taxpayer . – The Commissioner or his authorized representative is hereby empowered to suspend the business operations and temporarily close the business establishment of any person for any of the following violations:
+
+“(a) In the case of a VAT-registered person –
+
+“(1) Failure to issue receipts or invoices.
+
+“(2) Failure to file a value-added tax return as required under Section 110.
+
+“(3) Understatement of taxable sales or receipts by 30% or more of his correct taxable sales or receipt for the taxable quarter.
+
+Failure of any person to register as required under Section 107.
+
+“The temporary closure of the establishment shall be for a duration of not less than five (5) days and shall be lifted only upon compliance with whatever requirements prescribed by the Commissioner in the closure order.”
+
+SEC. 2. A new section, to be known as Section 112 of the National Internal Revenue Code, is hereby provided under Title V imposing a percentage tax on persons exempt from value-added tax to read as follows:
+
+“SEC. 112. Tax on persons exempt from value-added tax (VAT) . – Any person whose sales or receipts are exempt under Section 103 (w) of this Code from payment of the value-added tax and who is not a VAT-registered person shall pay a tax equivalent to two (2) percent of his gross quarterly sales or receipts.”
+
+SEC. 3. Section 6 of the National Internal Revenue Code is hereby amended to read as follows:
+
+“SEC. 6. Agents and deputies for collection of national internal revenue taxes . – The following are hereby constituted agents of the Commissioner of Internal Revenue:
+
+The Commissioner of Customs and his subordinates with respect to the collection of national internal revenue taxes on imported goods;
+
+“(b) The head of the appropriate government office and his subordinates with respect to the collection of energy tax; and
+
+“(c Banks duly accredited by the Commissioner with respect to receipt of payments of internal revenue taxes authorized to be made thru banks.
+
+“Any officer or employee of a duly accredited bank assigned to receive internal revenue tax payments and transmit tax returns or documents to the Bureau of Internal Revenue shall be subject to the same sanctions and penalties prescribed in Sections 268 and 269 of this Code.”
+
+SEC. 4. Section 16 of the National Internal Revenue Code is hereby amended to read as follows:
+
+“SEC. 16. Power of the Commissioner to make assessment and prescribe additional requirements for tax administration and enforcement .
+
+“(a) Examination of Returns and Determination of Tax . – After a return is filed as required under the provisions of this Code, the Commissioner shall examine it and assess the correct amount of tax. The tax or deficiency tax so assessed shall be paid upon notice and demand from the Commissioner. Any return, statement or declaration filed in any office authorized to receive the same shall not be withdrawn: Provided, That the same may be modified or changed by filing an amended return, statement or declaration.
+
+“(b) Failure to submit required returns, statements, reports and other documents . – When a report required by law as a basis for the assessment of any national internal revenue tax shall not be forthcoming within the time fixed by law or regulation or when there is reason to believe that any such report is false, incomplete or erroneous, the Commissioner shall assess the proper tax on the best evidence obtainable.
+
+“In case a person fails to file a required return or other document at the time prescribed by law, or wilfully or otherwise files a false or fraudulent return or other document, the Commissioner shall make or amend the return from his own knowledge and from such information as he can obtain through testimony or otherwise, which shall be prima facie correct and sufficient for all legal purposes.
+
+“(c) Authority to conduct inventory-taking, surveillance and to prescribe presumptive gross sales and receipts . – The Commissioner may, at any time during the taxable year, order an inventory-taking of goods of any taxpayer as a basis for determining his internal revenue tax liabilities, or may place the business operations of any person, natural or juridical, under observation or surveillance if there is reason to believe that such person is not declaring his correct income, sales or receipts for internal revenue tax purposes. The findings may be used as the basis for assessing the taxes for the other months or quarters of the same or different taxable years and such assessment shall be deemed prima facie correct.
+
+“When it is found that a person has failed to issue receipts and invoices in violation of the requirements of Sections 108 and 238 of this Code, or when there is reason to believe that the books of accounts or other records do not correctly reflect the declarations made or to be made in a return required to be filed under the provisions of this Code, the Commissioner, after taking into account the sales, receipts, income or other taxable base of other persons engaged in similar businesses under similar situations or circumstances or after considering other relevant information, may prescribe a minimum amount of such gross receipts, sales, and taxable base, and such amount so prescribed shall be prima facie correct for purposes of determining the internal revenue tax liabilities of such person.
+
+“(d) Authority to terminate taxable period . – When it shall come to the knowledge of the Commissioner that a taxpayer is retiring from any business subject to tax or intends to leave the Philippines, or remove his property therefrom, or hide or conceal his property, or perform any act tending to obstruct the proceedings for the collection of the tax for the past or current quarter or year, or render the same totally or partly ineffective unless such proceedings are begun immediately, the Commissioner shall declare the tax period of such taxpayer terminated at any time and shall send the taxpayer a notice of such decision, together with a request for the immediate payment of the tax for the period so declared terminated and the tax for the preceding year or quarter, or such portion thereof as may be unpaid, and said taxes shall be due and payable immediately and shall be subject to all the penalties hereafter prescribed, unless paid within the time fixed in the demand made by the Commissioner.
+
+“(e) Authority of the Commissioner to prescribe real property values . – The Commissioner is hereby authorized to divide the Philippines into different zones or areas and shall, upon consultation with competent appraisers both from the private and public sectors, determine the fair market value of real properties located in each zone or area. For purposes of computing any internal revenue tax, the value of the property shall be whichever is the higher of:
+
+“(1) the fair market value as determined by the Commissioner; or
+
+“(2) the fair market value as shown in the schedule of values of the Provincial and City Assessors.
+
+“(f) Authority of the Commissioner to inquire into bank deposit accounts . – The provisions of Republic Act No. 1405 to the contrary notwithstanding, the Commissioner is hereby authorized to inquire into the bank deposits of a decedent for the purpose of determining the gross estate of such decedent.
+
+“In case a taxpayer offers to compromise the payment of his tax liabilities on the ground that his financial position demonstrates a clear inability to pay the tax assessed, his offer shall not be considered unless he waives his privilege under the said law and such waiver shall serve as authority of the Commissioner to inquire into the bank deposits of said taxpayer.
+
+“(g) Authority to accredit and register tax agents . – The Commissioner may require prior accreditation and registration, based on competence and moral fitness, of persons and general professional partnerships or their representatives in the preparation and filing of required tax returns, statements, reports, memoranda, or in appearing or in filing protests or papers with the Bureau for the taxpayers. For this purpose, the Commissioner is empowered to create national and regional accreditation boards, to designate from among the ranks of senior officials of the Bureau, one chairman and two members in each board and to issue the necessary rules and regulations subject to the approval of the Secretary of Finance.
+
+“(h) Authority of the Commissioner to prescribe additional procedural or documentary requirements . – The Commissioner may prescribe the manner of compliance with any documentary or procedural requirements in connection with the submission or preparation of financial statements accompanying the tax returns.”
+
+SEC. 5. Section 226 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 122. Tax on agents of foreign insurance companies . – Every fire, marine, or miscellaneous insurance agent authorized under the Insurance Code to procure policies of insurance as he may have previously been legally authorized to transact on risks located in the Philippines for companies not authorized to transact business in the Philippines shall pay a tax equal to twice the tax imposed in Section 121: Provided , That the provisions of this section shall not apply to reinsurance: Provided , however , That the provisions of this section shall not affect the right of an owner of property to apply for and obtain for himself policies in foreign companies in cases where said owner does not make use of the services of any agent, company, or corporation residing or doing business in the Philippines. In all cases where owners of property obtain insurance directly with foreign companies, it shall be the duty of said owners to report to the Insurance Commissioner and to the Commissioner of Internal Revenue each case where insurance has been so effected, and shall pay the tax of five per cent on premiums paid, in the manner required by Section 121.”
+
+SEC. 6. Section 162 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 125. Returns and payment of percentage taxes . – (a) Return of gross sales, receipts or earnings and payment of tax . –
+
+“(1) Persons liable to pay percentage taxes . – Every person subject to the percentage taxes imposed under this Title shall file a quarterly return of the amount of his gross sales, receipts, or earnings and pay the tax due thereon within 20 days after the end of each taxable quarter: Provided , That in the case of a person whose VAT-registration is cancelled and who becomes liable to the tax imposed in Section 112 of this Code, the tax shall accrue from the date of cancellation and shall be paid in accordance with the provisions of this Section.
+
+“(2) Person retiring from business . – Any person retiring from a business subject to percentage tax shall notify the nearest internal revenue officer, file his return and pay the tax due thereon within twenty days after closing his business.
+
+(3) Exceptions. – The Commissioner may, by regulations prescribe:
+
+“(A) The time for filing the return at intervals other than the time prescribed in the preceding paragraphs for a particular class or classes of taxpayers after considering such factors as volume of sales, financial condition, adequate measures of security; and such other relevant information required to be submitted under the pertinent provisions of this Code; and
+
+“(B) The manner and time of payment of percentage taxes other than as hereinabove prescribed, including a scheme of tax prepayment.
+
+“(4) Determination of correct sales or receipts . – When it is found that a person has failed to issue receipts or invoices, or when no return is filed, or when there is reason to believe that the books of accounts or other records do not correctly reflect the declarations made or to be made in a return required to be filed under the provisions of this Code, the Commissioner, after taking into account the sales, receipts or other taxable base of other persons engaged in similar businesses under similar situations or circumstances, or after considering other relevant information, may prescribe a minimum amount of such gross receipts, sales and taxable base and such amount so prescribed shall be prima facie correct for purposes of determining the internal revenue tax liabilities of such person.
+
+“(b) Where to file . – Every person liable to the percentage tax under this Title may, at his option, file a separate return for each branch or place of business or a consolidated return for all branches or places of business with the Revenue District Officer, Collection agent or duly authorized Treasurer of the City or Municipality where said business or principal place of business is located, as the case may be.”
+
+SEC. 7. Section 109 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 126. Goods subject to excise taxes . – Excise taxes apply to goods manufactured or produced in the Philippines for domestic sale or consumption or for any other disposition and to things imported. The excise tax imposed herein shall be in addition to the value-added tax imposed under Title IV.
+
+“For purposes of this Title, excise taxes herein imposed and based on weight or volume capacity or any other physical unit of measurement shall be referred to as ‘specific tax’ and an excise tax herein imposed and based on selling price or other specified value of the good shall be referred to as `ad valorem tax'”.
+
+SEC. 8. Section 110 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 127. Payment of excise taxes on domestic products . – (a) Persons liable; time for payment . – Unless otherwise especially allowed, excise taxes on domestic products shall be paid by the manufacturer or producer before removal from the place of production: Provided , That the excise tax on locally manufactured petroleum products and indigenous petroleum levied under Sections 145 and 151 (a) (4), respectively, of this Title shall be paid within 15 days from the date of removal thereof from the place of production. Should domestic products be removed from the place of production without the payment of the tax, the owner or person having possession thereof shall be liable for the tax due thereon.
+
+“(b) Determination of gross selling price of goods subject to ad valorem tax . – Unless otherwise provided, the price, excluding the value-added tax, at which the goods are sold at wholesale in the place of production or through their sales agents to the public shall constitute the gross selling price. If the manufacturer also sells or allows such goods to be sold at wholesale in another establishment of which he is the owner or in the profits at which he has an interest, the wholesale price in such establishment shall constitute the gross selling price. Should such price be less than the cost of manufacture plus expenses incurred until the goods are finally sold, then a proportionate margin of profit, not less than 10% of such manufacturing cost and expenses, shall be added to constitute the gross selling price.
+
+“(c) Manufacturer’s or producer’s sworn statement . – Every manufacturer or producer of goods or products subject to excise taxes shall file with the Commissioner on the date or dates designated by the latter, and as often as may be required, a sworn statement showing among other information, the different goods or products manufactured or produced and their corresponding gross selling price or market value, together with the cost of manufacture or production plus expenses incurred or to be incurred until the goods or products are finally sold.
+
+“(d) Credit for excise tax on goods actually exported . – When goods locally produced or manufactured are removed and actually exported without returning to the Philippines, whether so exported in their original state or as ingredients or parts of any manufactured goods or products, any excise tax paid thereon shall be credited or refunded upon submission of the proof of actual exportation and upon receipt of the corresponding foreign exchange payment: Provided, That the excise tax on mineral products, except coal and coke, imposed under Section 151, shall not be creditable or refundable even if the mineral products are actually exported.”
+
+SEC. 9. Section 121 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 138. Distilled spirits . – On distilled spirits, there shall be collected, subject to the provisions of Section 130 of this Code, specific taxes as follows:
+
+“(a) If produced from sap of nipa, coconut, cassava, camote or buri palm or from the juice, syrup or sugar of the cane, provided such materials are produced commercially in the country where they are processed into distilled spirits, per proof liter, three pesos and twenty centavos: Provided , That if produced in a pot still or other similar primary distilling apparatus by a distiller producing not more than 100 liters a day, containing not more than fifty percent of alcohol by volume, per proof liter, one peso;
+
+“(b) If produced from raw materials other than those enumerated in the preceding paragraph, per proof liter, twenty-five pesos; and
+
+“(c) Medicinal preparations, flavoring extracts, and all other preparations, except toilet preparations, of which, excluding water, distilled spirits form the chief ingredient, shall be subject to the same tax as such chief ingredient.
+
+“This tax shall be proportionally increased for any strength of the spirits taxed over proof spirits, and the tax shall attach to this substance as soon as it is in existence as such, whether it be subsequently separated as pure or impure spirits, or transformed into any other substance either in the process of original production or by any subsequent process.
+
+“‘Spirits or distilled spirits’ is the substance known as ethyl alcohol, ethanol or spirits of wine, including all dilutions, purifications and mixtures thereof, from whatever sources by whatever process produced and shall include whisky, brandy, rum, gin and vodka, and other similar products or mixtures.
+
+“‘Proof spirits’ is liquor containing 1/2 of its volume of alcohol of a specific gravity of seven thousand nine hundred and thirty-nine ten thousand (0.7939) at fifteen degrees centigrade. A proof liter means a liter of proof spirits.”
+
+SEC. 10. Section 123 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 139. Wines . – On wines, there shall be collected per liter of volume capacity, the following taxes:
+
+Sparkling wines regardless of proof, sixteen pesos;
+
+Still wines containing fourteen percent of alcohol by volume or less, one peso; and
+
+“(c Still wines containing more than fourteen percent of alcohol by volume, four pesos.
+
+“Fortified wines containing more than twenty-five percent of alcohol by volume shall be taxed as distilled spirits. Fortified wines shall mean natural wines to which distilled spirits are added to increase their alcoholic strength.”
+
+SEC. 11. Section 124 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 140. Fermented liquor . – There shall be levied, assessed and collected an ad valorem tax equivalent to thirty-seven percent (37%) of the brewer’s wholesale price, excluding the ad valorem tax imposed under this section and the value added tax imposed under Title IV, on beer, lager beer, ale, porter and other fermented liquors except tuba, basi, tapuy and similar domestic fermented liquors, but in no case shall the sum total of the ad valorem tax and value-added tax be less than P1.00 per regular 320 ml. bottle.”
+
+SEC. 12. Section 126 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 142. Cigar and Cigarettes – (a) Cigars . – There shall be levied, assessed and collected on cigars an ad valorem tax of five percent (5%) of the manufacturer’s or importer’s registered wholesale price.
+
+“(b) Cigarettes packed in thirties . – There shall be levied, assessed and collected on cigarettes packed in thirties an ad valorem tax of fifteen percent (15%) of the manufacturer’s registered wholesale price.
+
+“(c) Cigarettes packed in twenties . – There shall be levied, assessed and collected on cigarettes packed on twenties an ad valorem tax at the rates prescribed below based on the manufacturer’s registered wholesale price:
+
+“(1) On locally manufactured cigarettes bearing a foreign brand, fifty percent (50%): Provided, That this rate shall apply regardless of whether or not the right to use or title to the foreign brand was sold or transferred by its owner to the local manufacturer. Whenever it has to be determined whether or not a cigarette bears a foreign brand, the listing of brands manufactured in foreign countries appearing in the current World Tobacco Directory shall govern.
+
+“(2) On other locally manufactured cigarettes, forty percent (40%).
+
+“Duly registered or existing brands of cigarettes packed in twenties shall not be allowed to be packed in thirties.
+
+“When the existing registered wholesale price, including tax, of cigarettes packed in twenties does not exceed P3.60 per pack, the rate for the cigarettes packed in thirties shall apply.
+
+“(d) Imported cigarettes . – If the cigarettes are of foreign manufacture, regardless of the contents per pack, there shall be levied, assessed and collected an ad valorem tax of sixty-five percent (65%) of the importer’s wholesale price.
+
+“For purposes of this section, ‘manufacturer’s or importer’s registered wholesale price’ shall include the ad valorem tax imposed in paragraphs (a), (b), (c) or (d) hereof and the amount intended to cover the value-added tax imposed under Title IV of this Code.”
+
+SEC. 13. Section 128 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 145. Manufactured oils and other fuels . – There shall be collected on refined and manufactured mineral oils and motor fuels, the following excise taxes which shall attach to the goods hereunder enumerated as soon as they are in existence as such:
+
+“(a) For products subject to specific tax only:
+
+“(1) Lubricating oils and greases including but not limited to basestock for lube oils and greases, high vacuum distillates, aromatic extracts and other similar preparations, and additives for lubricating oils and greases whether such additives are petroleum based or not, per liter of volume capacity, four pesos and fifty centavos (P4.50): Provided , however , That the excise taxes paid on the purchased feedstock (bunker) used in the manufacture of excisable articles and forming part thereof shall be credited against the excise tax due therefrom: Provided , further , That lubricating oils and greases produced from basestocks and additives on which the specific tax has already been paid, shall no longer be subject to specific tax;
+
+“(2) Processed gas, per liter of volume capacity, five centavos;
+
+“(3) Waxes and petrolatum per kilogram, three pesos and fifty centavos; and
+
+“(4) On denatured alcohol to be used for motive power, per liter of volume capacity, five centavos: Provided , That unless otherwise provided by special laws, if the denatured alcohol is mixed with gasoline, the excise tax on which has already been paid, only the alcohol content shall be subject to the tax herein prescribed. For purposes of this subsection, the removal of denatured alcohol of not less than one hundred eighty degrees proof (ninety percent absolute alcohol) shall be deemed to have been removed for motive power, unless shown otherwise.
+
+For products subject to ad valorem tax only:
+
+AD VALOREM TAX RATE
+
+48%
+
+24%
+
+0%
+
+“The ad valorem tax imposed in this paragraph shall be based on the company take or netback on the product as approved by the Energy Regulatory Board including the said ad valorem tax.”
+
+SEC. 14. Section 135 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 148. Saccharine . – There shall be collected on saccharine, sodium saccharine and all its derivatives on salts of saccharine and other artificial sweetening agents, a tax of sixty pesos (P60) per kilogram.”
+
+SEC. 15. Section 135-A of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 149. Automobiles . – There shall be levied, assessed and collected an ad valorem tax on automobiles based on the manufacturer’s or importer’s selling price; net of excise and value-added tax, in accordance with the following schedule:
+
+“ Engine displacement (in cc)
+
+Gasoline
+
+Diesel
+
+Tax Rate
+
+Provided, That in the case of imported automobiles not for sale, the tax imposed herein shall be based on the total value used by the Bureau of Customs in determining tariff and customs duties, including customs duty and all other charges, plus (10%) of the total thereof.
+
+SEC. 16. Paragraphs (1) (a), (b) and (g) of Section 163 of the National Internal Revenue Code are hereby renumbered and amended to read as follows:
+
+“SEC. 150. Non-essential goods . – There shall be levied, assessed and collected a tax equivalent to 20% based on the wholesale price or the value of importation used by the Bureau of Customs in determining tariff and customs duties; net of excise tax and value-added tax, of the following goods:
+
+“(a) All goods commonly or commercially known as jewelry, whether real or imitation, pearls, precious and semi-precious stones and imitations thereof; goods made of, or ornamented, mounted or fitted with, precious metals or imitations thereof or ivory (not including surgical and dental instruments, silver-plated wares, frames or mountings for spectacles or eyeglasses, and dental gold or gold alloys and other precious metals used in filling, mounting or fitting of the teeth); opera glasses and lorgnettes. The term ‘precious metals’ shall include platinum, gold, silver, and other metals of similar or greater value. The terms ‘imitations thereof’ shall include platings and alloys of such metals;
+
+“(b) Perfumes and toilet waters;
+
+“(c) Yachts and other vessels intended for pleasure or sports.”
+
+SEC. 17. Sections 129 and 132; Paragraph (b) of Section 216, Sections 217, 218 and 219 of the National Internal Revenue Code are hereby integrated, renumbered and amended to read as follows:
+
+“SEC. 151. Mineral products . – (a) Rates of tax. – There shall be levied, assessed and collected on mineral, mineral products and quarry resources, excise tax as follows:
+
+“(1) On coal and coke, a tax of ten pesos (P10.00) per metric ton.
+
+“(2) On all non-metallic minerals and quarry resources, a tax of three percent (3%) based on the actual market value of the annual gross output thereof at the time of removal, in the case of those locally extracted or produced; or the value used by the Bureau of Customs in determining tariff and customs duties, net of excise tax and value-added tax in the case of importation.
+
+“(3) On all metallic minerals, a tax of five percent (5%) based on the actual market value of the gross output thereof at the time of removal, in the case of those locally extracted or produced; or the value used by the Bureau of Customs in determining tariff and customs duties, net of excise tax and value-added tax, in the case of importation.
+
+“(4) On indigenous petroleum, a tax of twenty-two percent (22%) of the fair international market price thereof, on the first taxable sale, such tax to be paid by the buyer or purchaser within 15 days from the date of actual or constructive delivery to the said buyer or purchaser. The phrase ‘first taxable sale, barter, exchange or similar transaction’ means the transfer of indigenous petroleum in its original state to a first taxable transferee. The fair international market price shall be determined in consultation with an appropriate government agency.
+
+“For the purpose of this subsection, `indigenous petroleum’ shall include locally extracted mineral oil, hydrocarbon gas, bitumen, crude asphalt, mineral gas and all other similar or naturally associated substances with the exception of coal, peat, bituminous shale and/or stratified mineral deposits.
+
+“(b) For purposes of this section, the term –
+
+“(1) ‘Gross output’ shall be interpreted as the actual market value of minerals or mineral products, or of bullion from each mine or mineral lands operated as a separate entity without any deduction from mining, milling, refining, (including all expenses incurred to prepare the said minerals or mineral products in a marketable state) as well as transporting, handling, marketing, or any other expenses: Provided , That if the minerals or mineral products are sold or consigned abroad by the lessee or owner of the mine under C.I.F. terms, the actual cost of ocean freight and insurance shall be deducted: Provided , however , That in the case of mineral concentrate not traded in commodity exchanges in the Philippines or abroad such as copper concentrate, the actual market value shall be the world price quotations of the refined mineral products content thereof prevailing in the said commodity exchanges, after deducting the smelting, refining and other charges incurred in the process of converting the mineral concentrates into refined metal traded in those commodity exchanges.
+
+“(2) ‘Minerals’ shall mean all naturally occurring inorganic substances (found in nature) whether in solid, liquid or gaseous, or any intermediate state
+
+“(3) ‘Mineral products’ shall mean things produced and prepared in a marketable state by simple treatment processes such as washing or drying, but without undergoing any chemical change or process or manufacturing by the lessee, concessionaire or owner of mineral lands.
+
+“(4) ‘Quarry resources’ shall mean any common stone or other common mineral substances as the Director of the Bureau of Mines and Geo-Sciences may declare to be quarry resources such as but not restricted to marl, marble, granite, volcanic cinders, basalt, tuff and rock phosphate: Provided, That they contain no metal or metals or other valuable minerals in economically workable quantities.
+
+“(c) Time, manner and place of payment of excise tax on mineral and mineral products .  – Unless otherwise provided, the excise tax on minerals and mineral products shall be due and payable upon removal of the minerals or mineral products or quarry resources from the locality where mined or upon removal from customs custody in the case of importations.
+
+“Any person liable to pay the excise tax on locally produced or extracted mineral, mineral products or quarry resources shall, before removal of such products file, in duplicate, a return setting forth the quantity and the actual market value of the mineral or mineral products to be removed and pay the excise taxes due thereon to the Collection Agent, or the Treasurer of the city or municipality of the place where the mine is located except as herein below provided.
+
+“However, the output of the mine may be removed from such locality without the prepayment of such excise taxes if the lessee, owner, or operator of the mining claim shall file a bond in the form and amount and with such sureties as the Commissioner may require, conditioned upon the payment of such excise taxes. It shall be the duty of every lessee, owner or operator to make a true and complete return in duplicate setting forth the quantity and the actual market value of the minerals or mineral products or quarry resources removed during such calendar quarter, of the balance, if any, in cases where payments are made upon removal, and pay the excise taxes due thereon within 20 days after the end of such quarter to the Collection Agent, or the Treasurer of the city or municipality of the place where the mine is located.
+
+“In the case of indigenous petroleum, the tax due thereon shall be paid by the buyer or purchaser within 15 days from the date of actual or constructive delivery to the said buyer or purchaser.”
+
+SEC. 18. Section 141 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 157. Removal of articles after payment of tax . – When the tax has been paid on articles or products subject to excise tax the same shall not thereafter be stored or permitted to remain in the distillery, distillery warehouse, bonded warehouse, or other factory or place where produced. However, upon prior permit from the Commissioner, oil refineries and/or companies may store or deposit tax-paid petroleum products and commingle the same with its own bonded products. Imported petroleum products may be allowed to be withdrawn from customs custody without the prepayment of excise tax which products may be commingled with the tax-paid or bonded products of the importer himself after securing a prior permit from the Commissioner of Internal Revenue: Provided, That withdrawals shall be taxed and accounted for on a ‘first-in, first-out’ basis.”
+
+SEC. 19. Section 180 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 237. Registration of name or style with the revenue district officer or collection agent . – Every person, other than persons required to be registered under the provisions of Section 107, engaged in any business shall, or on before the commencement of his business, or whenever he transfers to another revenue district, register with the revenue district officer concerned within 10 days from commencement of business or transfer. In cities or municipalities where no revenue district officer is stationed, such person shall register with the collection agent.  The registration shall contain his name or style, place of residence, business, the place where such business is carried on, and such other information as may be required by the Commissioner in the form prescribed therefor. In case of a firm, the names and residences of the various persons constituting the same shall also be registered. The Commissioner, after taking into consideration the volume of sales, financial condition and other relevant factors, may require the registrant to guarantee the payment of his taxes by way of advance payment, or the posting or filing of a security, guarantee or collateral acceptable to the Commissioner.”
+
+SEC. 20. Section 181 of the National Internal Revenue Code is hereby renumbered and amended to read as follows:
+
+“SEC. 238. Issuance of Receipts or Sales or Commercial Invoices. – All persons, subject to an internal revenue tax shall for each sale or transfer of merchandise or for services rendered valued at P25 or more, issue receipts or sales or commercial invoices, prepared at least in duplicate, showing the date of transaction, quantity, unit cost and description of merchandise or nature of service: Provided , That in the case of sales, receipts or transfers in the amount of P100 or more, or, regardless of amount, where the sale or transfer is made by persons subject to value-added tax to other persons also subject to value-added tax; or, where the receipt is issued to cover payment made as rentals, commissions, compensations or fees, receipts or invoices shall be issued which shall show the name, business style, if any, and address of the purchaser, customer, or client. The original of each receipt or invoice shall be issued to the purchaser, customer or client at the time the transaction is effected, who, if engaged in business or in the exercise of profession, shall keep and preserve the same in his place of business for a period of 3 years from the close of the taxable year in which such invoice or receipt was issued, while the duplicate shall be kept and preserved by the issuer, also in his place of business, for a like period.
+
+“The Commissioner may, in meritorious cases, exempt any person subject to an internal revenue tax from compliance with the provisions of this section.”
+
+SEC. 21. Sections 122, 130, 134; Sections 157 to 161, inclusive, paragraphs (1) (c) to (f), inclusive, and (h) to (q); and paragraphs (2) to (4) of Section 163; Sections 164 to 170, inclusive; Sections 174, 176, 179; Sections 215; paragraph (a) of Section 216; Sections 222, 224 and 225, Sections 230 to 238, inclusive, Sections 241, 279, 280, 297, 323 and 324 all of the National Internal Revenue Code are hereby repealed.
+
+SEC. 22. The imposition of occupation fee and rentals provided in Sections 215 and 216(a) respectively, of the National Internal Revenue Code shall henceforth be collected by the municipality or city where the mining claim is situated. The disposition of the collection shall continue to be in accordance with the provisions of said Sections 215 and 216(a).
+
+The entire provisions of Chapter V, Title VIII of the National Internal Revenue Code governing the charges on forest products, including Section 297 of the same Code are hereby transferred to and shall form part of Presidential Decree No. 705, as amended, otherwise known as the Revised Forestry Code of the Philippines. All references to the Bureau of Internal Revenue, Commissioner of Internal Revenue and Ministry of Finance in the said Chapter V shall henceforth refer to the Forest Management Bureau, Director of Forest Management Bureau and Secretary of Environment and Natural Resources, respectively.
+
+SEC. 23. The following sections of the National Internal Revenue Code and all references thereto are hereby renumbered as follows:
+
+Present Number
+
+New Number
+
+Section 26
+
+Section 27
+
+Section 28
+
+Section 29
+
+Section 30
+
+Section 31
+
+Section 32
+
+Section 33
+
+Section 34
+
+Section 35
+
+Section 36
+
+Section 37
+
+Section 38
+
+Section 39
+
+Section 40
+
+Section 41
+
+Section 42
+
+Section 43
+
+Section 44
+
+Section 45
+
+Section 46
+
+Section 47
+
+Section 48
+
+Section 49
+
+Section 50
+
+Section 51
+
+Section 52
+
+Section 53
+
+Section 54
+
+Section 55
+
+Section 56
+
+Section 57
+
+Section 58
+
+Section 59
+
+Section 60
+
+Section 61
+
+Section 62
+
+Section 63
+
+Section 64
+
+Section 65
+
+Section 66
+
+Section 67
+
+Section 68
+
+Section 69
+
+Section 70
+
+Section 71
+
+Section 72
+
+Section 73
+
+Section 74
+
+Section 75
+
+Section 76
+
+Section 77
+
+Section 78
+
+Section 79
+
+Section 80
+
+Section 81
+
+Section 82
+
+Section 83
+
+Section 84
+
+Section 85
+
+Section 86
+
+Section 87
+
+Section 88
+
+Section 89
+
+Section 90
+
+Section 91
+
+Section 92
+
+Section 93
+
+Section 94
+
+Section 95
+
+Section 96
+
+Section 97
+
+Section 98
+
+Section 113
+
+Section 114
+
+Section 115
+
+Section 116
+
+Section 117
+
+Section 118
+
+Section 119
+
+Section 120
+
+Section 121
+
+Section 122
+
+Section 123
+
+Section 124
+
+Section 125
+
+Section 126
+
+Section 127
+
+Section 128
+
+Section 129
+
+Section 130
+
+Section 131
+
+Section 132
+
+Section 133
+
+Section 134
+
+Section 135
+
+Section 136
+
+Section 137
+
+Section 138
+
+Section 139
+
+Section 140
+
+Section 141
+
+Section 142
+
+Section 143
+
+Section 144
+
+Section 145
+
+Section 146
+
+Section 147
+
+Section 148
+
+Section 149
+
+Section 150
+
+Section 151
+
+Section 152
+
+Section 153
+
+Section 154
+
+Section 155
+
+Section 156
+
+Section 157
+
+Section 158
+
+Section 159
+
+Section 160
+
+Section 161
+
+Section 162
+
+Section 163
+
+Section 164
+
+Section 165
+
+Section 166
+
+Section 167
+
+Section 168
+
+Section 169
+
+Section 170
+
+Section 171
+
+Section 172
+
+Section 173
+
+Section 174
+
+Section 175
+
+Section 176
+
+Section 177
+
+Section 178
+
+Section 179
+
+Section 180
+
+Section 181
+
+Section 182
+
+Section 183
+
+Section 184
+
+Section 185
+
+Section 186
+
+Section 187
+
+Section 188
+
+Section 189
+
+Section 190
+
+Section 191
+
+Section 192
+
+Section 193
+
+Section 194
+
+Section 195
+
+Section 196
+
+Section 197
+
+Section 198
+
+Section 199
+
+Section 200
+
+Section 201
+
+Section 202
+
+Section 203
+
+Section 204
+
+Section 205
+
+Section 206
+
+Section 207
+
+Section 208
+
+Section 209
+
+Section 210
+
+Section 211
+
+Section 212
+
+Section 213
+
+Section 214
+
+Section 215
+
+Section 216
+
+Section 217
+
+Section 218
+
+Section 219
+
+Section 220
+
+Section 221
+
+Section 222
+
+Section 223
+
+Section 224
+
+Section 225
+
+Section 226
+
+Section 227
+
+Section 228
+
+Section 229
+
+Section 230
+
+Section 231
+
+Section 232
+
+Section 233
+
+Section 234
+
+Section 235
+
+Section 236
+
+Section 237
+
+Section 238
+
+Section 239
+
+Section 240
+
+Section 241
+
+Section 242
+
+Section 243
+
+Section 244
+
+Section 245
+
+Section 246
+
+Section 247
+
+Section 248
+
+Section 249
+
+Section 250
+
+Section 251
+
+Section 252
+
+Section 253
+
+Section 254
+
+Section 255
+
+Section 256
+
+Section 257
+
+Section 258
+
+Section 259
+
+Section 260
+
+Section 261
+
+Section 262
+
+Section 263
+
+Section 264
+
+Section 265
+
+Section 266
+
+Section 267
+
+Section 268
+
+Section 269
+
+Section 270
+
+Section 271
+
+Section 272
+
+Section 273
+
+Section 274
+
+Section 275
+
+Section 276
+
+Section 277
+
+Section 278
+
+Section 279
+
+Section 280
+
+Section 281
+
+Section 282
+
+Section 283
+
+Section 284
+
+Section 285
+
+Section 286
+
+Section 287
+
+SEC. 24. The provisions of the National Internal Revenue Code as renumbered under this Executive Order are hereby rearranged according to the following Titles:
+
+Title
+
+Chapter
+
+Part
+
+Sections Contained
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+SEC. 25. – Transitory Provisions . – (a) All VAT-registered persons shall be allowed transitional input taxes which can be credited against output tax in the same manner as provided in Section 104 of the National Internal Revenue Code as follows:
+
+1) The balance of the deferred sales tax credit account as of December 31, 1987 which are accounted for in accordance with regulations prescribed therefor;
+
+2) A presumptive input tax equivalent to 8% of the value of the inventory as of December 31, 1987 of materials and supplies which are not for sale, the tax on which was not taken up or claimed as deferred sales tax credit; and
+
+3) A presumptive input tax equivalent to 8% of the value of the inventory as of December 31, 1987 of goods for sale, the tax on which was not taken up or claimed as deferred sales tax credit.
+
+Tax credit prescribed in paragraphs (2) and (3) above shall be allowed only to a VAT-registered person who files an inventory of the goods referred to in said paragraphs as provided in regulations.
+
+(b) Any unused tax credit certificate issued prior to January 1, 1988 for excess tax credits which are applicable against advance sales tax shall be surrendered to, and replaced by the Commissioner with new tax credit certificates which can be used in payment for value-added tax liabilities.
+
+(c) Any person already engaged in business whose gross sales or receipts for a 12-month period from September 1, 1986 to August 1, 1987, exceed the amount of P200,000, or any person who has been in business for less than 12 months as of August 31, 1987 but expects his gross sales or receipts to exceed P200,000 on or before December 31, 1987, shall apply for registration on or before October 29, 1987.
+
+SEC. 26. The funds needed to carry out the provisions of this Executive Order shall be drawn from the appropriations authorized for the Bureau of Internal Revenue for CY 1987. Any deficiency shall be covered by the contingency fund provided by the current General Appropriations Act. For CY 1988 and thereafter, such sums shall be included in the annual General Appropriations Act.
+
+SEC. 27. The Secretary of Finance, upon recommendation of the Commissioner of Internal Revenue, shall promulgate the rules and regulations to effectively implement this Executive Order.
+
+SEC. 28. The Commissioner of Internal Revenue shall codify and consolidate all internal revenue laws embodied in the present National Internal Revenue Code, as amended by various Executive Orders, and other issuances, and cause the publication thereof.
+
+SEC. 29. The provisions of any law, whether general or special, rules and regulations and other issuances or parts thereof which are inconsistent with this Order are hereby repealed, amended or modified accordingly.
+
+SEC. 30. This order shall take effect on January 1, 1988: Provided , That the provisions of Section 25 (c) hereof shall take effect immediately upon approval of this Order.

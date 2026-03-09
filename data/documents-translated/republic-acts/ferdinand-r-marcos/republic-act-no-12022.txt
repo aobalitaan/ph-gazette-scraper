@@ -1,0 +1,1196 @@
+H. Nos. 3917 and 9284
+
+Metra Manila
+
+day of July, two thousand twenty-four.
+
+—_—_
+
+AN ACT DEFINING THE CRIMES OF AGRICULTURAL
+ECONOMIC SABOTAGE, PRESCRIBING PENALTIES
+THEREFOR, VESTING JURISDICTION OVER SUCH
+OFFENSES WITH THE COURT OF TAX APPEALS,
+PROVIDING MECHANISMS FOR ITS
+IMPLEMENTATION AND ENFORCEMENT,
+REPEALING FOR THE PURPOSE REPUBLIC ACT
+NO. 10845 OR THE “ANTI-AGRICULTURAL
+SMUGGLING ACT OF 2016”
+
+Be it enacted by the Senate and House of Representatives of the
+Philippines in Congress assembled:
+
+CHAPTER I
+PRELIMINARY PROVISIONS
+
+SECTION 1. Short Title. — This Act shall be known as
+the “Anti-Agricultural Economic Sabotage Act”.
+
+CHAPTER II
+GENERAL AND COMMON PROVISIONS
+
+SEC. 2. Declaration of Policy. - It is the policy of the
+State to promote the productivity of the agriculture sector,
+protect farmers and fisherfolk from unscrupulous traders and
+importers, and ensure reasonable and affordable prices of
+agricultural and fishery products for consumers.
+
+It is the policy of the State to prevent smuggling of
+agricultural and fishery products, which negatively affects
+supply, production, and price stability of agricultural products
+and threatens food security. The State shall also eliminate
+hoarding, profiteering, and cartel that unduly restrain supply
+and manipulate prices. These illegal acts likewise deprive the
+State of much needed taxes and revenues for economic
+development.
+
+The State shall therefore impose severe sanctions on the
+nefarious acts of smuggling, hoarding, profiteering, and cartel
+of agricultural and fishery products as a self-preservation
+measure to shield itself from the manipulative scheme of
+economic saboteurs, protect the livelihood of our farmers, plug
+leakages in tax and duty collections on these products, protect
+the State from tax evaders and non-payors of duties, and
+ensure the well-being of agricultural and fishery producers, the
+welfare of the consumers, and the soundness of the economy.
+
+SEC. 3. Definition of Terms. — For purposes of this Act:
+
+(a) Abnormal Situation refers to supply shortage or
+unreasonable increase in prices of agricultural and fishery
+products. It may pertain to only one (1) agricultural or fishery
+product;
+
+(b) Broker refers to any person who acts as such, whether
+licensed or not, whose services consist of any of the following:
+consultation; preparation of customs requisite document for
+imports and exports; declaration of customs duties and taxes:
+preparation, signing, filing, lodging, and processing of import
+entries; acting as facilitator; acting as agent of importers before
+government agencies and private entities; and rendering other
+services on matters relating to customs and tariff laws, its
+procedures, and practices;
+
+(c) Constructive Custody refers to the authority of the
+Anti-Agricultural Economic Sabotage Enforcement Group
+(Enforcement Group) under Section 18 of this Act to restrict
+or prevent the movement or removal, from the place of
+discovery or storage, of agricultural or fishery products that
+are suspected of being the subject of smuggling, hoarding,
+profiteering, or cartel during the twenty-four (24)-hour period
+given to the owner or possessor of the said products to show
+proof of compliance with or non-violation of this Act;
+
+(d) Daily Price Index (DPI) refers to a system of
+monitoring and publishing or broadcasting the prevailing retail
+prices of agricultural and fishery products in all regions of the
+country on a day-to-day basis;
+
+(e) Economic Sabotage in agriculture refers to any act
+or activity that disrupts the economy by creating artificial
+shortage, promoting excessive importation, manipulating prices
+and supply, evading payment or underpaying tariffs and
+customs duties, threatening local production and food security,
+gaining excessive or exorbitant profits by exploiting situations,
+creating scarcity, and entering into agreements that defeat fair
+competition to the prejudice of the public;
+
+(f) Import Clearance refers to a written certificate issued
+by the concerned regulatory agency stating the volume,
+classification, and quality of the imported product. This
+includes the Minimum Access Volume (MAV) import
+certificate, import permit, Sanitary and Phytosanitary (SPS)
+Import Clearance, Clearance for Release of Imported Sugar, or
+any other equivalent document issued for the importation of
+agricultural and fishery products;
+
+(g) Importation refers to the act of bringing in goods from
+a foreign territory into the Philippine territory, whether for
+consumption, warehousing, or admission as defined in Republic
+Act No. 10863 or the “Customs Modernization and Tariff Act
+(CMTA)”;
+
+(h) Person refers to a natural or juridical person;
+
+(i) Sanitary and Phytosanitary (SPS) Measures refer to
+any legislation, regulation, requirement, or procedure applied
+
+for the purpose of (1) protecting animal or plant life and health
+within the territory of the Philippines from risks arising
+from the entry, establishment, or spread of pests, diseases,
+disease-carrying organisms or disease-causing organisms;
+(2) protecting human or animal life and health from risks
+arising from additives, contaminants, toxins, or disease-causing
+organisms in agricultural imported products; (3) protecting
+human life and health from risks arising from diseases carried
+by animals, plants, or products thereof, or from the entry,
+establishment, or spread of pests; or (4) preventing or limiting
+other damage from the entry, establishment, or spread of pests
+within the territory of the Philippines;
+
+G) Simple Process of Preparation or Preservation of an
+Agricultural and Fishery Product for the Market refers to the
+process of handling agricultural and fishery products in its
+original state through freezing, drying, salting, broiling,
+roasting, smoking, or stripping;
+
+(k) SPS Import Clearance refers to the document issued
+by the concerned bureau or agency prior to importation to
+ensure that imported products meet the standards to protect
+human, animal, or plant life and health, ensure that the
+agricultural or fishery products are safe for consumers, and
+to prevent the spread of pests or diseases among animals or
+plants. Such document also prescribes the conditions to be
+complied with by the importer to maintain the quality and
+suitability of the product for its intended purpose;
+
+() Tobacco refers to unmanufactured and manufactured
+tobacco, including finished products such as cigars, cigarettes,
+or heated tobacco products.
+
+Unmanufactured tobacco refers to agricultural
+components derived from the tobacco plant, which are
+processed for use in the manufacturing of cigarettes and other
+tobacco products.
+
+Manufactured tobacco refers to any finished product that
+contains tobacco such as cigarettes, cigars, heated tobacco
+products, or any product containing tobacco that is intended
+for smoking, heating, puffing, oral, or nasal use.
+
+For purposes of this Act, smuggled tobacco refers to
+tobacco that is:
+
+(1) Not compliant with prevailing laws, or with the
+following processes and requirements of the Bureau of Internal
+Revenue (BIR) andor other relevant regulatory agencies for the
+importation of tobacco products including the:
+
+(i) Registration with the BIR of the particular variant
+and brand to be imported;
+
+(ii) Pre-approval of packaging bearing the required graphic
+health warnings and other mandated fiscal markings for
+imported tobacco products; and
+
+(ii) Advance payment of excise taxes and affixing of genuine
+required tax stamp or marking as proof of payment; or
+
+(2) Subject of a misdeclaration, misclassification, and/or
+undervaluation, resulting in the non-payment of the proper
+customs duties.
+
+The sale of tobacco products at a price thirty percent
+(30%) below the DPI shall raise the presumption that acts of
+smuggling have been committed;
+
+(m) Trade Regulatory Agencies refer to the Bureau of
+Plant Industry (BPI), Bureau of Animal Industry (BAI), Bureau
+of Fisheries and Aquatic Resources (BFAR), National Meat
+Inspection Service (NMIS), National Tobacco Administration
+(NTA), and Sugar Regulatory Administration (SRA); and
+
+(n) Value refers to the retail prices of agricultural and
+fishery products as set by the DPI, multiplied by the quantity
+of the product at the time of the commission of the crime.
+For manufactured tobacco, the retail price shall be inclusive
+of excise tax and value-added tax (VAT).
+
+SEC. 4. Covered Agricultural and Fishery Products. —
+The following agricultural and fishery products are covered
+under this Act: rice, corn, beef and other ruminants, pork,
+poultry, garlic, onion, carrots, other vegetables, fruits, fish, salt,
+and other aquatic products in their raw state or which have
+
+undergone the simple process of preparation or preservation
+for the market within the primary and post-harvest stages of
+the food supply chain, palm oil, palm olein, raw and refined
+sugar, and tobacco.
+
+SEC. 5. Daily Price Index. — In support of the
+implementation of this Act, the Agribusiness and Marketing
+Assistance Service (AMAS) and the Bureau of Agricultural
+Research (BAR) of the Department of Agriculture (DA) are
+hereby mandated to establish, strengthen, and maintain a DPI:
+
+Provided, That the BIR, in consultation with the NTA,
+will set a minimum price for the sale of tobacco products. The
+minimum retail price shall take into account the applicable
+taxes, reasonable production cost, and trade margins for the
+lowest priced brands registered with the BIR.
+
+The AMAS and BAR, in coming up with the prices,
+shall ensure that the DPI exhibits transparency and
+accountability and is published on their official websites and
+social media platforms. These agencies shall be subject to a
+periodic audit by an independent party to be decided upon by
+the Anti-Agricultural Economic Sabotage Council (Council).
+
+The DA shall finish the establishment of the DPI within
+ninety (90) days from the effectivity of this Act.
+
+’ Failure in the implementation of this section shall render
+the head of the concerned offices of the DA liable for
+administrative and criminal prosecution in accordance with
+applicable laws and regulations.
+
+SEC. 6. Registration and Reportorial Requirements. —
+Upon effectivity of this Act, all persons engaged in a business
+involving agricultural and fishery products shall maintain
+records of their business, which shall be safely stored for five
+(5) years from the dates of transactions.
+
+All persons with warehouses, cold storage facilities, or
+any property involved in the storage of agricultural and
+fishery products, whether owned, leased, or maintained
+through third persons, shall, upon effectivity of this Act,
+register the storage facilities with the appropriate regulatory
+agencies, stating therein:
+
+(a) The name of the owner of the facility;
+
+(b) The contractual arrangement for the use of the facility
+(whether leased or other arrangements), if applicable;
+
+(c) The complete address of the facility;
+
+(d) The agricultural and fishery products being stored in
+said facility;
+
+(e) The maximum storage capacity of the facility for a
+particular product in bags, sacks, or kilos; and
+
+(f) The inventory of any agricultural product in the
+facility at any given time.
+
+They shall prepare a monthly report on the operations
+of the said facilities, which shall include an inventory of any
+agricultural product in the facilities at any given time, which
+shall be electronically submitted quarterly to the Council, under
+Section 15 of this Act, through the regulatory agency.
+
+Failure to produce documents and/or records required to
+be acquired or maintained under this Act, applicable laws,
+rules, or regulations in connection to a business transaction,
+or failure to produce a copy of an updated report of the
+operations of the facilities as submitted to the Council through
+the regulatory agency, upon demand by any member or a
+combination of members of the Enforcement Group, shall
+constitute a prima facie evidence of violation of this Act:
+Provided, That the collection, storage, utilization, and
+transmission of such record submitted to the Council shall be
+Privacy Act of 2012”.
+
+CHAPTER III
+ECONOMIC SABOTAGE
+
+SEC. 7. Agricultural Smuggling as Economic Sabotage. —
+Smuggling is the fraudulent act of importing or bringing
+agricultural and fishery products into the country, or the act
+of assisting in receiving, concealing, buying, selling, disposing,
+storing, or transporting such products, with full knowledge that
+the same have been fraudulently imported.
+
+The crime of agricultural smuggling as economic sabotage
+is committed when the value of each or of the combination
+of agricultural and fishery products smuggled by a person is
+at least Ten million pesos (P10,000,000.00) computed using the
+DPI at the time the crime was committed.
+
+Agricultural smuggling as used in this Act shall be
+committed through any of the following acts:
+
+(a) Importing or bringing agricultural and fishery products
+into the Philippines without the required import clearance from
+regulatory agencies;
+
+(b) Use of import clearance by persons other than those
+specifically named in the permit;
+
+(c) Use of fake, false, fictitious, or fraudulent import clearance,
+shipping documents, or any other transport documentation;
+
+(a) Selling, lending, leasing, assigning, consenting to, or
+allowing the use by other persons of the import clearance in
+the name of corporations, nongovernment organizations,
+associations, cooperatives, partnerships, or single proprietorships;
+
+(e) Misclassification, undervaluation, or misdeclaration upon
+the filing of import entry declaration or transport documentation
+with the Bureau of Customs (BOC) in order to evade the
+payment of correct taxes and duties due the government;
+
+(f) Organizing or using dummy corporations,
+nongovernment organizations, associations, cooperatives,
+partnerships, or single proprietorships for the purpose of
+acquiring import clearance;
+
+(g) Knowingly transporting or storing smuggled
+agricultural and fishery products;
+
+(h) Acting as a broker of the importer;
+
+(i) Allowing the use of a private port, fish port, fish landing
+site, resort, and/or airport to perpetrate economic sabotage;
+
+G) Distributing, selling, or dealing in any other manner
+with any agricultural and fishery product which a person
+knows or should have known to have been imported through
+
+any of the above means, regardless of the value. Selling of
+tobacco products below the DPI is likewise prohibited; or
+
+(k) Having been convicted of acts of smuggling under
+relevant provisions of the CMTA on two (2) separate instances,
+commits a third violation, which shall now be covered by this
+Act, regardless of the value of the product.
+
+The Enforcement Group, on the strength of a Letter of
+Authority (LOA) issued by the Council, shall have the
+authority to visit areas where the agricultural and fishery
+products are located, for the purpose of ensuring compliance
+with this Act and other relevant laws concerning the
+importation, storage, and/or sale of agricultural and fishery
+products. The Enforcement Group shall give due notice to
+the relevant persons, who may be the owner, possessor, or
+person exercising control over the agricultural and fishery
+products, to provide proof of compliance with this Act,
+particularly import documents and proof of payment of duties
+and taxes in the case of importers, and purchase receipts from
+suppliers in the case of business establishments other than
+importers, within twenty-four (24) hours, pending which, the
+goods shall be placed in the constructive custody of the
+Enforcement Group.
+
+In the event that the relevant person fails to produce
+such evidence of compliance within twenty-four (24) hours, the
+Enforcement Group shall immediately apply for a seizure order
+and file the relevant case or criminal action in court. Pending
+the issuance or denial of the seizure order, the subject goods
+shall remain in constructive custody.
+
+The mere possession or presence of agricultural and
+fishery products which have been the subject of smuggling
+referred to in this Act in any fish port, fish landing site, resort,
+airport, BOC-controlled port, or any warehouse, cold storage,
+vessel, transport conveyance, and other storage areas shall
+constitute prima facie evidence of agricultural smuggling as
+economic sabotage.
+
+Any provision of the CMTA to the contrary
+notwithstanding:
+
+(a) The assessment of duties and taxes of the agricultural
+and fishery products shall be based on the classification entered
+in the import entry declaration;
+
+(b) The assessment and readjustment of appraisal of the
+agricultural and fishery products subject of this Act, insofar
+as allowing the BOC to adjust and settle the final assessment,
+are hereby disallowed; and
+
+(c) The Trade Regulatory Agencies are hereby empowered
+to declare misclassification and misdeclaration, as found in
+violation of the import clearance.
+
+SEC. 7-A. Implementation of the National Single Window
+(NSW). - The BOC and all Trade Regulatory Agencies shall
+fully implement the NSW program as originally mandated in
+Executive Order No. 482, series of 2005, within ninety (90)
+days from the effectivity of this Act.
+
+Upon the effectivity of this Act and until the full
+implementation of the NSW, the BOC and Trade Regulatory
+Agencies concerned shall, immediately after approval of import
+application and receipt of notice of arrival, furnish the Council
+with electronic copies of the following:
+
+(a) All import applications containing relevant information
+of the importer(s), consignee(s), and broker(s);
+
+(b) All import orders and import clearances;
+
+(c) Name and other relevant information of the foreign
+exporter(s);
+
+(d) All certificates issued in the country of origin proving
+compliance with the conditions set in the import clearance;
+
+(e) Other equivalent documents issued to or submitted by
+importers of agricultural and fishery products; and
+
+(f) Such other relevant documents as may be required by the Council pursuant to the implementation of this Act.
+
+Failure to implement the NSW and/or furnish the
+Council with the above-enumerated documents shall subject the
+head of the concerned office of the BOC and Trade Regulatory
+
+Il
+
+Agencies to administrative and criminal prosecution in
+accordance with applicable laws and regulations.
+
+SEC. 8. Agricultural Hoarding as Economic Sabotage. —
+Agricultural hoarding as economic sabotage is committed by
+a person or combination of persons by having stocks of
+agricultural and fishery products in excess of thirty percent
+(30%) of their normal inventory level ten (10) days after the
+declaration of an abnormal situation by the Council or after
+the declaration of an emergency or state of calamity by
+competent authority.
+
+Upon the declaration of an abnormal situation by the
+Council, or an emergency or state of calamity by competent
+authority, all persons shall sell to the public their stocks of
+agricultural and fishery products in excess of their normal
+inventory level within ten (10) days from the said declaration.
+
+After ten (10) days from said declaration, the Enforcement
+Group, on the strength of a LOA issued by the Council, shall
+have the authority to visit areas where the agricultural and
+fishery products are located, for the purpose of ensuring
+compliance with this Act and other relevant laws concerning
+the sale of agricultural and fishery products to the general
+public. The Enforcement Group shall give due notice to the
+relevant persons, who may be the owner, possessor, or person
+exercising control over the agricultural and fishery products,
+to provide proof of compliance with this Act, particularly
+documentary proof that stocks are within normal inventory
+level or final contracts of sale covering existing stocks, within
+twenty-four (24) hours, pending which the goods shall be placed
+in the constructive custody of the Enforcement Group.
+
+In the event that the relevant person fails to produce
+such evidence of compliance within twenty-four (24) hours, the
+Enforcement Group shall immediately apply for a seizure order
+and file the relevant case or criminal action in court. Pending
+the issuance or denial of the seizure order, the subject goods
+shall remain in constructive custody.
+
+In cases where the business has been in existence for
+more than a year, the normal inventory level shall be the
+average inventory for the twenty-four (24)-month period
+preceding the declaration by the Council of an abnormal
+
+situation, or declaration by competent authority of emergency
+or state of calamity; otherwise, normal inventory level shall
+be the average of the months from the start of the business.
+
+SEC. 9. Agricultural Profiteering as Economic Sabotage. —
+Agricultural profiteering as economic sabotage is the sale or
+offer for sale of agricultural and fishery products at a price
+at least ten percent (10%) in excess of the DPI, at the time
+of the declaration of an abnormal situation by the Council, or
+emergency or state of calamity by competent authority.
+
+Profiteering shall not apply to retailers who purchase
+goods from wholesalers, importers, or producers, and directly
+sell in smaller quantities to the general public, usually in wet
+markets, talipapa, and cooperative stores with capitalization
+not exceeding Two hundred thousand pesos (P200,000.00),
+and farmers and fisherfolk selling their own harvest, produce,
+or catch.
+
+There shall also be prima facie evidence of profiteering
+whenever a product is sold or offered for sale at a price
+thirty percent (30%) in excess of the DPI at the time of
+said declaration.
+
+Profiteering shall not apply to price increases set by
+manufacturers of tobacco as a consequence of mandated excise
+tax increases in accordance with law.
+
+The Enforcement Group, on the strength of a LOA issued
+by the Council, shall have the authority to visit areas where
+the agricultural and fishery products suspected to be the
+subject of profiteering are located and shall give due notice to
+the relevant persons, who may be the owner, possessor, or
+person exercising control over the agricultural and fishery
+products to provide justification for the unreasonable price
+increase, such as cost of acquisition and sales receipts, within
+twenty-four (24) hours, pending which the products shall be
+placed in the constructive custody of the Enforcement Group.
+
+In the event that the relevant person fails to provide
+justification for the unreasonable price increase within
+twenty-four (24) hours, the Enforcement Group shall immediately
+apply for a seizure order and file the relevant case or criminal
+action in court. Pending the issuance or denial of the seizure
+order, the subject goods shall remain in constructive custody.
+
+SEC. 10. Engaging in Cartel as Economic Sabotage. —
+There shall be prima facie evidence of engagement in cartel
+as economic sabotage when two (2) or more persons competing
+for the same market and dealing in the same agricultural and
+fishery products agree to perform uniform, simultaneous, or
+complementary acts among themselves and actually perform
+such acts designed to artificially and unreasonably increase or
+manipulate the supply or prices of such products, thereby
+stifling competition, as defined in Section 14 of Republic Act
+No. 10667 or the “Philippine Competition Act”, to the detriment
+of consumers, or the decrease in farmgate prices to the
+detriment of the agricultural and fishery producers:
+
+Provided, That an agreement herein refers to any type
+or form of contract, arrangement, understanding, collective
+recommendation, or concerted action, whether formal or
+informal, explicit or tacit, written or oral:
+
+Provided, further, That any person or persons include
+unincorporated entity or entities, domestic or foreign, including
+those owned or controlled by the government, engaged directly
+or indirectly in any economic activity.
+
+The Enforcement Group, on the strength of a LOA issued
+by the Council, shall have the authority to visit areas where
+the agricultural and fishery products suspected to be the subject
+of cartel are located and shall give due notice to the relevant
+persons, who may be persons suspected of engaging in cartel,
+to provide justification within twenty-four (24) hours for the
+unreasonable increase of prices or manipulation of supply or
+prices of said products, such as cost of acquisition and sales
+receipts, or documentary proof that stocks are within normal
+inventory level or final contracts of sale covering existing stocks,
+whichever is applicable under the circumstances, pending which
+the products shall be placed in the constructive custody of the
+Enforcement Group.
+
+In the event that the relevant persons fail to provide
+justifiable reasons within twenty-four (24) hours for the
+unreasonable increase of prices or manipulation of supply or
+prices, the products shall remain in constructive custody and
+shall be the subject of a criminal action to be filed against
+the violators.
+
+CHAPTER IV
+OTHER PROHIBITED ACTS
+
+SEC. 11. Financing Agricultural Economic Sabotage
+Crimes. — Any person who directly or indirectly, willfully and
+without lawful excuse, possesses, provides, collects, uses, or
+makes available property, funds, financial or other related
+services, or funds the creation of dummy or fictitious entities,
+with the willful intention that they be used, in full or in part,
+to carry out or facilitate the commission of any of the crimes
+of agricultural economic sabotage shall suffer the penalty
+provided under Section 14(b) of this Act.
+
+SEC. 12. Use of Government Storage Facilities. —
+Cold storage, warehouses, and similar facilities intended for
+agricultural and fishery products granted by the government to
+cooperatives and associations shall exclusively be used by their
+farmers and fisherfolk members. Renting out to or allowing the
+use in any way by non-members, such as traders and other
+private businesses, is prohibited and will cause the revocation
+of the grant. The government shall then immediately repossess
+the storage facility, and the erring cooperatives and associations
+shall be perpetually disqualified from being granted storage
+facilities by the government.
+
+SEC. 13. Violations of the Enforcement Group. — It shall
+be a crime for an employee of a member of the Enforcement
+Group to commit any of the following acts, which shall be
+penalized under Section 14(f) of this Act:
+
+(a) Extortion or willful oppression under color of law;
+
+(b) Knowingly demanding documents or records that are
+irrelevant to the case or unjustifiably extending the
+constructive custody of the goods;
+
+(c) Failing to report knowledge or information to their
+superior officer about the commission of an act or acts
+punishable under this Act;
+
+(d) Accepting or attempting to collect, directly or
+indirectly, any sum of money or other thing of value for the
+compromise adjustment or settlement of any charge or
+complaint for any violation of this Act; and
+
+(e) Unlawfully disclosing confidential information gained
+during any investigation or audit, or using such information
+for personal gain or to the detriment of the government or
+third parties.
+
+CHAPTER V
+PENAL PROVISIONS
+
+SEC. 14. Penalties. -
+
+(a) The penalty of life imprisonment and a fine five times
+the value of the agricultural and fishery products subject of
+the crime shall be imposed on a person who commits any of
+the acts enumerated under Sections 7, 8, 9, and 10 of this
+Act, except Sections 7(g) and (i), which shall be penalized
+under subparagraphs (c) and (d) of this section.
+
+(b) The penalty of life imprisonment shall be imposed on
+any violation under Section 11 of this Act.
+
+(c) The penalty of imprisonment of not less than twenty
+(20) years but not more than thirty (30) years and a fine thrice
+the value of the agricultural and fishery products subject of
+the crime shall be imposed on the following:
+
+(1) The registered owner and its lessee or charterer, in
+case of lease of a chartered boat or motorized commercial
+vessel, who transports the agricultural and fishery products
+subject of the crime;
+
+(2) The registered owner and its lessee, in case of lease,
+of trucks, vans, and other means of transportation, who
+transports agricultural and fishery products subject of the crime;
+
+(3) The registered owner and lessee of a warehouse, cold
+storage, facility, or any property, who stores the agricultural
+and fishery products subject of the crime; or
+
+(4) The registered owner, lessee, president, or chief
+executive officer of the private port, fish port, fish landing site,
+resort, or airport who allows the entry of agricultural and
+fishery products subject of the crime within their facilities.
+
+(d) The penalty of imprisonment of not less than two (2)
+years but not more than four (4) years shall be imposed on
+drivers, warehouse men, truck helpers, clerks, or similar
+personnel who knowingly participated in the commission of
+the crime.
+
+(e) Notwithstanding the penalties on government
+employees in subparagraph (f) of this section, every officer,
+agent, or employee of any member of the Enforcement Group
+who shall be found guilty of committing any of the acts
+described in Section 13 of this Act shall be penalized with
+imprisonment of not less than six (6) years but not more than
+twelve (12) years, and perpetual disqualification from holding
+public office, exercising the right to vote, and participating in
+any public election, and a fine of not less than Five hundred
+thousand pesos (P500,000.00) but not more than One million
+pesos (P1,000,000.00).
+
+All the benefits due from service in the government,
+including the separation and retirement benefits of the officer,
+agent, or employee found guilty of the foregoing violations shall
+likewise be forfeited.
+
+(f) If a government officer or employee commits any of
+the crimes as economic sabotage, knowingly abets or aids in
+the commission of the crime, prevents the filing of a case or
+its prosecution, prevents the actual arrest of the suspect, or
+commits any of the corrupt practices under Section 3 of
+Republic Act No. 3019 or the “Anti-Graft and Corrupt Practices
+Act”, for the purpose of facilitating agricultural economic
+sabotage, the penalty shall be as provided in subparagraph (a)
+of this section; the additional penalties of perpetual
+disqualification from holding public office, exercising the right
+to vote, and participating in any public election; and forfeiture
+of employment monetary and financial benefits. Direct pecuniary
+or material benefit is not necessary to prove that a government
+officer or employee has knowingly aided and abetted the
+commission of the crime:
+
+Provided, That when the offender is a juridical person,
+criminal liability shall attach to its president, chief operating
+officer, manager, or any officer who participated in the decision
+that led to the commission of the prohibited act:
+
+Provided, further, That the agricultural and fishery
+products subject of the prohibited acts and the properties used
+to commit the crime of agricultural economic sabotage such
+as, but not limited to, vehicles, vessels, aircrafts, storage areas,
+warehouses, boxes, cases, trunks, and other containers of
+whatever character used as receptacle of agricultural and
+fishery products, shall be confiscated in favor of the
+government, subject to Section 19 of this Act:
+
+Provided, finally, That the penalties imposed under this
+Act shall be separate from any other penalties incurred under
+other existing laws.
+
+CHAPTER VI
+IMPLEMENTING BODIES
+
+SEC. 15. Anti-Agricultural Economic Sabotage Council. —
+The Anti-Agricultural Economic Sabotage Council, herein
+referred to as the Council, is hereby created and shall be
+chaired by the President or the designated permanent
+representative. It shall have the following members:
+
+(a) Department of Agriculture (DA);
+
+(b) Department of Justice (DOJ);
+
+(c) Department of Finance (DOF);
+
+(a) Department of the Interior and Local Government (DILG);
+
+(e) Department of Transportation (DOTY);
+
+(f) Department of Trade and Industry (DTI);
+
+(g) Anti-Money Laundering Council (AMLC); and
+
+(h) Philippine Competition Commission (PCC):
+
+Provided, That the representatives of the member
+agencies shall at least have the rank of an undersecretary:
+
+Provided, furthermore, That one-third of the members,
+with the chair or a designated permanent representative
+present, shall constitute a quorum:
+
+Provided, finally, That members of the Council shall be duly
+notified at least three (3) days prior to the scheduled meeting.
+
+An Advisory Body is hereby created to provide the
+Council with expert assistance and advice. The Advisory Body
+shall have one (1) representative from each of the following
+agricultural sectors, whose membership shall be nationwide:
+
+(1) Sugar;
+
+(2) Rice;
+
+(8) Corn;
+
+(4) Livestock and Poultry;
+
+(65) Vegetables and Fruits;
+
+(6) Fisheries and other aquatic products; and
+(7) Tobacco:
+
+Provided, further, That the sector representative shall be
+chosen by the President of the Philippines from a list of three
+(3) nominees submitted by the sector, and shall serve for a
+fixed term of three (3) years unless earlier replaced by the
+President upon recommendation of the sector: Provided,
+further, That the sector representatives must have prior
+experience or knowledge in pricing or trading agricultural and
+fishery products: Provided, further, That the appointed sectoral
+representative shall continue to hold office after the expiration
+of the term until a successor is appointed.
+
+SEC. 16. Powers and Functions of the Anti-Agricultural
+Economic Sabotage Council. — The Council shall have the
+following powers and functions:
+
+(a) Ensure the proper and effective implementation of the
+provisions of this Act;
+
+(b) Coordinate the preparation of appropriate and effective
+measures to prevent and suppress the prohibited acts defined
+in this Act; .
+
+(c) Establish a mechanism of information-sharing among
+concerned agencies: Provided, That confidential information
+shall be retained within the Council to protect and preserve
+the operational integrity of the Council and its prosecutorial
+and enforcement bodies;
+
+(d) Establish a comprehensive tracking and tracing
+system to oversee the value chain of agricultural commodities
+and collect and report real-time data on production, processing,
+transportation, storage, sale, import, and export documentation;
+
+(e) Direct the speedy investigation and prosecution of all
+persons accused or detained for the crimes punishable under
+this Act, and monitor the progress of their cases;
+
+(f) Coordinate and enlist the assistance of any branch,
+department, bureau, office, agency, or instrumentality of
+government, including government-owned and -controlled
+corporations, and local government units (LGUs), as well as
+the business sector and nongovernment organizations, in the
+implementation of this Act;
+
+(g) Deputize other law enforcement agencies to further
+assist the Enforcement Group;
+
+(h) Through the Executive Committee (EXECOM), exercise
+visitation and inspection powers by issuing LOA authorizing
+any member or a combination of members of the Enforcement
+Group to verify compliance with this Act and other relevant
+laws concerning the importation, purchase, storage, and sale
+of the relevant agricultural and fishery products. The
+EXECOM shall be composed of the President or the designated
+permanent representative to the Council, the DOJ, and the
+Enforcement Group;
+
+(@) Notwithstanding existing laws to the contrary,
+authorize, supervise, and direct the visitation and inspection
+by any member or a combination of members of the
+Enforcement Group, as established under the Rules of
+Engagement and pursuant to the regulatory powers of each
+concerned agency, of areas where agricultural and fishery
+products covered by this Act are stored or kept;
+
+(j) Formulate the Rules of Engagement of the
+Enforcement Group, within sixty (60) days from the effectivity
+of this Act;
+
+(k) Determine and declare the existence of an abnormal
+situation under Sections 8 and 9 of this Act;
+
+(1) Facilitate international cooperation on intelligence,
+investigation, training, and capacity-building related to
+agricultural smuggling prevention, suppression, and prosecution;
+
+(m) Hold in custody and dispose of confiscated, seized,
+and/or surrendered agricultural and fishery products subject
+of and properties used in the commission of the crime of
+economic sabotage;
+
+(n) Grant monetary rewards and other incentives to
+informers who give vital information leading to the investigation,
+apprehension, arrest, detention, prosecution, and conviction of
+person/s who are lable for the crimes punishable under this Act.
+The monetary reward and incentive to informers shall be set
+at One million pesos (P1,000,000.00) or twenty percent (20%) of
+the value of the product, whichever is higher, but not to exceed
+Twenty million pesos (P20,000,000.00);
+
+(o) Establish mechanisms to compensate persons whose
+agricultural and fishery products and properties have been
+subject of wrongful or illegal seizure, confiscation, destruction,
+or disposal: Provided, That the compensation shall include the
+actual value of the agricultural and fishery products and
+properties at the time of seizure, confiscation, destruction, or
+disposal, and the earnings lost by reason of wrongful or illegal
+seizure, confiscation, destruction, or disposal as may be
+determined by the Court of Tax Appeals;
+
+(p) Create a permanent Secretariat, define its functions,
+constitute its staff complement, and set their salaries and
+other emoluments: Provided, That majority of the staff shall
+be selected from the different member agencies of the Council
+with individual expertise appropriate to the needs of the
+Council, consistent with civil service laws, rules, and
+regulations; and
+
+(q) Perform all other powers and functions related to the
+efficient and effective prevention and suppression of the acts
+herein prohibited.
+
+SEC. 17. Special Team of Prosecutors. — To assist the
+Council in the expeditious prosecution of criminal cases covered
+under this Act, the Secretary of the DOJ is hereby mandated
+to constitute a special team of prosecutors all over the country,
+which shall have the following powers and duties, among others:
+
+(a) Evaluate evidence gathered and submitted by the
+Enforcement Group to determine whether any provision of this
+Act has been violated;
+
+(b) Act on criminal complaints directly filed by persons
+under Section 21 of this Act, which may be consolidated with
+similar complaints filed by the Enforcement Group; and
+
+(c) Initiate and conduct preliminary investigation and
+timely file and prosecute the appropriate criminal charges
+against the person/s responsible for the crimes of smuggling,
+hoarding, profiteering, and cartel as economic sabotage and
+other prohibited acts under this Act.
+
+SEC. 18. Anti-Agricultural Economic Sabotage
+Enforcement Group. — To assist the Council, the Anti-
+Agricultural Economic Sabotage Enforcement Group, herein
+referred to as the Enforcement Group, is hereby created. It
+shall be composed of the following agencies:
+
+(a) National Bureau of Investigation (NBI);
+
+(b) Philippine National Police (PNP);
+
+(c) Philippine Coast Guard (PCG); and
+
+(d) Department of Finance (DOF).
+
+The Enforcement Group, in addition to each agency’s
+
+existing regulatory powers, shall have the following powers
+and functions:
+
+(a) Subject to the Rules of Engagement of the
+Enforcement Group, notify the Council of any visitation or
+inspection that it will conduct on any establishment and secure
+the necessary LOA;
+
+(b) Subject to the Rules of Engagement of the
+Enforcement Group, notify the Council of any court-approved
+
+warrant to search, seize, or arrest for any violation of this
+Act or existing regulations;
+
+(c) Visit and inspect at any time, vessels, vehicle, aircraft,
+land, enclosure, warehouses, cold storages, store, building, or
+structure not principally used as a dwelling house and other
+storage areas where agricultural and fishery products and
+properties are stored, kept, or sold, as authorized by the
+Council through a duly issued LOA, to determine compliance
+with this Act and other relevant laws relating to the transport,
+storage, distribution, or sale of said agricultural and fishery
+products: Provided, That when a security personnel or any
+other employee lives in the warehouse, store or any building,
+structure, or enclosure that is used for storage of goods, it
+shall not be considered as a dwelling house for purposes of
+this Act;
+
+@) Immediately perform any and all acts pursuant to
+the implementation of this Act or existing laws and
+regulations, including, among others, taking into constructive
+custody agricultural and fishery products;
+
+(e) Render a report to the Council within forty-eight (48)
+hours from the conduct of a visitation or inspection or service
+of judicial warrant;
+
+(f) Apply for judicial warrant before the Court of Tax
+Appeals: Provided, That in areas outside Luzon, judicial
+warrants shall be applied before any regional trial court; and
+
+(g) Effect search, seizure, and arrest warrants and file
+criminal and administrative cases before the prosecutor and
+appropriate agencies.
+
+The PNP Chief, and the Secretaries of the DOF and the
+DOJ may authorize lawyers of their respective agencies or
+their attached agencies to provide legal assistance to any
+employee or member of the Enforcement Group who is facing
+a complaint or charge before the prosecutor's office, the court,
+or any competent body, arising from an incident related to the
+performance by the member or employee of his or her official
+duties under this Act: Provided, That government lawyers so
+authorized shall have the power to administer oaths: Provided,
+further, That when necessary, a private counsel may be
+
+provided at the expense of the Government. The Secretaries
+of the DOF and the DOJ, and the PNP Chief shall jointly
+promulgate rules and regulations to implement the provisions
+of this section.
+
+CHAPTER VII
+ADMINISTRATIVE AND JUDICIAL PROCEDURES
+
+SEC. 19. Custody of Confiscated, Seized, or Surrendered
+Products and Properties in the Agricultural Crimes of
+Economic Sabotage and Other Prohibited Acts; Destruction
+of Smuggled Products; Disposition or Donation of Locally
+Sourced Products. - The Council shall take charge and
+custody of all confiscated, seized, or surrendered agricultural
+and fishery products subject of the crime of economic sabotage
+and the properties used in the commission thereof, which shall
+be disposed of in the following manner:
+
+(a) The Enforcement Group, which may be composed of
+any member or a combination of its members, shall conduct
+a physical inventory and valuation of the seized items
+immediately after seizure and confiscation of the agricultural
+and fishery products and properties used in the commission
+of the crime and shall take a video recording and/or
+photograph of the same;
+
+(b) Within twenty-four (24) hours upon confiscation or
+seizure of the agricultural and fishery products and properties,
+the same shall be stored in a place to be designated by the
+Council for the purpose of preserving the evidence and
+determining the value of agricultural and fishery products and
+properties that were seized or confiscated, which shall serve
+as the basis for determining the amount of compensation
+evidentiary purposes, a video recording or photograph products
+of highly perishable products taken in the presence of a
+representative of the Council shall suffice, after which the
+destruction of the products subject of the crime of agricultural
+smuggling or the disposal or donation of products subject of
+the crimes of hoarding, profiteering, and cartel, as provided
+in this section, may proceed;
+
+(c) After the filing of the criminal case, the court may,
+within seventy-two (72) hours, conduct an ocular inspection of
+the confiscated, seized, or surrendered agricultural and fishery
+products. Within twenty-four (24) hours thereafter, the
+Enforcement Group, through a member or combination of its
+members, shall facilitate the destruction of the products subject
+of smuggling in the presence of representatives from the
+media, the DOJ, the agricultural and fisheries sector, and an
+elected public official. The Council shall draw up the guidelines
+on the manner of proper destruction of such item/s, the
+expenses for the destruction of which shall be borne by the
+offender.
+
+A government officer or employee who violates the
+mandatory destruction of agricultural and fishery products
+under this Act shall be held administratively liable; and
+
+(a) Any member of the Enforcement Group in charge of
+the destruction shall issue a sworn certification as to the fact
+of destruction of the subject item/s which shall be submitted
+to the court having jurisdiction over the case.
+
+Provided, That locally sourced agricultural and fishery
+products subject of the crimes of hoarding, profiteering, and
+cartel may be donated by the Council to the Department of
+Social Welfare and Development or LGUs, or disposed of in
+any manner:
+
+Provided, further, That properties used in the commission
+of the crimes of agricultural economic sabotage such as, but
+not limited to, vehicles, vessels, aircrafts, storage areas,
+warehouses, boxes, cases, trunks, and other containers of
+whatever character confiscated, seized, or surrendered in favor
+of the government, may be auctioned off, subject to existing
+rules and regulations. The proceeds of the auction of the
+properties shall be deposited in a special account created in
+the name of the Council to be used as additional funding in
+the establishment and maintenance of the DPI, the operations
+of the Enforcement Group, monetary rewards and other
+incentives to informers, and the compensation of damages
+arising from wrongful or illegal seizure, confiscation,
+destruction, or disposal of agricultural and fishery products
+and properties, among others.
+
+SEC. 20. Institution and Prosecution of Criminal
+Proceedings. —- Any criminal action arising from the violation
+of this Act shall be instituted by any of the following agencies:
+the NBI, the PNP, the PCG, and the DOF.
+
+Criminal actions and proceedings instituted under this Act
+shall be brought in the name of the Government of the
+Philippines and shall be prosecuted and handled by the DOJ
+with the assistance of the instituting agency: Provided, That
+nothing in this Act shall be construed or interpreted as
+diminishing the jurisdiction of the implementing agencies under
+Republic Act No. 10863, Republic Act No. 10667, and Republic
+Act No. 7581 to conduct inquiry on, investigate, hear, and
+decide cases involving any violation of the CMTA, the
+Philippine Competition Act, and the Price Act, and institute
+the appropriate civil or criminal proceedings.
+
+SEC. 21. Citizen’s Suit. — Any person may directly file
+a criminal complaint with the DOJ-Special Team of
+Prosecutors and/or an administrative complaint with the
+appropriate government agency. The complaint shall be verified
+and supported with affidavits and other evidence.
+
+SEC. 22. Prescription of Offenses. — The crimes
+punishable by life imprisonment under this Act shall prescribe
+in twenty-five (25) years. Other crimes under this Act with
+lower number of years of imprisonment shall prescribe in
+accordance with Act No. 3326.
+
+Prescription shall begin to run from the day the violation
+of the law was committed, and if the same be not known at
+the time, from the discovery thereof by the offended party, the
+law enforcement authorities or their agents. The period shall
+be interrupted by the filing of an information or the institution
+proceedings against the offender. It shall again run when such
+proceedings are terminated without the accused being convicted
+or acquitted, or when such proceedings are unjustifiably
+stopped through no fault of the accused.
+
+CHAPTER VIII
+JURISDICTION
+
+SEC. 23. Jurisdiction. — The provisions of existing laws
+to the contrary notwithstanding, all violations referred to
+herein shall be under the exclusive jurisdiction of the Court
+of Tax Appeals, herein referred to as the Court. It may create
+its offices in the Visayas and Mindanao for this purpose.
+
+CHAPTER IX
+FINAL PROVISIONS
+
+SEC. 24. Transitory Provision. — All pending criminal
+complaints or cases filed and/or prosecuted under Republic Act
+No. 10845 or the “Anti-Agricultural Smuggling Act of 2016”
+and other laws shall continue to be addressed under the said
+laws until resolved with finality.
+
+SEC. 25. Congressional Oversight Committee. — There is
+hereby created a Congressional Oversight Committee on
+Anti-Agricultural Economic Sabotage (COCAAES) composed of
+seven (7) members from the Senate and seven (7) members
+from the House of Representatives, with the chairperson of
+the Senate Committee on Agriculture, Food and Agrarian
+Reform (CAFAR) and the chairperson of the House of
+Representatives Committee on Agriculture and Food, as joint
+chairpersons. The six (6) other members from the Senate shall
+be composed of three (3) members from CAFAR, two (2) from
+the Committee on Ways and Means, and one (1) from the
+minority, while the six (6) members from the House of
+Representatives shall be composed of three (3) members from
+the Committee on Agriculture and Food, and three (3) from
+the Committee on Ways and Means, to be designated
+respectively by the President of the Senate and the Speaker
+of the House of Representatives.
+
+The COCAAES shall conduct a mandatory review of the
+implementation of this Act three (3) years after its effectivity
+and every three (3) years thereafter.
+
+SEC. 26. Appropriations. — The initial amount of Five
+hundred million pesos (P500,000,000.00) is hereby appropriated
+under the Office of the President for the implementation of
+this Act, which shall be allocated as follows:
+
+ey
+
+(a) Sixty percent (60%) for the Council and the Enforcement
+Group, which shall include funding for Section 6 of this Act;
+
+(b) Thirty percent (30%) for the Special Team of
+Prosecutors under Section 17 of this Act; and
+
+(c) Ten percent (10%) for the establishment, strengthening
+and maintenance of the DPI, under Section 5 of this Act.
+
+Thereafter, such amount necessary to carry out the
+provisions of this Act shall be appropriated in the annual
+General Appropriations Act.
+
+SEC. 27. Reportorial Requirements. — The Council shall
+submit a quarterly report to the COCAAES on the progress
+and accomplishments made in the implementation of this Act.
+
+SEC. 28. Separability Clause. — If any portion of this Act
+is declared unconstitutional or invalid, the portions or
+provisions which are not affected shall continue to be in full
+force and effect.
+
+SEC. 29. Repealing Clause. — Republic Act No. 10845 is
+hereby repealed. All laws, decrees, executive issuances, rules,
+and regulations inconsistent with this Act are hereby repealed
+and/or modified accordingly.
+
+SEC. 30. Effectivity. — This Act is self-executory and shall
+take effect fifteen (15) days after its publication in the Official
+Gazette or in a newspaper of general circulation, without the
+need for the issuance of implementing rules and regulations.
+
+Approved,
+TOU eR
+FERD) G.ROMUALDEZ FRANCIS “CHIZ” G. ESCUDERO
+Speaker of the Hou! President of the Senate
+of Representatives
+
+ial NESTE TAREE NAS Norra
+
+This Act, which is a consolidation of Senate Bill No. 2432
+and House Bill Nos. 3917 and 9284, was passed by the Senate
+of the Philippines and the House of Representatives on
+
+August 6, 2024.
+
+REGINALD& VELASCO . BAAITWG IR.
+p f Senate
+
+House of Representatives
+
+ull
+ae
+
+FERDINAND RO /ALDEZ MARCOS JR.
+President 6f the Philippines
+
+REPUBLIC
+
+Office of the President

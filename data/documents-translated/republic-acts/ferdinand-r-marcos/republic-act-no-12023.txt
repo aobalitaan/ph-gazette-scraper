@@ -1,0 +1,623 @@
+H, No, 4122
+8. No, 2528
+
+Republic of the Philippines
+Congress of the Philippines
+Aletes Manila
+Nineteenth Congress
+
+Third Regular Session
+a ,
+
+Begun and held in Metro Manila, on Monday, the twenty-second
+day of July, two thousand twenty-four.
+
+[ REPUBLIC ACT No. 12023]
+
+AN ACT AMENDING SECTIONS 105, 108, 109, 110, 118, 114, 115,
+128, 236, AND 288 AND ADDING NEW SECTIONS 108-A AND
+108-B OF THE NATIONAL INTERNAL REVENUE CODE
+OF 1997, AS AMENDED
+
+Be it enacted by the Senate and House of Representatives of the Philippines in
+Congress assembled:
+
+SECTION 1. Section 105 of the National Internal Revenue Code
+of 1997, as amended, is hereby amended to read as follows:
+
+“SEC. 105. Persons Liable. - Any person who, in
+the course of trade or business, sells, barters, exchanges,
+| leases goods or properties, renders services, including
+i digital services, and any person who imports goods
+shall be subject to the value-added tax imposed in Sections
+
+106 to 108 of this Code.
+
+“The value-added tax is an indirect tax and the
+amount of tax may be shifted or passed on to the buyer,
+transferee or lessee of the goods, properties or services.
+This rule shall likewise apply to existing contracts of sale
+or lease of goods, properties or services at the time of the
+effectivity of Republic Act No, 7716.
+
+“The phrase ‘in the course of trade or business’ means
+the regular conduct or pursuit of a commercial or
+an economic activity, including transactions incidental
+thereto, by any person regardless of whether or not the
+person engaged therein is a nonstock, nonprofit private
+organization (irrespective of the disposition ofits net income
+and whether or not it sells exclusively to members or their
+guests), or government entity.
+
+“The rule of regularity, to the contrary
+notwithstanding, services as defined in this Code rendered.
+in the Philippines by nonresident foreign persons shall be
+considered as being rendered in the course of trade or
+business: Provided, That digital services delivered by
+nonresident digital service providers shall be considered
+performed or rendered ‘in the Philippines if the digital
+services are consumed in the Philippines.”
+
+SEC. 2. Section 108 of the National Internal Revenue Code of
+1997, as amended, is hereby further amended to read as follows:
+
+“Src, 108, Value-added Tax on the Sale of Services,
+Including Digital Services, and the Use or Lease of
+Properties. -
+
+“(A) Rate and Base of Tax. —There shall be levied,
+assessed and collected, a value-added tax equivalent to
+twelve percent (12%) of the gross sales derived from the
+sale or exchange of services, including digital services,
+and the use or lease of properties.
+
+“The phrase ‘sale or exchange of services’ means
+the performance of all kinds of services in the Philippines
+for others for a fee, remuneration, or consideration,
+
+including those performed or rendered by construction and
+service contractors; stock, real estate, commercial,
+customs and immigration brokers; lessors of property,
+whether personal or real; warehousing services: lessors
+or distributors of cinematographic films; persons engaged
+in milling, processing, manufacturing or repacking goods
+for others; proprietors, operators or keepers of hotels,
+motels, rest houses, pension houses, inns, resorts;
+proprietors or operators of restaurants, refreshment
+parlors, cafes and other eating places, including clubs and
+caterers; dealers in securities; lending investors;
+transportation contractors on their transport of goods or
+cargoes, including persons who transport goods or cargoes
+for hire and other domestic common carriers by land
+relative to their transport of goods or cargoes; common
+carriers by air and sea relative to their transport of
+passengers, goods or cargoes from one place in the
+Philippines to.another place in the Philippines; sales of
+electricity by generation companies, transmission by any
+entity, and distribution companies, including electric
+cooperatives; services of franchise grantees of electric
+utilities, telephone and telegraph, radio and television
+broadcasting and all other franchise grantees except those
+under Section 119 of this Code, and non-life insurance
+companies (except their crop insurances), including surety,
+fidelity, indemnity and bonding companies; digital service
+providers; and similar services regardless of whether or
+not the performance thereof calls for the exercise or use of
+the physical or mental faculties. The phrase ‘sale or
+exchange of services’ shall likewise include:
+
+“Y)xxx
+“(Q) xxx:
+"6) xe ax
+“(4) XXX}
+“(Sx xx
+
+6) x xxy
+
+“(7 The supply of digital services; “(4) Online media and advertising;
+“(8) The lease of motion picture films, films, tapes,
+
+d dis nd “(5) Online platform; or
+and discs; a:
+
+“@) The lease or the use of or the right to use radio, (6) Digital goods.
+
+isi tellite transmission, and cable television time. , .
+Aclescbton) oe “(B) The term ‘digital service provider’ refers to
+
+a resident or nonresident supplier of digital services
+to a consumer who uses digital services subject to
+value-added tax in the Philippines.
+
+“Lease of properties shall be subject to the tax herein
+imposed irrespective of the place where the contract of
+lease or licensing agreement was executed if the property
+
+i din the Philippines. . Ls .
+da lense) or neediorthe BP “(C) The term ‘nonresident digital service provider’
+
+“ > means a digital service provider that has no physical
+: presence in the Philippines.”
+
+Sec. 8. A new section designated as Section 108-A under
+Chapter I, Title IV, of the National Internal Revenue Code of 1997, as
+amended, is hereby inserted to read as follows:
+
+SEc. 4, A new section designated as Section 108-B under
+Chapter I, Title IV, of the National Internal Revenue Code of 1997, as
+amended, is hereby inserted to read as follows:
+
+“Suc. 108-A. Liability of Persons Providing Digital
+Services. — The digital service provider, whether resident
+or nonresident, shall be liable for assessing, collecting, and
+remitting the value-added tax on the digital services
+consumed in the Philippines, subject to the provision on
+withholding of value-added tax on digital services under
+Section 114(D).
+
+“When used in this title:
+
+“(a) The term ‘digital service’ shall refer to any service
+that is supplied over the internet or other electronic network
+with the use of information technology and where the supply
+of the service is essentially automated. Digital services
+shall include:
+
+“(1) Online search engine;
+“(2) Online marketplace or e-marketplace;
+
+“(3) Cloud service;
+
+“SEC. 108-B. Liability of a Nonresident Digital
+Service Provider to Withhold and Remit Value-Added Tax.
+~— A nonresident digital service provider required to be
+registered for value-added tax (VAT) under Section 236(F)
+of this Code shall be liable for the remittance of value-added
+tax on the digital services that are consumed in the
+Philippines if the consumers are non-VAT registered:
+Provided, That if the consumers are VAT-registered, the
+provision of Section 114(D) shall apply.
+
+“If a VAT-registered nonresident digital service
+provider is classified as an online marketplace or
+e-marketplace, it shall also be liable to remit the
+value-added tax on the transactions of nonresident sellers
+that go through its platform: Provided, That it controls
+key aspects of the supply and performs any of the following:
+
+“(a) It sets, either directly or indirectly, any of the
+terms and conditions under which the supply of goods is
+made; or
+
+“(b) It is involved in the ordering or delivery of goods,
+whether directly or indirectly.”
+
+SEC. 5. Section 109 of the National Internal Revenue Code of
+1997, as amended, is hereby further amended to read as follows:
+
+“SEC, 109. Exempt Transactions. —
+
+“The following transactions shall be exempt from the
+value-added tax:
+
+“A) XXX
+
+"By axkx
+
+“(C) xxx
+
+“(D) xxx
+
+“(E) xxx
+
+“PYXxx
+
+“(G) xxx
+
+“(H) Educational services, including online courses,
+online seminars, and online trainings, rendered by
+private educational institutions, duly accredited by the
+Department of Education (DepEd), the Commission on
+Higher Education (CHED), the Technical Education and
+Skills Development Authority (TESDA), and those rendered
+by government educational institutions; and sale of
+online subscription-based services to DepEd, CHED,
+TESDA, and educational institutions recognized by said
+government agencies;
+
+“Dxxx
+
+“J)xxx
+
+i :9)> pap.
+
+“L)xxx
+“M) xxx
+“NM xxx
+“(O)xxx
+“P)xxx
+“Q) xxx
+“R) xxx
+“@)xxx
+“OE xxx
+“U)xxx
+
+“(V) Services of bank, non-bank financial
+intermediaries performing quasi-banking functions, and
+other non-bank financial intermediaries, including those
+rendered through different digital platforms;
+
+“(W) xxx
+“(X) xxx
+“Y) xxx
+“QZ) EEX
+“(AA) xxx
+“(BB) xxx
+{(CO) xx
+
+SEC. 6. Section 110 of the National Internal Revenue Code of
+1997, as amended, is hereby further amended to read as follows:
+
+“SEC. 110, Tax Credits, -
+“(A) Creditable Input Tax, —
+“Q) xxx
+
+“(2) The input tax on domestic purchase or importation
+of goods or properties by a VAT-registered person shall be
+creditable:
+
+“(a) To the purchaser upon consummation of sale and
+on importation of goods or properties; and
+
+“(b) To the importer upon payment of the value-added
+tax prior to the release of the goods from the custody of the
+Bureau of Customs.
+
+“Provided, That the input tax on goods purchased or
+imported in a calendar month for use in trade or business
+for which deduction for depreciation is allowed under this
+Code shall be spread evenly over the month of acquisition
+and the fifty-nine (59) succeeding months if the aggregate
+acquisition cost for such goods, excluding the VAT
+component thereof, exceeds One million pesos (P1,000,000):
+Provided, however, That if the estimated useful life of the
+capital good is less than five (5) years, as used for
+depreciation purposes, then the input VAT shall be spread
+over such a shorter period: Provided, further, That the
+amortization of the input VAT shall only be allowed until
+December 31, 2021 after which taxpayers with unutilized
+input VAT on capital goods purchased or imported shall be
+allowed to apply the same as scheduled until fully utilized:
+Provided, finally, That in the case of purchase of services,
+lease or use of properties, the input tax shall be creditable
+to the purchaser, lessee or licensee upon payment of the
+compensation, rental, royalty or fee.
+
+“Notwithstanding the foregoing, nonresident digital
+service providers shall not be allowed to claim creditable
+input tax.
+
+«,
+
+XXX.
+
+”
+
+SEC. 7. Section 118 of the National Internal Revenue Code of
+1997, as amended, is hereby further amended to read as follows:
+
+“SEC. 118. Invoicing and Accounting Requirements
+for VAT-Registered Persons. —
+
+“(A) Invoicing Requirement. — A VAT-registered
+person shall issue a VAT invoice for every sale, barter,
+exchange, or lease of goods or properties, and for every sale,
+barter, or exchange of services: Provided, That a digital
+sales or commercial invoice shall be issued for every sale,
+barter, or exchange of digital services made by a
+VAT-registered nonresident digital service provider.
+
+“(B) Information Contained in the VAT Invoice. —
+xeX .
+
+“Q) xxx
+“() xxx
+“(8) xxx
+“(4) xxx
+
+“(6) The digital sales or commercial invoice issued by
+a VAT-registered nonresident digital service provider
+shall indicate the following information in lieu of the
+requirements under Section 113, Subsection (b),
+paragraphs 1 to 4:
+
+“(a) Date of the transaction;
+“(b) Transaction reference number;
+“© Identification of the consumer;
+
+“(@ Brief description of the transaction; and
+
+
+“(e) The total amount with the indication that such
+amount includes the value-added tax:
+
+“Provided, That if the sale of digital services includes
+some services which are subject to VAT, and some that are
+VAT zero-rated, or VAT-exempt, the invoice shall clearly
+indicate the breakdown of the sale price by its taxable,
+VAT-exempt, and VAT zero-rated components: Provided,
+further, That the calculation of the value-added tax on each
+portion of the sale shall be shown on the invoice.
+
+“(C) Accounting Requirements. — Notwithstanding the
+provisions of Section 233, all persons subject to the
+value-added tax under Sections 106 and 108 shall, in
+addition to the regular accounting records required,
+maintain a subsidiary sales journal and subsidiary purchase
+journal on which the daily sales and purchases are recorded.
+The subsidiary journals shall contain such information as
+may be required by the Secretary of Finance: Provided,
+That this subsection shall not apply to VAT-registered
+nonresident digital service providers.
+
+“(D) xxx
+
+“@) xxx.
+
+SEC. 8. Section 114 of the National Internal Revenue Code of
+1997, as amended, is hereby further amended to read as follows:
+
+“SEC. 114. Return and Payment of Value-Added Tax.
+
+“(A) In General. -xxx
+
+“(B) Where to File the Return and Pay the Tax. -
+xs
+
+i
+
+“(C) Withholding of Value-Added Tax. —
+The Government or any of its political subdivisions,
+instrumentalities or agencies, including government-owned
+or -controlled corporations (GOCCs) shall, before making
+payment on account of each purchase of goods and services
+which are subject to the value-added tax imposed in Sections
+106 and 108 of this Code, deduct and withhold a final
+value-added tax at the rate of five percent (5%) of the
+gross payment thereof: Provided, That beginning
+January 1, 2021, the VAT withholding system under this
+subsection shall shift from final to a creditable system:
+Provided, further, That the payment for lease or use of
+properties or property rights to nonresident owners and
+payments for services to nonresident suppliers who are not
+registered under Section 236 shall be subject to twelve
+percent (12%) withholding tax at the time of payment:
+Provided, finally, That payments for purchases of goods
+and services arising from projects funded by Official
+Development Assistance (ODA) as defined under Republic
+Act No. 8182, otherwise known as the ‘Official Development
+Assistance Act of 1996’ as amended, shall not be subject to
+the final withholding tax system as imposed in this
+subsection. For purposes of this section, the payor or person
+in control of the payment shall be considered as the
+withholding agent.
+
+“(D) Reverse Charge Mechanism in Digital Services.
+—AVAT-registered taxpayer shall be liable to withhold and
+remit the value-added tax due on its purchase of digital
+services consumed in the Philippines from nonresident
+digital service providers to the Bureau of Internal Revenue,
+within ten (10) days following the end of the month the
+withholding was made.”
+
+SEC. 9. Section 115 of the National Internal Revenue Code of
+1997, as amended, is hereby further amended to read as follows:
+
+“SEC. 115. Power of the Commissioner to Suspend
+the Business Operations of a Taxpayer. —
+ex
+
+“a) xxx. —
+
+
+(1)xxx
+(2)xxx
+
+. (8) xxx
+
+“(b) Failure of any Person to Register as Required
+under Section 286.
+
+“The temporary closure of the establishment shall be
+for the duration of not less than five (5) days and shall be
+lifted only upon compliance with whatever requirements
+prescribed by the Commissioner in the closure order.
+
+“The power of the Commissioner to suspend shall
+include the blocking of digital services performed or rendered
+in the Philippines by a digital service provider, This shall
+be implemented by the Department of Information and
+Communications Technology (DICT), through the National
+Telecommunications Commission (NTC).”
+
+SEC. 10. Section 128 of the National Internal Revenue Code of
+, as amended, is hereby further amended to read as follows:
+
+“SEC. 128. Returns and Payment of Percentage
+Taxes, —
+
+“(A) Returns of Gross Sales or Earnings and Payment
+of Tax. —
+
+“() Persons Liable to Pay Percentage Taxes. —Every
+person subject to the percentage taxes imposed under this
+Title shall file, either electronically or manually, a quarterly
+return of the amount of the person’s gross sales or earnings
+and pay, either electronically or manually, to any authorized
+agent bank, Revenue District Office through Revenue
+Collection Officer or authorized tax software provider, the
+tax due thereon within twenty-five (25) days after the
+end of each taxable quarter: Provided, That the Secretary
+of Finance may, upon the recommendation of the
+Commissioner, require the withholding of percentage taxes
+
+imposed under this Title: Provided, further, That in the
+case of a person whose VAT registration is cancelled and
+who becomes liable to the tax imposed in Section 116 of this
+Code, the tax shall accrue from the date of cancellation
+and shall be paid in accordance with the provisions of
+this section.
+
+“(2) Person Retiring from Business. — Any person
+retiring from a business subject to percentage tax shall
+notify the nearest internal revenue officer, file, either
+electronically or manually, the person’s return and pay,
+either electronically oy manually, the tax due thereon within
+twenty (20) days after closing the business.
+
+“(8) Determination of Correct Sales. — When itis found
+that a person has failed to issue invoices, or when no return
+is filed, or when there is reason to believe that the books of
+accounts or other records do not correctly reflect the
+declarations made or to be made in areturn required to be
+filed under the provisions of this Code, the Commissioner,
+after taking into account the sales or other taxable base of
+other persons engaged in similar businesses under similar
+situations or circumstances, or after considering other
+relevant information, may prescribe a minimum amount
+of such gross sales and taxable base and such amount so
+prescribed shall be prima facie correct for purposes of
+determining the internal revenue tax liabilities of such
+person.
+
+“(B) Where to File. —xx x.”
+
+SEC. 11. Section 236 of the National Internal Revenue Code of
+1997, as amended, is hereby further amended to read as follows:
+
+“SEC. 236, Registration Requirements. —
+“A) XXX
+“(B) xxx
+
+“(C) xxx
+
+#(D) xx x
+“H) XxX
+
+“(F) Persons Required to Register for Value-Added
+Tax, —
+
+“(1) Any person who, in the course of trade or business,
+sells, barters, exchanges, or leases goods or properties,
+including those digital in nature, any person who renders
+services, including digital services, or engages in the sale
+or exchange of services, shall be liable to register, either
+electronically or manually, for value-added tax if:
+
+“(a) The person’s gross sales for the past twelve (12)
+months, other than those that are exempt under Section
+109(A) to (CC), have exceeded the threshold as provided in
+Section 109(CC); or
+
+“(b) There are reasonable grounds to believe that the
+gross sales for the next twelve (12) months, other than those
+that are exempt under Section 109(A) to (CC), will exceed
+the threshold as provided in Section 109(CC):
+
+“Provided, That the BIR shall establish a simplified
+automated registration system for nonresident digital service
+providers, which shall be prescribed by the Secretary of
+Finance, upon the recommendation of the Commissioner.
+
+«, ”
+
+XXX.
+
+SEC. 12. Section 288 of the National Internal Revenue Code of
+1997, as amended, is hereby further amended to read as follows:
+
+“SEC. 288. Disposition of Incremental Revenues. —
+
+«,
+
+XXX
+
+“(AD Incremental Revenues from the Value-added Tax
+on Digital Service Providers. — Five percent (5%) of the
+incremental revenue from the value-added tax on digital
+service providers under Section 108 shall be allocated to
+and used exclusively for the development of creative
+industries, as defined under Republic Act No. 11904,
+otherwise known as the “Philippine Creative Industries
+Development Act,” for five (5) years from the effectivity of
+this Act.
+
+“Upon the lapse of the five(5)-year period, all such
+incremental revenues shall accrue to the General Fund.”
+
+SEC. 18. Mode of Correspondence. — Any communication, notice,
+or summons to a nonresident digital service provider can be made via
+electronic mail messaging.
+
+SEC. 14, Transitory Clause. — Nonresident digital service
+providers shall immediately be subject to value-added tax under this
+Act after one hundred twenty (120) days from the effectivity of the
+implementing rules and regulations.
+
+SEC. 15. Implementing Rules and Regulations. — The
+Department of Finance (DOF), upon the recommendation of the BIR,
+and in coordination with the DICT and the NTC, and upon consultation
+with the stakeholders, shall issue rules and regulations for the effective
+implementation of this Act not later than ninety (90) days from the
+effectivity of this Act.
+
+SEC. 16. Separability Clause. — Should any provision of this Act
+or any part thereof be declared invalid, the other provisions, so far as
+they are separable from the invalid ones, shall remain in force and
+effect,
+
+Sic, 17. Repealing Clause. — All laws, decrees, orders, and
+issuances, or portions thereof, which are inconsistent with the
+provisions of this Act, are hereby repealed, amended, or modified
+actordingly.
+
+
+SEC. 18. Effectivity. — This Act shall take effect fifteen (15) days
+after its publication in the Official Gazette or ina newspaper of general
+circulation,
+
+Approved,
+
+   
+
+FRANCIS “CHIZ” G.ESCUDERO FERDINAND MARTING. RO}
+President of the Senate Speaker of the House
+of Representatives
+
+‘DEZ
+
+This Act, which is a consolidation of House Bill No. 4122 and
+Senate Bill No. 2528, was passed by the House of Representatives and
+the Senate of the Philippines on July 30, 2024 and July 29, 2024,
+respectively,
+
+  
+
+REGINALDS. VELASCO
+Secretary General
+House of Representatives
+
+    
+
+Approved: OCT 02 2026
+
+ 
+
+REPUBLIC OF THE PHILIPP:
+
+U1 A 0
+
+PBBMO05766
+
+Office of the President -
+MALACANANG RECORDS OFFICE

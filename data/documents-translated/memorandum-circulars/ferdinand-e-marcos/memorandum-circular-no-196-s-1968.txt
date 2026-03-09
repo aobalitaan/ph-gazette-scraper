@@ -1,0 +1,79 @@
+OFFICE OF THE PRESIDENT OF THE PHILIPPINES
+
+MEMORANDUM CIRCULAR NO. 196
+
+AMENDING MEMORANDUM CIRCULAR 78 DATED AUGUST 14, 1964, ENTITLED “PROMULGATING RULES GOVERNING SECURITY OF CLASSIFIED MATTER IN GOVERNMENT OFFICES.”
+
+1. A new section, to be known as Section XII, is hereby inserted between Sections XI and XII of Memorandum Circular No. 78 dated August 14, 1964, providing security of classified matter in government offices, which reads as follows:
+
+“SECTION XII
+
+“ COMMUNICATION SECURITY
+
+“57. Communication Security
+
+a. Definition – Communication Security is the protection resulting from the application of various measures which prevent or delay the enemy or unauthorized persons in gaining information through our communications. It includes Transmission, Cryptographic and Physical security.
+
+b. Rules governing Communication Security do not in themselves guarantee security, and they do not attempt to meet every conceivable situation. Communication Security rules are a means, not an end in themselves.
+
+c. Department Heads are responsible for the maintenance of communication security and for the promulgation of additional directive a may be necessary to insure proper communication security control within their jurisdiction.
+
+d. All communication personnel should have an appreciation of the basic principles of communication security since the neglect of a single aspect of communication security may result in compromise.
+
+“58. Communication Security Officer :
+
+a. A properly trained and cleared Communication Security Officer shall be appointed in every Department of the Government handling cryptographic communication.
+
+“59 Responsibilities/Duties of the Communication Security Officer :
+
+a. Responsible for the selection and training of cleared communication personnel to perform crypto duties.
+
+b. Responsible for the operations and maintenance of the cryptocenter.
+
+c. Conduct periodic inspection of the cryptocenter to ascertain that crypto materials are properly handled and accounted for and that all directives concerning crypto-operations are strictly observed.
+
+d. Designate a custodian for crypto-matepials,
+
+e. Publish an emergency destruction plan for classified materials.
+
+f. Recommend measures to improve transmission, cryptographic and physical security.
+
+g. Conduct investigation in case of less or compromise of crypto-materials in accordance with paragraph 36 above.
+
+“60. Transmission Security :
+
+a. Definition – Transmission Security is that component of communication security which results from all measures designed to protect transmission from interception, traffic analysis and imitative deception.
+
+b. Communication personnel shall select the means most appropriate to accomplish the delivery of message in accordance with the specified precedence and security requirements.
+
+c. All classified messages within the Government service which are transmitted electrically should be encoded, enciphered and/or encrypted.
+
+d. All classified messages sent by commercial means shall be encoded, enciphered and/or encrypted.
+
+e. No classified message shall be transmitted over a telephone system not equipped with security device.
+
+f. The transmission by visual means of a classified message in plain language shall be authorized only after careful consideration has been given to the necessity for sending in plain language and to the possibility of interception by unauthorized persons.
+
+g. Radio Operations shall adhere to the use of correct procedures, circuit discipline and authentication system as a security measures against traffic analysis, imitative deception and radio direction finding.
+
+“61. Cryptographic Security :
+
+a. Definition – Cryptographic Security is that component of communication security which results from the provisions of technically sound cryptosystem and their proper use.
+
+b. Message should scrutinized prior to encryption giving particular attention to the security classification, precedence, and to any special handling or routing precautions that may be necessary.
+
+c. Messages should be completely checked before transmission to insure that the operating instructions pertaining to the system used have been followed and that the encrypted text is decryptable.
+
+“62. Physical Security :
+
+a. Definition – Physical Security is that component of communication security which results from measures necessary to safeguard classified communication equipment and material from access thereto by unauthorized persons.
+
+b. Physical security measures include handling of classifies materials, i.e., storage, accounting and destruction.”
+
+2. Section XII of the same circular shall hereafter be known as Section XIII, and Item 57 as Item 63.
+
+By authority of the President: (SGD.) RAFAEL M. SALAS Executive Secretary
+
+Manila, July 19, 1968.
+
+Source: Presidential Management Staff

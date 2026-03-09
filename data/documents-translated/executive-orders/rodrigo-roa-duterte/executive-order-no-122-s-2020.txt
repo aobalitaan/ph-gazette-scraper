@@ -1,0 +1,224 @@
+MALACANAN PALACE
+MANILA
+
+BY THE PRESIDENT OF THE PHILIPPINES
+EXECUTIVE ORDER NO. 122
+
+STRENGTHENING BORDER CONTROL THROUGH THE ADOPTION AND
+IMPLEMENTATION OF THE ADVANCE PASSENGER INFORMATION
+SYSTEM
+
+WHEREAS, Annex 9 to the Convention on International Civil Aviation or the “Chicago
+Convention,” to which the Philippines is a party, requires each contracting State to establish an
+Advance Passenger Information (API) system, which must be supported by an appropriate
+regulation and consistent with internationally recognized standards;
+
+WHEREAS, as an update to the International Convention on the Simplification and
+Harmonization of Customs Procedures (Kyoto Convention), Specific Annex J of the Revised
+Kyoto Convention recommends the use of internationally standardized API in order to facilitate
+customs control of travelers and the clearance of goods carried by them;
+
+WHEREAS, the World Customs Organization (WCO), International Air Transport
+Association (IATA) and the International Civil Aviation Organization (ICAQ) have developed the
+Guidelines on Advance Passenger Information, which prescribes international standards and
+recommends practices on the implementation of API systems, in an effort to harmonize
+mechanisms on passenger data collection and transmission for better inter-agency co-operation
+among border control agencies;
+
+WHEREAS, United Nations (UN) Security Council Resolution (SCR) No. 2178 (2014)
+calls upon Member States to, among others, require airlines operating in their territories to
+provide API to appropriate national authorities to detect departure from, attempted travel to,
+entry into or transit through their respective territories;
+
+WHEREAS, UNSCR No. 2178 (2014) further encourages Member States to employ
+evidence-based traveller risk assessment and screening procedures including collection and
+analysis of travel data, without resorting to profiling based on stereotypes founded on grounds
+of discrimination prohibited by international law;
+
+WHEREAS, UNSCR No. 2396 (2017) urges Member States to, among others, stem
+threats to international peace and security by means of effective national border controls and
+global law enforcement information sharing using a secure communications network,
+databases, and a system of advisory notices and procedures instituted through bilateral or
+multilateral mechanisms, in accordance with domestic and international law, including human
+rights law;
+
+THE PRESIDENT OF THE PHILIPPINES
+
+WHEREAS, the Bureau of Immigration (BI) is responsible for the administration and
+enforcement of immigration, citizenship and alien admission and registration laws in accordance
+with the provisions of Commonwealth Act (CA) No. 613 or the “Philippine Immigration Act of
+1940,” as amended;
+
+WHEREAS, under GCA No. 613, as amended, the master, agent, owner or consignee of
+a vessel, whether aircraft or water craft, arriving in the Philippines from a place outside thereof,
+or departing from the Philippines for a place outside thereof, shall furnish the immigration officer
+in charge at the port of arrival and port of departure, such crew lists and passenger manifests,
+and such other information concerning the persons arriving or departing on the vessel, as shall
+be prescribed by the Commissioner of Immigration;
+
+WHEREAS, Philippine border control must be enhanced through the strict and
+intensified enforcement of Philippine immigration laws and upgrading of screening capacity to
+enhance border integrity, manage international traffic flow amidst dramatic growth in passenger
+numbers, and ensure public safety and security;
+
+WHEREAS, Republic Act (RA) No. 10173 or the “Data Privacy Act of 2012," allows
+processing of personal information, subject to adherence to data privacy principles,
+implementation of security measures, and protection of rights of data subjects; and
+
+WHEREAS, Section 17, Article VII of the Constitution provides that the President shall
+have control of all executive departments, bureaus and offices, and that he shall ensure the
+faithful execution of laws;
+
+NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Philippines, by
+virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
+
+Section 1. Definitions. For purposes of this Order, the following terms shall mean:
+
+a. AP refers to an electronic communication containing passenger- or crew/non-crew-
+related information, which is transmitted to the BI prior to arrival or departure and
+made available on the primary line at the port of entry. API includes data relating to
+the: (i) flight, such as flight number, arrival and departure times; and (2) individual
+passenger or crew/non-crew, such as name, date of birth, gender, citizenship and
+travel document data that may be found in the machine readable zone of the passport
+or its equivalent;
+
+b. API System (APIS) refers to an electronic communications system that collects
+biographic data from machine readable passports, other official travel documents or
+basic details provided by commercial carriers. APIS may either be interactive or non-
+interactive/batch style and shall include other program or system authorized or
+recommended under pertinent international standards and guidelines;
+
+c. Commercial Carriers are persons, corporations, firms or associations engaged in the
+business of carrying or transporting passengers or goods, or both, by sea or air, for
+compensation, offering their services to the public. A Commercial Carrier may be a
+public/common or private carrier; and
+
+d. Passenger is a person carried on board a vessel or aircraft, excluding the master and
+members of the crew or other persons employed or engaged in any capacity on board
+such commercial vessel or aircraft.
+
+Section 2. API Requirement. The captain, master or agent, or owner of a commercial
+carrier whose vessel or aircraft is arriving in or departing from any port within the Philippine
+
+territory, shall provide the BI the API of its passengers, and those of the crew and non-crew
+members. \
+
+The API shall serve as initial security vetting of passengers, crew and non-crew members
+to effectively facilitate and expedite the arrival and departure process of legitimate travelers
+during primary inspection. This, however, shall not exempt any passenger, crew or non-crew
+
+_member from submitting to physical primary inspection at the immigration counters of the ports
+of entry or departure. . 4
+
+¥
+Section 3. API Data Elements, Format and Transmission. The API data elements,
+message format, structure and transmission method shall, to the extent allowed by relevant
+laws, conform to internationally recognized standards and practices. The BI! shall ensure that
+the data elements required are limited to the minimum necessary, and data integrity is protected.
+
+Section 4. Verification of Information. After receipt of the API, the BI shall perform
+security vetting or derogatory information verification of the passengers, crew or non-crew
+members using its database and, whenever necessary, other available law enforcement and
+non-law enforcement databases, including notices issued by the International Criminal Police
+Organization and those subject of UN Security Council sanctions and travel bans.
+
+In the event that errors are found in the API, the BI shall provide an opportunity to correct
+such errors or perform corrections after verification based on travel or other related documents.
+An individual may only seek access to the API supplied by the commercial carrier if he or she
+is the subject of the data being accessed.
+
+Section 5. Management of the API. The Bi shall implement security measures to
+protect and ensure the integrity and availability of the API, such as restricting access thereto
+and using recognized security mechanisms or other reasonable safeguards to prevent
+unauthorized access. Only personnel authorized by the Commissioner of Immigration shall have
+access to the APIS.
+
+Section 6. Single Window. The Bl is hereby designated as the sole government agency
+authorized to receive or manage the AP! and other forms of API data.
+
+Section 7. Information Sharing. Subject to existing treaties, laws, rules and
+regulations, and whenever consistent with national interest, the Bl may share information
+contained in the API in furtherance of regional or international security. The API may also be
+provided to the following law enforcement agencies, in furtherance of national security, law
+enforcement, immigration, intelligence and counter-terrorism functions, as may be required for
+public safety and order:
+
+Department of Finance — Bureau of Customs;
+Department of Transportation (DOTr) — Office for Air Transportation Security;
+DOTr — Philippine Coast Guard;
+
+Department of Health — Bureau of Quarantine;
+
+Department of Justice — National Bureau of investigation;
+
+Department of the Interior and Local Government — Philippine National Police;
+Department of National Defense;
+
+National Intelligence Coordinating Agency;
+Armed Forces of the Philippines; wy
+National Security Council; and
+Anti-Terrorism Council.
+
+Arosa mo aooD
+
+Where disclosure is authorized, the recipient agency is likewise bound to comply with
+RA No. 10173 and other relevant laws.
+
+Section 8. Sanctions. Any unauthorized disclosure, sharing, publication or use of the
+information considered as API shall be punishable in accordance with the relevant provisions of
+RA No. 10173, as-well as criminal and civil service laws, rules and regulations.
+
+The captain, master or agent, or owner of a commercial carrier shall be liable for the
+payment of appropriate administrative fines under CA No. 613 and its implementing rules and
+regulations, for failure to provide API to the BI or to include a passenger, crew or non-crew
+member in the API. Such penalty shall be imposed regardless of whether the BI eventually
+cleared the person for entry into the country, and is without prejudice to the filing of appropriate
+‘ administrative, civil and/or criminal charges pursuant to existing laws, rules and regurations.
+
+Crew or non-crew members not included in the API shall be shall be dealt with in
+accordance with immigration protocols under relevant laws, rules and regulations. Passengers
+may be similarly treated if it can be shown that they were complicit in the omission of their names
+and other data from the API.
+
+Section 9. Retention and Destruction of Data. Unless the information is classified as
+terrorism- or crime-related, data collected in the APIS shall be maintained for a period of not
+more than twelve (12) months from the date of collection. The data shall thereafter be erased,
+destroyed or disposed of in accordance with such rules and regulations as may hereinafter be
+promulgated pursuant to Section 11 hereof.
+
+Section 10. Funding. The amount necessary for the initial implementation of this Order
+shall be charged against existing appropriations of the BI. The funding requirements for
+succeeding years shall be included in the budget proposal of the BI, subject to the usual budget
+preparation process.
+
+Section 11. Implementing Rules and Regulations. The BI, in consultation with the
+National Privacy Commission and other relevant agencies, shall issue rules and regulations for
+the implementation of this Order, within sixty (60) days from its effectivity.
+
+Section 12. Repeal. All orders, rules and regulations, issuances, or any part thereof,
+inconsistent with the provisions of this Order are hereby repealed, amended or modified
+accordingly.
+
+Section 13. Separability. Should any part or provision of this Order be held
+unconstitutional or invalid, the other parts or provisions not affected thereby shall continue to be
+in full force or effect.
+
+Section 14. Effectivity. This Order shall take effect immediately upon publication in the
+Official Gazette or a newspaper of general circulation.
+
+DONE, in the City of Manila, this 15th dayof December , in the year of
+our Lord Two Thousand and Twenty.
+
+ 
+
+By the President:
+
+——— xa =
+SALVADOR C. MEDIALDEA
+Executive Secretary
+
+    
+
+| ATTY. COMCEPCEC
+
+A talis[ooy

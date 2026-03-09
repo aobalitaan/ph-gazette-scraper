@@ -1,0 +1,1843 @@
+IMPLEMENTING RULES AND REGULATIONS OF FINANCIAL
+INSTITUTIONS STRATEGIC TRANSFER (FIST) ACT
+(REPUBLIC ACT NO. 11523)
+
+RULE 1 - TITLE
+
+This shall be known as the “Implementing Rules and Regulations of the Financial Institutions
+Strategic Transfer (FIST) Act.”
+
+RULE 2— DECLARATION OF POLICY
+
+2.1. The Coronavirus Disease 2019 (COVID-19) pandemic has greatly affected nations
+worldwide, including the Philippines, and the measures adopted by the government to contain
+the outbreak have unavoidably caused serious economic setbacks and tremendous financial
+pressure on markets and industries. Because of the unpredictability of the course and outcome
+of the health crisis, it is necessary to lay down the appropriate policies not only to marshal
+available resources towards the most affected and vulnerable sectors but more importantly, to
+strengthen the financial sector so that economic recovery can be achieved faster, and with more
+lasting positive effects.
+
+2.2. The State recognizes the role of banks and other financial institutions as mobilizers of
+savings and investments and in providing the needed financial system liquidity to keep the
+economy afloat. Thus, it is essential that banks and other financial institutions are able to
+maintain their financial health in order to cushion the adverse economic impact of the COVID-
+19 pandemic.
+
+2.3. These Rules are promulgated consistent with the declared policy of the State:
+
+a) to develop and maintain a sound financial sector for the country;
+
+b) to address the non-performing asset problems of the financial sector;
+
+c) to encourage private sector investments in non-performing assets;
+
+d) to eliminate existing barriers in the acquisition of non-performing assets;
+
+e) to help in the rehabilitation of distressed businesses with the end in view of their
+becoming economic value-added contributors; and
+
+f) to improve the liquidity of the financial system which can be harnessed to propel
+economic growth and maintain financial stability.
+
+RULE 3 - DEFINITIONS
+3.1. For purposes of these Rules, the term:
+
+(a) “Act” is Republic Act No. 11523 also known as the “Financial Institutions Strategic
+Transfer (FIST) Act.”
+
+(b) “Appropriate Regulatory Authority” refers to the agency/authority having jurisdiction
+
+(©)
+
+(d)
+
+(e)
+(f)
+(g)
+
+(hy
+
+@
+G)
+
+(k)
+()
+
+over the FI’s operations, which shall be the following:
+
+(1) the DOF — in the case of GOCCs and GFIs, other than Land Bank of the
+Philippines, Development Bank of the Philippines, and other GFIs that are under
+the supervision and examination of BSP, in consultation with other agencies that
+have primary jurisdiction over the said FIs whenever deemed appropriate by the
+DOF;
+
+(2) the BSP — in the case of banks and other institutions licensed by the BSP to
+perform (i) quasi-banking functions and (ii) credit-granting activities, including
+but not limited to pawnshops, non-stock savings and loan associations, and non-
+bank credit card issuers;
+
+(3) the Monetary Board or its designated authority in the case of BSP’s sale of its
+NPAs;
+
+(4) the IC — im the case of insurance companies; and
+
+(5) the Commission - in the case of financing and lending companies, accredited
+microfinance NGOs, and investment houses, except their trust and quasi-banking
+functions, or any qualified entity not under the DOF or BSP.
+
+“Approval Certificate” means the Certificate of Permit to Sell or Offer for Sale
+Securities issued by the Commission in favor of a FISTC whose FISTC Plan has been
+approved and rendered effective, thereby authorizing the sale and distribution of TUIs
+
+“Approved Plan” means a FISTC Plan for which a Certificate of Permit to Sell or Offer
+for Sale Securities has been issued by the Commission.
+
+“BIR” is the Bureau of Internal Revenue.
+“BSP” is the Bangko Sentral ng Pilipinas.
+
+“Certificate of Eligibility” or “COE” refers to the certificate issued by the Appropriate
+Regulatory Authority as to the eligibility of the Non-Performing Loans (NPL) or Real
+and Other Properties Acquired (ROPAs) for purposes of availing the tax exemptions
+and privileges, pursuant to the provisions of the Act.
+
+“Code” is Republic Act No. 11232 also known as the “Revised Corporation Code of the
+Philippines.”
+
+“Commission” is the Securities and Exchange Commission.
+
+“Data Package” refers to the complete set of documents, as prescribed by the
+Commission under Rule 5 (j) herein, which must be prepared and made available by the
+selling Financial Institutions (FIs) in respect of the sale of Non-Performing Assets
+(NPAs) or NPLs. The Data Package should contain, among others, scans of all pertinent
+documents and the particulars of each property or loan account being sold and should
+be made electronically available to potential bidders.
+
+“DOF” is the Department of Finance.
+
+“FIA” is Republic Act No. 7042, as amended, also known as the “Foreign Investment
+Act.”
+
+(m) “FIs” means credit-granting institutions which shall be limited to the following:
+
+(1) the BSP;
+(2) a bank as defined under Republic Act No. 8791, also known as “The General
+Banking Law”;
+
+(3) a financing company-as defined under Republic Act No. 8556, also known as “The
+Financing Company Act of 1998”;
+
+(4) an investment house as defined in Presidential Decree No. 129, also known as
+“The Investment Houses Law”;
+
+(5) a lending company, as defined under Republic Act No. 9474, also known as
+“Lending Company Regulation Act of 2007”;
+
+(6) accredited microfinance nongovernment organizations (NGOs), as defined under
+Republic Act No. 10693, also known as “Microfinance NGOs Act”;
+
+(7) an insurance company as defined under Presidential Decree No. 612, also known
+as the “Insurance Code”, as amended;
+
+(8) Government financial institutions (GFIs), which for purposes of the Act, refer, but
+are not limited, to the Philippine Deposit Insurance Corporation (PDIC), Land
+Bank of the Philippines (LBP), and Development Bank of the Philippines (DBP);
+
+(9) Government-owned or -controlled corporations (GOCCs), which for purposes of
+the Act, refer, but are not limited to the National Home Mortgage Finance
+Corporation (NHMFC), Philippine Guarantee Corporation (PGC), Home
+Development Mutual Fund (HDMF), Social Security System (SSS), Government
+Service Insurance System (GSIS), Small Business Corporation (SBC), and
+National Housing Authority (NHA); and
+
+(10) Other institutions licensed by the BSP to perform (i) quasi-banking functions and
+(ii) credit-granting activities, including but not limited to, pawnshops, non-stock
+savings and loan associations, and non-bank credit card issuers.
+
+(n) “FISTC Plan” refers to the plan submitted to the Commission for its approval as pre-
+requisite to the issuance of an IUI.
+
+(0) “IC” is the Insurance Commission.
+
+(p) “Individual” shall mean a natural person who, subject to certain conditions provided
+under Republic Act No. 11523, is entitled to the tax exemptions and fee privileges under
+the Act.
+
+(q) “Investment Unit Instruments or IUIs” refer to a participation certificate, debt
+instrument or similar instrument issued by the FISTC and subscribed by Permitted
+Investors as provided in Section 11 of the Act, pursuant to an Approved Plan: Provided,
+That these shall not include the instruments to be issued by the FISTC to the selling Fls
+as full or partial settlement of the NPAs transferred to the said FISTC: Provided, further,
+That such issuances of the FISTC shall not be considered as deposit substitutes:
+Provided, finally, That these shall not form part of the capital stock of the FISTC. In
+this regard, loans, advances or other credit accommodations obtained by the FISTC from
+any FI (other than the selling FI) or from its shareholders shall not be considered an IUI
+under these Rules.
+
+(s)
+
+()
+(u)
+
+(v)
+
+(w)
+(x)
+
+(y)
+
+“NIRC” is Republic Act No. 8424, also known as the “National Internal Revenue Code
+of 1997,” as amended.
+
+“Non-Permitted Investors” refer to entities or individuals which are not included in the
+list of qualified buyers under the Section 10.1 (1) of the SRC.
+
+“Non-Performing Assets (NPAs)” refer to the NPLs and ROPAs by FIs.
+
+“Non-Performing Loans (NPLs)” refer to secured or unsecured loans, receivables, and
+other financial assets of similar nature, including restructured loans, whose principal
+and/or interest have remained unpaid for at least ninety (90) days after they have become
+past due or any of the events of default under the loan or restructuring agreement has
+occurred.
+
+“ROPAs” refer to real and other properties acquired by an FI in settlement of loans and
+receivables, including real properties, shares of stocks, and personal properties which
+have been acquired by way of dation in payment (dacion en pago) or judicial or extra-
+judicial foreclosure or execution of judgment or enforcement of security interest.
+
+“Rules” refers to the Implementing Rules and Regulations of the Act.
+
+“True Sale” refers to a sale wherein the selling FI transfers or sells its NPAs to a FISTC,
+without recourse to cash or property in exchange for the transfer or sale, and without
+prejudice to the Fl and FISTC agreeing on sharing of profits and subject to the following
+results:
+1. The transferor transfers full legal and beneficial title to and relinquishes effective
+control over the transferred NPAs; and
+2. The transferred NPAs are legally isolated and put beyond the reach of the
+transferor and its creditors:
+
+Provided, That the transferring FI shall not have direct or indirect control of the
+transferee FISTC: Provided, further, That the selling FI does not have legal or beneficial
+ownership of more than ten percent (10%) of the (a) total number of outstanding shares
+of stock entitled to vote in the election of directors; and (b) the total number of
+outstanding shares of stock, whether or not entitled to vote, of the transferee FISTC.
+
+“SRC” is Republic Act No. 8799, also known as “Securities Regulation Code.”
+
+FINANCIAL INSTITUTIONS STRATEGIC TRANSFER CORPORATION
+
+RULE 4 — FINANCIAL INSTITUTIONS STRATEGIC TRANSFER CORPORATION
+
+4.1, A FISTC is a stock corporation organized in accordance with the Code; Provided, That a
+FISTC shall not be allowed to be incorporated as a one-person corporation; Provided, further,
+That if the FISTC will acquire land, at least sixty percent (60%) of its outstanding capital stock
+shall be owned by Philippine nationals as defined under the FIA.
+
+4.2. Pursuant to Section 22 of the Code, FISTCs are hereby classified as corporations vested
+with public interest. As such, FISTCs are mandated to comply with the duties and obligations
+imposed on the Code for corporations vested with public interest including, but not limited to,
+1) presence of independent directors in the board under Section 22, 2) appointment of a
+compliance officer under Section 24, and 3) submission of compensation and performance
+reports under Section 177.
+
+RULE 5 — POWERS OF A FISTC
+
+5.1, A FISTC shall be incorporated primarily to invest in or acquire NPAs of FIs. Save as may
+be approved by the Commission and without prejudice to the powers accorded to corporations
+incorporated under the Code and such necessary or incidental powers of a FISTC, its secondary
+powers shall be the following:
+
+(a) to engage third parties to manage, operate, collect and dispose of NPAs acquired from
+an FI;
+
+(b) to rent, lease, hire, subject to security interest, mortgage, transfer, sell, exchange,
+usufruct, secure, securitize, collect rents and profits, and other similar acts conceming its
+NPAs acquired from an FI;
+
+(c) in case of NPLs, to restructure debt, condone debt and undertake other restructuring
+related activities. In restructuring debt, the FISTC may reduce the principal amount,
+interest earned, interest rates, and the period for calculating the interest, extend the time
+for debt repayment or relax the conditions for debt repayment, agree to the conversion of
+the borrower’s debt to equity in the borrower’s business, agree to a transfer of assets or
+claims from the borrower to repay the debt or dispose of some of the borrower’s property
+or claims to third persons;
+
+to buy or transfer shares issued by the borrower for the purpose of business
+
+reorganization or rehabilitation of the borrower, subject to the provisions of the Code
+
+with respect to the rights of the shareholders of the borrower company, and apply other
+measures or restructuring techniques with the approval of the Commission;
+
+to enter into dation in payment arrangements, foreclose judicially or extra-judicially and
+
+other forms of debt settlement involving NPLs;
+
+(f) to spend funds to renovate, improve, complete or alter its NPAs acquired from an FI;
+
+(g) to issue equity or participation certificates or other forms of [UIs for the purpose of
+acquiring, managing, improving, and disposing of its NPAs acquired from an FI;
+
+(h) to borrow money and issue other instruments of indebtedness for the purpose of paying
+operational and administrative costs;
+
+(i) to guarantee credit, accept or intervene for honor the bills of the borrowers;
+
+(i) to require from selling FIs a Data Package which shall contain pertinent documents and
+particulars of each property or loan account being sold, including but not limited to the
+following:
+
+1. Ledger balance as certified by the Accounting Officer or billing statement (for
+consumer/retail loans);
+
+2. Available documents that support proof of existence of
+business/employment/source of funding for loan payment;
+
+3. Available documents pertaining to the financial capacity of the borrower or
+proof of income (for salary loan);
+
+4. Last collection notice sent to the borrower;
+
+Contact details of the borrower;
+
+d
+
+oS
+
+(e)
+
+~
+
+Ym
+
+6. Certification of an authorized officer of the selling FI that prior notice to the
+borrowers of the non-performing loans and all persons known to the selling FI
+to be holding prior encumbrances upon the assets mortgaged or subject to
+security interest on the planned transfer of said assets to FISTC/individuals
+were complied with in accordance with Section 12 (Notice of Manner and
+Transfer of Assets) of the Act; Provided, That the prior notice shall contain a
+statement informing the borrower that in the event of a transfer or sale of the
+ROPA/NPL, the selling FI would have to share the borrower’s information
+relative to the asset/loan;
+
+7. Mortgage contracts and those involving easements and other encumbrances,
+
+and their corresponding annotations on their respective Transfer Certificates
+
+of Title (TCT);
+
+Latest appraisal report of the property;
+
+. Photos, description of the property, exact location, as applicable; and
+
+10. Such other documents as may be required by the regulatory agency having
+jurisdiction over the involved FI, or as may be requested by the buyer in
+relation to the transaction involving the NPA.
+
+so 90
+
+Provided, That the Appropriate Regulatory Authorities may prescribe in their
+own separate guidelines additional documents to be included in the Data Package
+for entities under their respective jurisdictions;
+
+(k) to advance funds to borrowers where required by an acquired asset or any debt
+restructuring agreement pursuant thereto, or under any court order or rehabilitation plan;
+and
+
+(1) to engage the services of a third-party asset servicing company for the collection and
+receipt of the debt payments for debts under debt restructuring or business reorganization,
+management and disposition of assets of the FISTC in accordance with the rules,
+procedures and conditions prescribed by the Commission, or by the courts. Except in the
+case of ROPAs whose redemption periods have already expired, the FISTC shall notify
+the borrower and all persons holding prior encumbrances upon the properties, or a part
+thereof, or are actually holding the same adversely against the borrower, of the
+appointment of such third-party asset servicing company within fifteen (15) days from
+the date of the appointment. For the avoidance of doubt, a third-party asset servicing
+company engaged herein should be unrelated to both the FISTC and the selling FI.
+Moreover, nothing herein shall preclude the FISTC from directly managing, operating,
+collecting, and disposing of NPAs acquired from any FI or collecting and receiving
+payments for debts under debt restructuring or business reorganization, management and
+disposition of assets of the FISTC.
+
+RULE 6 —- PERIOD FOR FILING OF APPLICATIONS
+
+6.1. Applications for the establishment and registration of a FISTC shall be filed with the
+Commission within thirty-six (36) months from the effectivity of the Act. Pursuant to Section
+15 of the Act and Rule 15 hereof, FISTCs established on the 25th to 36th month from the
+effectivity of the Act cannot avail of the tax incentives therein unless an amendatory law
+extending the privileges to said FISTCs is passed.
+
+6.2. The name of FISTCs established under the Act and this Rule shall always include the
+acronym “FISTC-AMC (Asset Management Company)” appended thereto.
+
+6.3. Entities created under Republic Act No. 9182, as amended, otherwise known as “The
+Special Purpose Vehicle (SPV) Act of 2002”, are qualified to avail of the privileges and
+incentives under the Act and Rules 5, 9, 10, 11, 12, 15, 16, 19, 21, 22 and 24; Provided, That
+such entities comply with the requirements and procedures mandated under the Act and these
+Rules; Provided, further, That existing SPVs shall apply for reconfirmation with the
+Commission by submitting the following:
+1. a notarized Secretary’s Certificate attesting to the intention of the SPV to avail of
+the incentives and privileges under the Act,
+2. latest Articles of Incorporation and By-Laws of the SPV, and
+3. latest Annual Audited Financial Statements and General Information Sheet showing
+proof of compliance with Section 7 of the Act and Rule 7 of these Rules.
+
+6.4. Existing SPVs applying for reconfirmation must also amend their corporate name to
+include the acronym “FISTC-AMC” and amend its articles of incorporation to conform with
+Section 5 of the Act and Rule 5 herein.
+
+6.5. All references to FISTCs under the Act and these Rules shall also refer to SPVs whose
+applications for reconfirmation have been approved by the Commission.
+
+RULE 7 - AUTHORIZED, SUBSCRIBED AND PAID-UP CAPITAL OF THE FISTC
+
+7.1. A FISTC shall have a minimum authorized capital stock of Five Hundred Million Pesos
+(P500,000,000.00), with a minimum subscribed capital stock of One Hundred Twenty-Five
+Million Pesos (P125,000,000.00), and a minimum paid-up capital of Thirty-One Million Two
+Hundred Fifty Thousand Pesos (P31,250,000.00). The paid-up capital stock shall be in the form
+of cash. A FISTC may issue such types or classifications of shares as are permitted under the
+Code.
+
+7.2, Where land and foreign equity participation are concerned, the FISTC shall comply with
+the provisions of the Constitution and the minimum capital requirements in accordance with
+FIA,
+
+RULE 8 —- SUBMISSION OF FISTC PLAN
+
+8.1. After the establishment of a FISTC pursuant to Rules 4 to 7 hereof, if such FISTC shall
+issue TUIs in accordance with Rule 10 hereof, a FISTC Plan shall be submitted to the
+Commission which shall include, among others, the following:
+
+(a) investment policies of the FISTC;
+
+(b) contribution plan, including amounts and draft of subscription documents;
+
+(c) features of the IUIs, including specific amounts issued and/or to be issued;
+
+(d) rights of the holders of the IUIs;
+
+(e) draft agreements for the appointment of trustees and agents with respect to the JUIs and
+the NPLs acquired from an FI;
+
+(f) Name of the external auditor of the FISTC;
+
+(g) Roles and responsibilities of the trustees, advisors, loan servicers and property
+managers, as applicable;
+
+(h) Draft form of financial reports of the FISTC;
+
+(i) Details of distribution policies;
+
+(j) Methods for the increase and decrease of future fund contribution;
+
+(k) Methods for the alteration or modification of the approved FISTC Plan;
+
+(1) Methods for the liquidation and distribution of assets to the holders of IUIs;
+
+(m) Details of credit enhancements like guarantees or standby letters of credit or advances
+that may be extended to the FISTC by an entity which shall not be the selling FI, its
+parent, subsidiaries or affiliates, as defined in Rule 11; and
+
+(n) Such other documents or information as may be required by the Commission.
+
+8.2. Only a FISTC that intends to issue IUIs is required to submit a FISTC Plan in accordance
+with these Rules. For avoidance of doubt, all FISTCs, whether issuers of IUIs or not, are
+required to comply with the reportorial requirements under Rule 22 herein.
+
+RULE 9 — APPROVAL, REJECTION, SUSPENSION, OR REVOCATION OF THE
+FISTC PLAN
+
+9.1. Approval — Within forty-five (45) days after the date of filing of a FISTC Plan, or at such
+later date to which the FISTC has consented, the Commission shall declare the FISTC Plan
+approved or rejected, unless the FISTC is allowed to amend the Plan similar to those provided
+in Section 14 of the SRC. Upon approval of the FISTC Plan, the Commission shall issue an
+Approval Certificate stating that the FISTC Plan has been rendered effective and the sale and
+distribution of [UIs covered by such Plan has been authorized.
+
+9.1.1. The Commission may impose such terms and conditions on the approval of the FIST Plan as may be necessary or appropriate for the protection of the investors.
+
+9.2. Amendments to the Approved FISTC Plan - \f a FISTC Plan becomes on its face
+incomplete or inaccurate in any material respect, upon the request of concerned parties or at its
+own determination, the Commission shall issue an order directing the amendment of the FISTC
+Plan. Upon compliance with such order, the amended FISTC Plan shall become effective upon
+approval of the Commission.
+
+9.3. Rejection, Suspension, or Revocation - The Commission may reject a submitted FISTC
+Plan if on its face it is not in compliance with the requirements of the Act or these Rules. The
+Commission may also suspend or revoke the effectivity of an approved FISTC Plan after due
+notice and hearing by issuing an order to such effect setting forth its findings in respect thereto,
+if it finds that:
+
+1. The FISTC has violated any of the provisions of the Act, these Rules, or any
+order of the Commission which the FISTC has notice of in connection with the
+offering of IUIs for which a FISTC Plan has been filed;
+
+2. The FISTC has been, or is engaged, or is about to engage in fraudulent
+transactions;
+
+3. The FISTC has made any false or misleading representation of material facts
+in any Approved Plan concerning the FISTC or its [UIs;
+
+4. The FISTC has failed to comply with any requirement that the Commission
+may impose as a condition for the issuance of [UIs for which a FISTC Plan has
+been filed;
+
+5. The FISTC Plan is, on its face, incomplete or inaccurate in any material respect,
+or includes any untrue statement of a material fact, or omits to state a material
+fact required to be stated, or one which is necessary to obviate any
+misappreciation of the statements therein; or
+
+6. The FISTC has been judicially declared insolvent.
+
+9.4. In addition to the foregoing, the Commission may also reject or suspend the FISTC Plan
+if it finds that the rejection or suspension is warranted under the provisions of Section 13 of the
+SRC.
+
+/ RULE 10 - ISSUANCE OF TUIs
+
+10.1. Requirements
+
+(i) Any existing SRC rule or provision to the contrary notwithstanding, all IUIs
+proposed to be sold or distributed within the Philippines shall be duly issued
+
+(ii) | FISTCs or SPVs issuing IUIs must submit the following documents to the
+Commission within one (1) year from the establishment of a FISTC but not later
+than three months before the 3™ year of the effectivity of the Act:
+
+(1) SEC Form 10.1-FIST downloadable from the Commission’s website
+(2) FISTC Plan containing information as stated in Rule 8 and Annex A of
+these Rules; and
+(3) Exhibits, as applicable, listed in Annex A.
+(iii) SEC Form 10.1-FIST shall be notarized and signed by the President or Chief
+Executive Officer of the FISTC.
+
+(iv) The required documents must be compiled in the order as indicated in Annex
+A.
+
+(v) Documents shall be submitted in three (3) hard copies: one (1) original copy
+and two (2) photocopies. FISTC applicants shall also submit a USB containing
+the scanned copy of the documents in searchable PDF format.
+
+10.2. Issuance of Securities to the Public Without Prior Approval of the Commission - Any
+FISTC or SPV that offers to sell or distribute its UIs to the Non-Permitted Investors
+within the Philippines shall be subject to the penalties provided under Section 54 of the
+SRC and its Implementing Rules and Regulations.
+
+10.2.1. The imposition of the foregoing administrative sanctions shall be without
+prejudice to the filing of criminal charges against the individuals responsible for the
+violation.
+
+10.3. Tax Treatment of [UIs - (UIs are not considered as deposit substitutes under the Act.
+Thus, the interest or other monetary benefit derived from IUIs is not subject to the twenty
+percent (20%) final withholding tax under Secs. 24(B)(1), 25(A)(2), 27(D)(1), and
+28(A)(7) of the NIRC.
+
+10.3.1. However, the TUIs and any income arising from the TUIs shall be subject to
+the normal income tax and/or such other applicable taxes, including but not limited
+
+to, documentary stamp tax, imposed under the NIRC and its implementing
+regulations.
+
+RULE 11 - PERMITTED INVESTORS
+
+11.1. Any qualified buyer, as defined in Section 10.1 (1) of the SRC, may acquire or hold TUIs
+ina FISTC in the minimum amount of Ten million pesos (P10,000,000.00): Provided, That a
+FISTC shall not be authorized to acquire the UIs of another FISTC: Provided, further, That
+the parent, subsidiaries, affiliates or stockholders, directors, officers or any related interest of
+the selling FI or the parent’s subsidiaries, affiliates or stockholders, directors, officers or any
+related interest shall not acquire or hold, directly or indirectly, the [UIs of the FISTC that
+acquired the NPAs of the FI. A transferor-FI cannot also acquire the IUIs of the transferee-
+FISTC.
+
+11.1.1. For purposes of this Rule, the term:
+
+1. Affiliate shall refer to an entity linked directly or indirectly, to a reporting entity
+through any one or a combination of any of the following:
+
+a. Ownership, control or power to vote, whether by permanent or temporary proxy
+or voting trust, or other similar contracts, by a company of at least ten percent
+(10%) or more of the outstanding voting stock of the reporting entity or vice-
+versa;
+
+b. Interlocking directorship or officerships, except in cases involving independent
+directors as defined under existing regulations;
+
+c. Common stockholders owning at least ten percent (10%) of the outstanding
+voting stock of the reporting entity or vice-versa;
+
+d. Management contract or any arrangement granting power to the reporting entity
+to direct or cause the direction of management and policies of the entity, or vice-
+versa.
+
+2. Control exists if and only if the investor has all of the following:
+
+(a) power to direct the relevant activities of the investee, which significantly affect the
+investee’s returns;
+
+(b) exposure, or rights, to variable returns from its involvement with the investee; and
+
+(c) the ability to use its power over the investee to affect the amount of the investor’s
+returns.
+
+3. Related interest shall refer to any of the following:
+
+(1) Spouse or relative within the first degree of consanguinity or affinity, or relative by
+legal adoption, of a director, officer or stockholder of the selling FI (or its parent);
+
+(2) Partnership of which a director, officer, or stockholder of a selling FI (or its parent)
+or his spouse or relative within the first degree of consanguinity or affinity, or relative
+by legal adoption, is a general partner;
+
+(3) Co-owner with the director, officer, stockholder or his spouse or relative within the
+
+first degree of consanguinity or affinity, or relative by legal adoption, of the property
+or interest or right mortgaged, pledged or assigned to secure the loans or other credit
+accommodations, except when the mortgage, pledge or assignment covers only said co-
+owner’s undivided interest;
+
+(4) Corporation, association or firm of which any or a group of directors, officers,
+stockholders of the selling FI and/or their spouses or relatives within the first degree of
+consanguinity or affinity, or relative by legal adoption, hold or own at least twenty
+percent (20%) of the subscribed capital of such corporation, or of the equity of such
+association or firm; Provided, an entity may still be considered a related interest under
+this Rule notwithstanding ownership of less than 20% if such entity clearly
+demonstrates control in the operating and financial policy decisions of the selling FI as
+provided in Rule 11.1.1.2. herein;
+
+(5) Corporation, association or firm wholly or majority-owned or controlled by any
+related entity or a group of related entities mentioned in 3(2) and 3(4) above;
+
+(6) Corporation, association or firm which owns or controls, directly or indirectly,
+whether singly or as part of a group of related interests at least twenty percent (20%) of
+the subscribed capital of a substantial stockholder of the selling FI (or its parent), or
+which controls majority interest of the selling FI (or its parent);
+
+(7) Corporation, association or firm which has an existing management contract or any
+similar arrangement with the parent of the selling FI (or its parent); and
+
+(8) Non-governmental organizations (NGOs)/foundations that are engaged in retail
+microfinance operations which are incorporated by any of the stockholders and/or
+directors and/or officers or related to the selling FI (or its parent),
+
+4. Subsidiary refers to an entity that is controlled by another entity.
+
+TRANSFER OF ASSETS
+RULE 12 —- NOTICE AND MANNER OF TRANSFER OF ASSETS
+
+12.1. Prior Notice - No transfer of NPLs to a FISTC or an individual shall take effect unless
+the FI concerned shall give prior notice to the borrowers of the NPLs and all persons
+actually or constructively known to the FI to be holding prior encumbrances upon the
+assets mortgaged or subject to security interest. Such notice shall be in writing and made
+address or their email address registered and on file with the FI. The borrower shall be
+given a period of at most thirty (30) calendar days upon receipt of notice from the FI to
+restructure or renegotiate the loan under such terms and conditions as may be agreed upon
+by the borrower and the FI concerned. Failure of the borrower to respond within thirty
+(30) days from receipt of notice shall be construed as a waiver of the right to restructure
+or renegotiate on the part of the borrower.
+
+12.2. Procedures on the Transfer of Assets to the FISTC - An FI that intends to transfer its
+NPAs to a FISTC shall file an application for COEs for said NPAs, in the prescribed
+
+format, with the Appropriate Regulatory Authority having jurisdiction over its operations.
+Said application shall be filed for each transfer of asset/s.
+
+12.2.1. The application by the FI for COE of its NPAs intended to be transferred to a
+FISTC or an individual shall be accompanied by a certification from the FI that:
+
+(1) _ the assets to be sold/transferred are NPAs as defined under the Act;
+
+(2) _ the proposed sale/transfer of said NPAs is a True Sale;
+
+(3) _ the notification requirement to the borrowers and all persons holding prior
+encumbrance upon the asset mortgaged or subject to security interest has been
+complied with; and
+
+(4) the maximum 30-day period for renegotiation and restructuring of NPLs has
+been complied with.
+
+12.2.2. The above certification from the FI shall be signed by a duly authorized officer of
+the FI.
+
+12.2.3. Items 3 and 4 above shall apply only to an NPL.
+
+12.2.4, Pursuant to Section 12(b) of the Act, nothing therein shall be construed to prevent
+the transfer of NPAs as authorized under other applicable laws. In this regard, the
+terms and conditions for such transfer shall be governed by the applicable law and
+its implementing rules and regulations. Moreover, while a transfer of NPA from an
+FI to a FISTC without COE is allowed, it shall not be entitled to fiscal incentives
+under the Act.
+
+12,3. Issuance of the COE - Pursuant to Rule 15.2(1), the Appropriate Regulatory Authority
+shall issue to the FI a COE within twenty (20) working days from the date of application
+with complete requirements. The COE shall contain a barcode or similar electronically
+readable markings for purposes of easy identification by the relevant agencies particularly
+in connection with the conferment of tax exemptions and fee privileges. Appropriate
+Regulatory Authorities shall coordinate with the Land Registration Authority (LRA) for
+the production of barcodes or markings. Said COE shall always be required by the BIR
+for purposes of availing the tax exemptions and other privileges under the Act. The
+Appropriate Regulatory Authority shall furnish the Commission and the BIR a duplicate
+(original) copy of the said COE subject to the conditions stated in the above paragraph,
+within five (5) working days from issuance of the COE. The Appropriate Regulatory
+Authority and the BIR shall coordinate to ensure the integrity of the COE.
+
+12.3.1. The Appropriate Regulatory Authority shall promulgate the necessary guidelines
+governing the issuance of COE; Provided, That, as stated in Rule 25 herein, only assets
+and loans which have become non-performing on or before 31 December 2022 will be
+issued a COE.
+
+12.3.2. In the case of BSP, the issuance of COE for its NPA shall be in accordance with
+its internal guidelines, subject to compliance with the requirements under the Act. BSP
+shall adopt internal safeguards to ensure independence between the BSP authority that
+will issue the COE and the operating department handling BSP’s NPAs.
+
+12.3.3. In the case of GFIs and GOCCs, DOF, for the issuance of the COE, may require a
+
+prior certification from the Commission on Audit (COA) that the assets intended to be
+transferred/sold are NPAs as defined in these Rules.
+
+12.4, Subsequent notice - Within fifteen (15) working days after the execution of the NPL’s
+sale or transfer documents, the transferring FI shall inform the borrower, in writing sent to
+at the latter’s last known address or email address, of the fact of the sale or transfer of the
+NPLs. Non-compliance with the post-notification requirement shall not invalidate the sale
+or transfer of NPLs but shall subject the erring FI to appropriate sanctions and penalties
+under the Act, these Rules, as well as other pertinent laws, rules and regulations.
+
+12.5. Subsequent transfers - The re-acquisition of the NPA by the borrower or owner from the
+FISTC, individual, or subsequent transferee other than by the exercise of the right of
+redemption as provided for in Section 20 of the Act shall be in accordance with the terms
+and conditions as may be agreed upon by them.
+
+RULE 13 —- NATURE OF TRANSFER
+
+13.1. All sales or transfers of NPAs to a FISTC shall be in the nature of a True Sale after proper
+notice in accordance with the procedure as provided for in Rule 12, without need for the
+borrower’s consent: Provided, That in the transfer of the NPLs, the provisions on the right of
+the debtor to reimburse the assignee or transferee under Article 1634 of the New Civil Code
+shall not apply: Provided, further, That disposition of assets of a GFI and a GOCC shall be
+covered by special rules to be issued by the appropriate office in the DOF: Provided, finally,
+That after the sale, the FISTC shall assume all legally transferable rights and obligations of the
+transferring FI. The banking operations of LBP, DBP, and other GFIs under the jurisdiction of
+the BSP shall be governed by the rules and regulations of the BSP.
+
+13.2. In the transfer of NPAs, FISTCs cannot use the NPAs it acquired from Fls as collateral
+for the payment for the sale/transfer of the same. Moreover, profit-sharing agreements executed
+between selling FIs and FISTCs shall be submitted for review to the Appropriate Regulatory
+Authority with a duplicate copy to be submitted to the Commission. Upon exercise of the
+profit-sharing agreement, the same shall be disclosed to the investors of the FISTC through a
+report as allowed under Rule 22 herein. Lastly, the existence of any profit-sharing agreements
+shall always be disclosed to any IUI investor through the FISTC Plan and its Exhibits under
+Annex A of these Rules.
+
+13.3. In the transfer of NPAs, the parties shall exercise the requisite due diligence and any
+fraud, collusion and irregularity shall be subject to penalties in Section 24 of the Act, as well
+as other pertinent laws, rules and regulations.
+
+13.4, The transfer by an FI of its NPAs to a FISTC or an individual shall be considered not a
+True Sale if the FI satisfies any of the enumerated below:
+
+(a) Has direct or indirect management of the transferee FISTC;
+
+(b) Has any of its directors, officers or employees on the board of the transferee FISTC;
+
+(c) Is obligated to repurchase or substitute/exchange the NPA or any part of the pool of
+NPAs at any time, except in cases of a breach of representation or warranty of the FI;
+
+(d) Is a Related Interest, as defined under Rule 11, of the transferee FISTC;
+
+(e) Has legal and beneficial ownership of more than ten percent (10%) of the (a) total
+
+number of outstanding shares of stock entitled to vote in the election of directors; and
+(b) the total number of outstanding shares of stock, whether or not entitled to vote, of
+the transferee FISTC; or
+
+(f) Accepts the transferred NPAs as the FISTC’s collateral for any unpaid balance of the
+consideration of the transfer of said NPAs.
+
+13.5. Unless otherwise determined by the Appropriate Regulatory Authority, the following
+shall be presumed not a True Sale, if the FI:
+
+(a) Is made the beneficiary of a trust used as a vehicle for purchasing and securitizing the
+NPAs; or
+
+(b) Pays further expenses in relation to the NPAs after said NPAs have been
+sold/transferred to the transferee FISTC; or
+
+(c) Extends, directly or indirectly, any credit facility, guaranty or any similar financial
+transaction to the transferee FISTC; or
+
+(d) Extends any credit facility, guaranty or any similar financial transaction to any party
+for the purpose of investing in the equity or [UIs of the FISTC, or for acquiring the
+NPAs from the FISTC; or
+
+(e) Extends any credit facility, guaranty or any similar financial transaction to any party
+for the purpose of acquiring the NPAs from the transferring FI; or
+
+(f) Acts as trustee (FI’s trust department) or if the trust department of any of the FI’s
+subsidiaries/Affiliates, Parent bank or Parent bank’s Subsidiaries/A ffiliates acting as
+trustee, under any circumstances, in the securitization of NPAs that it has transferred
+to the FISTC; or
+
+(g) Accepts as collateral for a loan extended by said Fl the equity shares and IUIs of the
+FISTC that acquired its NPAs; or
+
+(h) Enters into buy-back and other similar arrangements, or financial derivative
+transactions with similar effect, involving the NPAs or the securities backed by such
+NPAs; or
+
+(i) Enters into any other transaction where the FI retains effective control over the
+transferred NPAs or shares in the losses of the FISTC.
+
+For purposes of the foregoing, the term “any party” includes proxies, nominees and voting
+trustees.
+
+413.6. The extension of credit to an individual for the purpose of acquiring a single-family
+residential unit or an empty lot or ROPA or NPL secured by real estate mortgage on a
+residential unit or an empty lot, as contemplated under Section 15 of the Act, shall be allowed.
+If the FI pays further expenses in relation to the NPAs after said NPAs have been
+sold/transferred to an individual, the transaction shall not be considered a True Sale, unless
+otherwise determined by the Appropriate Regulatory Authority.
+
+13.7, Violation of any of the above prohibitions or any misrepresentation of any fact or
+information relative to the True Sale nature of the transfer of NPAs shall be subject to the
+penalties prescribed under Section 24 of the Act without prejudice to other penalties that may
+be imposed by the Appropriate Regulatory Authorities of the transferring FI under applicable
+laws.
+
+RULE 14 — ISSUANCE OF INJUNCTIVE RELIEF AGAINST TRANSFER OF
+ASSETS
+
+14.1. No court, other than the Court of Appeals and the Supreme Court, shall issue any
+temporary restraining order, preliminary injunction, preliminary mandatory injunction, status
+quo order, stay order, commencement order, or any other issuance of injunctive relief against
+the transfer of NPAs from the FI to a FISTC, and from a FISTC to a third party, or dation in
+payment by the borrower or by a third party in favor of an FI or in favor of a FISTC, or judicial
+or extrajudicial foreclosure sales or execution sales of the FI or FISTC of collateral in
+settlement of NPLs.
+
+14.2. Any restraining order, injunction, status quo order, stay order, commencement order, or
+any other issuance of injunctive relief issued in violation of this section is void and of no force
+and effect.
+
+14.3. The provisions of Rules of Court on injunctions insofar as these are applicable and not
+inconsistent with the provisions of the Act shall govern the issuance and dissolution of
+restraining orders, injunctions, status quo orders or stay orders against said transfers.
+
+INCENTIVES AND EXEMPTION PRIVILEGES
+
+RULE 15 - TAX EXEMPTION AND FEE PRIVILEGES
+
+15.1. Transactions Covered - Only the following transactions shall be exempt from the
+payment of taxes and be entitled to the fee privileges enumerated in Section 15, Article IV, of
+the Act:
+(1) Transfer of an NPL by an FI to a FISTC.
+(2) Transfer of a ROPA by an FI to a FISTC;
+(3) Dation in payment (dacion en pago) of an NPL by a borrower to an FI;
+(4) Dation in payment (dacion en pago) of an NPL by a third-party, on behalf of a
+borrower, to an FI;
+(5) Transfer of an NPL by an FI to an individual;
+(6) Transfer of a ROPA by an FI to an individual;
+(7) Transfer of an NPL by a FISTC to a third-party;
+(8) Transfer of a ROPA by a FISTC to a third-party;
+(9) Dation in payment (dacion en pago) of an NPL by a borrower to a FISTC or an
+individual;
+(10) Dation in payment (dacion en pago) of an NPL by a third-party, on behalf of a
+borrower, to a FISTC or an individual;
+(11) Transfer of an NPL by an individual to a third-party; and,
+(12) Transfer of a ROPA by an individual to a third-party.
+
+15.2. Provided, That the tax exemptions and fee privileges enumerated in Section 15, Article
+IV of the Act shall apply to the transactions listed in paragraph 15.1 above only if the
+following requirements are complied, viz:
+
+(1) The NPL/ROPA has been issued a COE by the Appropriate Regulatory
+Authority.
+
+(2) In the case of transactions 15.1(1), 15.1(2), 15.1(5) and 15.1(6) above, the
+transfer must be in the nature of a “true sale”, pursuant to the Act and its IRR:
+Provided, That, if the NPL/ROPA is transferred to a FISTC/individual for less
+than an adequate and full consideration in money’s worth, the amount by which
+the fair market value of the NPL/ROPA exceeded the value of the consideration
+shall not be considered as a gift under Title II], Chapter 2 of the NIRC, as
+amended.
+
+(3) In the case of transactions 15.1(1) to 15.1(6) above, the transaction must have
+occurred within a period of not more than two (2) years from the date of
+effectivity of the Act on February 18, 2021, i.e., from February 18, 2021 to
+February 18, 2023. Thereafter, the tax exemptions and fee privileges shall no
+longer apply.
+
+(4) In the case of transactions 15.1(7), 15.1(8), 15.1(11) and 15.1(12) above, the
+NPL/ROPA must have been acquired by the FISTC or Individual from an FI
+within a period of not more than two (2) years from the date of effectivity of the
+Act on February 18, 2021, i.e., from February 18, 2021 to February 18, 2023, in
+the nature of a “true sale”, pursuant to the Act and its IRR; and that the
+transactions must have occurred within the period of five (5) years from the date
+of said acquisition. Thereafter, the tax exemptions and fee privileges shall no
+longer apply.
+
+(5) In the case of transactions 15.1(9) and 15.1(10) above, the dation in payment
+must be in settlement of an NPL that has been acquired by the FISTC or
+Individual from an FI within a period of not more than two (2) years from the
+date of effectivity of the Act on February 18, 2021, i.e., from February 18, 2021
+to February 18, 2023, in the nature of a “true sale”, pursuant to the Act and its
+IRR; and that the dation in payment must have occurred within the period of five
+(S) years from the date of said acquisition.
+
+(6) In the case of transactions 15.1(2) and 15.1(6) above, all applicable taxes on the
+previous transfer of the ROPA to the FI have been duly paid when the taxes
+became due or are paid thereafter but subject to appropriate increments and
+penalties.
+
+(7) In the case of ROPAs acquired by a FISTC from GFIs or GOCCs which are
+devoted to socialized or low-cost housing, they shall not be converted to other
+uses.
+
+(8) In the case of dation in payment NPL transactions 15.1(3), 15.1(4), 15.1(9), and
+15.1(10) above, the tax exemptions provided in paragraph 15.3 hereof shall
+apply only to the extent of the value of the property tendered as payment, which
+is equivalent to the amount of the NPL being paid, inclusive of interests and
+penalties, if any: Provided, That the dation in payment must not be intended to
+circumvent the intention of the Act which is to benefit solely the borrower and
+the FI.
+
+The value of the property being transferred as payment is its fair market value as
+determined in accordance with Section 6(E) of the NIRC, whereas the
+consideration for such transfer shall be the value of the NPL including interests
+and other charges, if any, as stated in the Deed of Dacion.
+
+(9) In the case of transactions 15.1(5), 15.1(6), 15.1(11), and 15.1(12) above, the
+transaction shall be limited to either a single family residential unit ROPA or an
+empty lot ROPA, or to an NPL secured by a real estate mortgage on said
+residential unit or empty lot: Provided, however, That the tax exemptions and
+fee privileges shall apply only to one acquisition of NPA (either NPL or ROPA)
+by an individual and to the subsequent transfer of the same NPA.
+
+(10) In the case of transfer of NPL and ROPA transactions 15,1(1), 15.1(2), 15.1(5),
+15.1(6), 15.1(7), 15.1(8), 15.1(11), and 15.1(12) above, the tax exemptions and
+fee privileges shall not apply to the transfer of any property in exchange for such
+NPL/ROPA, unless the same is exempted under a pertinent provision of an
+existing law such as paragraph 15.1 of this Rule.
+
+(11) Im the case of transactions 15.1(4) and 15.1(10) above, the tax exemptions and
+fee privileges shall not extend to any transaction or agreement between the
+borrower and the third-party as a result of the latter paying the former’s NPL on
+its behalf.
+
+(12) In the case of transactions 15.1(7), 15.1(8), 15.1(11) and 15.1(12) above, if the
+NPL/ROPA involved is transferred for less than an adequate and full
+consideration in money’s worth, the amount by which the fair market value of
+the NPL/ROPA exceeded the value of the consideration shall not be considered
+as a gift under Title III, Chapter 2 of the NIRC, as amended, notwithstanding
+that the transactions are not subject to the requirement of a “true sale.”
+
+(13) In the case of transactions 15.1(5) and 15.1(6) above, the individual shall submit
+to the BIR a sworn certification that he has no other prior or pending application
+for issuance of COE with other Fls.
+
+15.3. Tax Exemption Privileges - The transactions enumerated in paragraph 15.1 above shall
+be exempt from the payment of the following taxes pursuant to Section 15, Article IV of
+the Act:
+
+(1) Documentary stamp tax (DST) on any document evidencing the transfer or dation
+in payment as may be imposed under Title VII of the NIRC,
+
+(2) Capital gains tax imposed on the transfer of lands and/or other assets treated as
+capital assets as defined under Section 39(A)(1) of the NIRC;
+
+(3) Creditable withholding income taxes imposed on the transfer of land and/or
+buildings treated as ordinary assets pursuant to Revenue Regulation No. 2-98, as
+amended, Provided, That this shall not include exemption from income tax under
+Title II of the NIRC. The transfer by an FI or by a FISTC of its NPA which is treated
+as its ordinary asset shall continue to be subject to the ordinary corporate income
+tax or minimum corporate income tax, as the case may be, under pertinent
+provisions of the NIRC.
+
+(4) Value-added tax on the transfer of NPAs as may be imposed under Title IV of the
+NIRC, or gross receipts tax under Title V thereof, whichever is applicable pursuant
+to existing revenue regulations.
+
+15.4. Manner of Claiming Tax Exemptions
+
+(1) Any person, natural or juridical, claiming any of the above tax exemptions under
+the Act, shall provide the BIR with the appropriate COE issued by the Appropriate
+Regulatory Authority, in addition to such other documentary requirements
+pursuant to the revenue regulations to be issued by the DOF, upon recommendation
+of the Commissioner of the BIR, for purposes of implementing the fiscal incentives
+under the Act.
+
+(2) The COE serves as sufficient proof of an NPL/ROPA being an NPA within the
+purview of the Act and its IRR without the need of a prior BIR
+determination/ruling.
+
+(3) No registration of any document transferring real property covered by the tax
+exemptions granted under the Act shall be effected by the Register of Deeds unless
+the Commissioner or his duly authorized representative has issued an electronic
+Certificate Authorizing Registration (eCAR), pursuant to existing revenue
+issuances, after such transfer has been reported, and that the BIR is satisfied that
+the same is qualified for tax exemptions pursuant to the revenue regulations to be
+issued to implement the fiscal incentives under the Act.
+
+15.4.1, No sale, exchange, transfer or similar transaction intended to convey ownership of,
+or title to any share of stock in a domestic corporation, covered by the tax
+exemptions granted under the Act, shall be registered in the books of the
+corporation unless the Commissioner or his duly authorized representative has
+issued an eCAR, pursuant to existing revenue issuances, after such transfer has
+been reported, and that the BIR is satisfied that the same is qualified for tax
+exemptions pursuant to the revenue regulations to be issued to implement the fiscal
+incentives under the Act.
+
+15.5. Reduction of Fees - The transactions enumerated in paragraph 15.1 above shall be
+entitled to the payment of reduced fees pursuant to Section 15, Article IV of the Act:
+
+(1) _ Fifty percent (50%) of the applicable mortgage registration and transfer fees on the
+transfer of real estate mortgage and chattel mortgage registrations to and from the
+SPV/individual, imposed in accordance with the existing circulars of the LRA;
+
+(2) Fifty percent (50%) of the filing fees for any foreclosure initiated by the SPV/
+individual in relation to any NPA acquired from an FI, as prescribed by the Rules of
+Court; and
+
+(3) Fifty percent (50%) of the land registration fees prescribed under existing circulars
+of the LRA.
+
+RULE 16 — ADDITIONAL TAX EXEMPTIONS AND FEE PRIVILEGES
+
+16.1. Pursuant to Section 16 of the Act, to encourage the infusion of capital and financial
+assistance by the FISTC for the purpose of rehabilitating the financial consumer’s business,
+the following additional tax exemptions and privileges shall be enjoyed:
+
+a)
+
+b)
+
+c)
+
+The FISTC shall be exempt from income tax on net interest income arising from new loans
+in excess of existing loans, which are extended to a borrower with NPL that has been
+acquired by the said FISTC from an FI within a period of not more than two (2) years from
+the date of effectivity of the Act on February 18, 2021, ie., from February 18, 2021 to
+February 18, 2023, and which are solely for the purpose of rehabilitating the borrower’
+business.
+
+The term “net interest income” shall mean gross interest income less allowable deduction
+attributable thereto; hence, the said allowable deductions shall no longer be allowed as a
+deduction from the FISTC’s other taxable gross income.
+
+Any document evidencing the new loans mentioned in paragraph 15.1 above shall be exempt
+from DST.
+
+Any document evidencing a FISTC’s capital infusion to the business of the borrower with
+an NPL that has been acquired by the said FISTC from an FI within a period of not more
+than two (2) years from the date of effectivity of the Act on February 18, 2021, i.e., from
+February 18, 2021 to February 18, 2023, shall be exempt from DST.
+
+Provided, That the above-mentioned tax exemptions shall apply only for a period of not
+more than five (5) years from the date of acquisition of the borrower’s NPL by the said
+FISTC.
+
+RULE 17 — NET OPERATING LOSS CARRY-OVER (NOLCO) OF
+PARTICIPATING Fis
+
+17.1, Pursuant to Section 17 of the Act, any loss that is incurred by an FI as a result of
+transferring its NPA to a FISTC within a period of not more than two (2) years from the date
+of effectivity of the Act, excluding accrued interests and penalties receivable, and which had
+not been previously offset as deduction from gross income, shall be treated as ordinary loss,
+and may be carried over as a deduction from its taxable gross income for a period of five (5)
+consecutive taxable years immediately following the year of the transfer that resulted to such
+loss.
+
+17,2, The tax savings derived by the FI from such loss carry-over shall not be made available
+for dividend declaration but shall be retained as a form of capital build-up pursuant to the
+rules to be issued by the Appropriate Regulatory Authorities.
+
+17.3. The Appropriate Regulatory Authority concerned shall promulgate the necessary rules
+and regulations governing the treatment of any loss of the FIs in the books of account as a
+result of the transfer of the NPAs.
+
+17.4. In the case of GFIs and GOCCs enumerated in Rule 3.1(m) hereof, the DOF, in
+consultation with COA, shall promulgate the necessary rules and regulations governing the
+treatment of any loss in their books of accounts as a result of the transfer of their NPAs.
+
+RULE 18 — ABUSE OF TAX EXEMPTIONS AND FEE PRIVILEGES
+
+18.1. Any person, natural or juridical, who benefits from the tax exemptions and fee privileges
+granted under the Act, when such person is not entitled thereto, shall - in addition to the
+penalties and administrative sanctions provided for in Section 24 of the Act - refund to the
+government double the amount of the tax exemptions and privileges availed of under the Act,
+plus interest of twelve percent (12%) per year from the date prescribed for its payment until
+the full payment thereof.
+
+Provided, That this is without prejudice to the applicable penalties under the NIRC and relevant
+regulations.
+
+ENFORCEMENT AND PROTECTION PROVISIONS
+RULE 19 - ENFORCEMENT AND PROTECTION PROVISIONS
+
+19.1. The FISTC shall set up an appropriate financial consumer protection mechanism in
+compliance with the guidelines in Annex B of these Rules, taking into consideration the
+provisions of existing laws, rules and regulations for the protection of financial consumers;
+Provided, however, That the rights of borrowers under existing laws shall not be impaired nor
+diminished.
+
+19.2. The financial consumer protection mechanism shall include standards of conduct on
+disclosure and transparency, conflicts of interest, protection of client information, fair
+treatment in terms of affordability and suitability of product or service, prevention of over-
+indebtedness, cooling-off period, and objectivity, effective recourse and exhaustion of all
+remedies, among others.
+
+RULE 20 —- REDEMPTION PERIODS
+20.1. The provision on redemption under Section 47 of “The General Banking Law of 2000”,
+Act No. 3135, and the Rules of Court shall govern: Provided, That in case of conflict between
+
+provisions of these laws, Section 47 of the “General Banking Law of 2000” shall prevail;
+Provided, further, That the provisions of Article 1634 of the New Civil Code, shall not apply.
+
+ACCOUNTING AND REPORTING PROVISIONS
+RULE 21 - BOOKS OF ACCOUNTS AND RECORDS
+
+21.1. Internal Record Keeping and Accounting Controls
+
+dd) A FISTC shall make and keep books, records, and accounts which, in reasonable
+detail, accurately and fairly reflect the transactions and dispositions of its assets,
+its minutes of meetings and other business transactions.
+
+(2) It shall devise and maintain a system of internal accounting controls sufficient
+to provide reasonable assurances that:
+
+(i) Transactions and access to assets are pursuant to management
+authorization;
+
+(ii) Financial statements are prepared in conformity with generally accepted
+accounting principles that are adopted by the Accounting Standards
+Council and the rules promulgated by the Commission with regard to the
+preparation of financial statements; and
+
+(iii) Recorded assets are compared with existing assets at reasonable
+intervals and differences are reconciled.
+
+21.2. External Auditor - A FISTC shall appoint an external auditor accredited by the
+Commission.
+
+21.3. Inspection of Books and Records
+
+(1) A stockholder of a FISTC or a holder of an IUI issued thereof shall have the right to
+inspect the books and records of said FISTC at reasonable hours of business days after
+due notice, and may demand, in writing, for a copy of excerpts from said records at the
+expense of the stockholder or holder of IUI.
+
+(2) Authorized representatives of the Commission, the BIR or the BSP may look into the
+books and records of the FISTC at any time.
+
+(3) Failure of a FISTC or of any other person in custody of its books and records, to
+cooperate, or his obstruction or refusal to undergo an examination, shall be a ground
+for the issuance of a suspension order on the offering of its [UIs or its operation.
+
+RULE 22 - REPORTS AND MONITORING
+
+22.1. Financial Institutions (FIs), selling NPAs, shall submit to:
+
+Commission. BSP, NEDA, DOF. BIR. Philippine Competition Commission and other
+Appropriate Regulatory Authorities
+
+e SEC Form 22ST (sale and transfer of NPA) within five (5) days from the
+close of the month reckoned from the date the instrument for the sale and
+transfer of NPA was entered into.
+
+22.2. FIST Corporation, without issuing IUIs, shall submit to the:
+(a) Commission
+e General Information Sheet (GIS) within (30) days from the date of actual
+stockholders’ meeting; and
+e Audited Financial Statements, prepared in accordance with Revised Rule 68
+of the SRC, within one hundred twenty (120) days after the end of the fiscal
+year, as indicated in the Financial Statements.
+(b) Commission. NEDA. DOF. BIR. and the Philippine Competition Commission and
+other Appropriate Regulatory Authorities
+
+e SEC Form 22ST (sale and transfer of NPA) within five (5) days from the
+close of the month reckoned from the date the definitive instrument for the
+absolute sale and transfer of NPA was entered into.
+
+22.3. FIST Corporation, with issuance of IUIs, shall submit the:
+(a) Commission
+
+e General Information Sheet (GIS) within (30) days from the date of actual
+stockholders’ meeting; and
+
+e Audited Financial Statements, prepared in accordance with Revised Rule 68
+of the SRC, within one hundred twenty (120) days after the end of the fiscal
+year, as indicated in the Financial Statements.
+
+(b) Commission. NEDA. DOF, BIR. Philippine Competition Commission and_other
+Appropriate Regulatory Authorities
+
+e SEC Form 22ST (sale and transfer of NPA) within five (5) days from the
+close of the month reckoned from the date the instrument for the sale and
+transfer of NPA was entered into.
+
+(c) Commission, and provide a copy to holders of IUIs. within two (2) days after the
+occurrence of the event being reported:
+
+e SEC Form 22MI (material information), as necessary, to make a full fair and
+accurate disclosure to holders of IUIs of every material fact or event that
+occurs, which would reasonably be expected to affect the investments of UIs
+holders.
+
+(d) BIR:
+
+e The FISTC shall, in addition to the existing requirements under the NIRC and
+its implementing regulations, for purposes of implementing the provisions of
+the Act, submit to the BIR the following:
+
+(a) List of taxable transactions;
+(b) List of tax-exempt transactions; and,
+(c) List of partly tax-exempt and partly taxable transactions.
+
+22.4. Other reports may be required by the Commission, BSP, DOF, NEDA, BIR, Philippine
+Competition Commission, and other Appropriate Regulatory Authorities, in their
+respective guidelines or issuances in addition to those required under this Rule.
+
+RULE 23 — PRIMARY IMPLEMENTING AGENCY
+
+23.1. The Commission shall be the primary implementing agency of this Act. It shall have the
+authority to enlist the assistance of any branch, department, bureau, office, agency or
+instrumentality of the government, including GOCCs and GFIs which may include the use and
+transfer of its personnel, facilities and resources.
+
+RULE 24 — PENALTIES AND ADMINISTRATIVE SANCTIONS
+
+24.1. Any person who violates any of the provisions of these Rules or the Act, or any person
+who, in a notice, certification or plan filed under these Rules, makes any untruthful statement
+of a material fact or omits to state any material fact required to be stated therein, shall, upon
+conviction, be penalized with a fine of not less than One hundred thousand pesos (P 100,000.00)
+
+nor more than Two million pesos (P2,000,000.00) or imprisonment of not less than six (6)
+years nor more than twelve (12) years, or both, at the discretion of the court, without prejudice
+to the penalties provided under Rule 18 hereof, Section 37 of Republic Act No. 7653, as
+amended, otherwise known as “The New Central Bank Act”, and other applicable laws.
+
+(a) Offender is an alien — he/she shall, in addition to the penalties herein prescribed, be
+deported without further proceedings after serving the penalties herein prescribed.
+
+(b) Offender is a public official or employee — he/she shall, in addition to the penalties
+prescribed herein, suffer absolute or temporary disqualification from government or
+public office, as the case may be.
+
+(c) Offender is _a juridical person — the Commission may impose the administrative
+sanctions stated below upon the corporation and/or its officers.
+
+24,2. Tf, after due notice and hearing, the Commission finds that:
+(a) _ there is a violation of the Act, these Rules, or its orders; or
+(b) any FISTC or other person has, in a FISTC plan or in other reports, applications,
+accounts, records or documents required by law to be filed with the Commission, made
+any untrue statement of a material fact, or omitted to state any material fact required to
+be stated therein or necessary to make the statements therein not misleading, then the
+Commission shall, in its discretion, impose any or all of the following sanctions as may
+be appropriate in light of the facts and circumstances:
+1. Suspension, or revocation of any approved FISTC plan for the offering of IUIs;
+2. Fine of no less than Ten thousand pesos (P10,000.00) nor more than One million
+pesos (P1,000,000.00) plus not more than Two thousand pesos (P2,000.00) for
+each day of continuing violation, or in such amounts as may be prescribed by the
+Commission; and
+3. Other penalties within the power of the Commission to impose.
+
+24,3. With respect to Fls, the administrative sanctions in the preceding paragraphs shall be
+enforced, without prejudice to the administrative sanctions that may be imposed by the BSP
+and the Commission as prescribed under the laws governing the Fls under their respective
+jurisdictions, and without further prejudice to the penalties as may be imposed by the courts.
+
+24.4. The Appropriate Regulatory Authorities shall promulgate the necessary guidelines
+governing implementation of penalties and administrative sanctions for entities under their
+respective jurisdictions.
+
+RULE 25 —- APPLICABILITY CLAUSE
+
+25.1. The provisions of these Rules shall be applicable to assets that have become non-
+performing on or before December 31, 2022.
+
+25.2. The NPAs shall include:
+
+(a) loans, regardless of the payment scheme, whose principal and/or interest have remained
+unpaid for at least ninety (90) days after they have become past due or any of the events
+of default under the loan agreement has occurred;
+
+(b) items in litigation which are loans classified as NPAs on or before December 31, 2022
+for which collection and foreclosure cases have been filed, and restructured loans which
+are classified as NPAs on or before December 31, 2022 under the Act; or
+
+(c) ROPA acquired by an FI on or before December 31, 2022, and those acquired as ROPA
+after 31 December 2022 in settlement of loans that became eligible NPLs on or before
+December 31, 2022.
+
+RULE 26 —- CONSCIENCE CLAUSE
+
+26.1. Nothing in the Act shall be construed to condone or exempt from any liability any person
+responsible for acts or omissions constituting unsound business practices or mismanagement.
+
+26.2. Unsound business practices as used in these Rules shall include, among others, the use
+by entities of deceptive, fraudulent, or otherwise unethical methods to gain an advantage or
+turn a profit, engaging in transactions or activities that substantially restrict, prevent or lessen
+competition, or by taking advantage of one’s position or inducing an entity to transact on
+unconscionable or grossly one-sided terms.
+
+RULE 27 —- OVERSIGHT COMMITTEE
+
+27.1. The Joint Congressional Oversight Committee (JCOC) is tasked to oversee, monitor, and
+evaluate the implementation of the Act. The JCOC shall be composed of five (5) members each
+from the House of Representatives and from the Senate. The JCOC shall be co-chaired by the
+Chairpersons of the House Committee on Banks and Financial Intermediaries and the Senate
+Committee on Banks, Financial Institutions and Currencies. The Speaker and the Senate
+President shall designate the other four (4) members of the JCOC of the House and the Senate
+from among the members of the House Committee on Banks and Financial Intermediaries and
+the Senate Committee on Banks, Financial Institutions, and Currencies, at least one (1) member
+of which shall be from the minority.
+
+RULE 28 —- USE OF FEES
+28.1. To carry out the purposes of this Act, the Commission shall retain and use all fees paid
+to it relative to the establishment of a FISTC in addition to its annual budget and to what is
+provided for under Section 75 of the SRC.
+RULE 29 - IMPLEMENTING RULES AND REGULATIONS
+29.1. In addition to these Rules, the Commission, BSP, DOF and BIR may issue separate
+
+circulars/issuances that will apply exclusively to the institutions under their respective
+Jurisdictions which shall not be inconsistent to these Rules and the Act.
+
+RULE 30 —-SEPARABILITY CLAUSE
+30.1. If any provision of these Rules is held unconstitutional or invalid, all other provisions not
+affected thereby shall remain valid.
+RULE 31 —- REPEALING CLAUSE
+31.1. Any issuances made by the Commission inconsistent with these Rules are hereby
+repealed or amended accordingly. Unaffected portions of the aforementioned SEC issuances
+will still remain in force.
+RULE 32 —- EFFECTIVITY
+32.1. These Rules shall take effect immediately upon its publication in the Official Gazette or
+in a newspaper of general circulation.
+
+APPROVED, this 26" day of March 2021.
+
+BY THE JOINT APPROVING BODY, IN ACCORDANCE WITH SECTION 29 OF
+REPUBLIC ACT NO. 11523, COMPOSED OF THE BANGKO SENTRAL NG
+PILIPINAS, BUREAU OF INTERNAL REVENUE, DEPARTMENT OF FINANCE,
+LAND REGISTRATION AUTHORITY, AND THE SECURITIES AND EXCHANGE
+COMMISSION.
+
+(Signature pages follow.)
+
+Signing for the CENTRAL BANK OF THE PHILIPPINES in accordance with Section 29 of Republic Act No. 11523:
+
+a
+BENJAMIN E. DIOKNO, Ph.D.
+BSP Governor
+
+Signing for the BUREAU OF INTERNAL REVENUE in accordance with Section 29 of
+Republic Act No. 11523:
+
+_Jmssrarhon,
+CAESAR R. DULAY
+Commissioner of Internal Revenue
+
+Signing for the DEPARTMENT OF FINANCE in accordance with Section 29 of Republic
+
+Act No. 11523:
+CARLOS G. Sowunatey @
+
+Secretary of Finance
+
+Signing for the LAND REGISTRATION AUTHORITY in accordance with Section 29 of
+Republic Act No. 11523:
+
+\
+
+Ior-~Llp
+
+RENATO D. BERMEJO
+LRA Administrato?
+
+Signing for the SECURITIES AND EXCHANGE COMMISSION in accordance with
+Section 29 of Republic Act No. 11523:
+
+Annex A
+
+REQUIREMENTS FOR THE ISSUANCE OF IUIs
+
+O SEC Form 10.1-FIST
+
+(1 FISTC Plan as stated in Rule 8 which contains the following additional information:
+
+a) Business of the FISTC/SPV
+
+b
+
+QS
+
+c)
+
+d
+
+e
+
+g,
+
+~
+
+over all
+
+a
+
+This section shall describe in detail what business the registrant does and proposes
+to do, including what products or goods are or will be produced or services that are
+or will be rendered.
+
+Risk Factors
+
+Discuss the factors that make the issuance speculative or risky (i.e. those factors
+which constitute the greatest threat that the investment in the securities will be lost
+in whole or in part, or not provide an adequate return). These factors may include,
+among other things, an absence of operating history of the registrant, no recent
+profit from operations, poor financial position, or the kind of business in which the
+registrant is engaged or proposes to engage.
+
+Legal Proceedings (if applicable)
+
+Describe briefly any material pending legal proceedings before any judicial, quasi-
+judicial, administrative or regulatory body/entity to which the registrant or any of
+its subsidiaries or affiliates is a party or of which any of their property is the subject.
+Include the name of the court or agency in which the proceedings are pending, the
+date instituted, the principal parties thereto, a description of the factual basis
+alleged to underlie the proceeding, the relief sought, and current status. Include
+similar information as to any such proceedings known to be contemplated by
+governmental authorities or any other entity.
+
+For existing SPVs: Management’s Discussion of Financial Condition and Results
+of Operation
+
+OR
+
+For newly incorporated FISTCs: Plan of Operation
+
+Describe the plan of operation for the next twelve (12) months.
+
+Directors and Officers
+List the names, ages and citizenship of all directors, including independent
+directors, and executive officers.
+
+Related Party Transactions
+
+Disclose of transactions (or series of similar transactions) with or involving the
+FISTC/SPV or any of its subsidiaries in which a director, executive officer, or
+stockholder owns ten percent (10%) or more of total outstanding shares and
+members of their immediate family had or is to have a direct or indirect material
+interest.
+
+Pool of Assets
+Provide detailed description of the assets or loan constituting the pool of assets;
+or the assets or loan intended to form part of the pool of assets. Identify the rights
+
+and obligations of the selling financial institution/s assumed by the FISTC/SPV.
+
+h) Financial Institutions’ Interest
+Description of any Related Interest with any FI as identified in Rule 11(3), and its
+Parent, Subsidiaries, Affiliates or stockholders, directors or officers including, but
+not limited to, the existence of any profit-sharing agreements.
+i) Financial consumerFinancial Consumer Protection Mechanism
+Detail the FISTC/SPV’s Financial Consumer Protection Mechanism in
+compliance with Rule 19.
+O Exhibits:
+A. Articles of Incorporation
+B. For existing SPVs: Monitoring clearance from the Company Registration and
+Monitoring Department
+OR
+For newly incorporated FISTCs: Photocopy of the Stock and Transfer Book
+C. For existing SPVs: Most recent audited financial statements
+OR
+For newly incorporated FISTCs:
+
+1. Secretary’s Certificate stating FISTCs’ authorized, subscribed, and paid-up
+capital stock, including the names of the shareholders of each class and the
+number of shares held and the percentage of total shares outstanding held
+by each; and
+
+2. Notarized Treasurer’s affidavit showing the full payment of the minimum
+paid-up capital under Rule 7
+
+D. Notice to FISTC/SPV stockholders of the proposed issuance of the IUIs and a
+summary of the terms and conditions of the issuance
+
+E, Secretary’s Certificate attesting to the approval of the board of directors and
+stockholders of the issuance of the IUI by the FISTC/SPV
+
+F. Secretary’s Certificate attesting to the FISTC/SPV’s adherence to and compliance
+
+with leading practices in corporate governance and policy on related party
+transactions
+
+Not visible
+
+Annex B
+Guidelines for the Financial Consumer Protection Mechanism
+
+Contents
+
+Section 1. Principles of Financial Consumer Protection. .....c..c.ccssececsessessssesessessesseaveseeseecneese 1
+Section 2. Financial Consumer Protection Risk Management System (FCPRMS)..........000.- 1
+Section 3. Financial Consumer Protection Oversight .........cccccscccccessssesssssessessesveaeseertenense 1
+Section 4. Disclosure, Transparency, Conflicts of Interest. ............cceccsseseesssessessesesseeseesseseess 3
+Section 5. Protection of Client Information. .......cccccccscccssesseesessesseseesssssessssscssessesesstsarssesseeees 4
+Section 6. Fair Treatment and Objectivity ........cesesscsesssssessseseesessessescsseesssvsessessesesseeseeseeeases 5
+Section 7. Cooling-Off Period... ..ccecssecsessescessneesesseessesnsesnessecsseasecsussecsetsscsessussessueesessecenesese 6
+Section 8. Effective RECOUPSC o.......ccsesesstssessestssseseesecsesecsscssesecsersessesucsesststarssessesnesnsseesesesase 7
+Section 9. Exhaustion of Remedies... ceseesecessescessssnssseeeesesaeseseessseesesessesteseeseessesesers 7
+Section 10. Violation of Guidelines for the Financial Consumer Protection .....ccsssssesseseeeee 7
+
+Section 1. Principles of Financial Consumer Protection.
+
+FISTCs must observe principles of financial consumer protection in their dealings under the
+Act, which shall include but not be limited to the following: standards of conduct on disclosure
+and transparency, conflicts of interest, protection of client information, fair treatment and
+objectivity in terms of the offer of terms and conditions for renegotiation, restructuring, and
+redemption, cooling-off period, effective recourse, and exhaustion of all remedies.
+
+The foregoing principles, among others, shall be incorporated in the FISTC’s financial
+consumer protection mechanism.
+
+Section 2. Financial Consumer Protection Risk Management System (FCPRMS)
+
+A FISTC, in connection with its powers, should have a FCPRMS that is integrated into the
+FISTC’s enterprise-wide risk management processes and risk governance framework. The
+FCPRMS includes the governance structure, policies, processes, measurement and control
+procedures to ensure that financial consumer protection risks are identified, measured,
+monitored, and mitigated. A carefully devised, implemented, and monitored FCPRMS
+provides the foundation for ensuring the FISTC’s adherence to consumer protection standards
+of conduct and compliance with financial consumer protection laws, rules and regulations,
+thereby, ensuring that identified risks to the FISTC’s and associated risk of financial harm or
+loss to financial consumers are properly managed.
+
+Section 3. Financial consumer Protection Oversight
+a. Board of Directors (Board) Responsibility to Oversee FCPRMS. The Board shall be
+
+primarily responsible for approving and overseeing the implementation of the FISTC’s
+FCPRMS. The Board's responsibilities shall include the following:
+
+Roman numeral six.
+
+vii.
+
+Approve the FCPRMS and financial consumer assistance mechanism (FCAM)
+that takes into consideration the FISTC’s business model, and relationships with
+third parties that may give rise to financial consumer protection risks;
+
+Promote a culture of ethical behavior and adherence to the highest standards of
+fair and responsible dealing with financial consumers;
+
+Ensure that adequate information and actions taken are reported on a regular
+basis in terms of the measurement of financial consumer protection related risks,
+reports from the FCAM, as well as other material financial consumer related
+developments that will impact the FISTCs;
+
+Ensure the adequate provision of resources and effective implementation of
+personnel training and competency requirements;
+
+Approve remuneration and compensation packages structured to encourage
+responsible business conduct, fair treatment and avoidance/mitigation of
+conflicts of interest;
+
+Review periodically the implementation and effectiveness of the FCPRMS
+including how findings are reported and whether the audit mechanisms are in
+place to enable adequate oversight, and put in place a regular mechanism to
+review the relevance of the FCPRMS in case of changes in the FISTCs business
+model and/or operating environment.
+
+Ensure that proper and adequate information is given to on all matters required
+by laws and regulations.
+
+The Board may designate a Compliance Officer, senior management, and/or committees
+created for the purpose who shall manage, monitor and report the FISTC’s day-to-day
+FCPRMS activities to the Board; Provided, that the Board shall not delegate its primary
+responsibility to approve and oversce the implementation of the FISTC’s FCPRMS.
+
+b. Senior Management Responsibilities. The Senior Management of the FISTC shall be
+responsible for ensuring that the practices of the FISTCs are aligned with the approved
+financial consumer protection policies and risk management system and consistently
+displayed throughout the FISTC’s place of business particularly across all business
+units that deal directly with consumers. In this regard, the Senior Management shall:
+
+i.
+
+ii,
+
+Ensure that approved FCPRMS and FCAM policies and procedures are clearly
+documented, properly understood and appropriately implemented across all
+levels and business units.
+
+Establish an effective monitoring and management information system to
+regularly measure, aggregate, and analyze financial consumer related issues to
+determine the level of financial consumer protection risk. An appropriate and
+clear reporting and escalation mechanism should also be integrated in the risk
+governance framework. The management information system should be able to:
+
+e Provide adequate information on the performance and quality of the FISTCs
+FCAM that allows for identification of emerging consumer issues and root
+cause analysis;
+
+e Determine the level of financial consumer protection risk exposure through
+assessment of its implementation of the Financial Consumer Protection
+Standards of Conduct (i.e. transparency and disclosure, protection of client
+
+vv
+
+information, fair treatment, effective recourse and financial learning and
+awareness);
+
+e Identify and monitor, in a timely manner, financial consumer protection risk
+exposures approaching risks of loss to financial consumers, legal and
+reputational risk, as well as other related risks;
+
+e Identify and assess emerging or increasing financial consumer risks that
+affect the FISTCs such as through social media monitoring and market
+monitoring;
+
+iit. Ensure that adequate systems and controls are in place to promptly identify
+issues that affect the financial consumer across all phases of the relationship;
+iv.  Ascertain that weaknesses in the financial consumer protection practices or
+financial consumer protection emerging risks are addressed and corrective
+actions are taken in a timely manner; and
+v. Ensure observance of expectations and requirements prescribed under relevant
+regulations on compliance and internal audit.
+
+Section 4. Disclosure, Transparency, Conflicts of Interest.
+
+FISTCs must take affirmative action to ensure that the financial consumers have a reasonable
+holistic understanding of the terms and conditions for the restructuring and renegotiation of the
+NPL upon which they may agree. In this context, full disclosure and utmost transparency must
+be afforded to the financial consumers to allow them to make informed financial decisions. In
+particular, FISTCs must comply with the following:
+
+a. During restructuring and renegotiations for NPLs or for redemption of properties,
+ensure that the financial consumer is timely provided with information necessary to be
+able to make an informed judgment of the terms and conditions under discussion and
+meet the full disclosure requirements specified under existing laws, rules, and
+regulations.
+
+b. Readily and consistently make available to the financial consumer a written copy of the
+proposed terms and conditions for the restructuring or renegotiation of the NPL or the
+redemption of the property. All terms and conditions must be fully disclosed and
+explained to the financial consumer before consummating the restructuring,
+renegotiation, or redemption. The written document must be complete but concise,
+easily understandable, accurate, and presented in a manner that facilitates the financial
+consumer’s comprehension, and shall contain all information required to be provided
+under existing laws, rules, and regulations.
+
+c. Advise the financial consumer to read and understand the applicable terms and
+conditions for the restructuring, renegotiation, or redemption.
+
+d. Ensure that its staff communicate with the financial consumer in such a manner that the
+financial consumer can understand the terms of the restructuring, renegotiation, or
+redemption, and their rights and obligations. Staff should communicate with techniques
+which address language and literacy limitations, in particular ensuring that the financial
+consumer is provided with materials in their primary language or dialect.
+
+Provide financial consumers adequate time to review the terms and conditions, ask
+questions, and receive additional information prior to the consummation of the
+restructuring, renegotiation, or redemption. The staff of the FISTC should be available
+to answer the financial consumer’s questions and clarifications.
+
+Ensure that staff assigned to deal directly with the financial consumers should be fully
+knowledgeable about their proposed terms and conditions, including statutory and
+regulatory requirements, and are able to explain the nuances of the restructuring,
+renegotiation, or redemption to the financial consumer.
+
+Use a variety of communication channels to disclose clear and accurate information to the financial consumer, without need for special access requirements which may entail additional expense. Communication channels should be sufficiently responsive to address the literacy limitations of the financial consumer. Said channels may be written and/or verbal as may be warranted.
+
+Update the financial consumer with relevant information, free of charge, in a clear,
+understandable, comprehensive, and transparent manner, throughout the entire
+restructuring, renegotiation, and redemption process.
+
+Provide the financial consumer with written proof of the transaction immediately after
+the restructuring, renegotiation, or redemption has been completed. The financial
+consumer should be given a hard copy of each of the documents signed by the financial
+consumer with all the terms and conditions of the restructuring, renegotiation, or
+redemption contained therein. The FISTC must ensure that the documents signed by
+the financial consumer are completely filled and that there are no blank terms.
+
+Inform the financial consumer of their rights and responsibilities, including their right
+to complain, and the manner of making a complaint.
+
+Disclose properly to the financial consumer prior to the initiation of the restructuring,
+renegotiation, or redemption that the FISTC or its staff has an interest in the transaction
+or shall receive remunerations or other incentives on the basis of the transaction.
+
+Ensure that adequate systems and controls are in place to promptly identify issues and
+matters which may be detrimental to the financial consumer’s interests.
+
+Section 5. Protection of Client Information.
+
+The financial consumer shall have the right to expect that their financial transactions, as well
+as their relevant personal information disclosed in connection with the transaction, are kept
+confidential by the FISTC. The FISTC, its personnel, and the third parties it has authorized to
+process personal information must comply with the Data Privacy Act of 2012, its implementing
+rules and regulations, and relevant National Privacy Commission (NPC) issuances.
+
+For purposes of collection, FISTC shall keep strictly confidential data on the financial
+consumer, except under the following circumstances:
+
+a. Disclosure of information with the written or recorded consent of the financial
+
+consumer;
+
+b. Release, submission or exchange of customer information with other financial
+institutions, credit information bureaus, lenders (potential or actual), their agents and/or
+representatives, except where such exchange is overridden by fundamental rights and
+freedoms of the data subject which require protection under the Philippine Constitution;
+
+c. Upon orders of a court of competent jurisdiction or any government office or agency
+authorized by law;
+
+d. Disclosure to collection agencies, counsels and other agents of the FISTCs to enforce
+the latter’s rights against the financial consumer;
+
+e. Disclosure to third party service providers solely for the purpose of assisting or
+tendering services to the FISTC in the administration of its lending or financing
+operations;
+
+f. Disclosure to third party such as insurance companies, solely for the purpose of insuring
+the FISTCs from financial consumer default or other credit loss, and the financial
+consumer from fraud or unauthorized charges;' and
+
+g. Other instances where disclosure is mandated by law, rules, or regulations.
+
+In case of disclosure under (d) — (f) as listed above, the FISTC shall ensure that the third parties
+shall protect the financial consumer’s confidential and other proprietary information. The
+FISTC shall notify the financial consumer of the disclosure, including the steps undertaken to
+ensure the confidentiality of their information.
+
+Section 6. Fair Treatment and Objectivity
+
+The FISTC shall ensure that financial consumers are treated fairly, honestly, professionally,
+and are not offered discriminatory, inappropriate, or harmful terms and conditions in the course
+of restructuring, renegotiation, and redemption. FISTCs should ensure that they have the
+necessary resources and procedures in place, internal monitoring, and control mechanisms for
+safeguarding the interests of financial consumers. These include the institution of general
+policies addressing ethical staff behavior and the development of standard restructuring,
+renegotiating, and redemption policies and procedures.
+
+The FISTC shall:
+
+a. Comply with existing laws, rules, and regulations which prohibit unfair treatment
+against financial consumers, including prohibitions against unfair debt collection
+practices.
+
+b. Gather, file, and record sufficient information from the financial consumer to enable
+the FISTC to offer appropriate terms and conditions to the financial consumer and
+ensure that the financial consumer certifies in writing the accuracy of the information
+provided.
+
+c. Offer terms and conditions that are appropriate to the varying needs, interests and
+circumstances of different types of financial consumers, particularly the more
+vulnerable financial consumers. Similarly situated financial consumers should be
+offered similar terms and conditions.
+
+d. Not engage in abusive, unscrupulous, or deceptive acts or practices.
+
+1Sec, 2: Confidentiality of information — SEC MC 18. §.2019
+
+e. Present a balanced view when proposing terms and conditions for renegotiating or
+restructuring NPLs or redemption of properties and draw the financial consumer’s
+attention to the consequences of agreeing to the terms and conditions of the
+restructuring, renegotiating, or redemption, which may affect his financial position
+and/or collateral.
+
+f. Ensure that the terms and conditions proposed are clearly justified and explained to the
+financial consumer and properly documented.
+
+g. Institute policy guarantees that financial consumers receive a fair price for any
+foreclosed assets and enforce procedures to ensure that seizure of collateral is respectful
+of financial consumers rights.
+
+h. Ensure that recruitment and training policies are aligned around fair, responsible, and
+objective treatment of financial consumers. The FISTC shall ensure that staff shall sign
+a document acknowledging that they will abide by the policies and procedures of the
+financial consumer protection mechanism and not engage in behaviors prohibited
+thereunder. The FISTC shall ensure adherence to the financial consumer protection
+mechanism by implementing measures to determine whether the principles of financial
+consumer protection are observed, any financial consumer concerns are appropriately
+addressed, and problems are resolved in a timely manner.
+
+i. Ensure that managers and supervisors review ethical behavior, professional conduct,
+and quality of interaction with financial consumers as part of staff performance
+valuations.
+
+Jj. Have a system of internal processes in place to detect and respond to financial consumer
+mistreatment as well as serious infractions, and impose sanctions therefor.
+
+k. Inform staff of penalties for non-compliance with the financial consumer protection
+mechanism.
+
+|. Perform appropriate due diligence before engaging third party asset servicing
+companies, such as taking into account their integrity, professionalism, financial
+soundness, operational capability and capacity, and compatibility with the FISTC’s
+corporate culture, and implement controls to monitor the third party asset servicing
+company’s performance on a continuous basis. The FISTC shall retain ultimate
+accountability for all outsourced activities performed by the third party asset servicing
+company.
+
+Section 7. Cooling-Off Period
+
+The FISTC shall provide the financial consumer with a “cooling-off” period of a reasonable
+number of days, which shall not be less than two (2) banking days, immediately following the
+signing of any agreement or contract for the restructuring or renegotiating of NPLs or
+redemption of properties. The length of the cooling-off period shall depend on a number of
+factors, including but not limited to the face value of the subject NPL or property, the term of
+the NPL, and amount of previous payments made.
+
+A financial consumer may cancel the agreement without penalty of any kind on his written
+notice to the FISTC of such cancellation during the cooling-off period. However, the FISTC
+may collect or recover a reasonable amount of processing fees in the event of such cancellation,
+and any further discussion of renegotiation or restructuring after cancellation shall require the
+consent of both the FISTC and the financial consumer.
+
+The FISTC must give written notice to the financial consumer of their right to cancel the
+agreement within the cooling-off period upon the signing of the agreement.
+
+Section 8. Effective Recourse
+Financial consumers should be provided with accessible, affordable, independent, fair,
+accountable, timely, and efficient means for resolving complaints in relation to restructuring
+and renegotiating NPLs or redeeming properties. FISTCs should have in place mechanisms for
+complaint handling and redress, Among others, FISTCs shall:
+a. Develop internal policies and practices, including standard times for processing,
+complaint response, and financial consumer access to information and staff.
+b. Maintain and up-to-date log and records of all complaints from borrows subject to the
+complaints procedure, which shall contain the following at a minimum:
+
+i. Details of each complaint;
+
+ii. Date the complaint was received;
+
+iii. Summary of the FISTC’s response;
+
+iv. Details of any other relevant correspondence or records;
+v. Action taken to resolve each complaint; and
+
+vi. Date the complaint was resolved.
+
+c. Ensure that information on how to make a complaint is clearly visible on the FISTC’s
+premises and website.
+
+d. Undertake analysis of patterns of complaints from financial consumers on a regular
+basis, if any, including investigating whether complaints indicate an isolated issue or a
+more widespread issue for financial consumers. The analysis of financial consumer
+complaints must be escalated to senior management.
+
+e. Provide for adequate resources to handle financial consumer complaints efficiently and
+effectively. Staff handling complaints must have appropriate experience, knowledge
+and expertise.
+
+Section 9. Exhaustion of Remedies
+
+In case of dispute between the FISTC and the financial consumer, the FISTC and the financial
+consumer shall exhaust all administrative remedies available before recourse to judicial action
+shall be permissible.
+
+Section 10. Violation of Guidelines for the Financial Consumer Protection Mechanism
+
+Any violation of the provisions of these Guidelines shall be subject to the appropriate penalties
+under Section 24 of the Act as determined by the Commission, without prejudice to the
+imposition of other sanctions prescribed under other applicable laws, rules, and regulations.
