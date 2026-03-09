@@ -329,14 +329,22 @@ class MasterlistScraper:
     def _build_document_list(
         self, entries: list[MasterlistEntry]
     ) -> list[MasterlistDocument]:
-        """Build document list, merging with existing manifest for resumability."""
+        """Build document list, merging with existing manifest for resumability.
+
+        Preserves all existing manifest documents (including those from categories
+        not in the current filter) so that running with --categories doesn't
+        discard data from other categories.
+        """
         existing: dict[str, MasterlistDocument] = {}
         if not self.force:
             for doc in self.storage.load_manifest():
                 existing[doc.doc_id] = doc
 
+        # Start with documents from the current entry set
+        entry_doc_ids: set[str] = set()
         documents: list[MasterlistDocument] = []
         for entry in entries:
+            entry_doc_ids.add(entry.doc_id)
             if (
                 entry.doc_id in existing
                 and existing[entry.doc_id].scrape_status == ScrapeStatus.SUCCESS
@@ -344,6 +352,13 @@ class MasterlistScraper:
                 documents.append(existing[entry.doc_id])
             else:
                 documents.append(MasterlistDocument.from_entry(entry))
+
+        # Preserve existing documents not covered by the current entries
+        # (e.g. from categories not in --categories filter)
+        for doc_id, doc in existing.items():
+            if doc_id not in entry_doc_ids:
+                documents.append(doc)
+
         return documents
 
     async def _scrape_one(

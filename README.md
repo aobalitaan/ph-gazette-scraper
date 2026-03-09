@@ -209,8 +209,20 @@ This repository includes the complete scraped dataset as of February 2026:
 |-----------|-----------|-------|
 | SONAs | 87 | All speeches from 1935–2025, full text |
 | Masterlist | 34,015 | All categories across 15 presidents |
+| Translated | 38,175 | All documents after translation (2,108 had Filipino/Taglish content translated to English) |
 
 Of the 34,015 masterlist documents, 138 are PDF-only (no inline HTML text). The rest have full extracted text from their gazette pages.
+
+### Translated Documents (`data/documents-translated/`)
+
+The `documents-translated/` directory contains the post-translation text for every document. For documents that were originally in English (the majority), these files are identical to the raw text. For the 2,108 documents containing Filipino or Taglish (mixed Filipino-English) content, the Filipino portions were translated to English via OpenRouter (google/gemma-3-27b-it) with paragraph-level language detection.
+
+```
+documents-translated/
+  {category-slug}/{president-slug}/{doc_id}.txt
+```
+
+Translation hallucinations (69 documents where the LLM returned "Please provide the text..." instead of a translation) were identified and fixed — hallucinated paragraphs with recoverable Filipino source text were retranslated, while those caused by OCR garbage inputs were stripped.
 
 If you want to re-scrape from scratch, use `--force`. Otherwise the scraper will skip already-scraped documents.
 

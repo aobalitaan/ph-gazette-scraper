@@ -19,6 +19,8 @@ import fitz  # pymupdf
 import pytesseract
 from PIL import Image
 
+from backend.pipeline.preprocessing.boilerplate import strip_garbage_lines
+
 logger = logging.getLogger(__name__)
 
 # Quality gate thresholds
@@ -123,11 +125,55 @@ def extract_text_from_pdf(pdf_bytes: bytes) -> str:
         doc.close()
 
 
+# Minimum average Tesseract confidence to accept OCR without trying rotation.
+# Correctly-oriented text typically scores >90; rotated text scores ~40-60.
+_MIN_OCR_CONFIDENCE = 70
+
+
+def _avg_confidence(img: Image.Image) -> float:
+    """Get Tesseract's average per-word confidence for an image."""
+    data = pytesseract.image_to_data(img, output_type=pytesseract.Output.DICT)
+    confs = [int(c) for c in data["conf"] if int(c) > 0]
+    return sum(confs) / len(confs) if confs else 0.0
+
+
+def _ocr_image(img: Image.Image) -> str:
+    """OCR a single image, trying 180° rotation if confidence is low.
+
+    Some scanned PDFs have pages rotated 180° without metadata indicating it.
+    Tesseract produces garbled text (~49% confidence) for upside-down pages
+    vs ~95% for correctly oriented text. We use this confidence gap to detect
+    and correct rotation.
+    """
+    text = pytesseract.image_to_string(img)
+    if not text.strip():
+        return text
+
+    conf = _avg_confidence(img)
+    if conf >= _MIN_OCR_CONFIDENCE:
+        return text
+
+    # Low confidence — try 180° rotation
+    rotated = img.rotate(180, expand=True)
+    rotated_text = pytesseract.image_to_string(rotated)
+    rotated_conf = _avg_confidence(rotated)
+
+    if rotated_conf > conf:
+        logger.info(
+            "Page OCR improved with 180° rotation (%.0f%% → %.0f%%)",
+            conf, rotated_conf,
+        )
+        return rotated_text
+
+    return text
+
+
 def ocr_pdf(pdf_bytes: bytes) -> str:
     """Render PDF pages to images and OCR with Tesseract.
 
     Uses pymupdf to render each page at OCR_DPI, then feeds the image
-    to pytesseract for text recognition.
+    to pytesseract for text recognition. Automatically detects and corrects
+    180° rotated pages.
     """
     doc = fitz.open(stream=pdf_bytes, filetype="pdf")
     try:
@@ -136,7 +182,7 @@ def ocr_pdf(pdf_bytes: bytes) -> str:
         for page in doc:
             pix = page.get_pixmap(matrix=mat)
             img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
-            text = pytesseract.image_to_string(img)
+            text = _ocr_image(img)
             if text.strip():
                 pages.append(text)
         return "\n".join(pages)
@@ -157,6 +203,9 @@ def extract_pdf_text(pdf_bytes: bytes) -> ExtractionResult:
     except Exception as e:
         logger.warning("pymupdf text extraction failed: %s", e)
         text = ""
+
+    if text.strip():
+        text = strip_garbage_lines(text)
 
     if text.strip():
         qr = check_quality(text)
@@ -188,6 +237,9 @@ def extract_pdf_text(pdf_bytes: bytes) -> ExtractionResult:
             method="failed",
             error=f"no text layer, OCR failed ({e})",
         )
+
+    if ocr_text.strip():
+        ocr_text = strip_garbage_lines(ocr_text)
 
     if ocr_text.strip():
         qr = check_quality(ocr_text)

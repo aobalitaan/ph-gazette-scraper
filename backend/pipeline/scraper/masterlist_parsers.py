@@ -3,10 +3,12 @@
 No I/O — these operate on HTML strings only.
 """
 
+import html as html_mod
 import re
 
 from bs4 import BeautifulSoup, Tag
 
+from backend.pipeline.preprocessing.boilerplate import _classify_garbage
 from backend.pipeline.scraper.models import MasterlistEntry
 from backend.pipeline.scraper.parsers import parse_gazette_date
 
@@ -126,7 +128,7 @@ _BOILERPLATE_PATTERNS = frozenset({
 
 
 def _extract_paragraphs(content: Tag) -> list[str]:
-    """Extract meaningful paragraphs, stripping boilerplate header lines."""
+    """Extract meaningful paragraphs, stripping boilerplate and garbage lines."""
     paragraphs = []
     for p in content.find_all("p", recursive=True):
         text = p.get_text(separator=" ", strip=True)
@@ -134,7 +136,9 @@ def _extract_paragraphs(content: Tag) -> list[str]:
             continue
         if text.lower() in _BOILERPLATE_PATTERNS:
             continue
-        paragraphs.append(text)
+        if _classify_garbage(text):
+            continue
+        paragraphs.append(html_mod.unescape(text))
     return paragraphs
 
 
